@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1920"
+   height="1080"
+   version="1.1"
+   viewBox="0 0 508 285.75"
+   id="svg83"
+   sodipodi:docname="template.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview85"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.48777273"
+     inkscape:cx="669.36911"
+     inkscape:cy="731.89823"
+     inkscape:window-width="2560"
+     inkscape:window-height="1347"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg83" />
+  <defs
+     id="defs53">
+    <rect
+       x="78.675061"
+       y="313.14112"
+       width="695.33578"
+       height="562.88008"
+       id="rect16940" />
+    <linearGradient
+       id="linearGradient37133"
+       x1="3.5171"
+       x2="55.475"
+       y1="5.2348"
+       y2="89.284"
+       gradientTransform="scale(.99999)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#f4d36d"
+         offset="0"
+         id="stop2" />
+      <stop
+         stop-color="#fffec0"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <radialGradient
+       id="radialGradient28148"
+       cx="22.656"
+       cy="27.999"
+       r="33.245"
+       gradientTransform="matrix(3.3539 2.5975 -.78168 1.0093 -31.445 -59.111)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#f9e9b5"
+         offset="0"
+         id="stop7" />
+      <stop
+         stop-color="#ecba1e"
+         offset=".56552"
+         id="stop9" />
+      <stop
+         stop-color="#f8e8b8"
+         offset="1"
+         id="stop11" />
+    </radialGradient>
+    <filter
+       id="filter3430-7"
+       x="-0.021855933"
+       y="-0.021855933"
+       width="1.0528185"
+       height="1.0528185"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-color="rgb(0,0,0)"
+         flood-opacity=".2991"
+         result="flood"
+         id="feFlood14" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite16" />
+      <feGaussianBlur
+         in="composite1"
+         result="blur"
+         stdDeviation="0.3"
+         id="feGaussianBlur18" />
+      <feOffset
+         dx="0.3"
+         dy="0.3"
+         result="offset"
+         id="feOffset20" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="fbSourceGraphic"
+         id="feComposite22" />
+      <feColorMatrix
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix24" />
+      <feFlood
+         flood-color="rgb(0,0,0)"
+         flood-opacity=".12941"
+         in="fbSourceGraphic"
+         result="flood"
+         id="feFlood26" />
+      <feComposite
+         in="flood"
+         in2="fbSourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite28" />
+      <feGaussianBlur
+         in="composite1"
+         result="blur"
+         stdDeviation="0.3"
+         id="feGaussianBlur30" />
+      <feOffset
+         dx="0.3"
+         dy="0.3"
+         result="offset"
+         id="feOffset32" />
+      <feComposite
+         in="offset"
+         in2="fbSourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite34" />
+    </filter>
+    <radialGradient
+       id="radialGradient28792"
+       cx="75.158"
+       cy="63.82"
+       r="15.714"
+       gradientTransform="matrix(-.75083 .2911 -2.476 -6.3864 254.57 417.49)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#fee28b"
+         offset="0"
+         id="stop37" />
+      <stop
+         stop-color="#fffedd"
+         offset="1"
+         id="stop39" />
+    </radialGradient>
+    <filter
+       id="filter26088-3"
+       x="-0.040420644"
+       y="-0.023781637"
+       width="1.0976832"
+       height="1.0574723"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-color="rgb(0,0,0)"
+         flood-opacity=".75948"
+         result="flood"
+         id="feFlood42" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite44" />
+      <feGaussianBlur
+         in="composite1"
+         result="blur"
+         stdDeviation="0.5"
+         id="feGaussianBlur46" />
+      <feOffset
+         dx="0.5"
+         dy="0.5"
+         result="offset"
+         id="feOffset48" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         result="composite2"
+         id="feComposite50" />
+    </filter>
+  </defs>
+  <rect
+     x="1.4211e-14"
+     y="7.1054e-15"
+     width="508"
+     height="285.75"
+     fill="#105a37"
+     stop-color="#000000"
+     stroke-linejoin="bevel"
+     stroke-opacity=".5"
+     stroke-width=".26458"
+     id="rect55" />
+  <rect
+     x="1.4211e-14"
+     y="63.268"
+     width="508"
+     height="222.48"
+     fill="#2a4036"
+     stop-color="#000000"
+     stroke-linejoin="bevel"
+     stroke-opacity=".5"
+     stroke-width=".23346"
+     id="rect57" />
+  <g
+     transform="matrix(.35278 0 0 .35278 15.875 18.786)"
+     id="g67">
+    <circle
+       cx="37.5"
+       cy="37.5"
+       r="37.5"
+       fill="url(#linearGradient37133)"
+       stop-color="#000000"
+       stroke-opacity=".5"
+       stroke-width=".68894"
+       id="circle59" />
+    <circle
+       cx="37.5"
+       cy="37.5"
+       r="32.943"
+       fill="url(#radialGradient28148)"
+       filter="url(#filter3430-7)"
+       stop-color="#000000"
+       stroke-opacity=".5"
+       stroke-width=".60521"
+       id="circle61" />
+    <circle
+       cx="37.5"
+       cy="37.5"
+       r="36.096"
+       fill="none"
+       opacity=".3706"
+       stop-color="#000000"
+       stroke="#e8ad25"
+       stroke-dasharray="2.0602, 2.0602"
+       stroke-linejoin="bevel"
+       stroke-width="2.0602"
+       id="circle63" />
+    <path
+       d="m34.88 12.271v10.486h-12.224v5.2425h12.224v3.8195c-5.7819 1.8146-8.314 4.2791-8.2189 8.2467 0.12722 5.2921 3.9775 6.7152 8.2189 7.5549v5.9682c-2.0631-0.66176-2.6887-2.3095-3.1206-4.016h-5.5116c0.59237 5.4333 3.912 8.1897 8.7806 9.6055v3.5514h5.1369v-3.5186c5.6069-1.1644 8.9378-4.4554 8.9649-8.7652 0.02699-4.2456-2.1841-6.1673-8.8961-7.7034v-5.4113c1.8998 0.33949 2.5232 1.7315 2.973 3.2868h5.4022c-0.35804-5.3939-3.6937-7.778-8.4895-8.8281v-3.7908h12.224v-5.2425h-12.224v-10.486zm0 25.101v4.5447c-1.6017-0.05071-2.4731-0.69146-2.5942-1.8562-0.13852-1.341 0.73758-2.2892 2.5942-2.6885zm5.3515 11.04c2.1928 0.1169 3.5041 1.0103 3.6032 2.3956 0.10364 1.443-1.3146 2.5937-3.6032 2.8872z"
+       fill="url(#radialGradient28792)"
+       filter="url(#filter26088-3)"
+       stroke-width=".10612"
+       style="paint-order:normal"
+       id="path65" />
+  </g>
+  <g
+     transform="translate(4.4994 2.6458)"
+     fill="#ffffff"
+     font-family="Roboto"
+     font-size="17.639px"
+     font-weight="bold"
+     stroke="#000000"
+     stroke-linejoin="bevel"
+     stroke-opacity=".5"
+     stroke-width=".26458"
+     text-anchor="middle"
+     id="g77">
+    <text
+       x="94.265961"
+       y="25.367624"
+       stop-color="#000000"
+       text-align="center"
+       style="line-height:0px;text-decoration-color:#000000;white-space:pre"
+       xml:space="preserve"
+       id="text71"><tspan
+         x="94.265961"
+         y="25.367624"
+         fill="#ffffff"
+         font-family="'Crimson Pro'"
+         font-size="17.639px"
+         font-weight="bold"
+         stroke="none"
+         stroke-width=".26458"
+         id="tspan69">Selling Jesus</tspan></text>
+    <text
+       x="74.000175"
+       y="45.593437"
+       stop-color="#000000"
+       text-align="center"
+       style="line-height:0px;text-decoration-color:#000000;white-space:pre"
+       xml:space="preserve"
+       id="text75"><tspan
+         x="74.000175"
+         y="45.593437"
+         fill="#ffffff"
+         font-family="'Crimson Pro'"
+         font-size="17.639px"
+         font-style="italic"
+         font-weight="500"
+         stroke="none"
+         stroke-width=".26458"
+         id="tspan73">Podcast</tspan></text>
+  </g>
+  <image
+     width="285.75"
+     height="285.75"
+     preserveAspectRatio="none"
+     xlink:href="image.jpg"
+     id="image990"
+     x="222.25"
+     y="-1.0658141e-14" />
+  <text
+     xml:space="preserve"
+     transform="matrix(0.26458333,0,0,0.26458333,-0.35587847,7.4083308)"
+     id="text16938"
+     style="font-weight:500;font-size:66.6667px;line-height:1.2;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro Medium';text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect16940);fill:#ffffff;stroke-linejoin:bevel;stroke-opacity:0.5;stop-color:#000000"><tspan
+       x="78.675781"
+       y="373.58588"
+       id="tspan51657">EPISODE_TEXT</tspan></text>
+</svg>

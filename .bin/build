@@ -1,0 +1,20 @@
+#!/bin/bash
+set -e
+set -a
+[ -f .env ] && . .env
+set +a
+cd "$(dirname "$(dirname "$0")")"
+
+# Auto-detect missing episodes
+.bin/update_podcast
+.bin/update_videos doc
+.bin/update_videos humor
+.bin/update_videos reactions
+
+# Convert raw data to useable formats
+.bin/process_resources
+.bin/process_conversations conversations
+.bin/process_conversations corinthians
+
+# Build actual site
+node_modules/.bin/vitepress build

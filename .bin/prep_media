@@ -1,0 +1,6 @@
+#!/bin/bash
+# Prepare media before a build
+set -e
+cd "$(dirname "$(dirname "$0")")"
+
+node .bin/prep_media.mjs

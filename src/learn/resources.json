@@ -1,0 +1,208 @@
+{
+  "categories": [
+    {
+      "category": "Theology",
+      "resources": [
+        {
+          "title": "The Dorean Principle",
+          "paywall": false,
+          "authors": "Conley Owens",
+          "file": "https://thedoreanprinciple.org/",
+          "image": "/media/resources/cover.jpg",
+          "description": "Many rightly condemn the wealth amassed by false teachers, but at a fundamental level, little differentiates their practices from those of legitimate ministries. Seminaries, Christian publishers, and oth­er church and para­church organizations all engage in the commerce of exchanging religious instruction for money. Now, more than ever, the church must turn to the word of God to find wisdom on these matters.\n\nThe Dorean Principle offers a fresh look at the Bible’s guidance on ministry fundraising and exposes common practices that run afoul of its instruction. Conley Owens presents a robust synthesis of Jesus and the apostle Paul’s theology, concluding that “ministry should be supported, not sold.” Drawing from his experience as both a pastor and an engineer, he provides practical solutions to the challenges that lie at the intersection of money and ministry."
+        },
+        {
+          "title": "Let's copy, Church",
+          "paywall": false,
+          "authors": "Gracious Tech",
+          "description": "A website dedicated to educating people about the problem of commercializing Christianity, the way copyright hinders the gospel, and shows alternative models for releasing resources in a way that honors God and accords with Scripture.",
+          "image": "/media/resources/copy-church.svg",
+          "file": "https://copy.church/"
+        },
+        {
+          "file": "https://www.amazon.com/Money-Possessions-Eternity-Randy-Alcorn/dp/0842353607",
+          "title": "Money, Possessions, and Eternity",
+          "paywall": true,
+          "authors": "Randy Alcorn",
+          "description": "Randy Alcorn presents a biblical and comprehensive view of money and possessions, including the following:\nWhy is money so important to God?\nHow can we be liberated from materialism?\nWhat should we do about debt?\nHow much does God want us to give?\nWhat about gambling? Investing? Insurance? Saving? Retirement? Inheritance?\nWho wants to settle for fleeting treasures on earth . . . when God offers everlasting treasures in heaven? It’s time to rethink our perspectives on money and possessions. In this thoroughly researched classic, Randy Alcorn shows us how to view these things accurately―as God’s provision for our good, the good of others, and his glory.",
+          "image": "/media/resources/money-randy.jpg"
+        },
+        {
+          "title": "Neither Poverty nor Riches: A Biblical Theology of Possessions",
+          "paywall": true,
+          "authors": "Craig L. Blomberg",
+          "description": "\"Give me neither poverty nor riches, but give me only my daily bread\" (Proverbs 30:8). One of the most difficult questions facing Christians today is that of the proper attitude toward possessions. In wealthy nations such as Britain and the USA, individuals accumulate much and yet are daily exposed to the plight of the poor, whether the homeless on their own city streets or starving children on their TV screens. What action should we take on behalf of the poor? What should we do with our own possessions? In this New Studies in Biblical Theology volume, Craig Blomberg asks what the Bible has to say about these issues. Avoiding easy answers, he instead seeks a comprehensive biblical theology of possessions. And so he begins with the groundwork laid by the Old Testament and the ideas developed in the intertestamental period, then draws out what the whole New Testament has to say on the subject, and finally offers conclusions and applications relevant to our contemporary world. Neither Poverty Nor Riches is one book that all should read who are concerned with issues of poverty and wealth. Addressing key issues in biblical theology, the works comprising New Studies in Biblical Theology are creative attempts to help Christians better understand their Bibles. The NSBT series is edited by D. A. Carson, aiming to simultaneously instruct and to edify, to interact with current scholarship and to point the way ahead.",
+          "image": "/media/resources/poverty-riches.jpg",
+          "file": "https://www.amazon.com/Neither-Poverty-nor-Riches-Possessions/dp/0830826076/ref=sr_1_1?crid=3HN7H8YD9D0S4&keywords=poverty+nor+riches&qid=1687316680&s=books&sprefix=poverty+nor+riche%2Cstripbooks%2C171&sr=1-1"
+        },
+        {
+          "file": "https://www.amazon.com/Divine-Commodity-Discovering-Consumer-Christianity-ebook/dp/B003P9XMFS/ref=sr_1_1?crid=1O0C15PWS52FG&keywords=the+divine+commodity&qid=1687316778&s=books&sprefix=the+divine+commodity%2Cstripbooks%2C152&sr=1-1",
+          "title": "The Divine Commodity: Discovering a Faith Beyond Consumer Christianity",
+          "paywall": true,
+          "authors": "Skye Jethani ",
+          "description": "The challenge facing Christianity today is not a lack of motivation or resources, but a failure of imagination. A growing number of people are disturbed by the values exhibited by the contemporary church. Worship has become entertainment, the church has become a shopping mall, and God has become a consumable product. Many sense that something is wrong, but they cannot imagine an alternative way. The Divine Commodity finally articulates what so many have been feeling and offers hope for the future of a post-consumer Christianity. Through Scripture, history, engaging narrative, and the inspiring art of Vincent van Gogh, The Divine Commodity explores spiritual practices that liberate our imaginations to live as Christ's people in a consumer culture opposed to the values of his kingdom. Each chapter shows how our formation as consumers has distorted an element of our faith. For example, the way churches have become corporations and how branding makes us more focused on image than reality. It then energizes an alternative vision for those seeking a more meaningful faith. Before we can hope to live differently, we must have our minds released from consumerism's grip and captivated once again by Christ.",
+          "image": "/media/resources/the-divine-commodity.jpg"
+        },
+        {
+          "title": "Our Worship Is Turning Praise into Secular Profit",
+          "paywall": false,
+          "file": "https://www.christianitytoday.com/ct/2023/mayjune/worship-music-industry-business-song-royalties-ccli-ccmg.html",
+          "authors": "Kelsey Kramer McGinnis",
+          "description": "An article discussing the impact of corporate consolidation in worship music on the Church. The article notes that as more entities become invested in the songs sung on Sunday mornings, their financial incentives could shape the Church. It provides an example of the song “Lion and the Lamb” and how its continued popularity means that each time it is sung, it generates revenue for Christian music licensing companies, corporate labels, and private investors. McGinnis also discusses the recent surge of acquisitions across the music industry and how worship hits are a small part of the billions invested in IP and royalty streams. She raises concerns about whether worship music can retain its distinct spiritual purpose as it becomes further integrated into the economic landscape of the mainstream music industry and whether the powerful incentives of the business will influence the way worship songs are produced and promoted.",
+          "image": "/media/resources/ct-article.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Licensing & Copyright",
+      "resources": [
+        {
+          "image": "/media/resources/copyright-padlock-on-book.jpg",
+          "file": "https://www.missionfrontiers.org/issue/article/free-and-open",
+          "title": "Free and Open - Bibles without Copyright Restrictions",
+          "authors": "Tim Jore",
+          "description": "You may be wondering: “So what? Why does it matter that the Bible is restricted by copyright? It may not be ideal, but what’s the worst that could happen?” Without overstating the case at all, the worst that can happen is what actually is happening all over the world today: the perpetuation of a total famine of God’s Word in thousands of people groups. This is true for people groups where a Bible has already been translated but is not freely accessible to the Church. It is also true for the thousands of living languages where the Church is restricted from using existing biblical content, tools, and training to engage in effective Bible translation in their own languages.",
+          "paywall": false
+        },
+        {
+          "title": "Copyrights and Copying: Why The Laws Should Be Changed",
+          "paywall": false,
+          "file": "https://frame-poythress.org/copyrights-and-copying-why-the-laws-should-be-changed/",
+          "authors": "Vern Poythress",
+          "description": "The ethics of copying and intellectual property from a Christian perspective. Poythress argues that copying is not theft because it does not deprive the original owner of their possession, and that the ability to copy is a blessing from God that benefits humanity. He also discusses the concept of intellectual property rights and questions whether information can be considered property in the same way as tangible goods. The article also explores the practicality and utility of copyrights and patents, and raises concerns about their potential to interfere with human rights, love for one’s neighbor, and justice. It concludes by advocating for a gradual phasing out of copyright and patent laws.",
+          "image": "/media/resources/gavel.jpg"
+        },
+        {
+          "title": "The Other Shoe: or, Copyright and the Reasonable Use of Technology",
+          "paywall": false,
+          "authors": "John Frame",
+          "file": "https://frame-poythress.org/the-other-shoe-or-copyright-and-the-reasonable-use-of-technology/",
+          "description": "An article discussing the issue of copyright law and its impact on churches and religious organizations. Frame notes that there has been a long history of warnings about the dangers of violating copyright laws, particularly in the context of making copies of songs and hymns for use in worship. He argues that there are alternatives to the current system, such as changing the laws or encouraging publishers and other interested parties to seek more reasonable arrangements. The article also explores the purpose and value of copyright law, distinguishing between laws of morality and laws of utility. It concludes by advocating for more dialogue on the subject within the Christian community and suggesting potential solutions such as negotiating with publishers or changing the law to allow for more reasonable use of technology.",
+          "image": "/media/resources/lock-tech.jpg"
+        },
+        {
+          "title": "The Christian Case against Copyright",
+          "paywall": false,
+          "file": "https://realityisnotoptional.com/2013/01/22/the-christian-case-against-copyright-2/",
+          "authors": "Christopher Fisher",
+          "image": "/media/resources/copyright-burning.jpg",
+          "description": "How would someone convince someone else there is no biblical prohibition on eating dogs? In order to address concepts from a neutral point of view, it is important to isolate and remove cultural prejudices. In regards to copyright, the same must be done. When the Bible talks about stealing, we cannot just assume this applies to intangible concepts in addition to physical property. "
+        },
+        {
+          "image": "/media/resources/intellectual-monopoly.jpg",
+          "title": "Against Intellectual Monopoly",
+          "paywall": false,
+          "authors": "Michele Boldrin & David K. Levine",
+          "description": "Published by Cambridge University Press, this book is also free to download. The authors show from history, logic, and modern examples that patents and copyrights are *not* essential to thriving creation and innovation. So-called intellectual property is in fact an “intellectual monopoly” that hinders rather than helps the competitive free market regime that has delivered wealth and innovation to our doorsteps. This book has broad coverage of both copyrights and patents and is designed for a general audience, focusing on simple examples. The authors conclude that the only sensible policy to follow is to eliminate the patents and copyright systems as they currently exist. The arguments are compelling, and the factual evidence against the usefulness of IP law is surprising and incontrovertible. A must-read for anyone who wants to think seriously about the legitimacy of the status quo.",
+          "file": "http://www.dklevine.com/papers/imbookfinalall.pdf"
+        },
+        {
+          "title": "The Real Reason for Germany's Industrial Expansion?",
+          "paywall": false,
+          "file": "https://www.spiegel.de/international/zeitgeist/no-copyright-law-the-real-reason-for-germany-s-industrial-expansion-a-710976.html",
+          "image": "/media/resources/german-woman-reading.jpg",
+          "authors": "Von Frank Thadeusz",
+          "description": "German economic historian Eckhard Höffner argues that the near absence of copyright law in 18th and 19th century Germany laid the groundwork for the country’s enormous wave of economic growth during that time. Höffner contends that this lack of copyright law led to authors being paid better, and an “incomparable mass of reading material” being produced in Germany by the 1830s, including works on crucial subjects such as physics, chemistry, biology, and steel production. In contrast, Britain saw “deplorable progress” during this time due to stronger copyright guarantees, which led to poorly paid authors, a weaker book market, and hindered the dissemination of useful knowledge. Höffner’s theory suggests that this difference in copyright law played a significant role in Germany’s rapid catch-up to become an equally developed industrial nation by 1900."
+        },
+        {
+          "title": "Against Intellectual Property",
+          "paywall": false,
+          "authors": "Stephan N. Kinsella ",
+          "description": "This essay will change the way you think about patents and copyrights. Few essays written in the last decades have caused so much fundamental rethinking. It is essential that libertarians get this issue right and understand the arguments on all sides. Kinsella's piece here is masterful in making a case against IP that turns out to be more rigorous and thorough than any written on the left, right, or anything in between. Would a libertarian society recognize patents as legitimate? What about copyright? In Against Intellectual Property, Stephan Kinsella, a patent attorney of many years’ experience, offers his response to these questions. Kinsella is altogether opposed to intellectual property, and he explains his position in this brief but wide-ranging book.",
+          "image": "/media/resources/against-ip.jpg",
+          "file": "https://mises.org/library/against-intellectual-property-0"
+        },
+        {
+          "file": "https://thepublicdomain.org/thepublicdomain1.pdf",
+          "title": "The Public Domain: Enclosing the Commons of the Mind",
+          "paywall": false,
+          "authors": "James Boyle",
+          "description": "In this enlightening book James Boyle describes what he calls the range wars of the information age—today’s heated battles over intellectual property. Boyle argues that just as every informed citizen needs to know at least something about the environment or civil rights, every citizen should also understand intellectual property law. Why? Because intellectual property rights mark out the ground rules of the information society, and today’s policies are unbalanced, unsupported by evidence, and often detrimental to cultural access, free speech, digital creativity, and scientific innovation.\n\nBoyle identifies as a major problem the widespread failure to understand the importance of the public domain—the realm of material that everyone is free to use and share without permission or fee. The public domain is as vital to innovation and culture as the realm of material protected by intellectual property rights, he asserts, and he calls for a movement akin to the environmental movement to preserve it. With a clear analysis of issues ranging from Jefferson’s philosophy of innovation to musical sampling, synthetic biology and Internet file sharing, this timely book brings a positive new perspective to important cultural and legal debates. If we continue to enclose the “commons of the mind,” Boyle argues, we will all be the poorer. ",
+          "image": "/media/resources/public-domain.jpg"
+        }
+      ]
+    },
+    {
+      "category": "History & Missions",
+      "resources": [
+        {
+          "title": "The Christian Commons",
+          "paywall": false,
+          "file": "https://www.unfoldingword.org/publications/the-christian-commons",
+          "authors": "Tim Jore",
+          "description": "Only in the last 100 years has world missions been built on a foundation of “all rights reserved.” Although this model is legal, it has limited reach (and we find it unbiblical and unethical). The missions task is immense, and millions of people in thousands of people groups are still waiting to receive even one biblical resource in their own language.\n\nBut there's another way to equip the global church for spiritual growth. Christians all over the world can use 21st century technology to openly collaborate in the creation of unrestricted biblical content in any language. These unrestricted biblical resources—the Christian Commons—can be legally translated, adapted, built on, revised, redistributed, and used, by anyone, without hindrance, today. Unrestricted biblical resources can reach more people, in less time, with less expense, more effectively. \\\n\\\n*We highly recommend this book, but we don't agree with the author that CC BY SA licensing is the biblical way forward, nor do we agree that Christians have the right to sell bibles or biblical teaching (see* [The Dorean Principle](https://thedoreanprinciple.org/) *and* [*this article on* Creative Commons ShareAlike](https://sellingjesus.org/articles/sharealike)*).",
+          "image": "/media/resources/cover-cc.jpg"
+        },
+        {
+          "file": "https://www.amazon.com/God-Mammon-Protestants-Market-1790-1860/dp/0195148010",
+          "title": "God and Mammon: Protestants, Money, and the Market, 1790-1860",
+          "paywall": true,
+          "authors": "Mark A. Noll",
+          "description": "This collection of essays by leading historians offers a close look at the connections between American Protestants and money in the Antebellum period. During the first decades of the new American nation, money was everywhere on the minds of church leaders and many of their followers. Economic questions figured regularly in preaching and pamphleteering, and convictions about money contributed greatly to perceptions of morality both public and private. In fact, money was always a religious question. For this reason, argue the authors of these essays, it is impossible to understand broader cultural developments of the period--including political developments--without considering religion and economics together. In God and Mammon, several essays examine the ways in which the churches raised money after the end of establishment put a stop to state funding, such as the collection of pew rents and lotteries. Free-will offerings only came later and at first were used only for special\ncauses, not operating expenses. Other essays look at the role of money and markets in the rise of Christian voluntary societies. Still others examine inter-denominational strife, documenting frequent accusations that theological error led to the misuse of money and the arrogance of wealth. Taken together, the essays provide essential background to a relationship that continues to loom large and generate controversy in American religious communities.",
+          "image": "/media/resources/god-and-mammon.jpg"
+        },
+        {
+          "title": "More Money, More Ministry: Money and Evangelicals in Recent North American History",
+          "paywall": true,
+          "authors": "Larry Eskridge & Mark A. Noll (editors)",
+          "description": "More Money, More Ministry explores the role that money has played in the growth of North American evangelicalism over the last 150 years - including its uneasy, sometimes ambivalent place in evangelical consciousness. Experts on the contemporary religious scene discuss how evangelicals have recently thought about, used, and raised money, looking in particular at Christian nonprofit organizations, fund-raising strategies, advertising and consumerism, evangelical higher education, financial scandals, and the connection between money and theology. As engaging to read as it is incisive, More Money, More Ministry provides a provocative view of the relation of finance and faith.",
+          "image": "/media/resources/more-money-more-ministry.jpg",
+          "file": "https://www.amazon.com.au/More-Money-Ministry-Evangelicals-American/dp/0802847773/"
+        },
+        {
+          "file": "https://www.amazon.com/Faith-Reading-Religious-Publishing-Religion/dp/0195335783",
+          "title": "Faith in Reading: Religious Publishing and the Birth of Mass Media in America",
+          "paywall": true,
+          "authors": "David Paul Nord",
+          "description": "In the twenty-first century, mass media corporations are often seen as profit-hungry money machines. It was a different world in the early days of mass communication in America. Faith in Reading tells the remarkable story of the noncommercial religious origins of our modern media culture. In the early nineteenth century, a few visionary entrepreneurs decided the time was right to reach everyone in America through the medium of print. Though they were modern businessmen, their publishing enterprises were not commercial businesses but nonprofit societies committed to the publication of traditional religious texts. Drawing on organizational reports and archival sources, David Paul Nord shows how the managers of Bible and religious tract societies made themselves into large-scale manufacturers and distributors of print. These organizations believed it was possible to place the same printed message into the hands of every man, woman, and child in America. Employing modern printing technologies and business methods, they were remarkably successful, churning out millions of Bibles, tracts, religious books, and periodicals. They mounted massive campaigns to make books cheap and plentiful by turning them into modern, mass-produced consumer goods. Nord demonstrates how religious publishers learned to work against the flow of ordinary commerce. They believed that reading was too important to be left to the \"market revolution,\" so they turned the market on its head, seeking to deliver their product to everyone, regardless of ability or even desire to buy. Wedding modern technology and national organization to a traditional faith in reading, these publishing societies imagined and then invented mass media in America.",
+          "image": "/media/resources/faith-in-reading.jpg"
+        },
+        {
+          "image": "/media/resources/seat-rents-pew-rents.jpeg",
+          "title": "Seat Rents Brought to the Test of Scripture",
+          "paywall": false,
+          "authors": "James Begg",
+          "description": "You might be surprised, but the practice of *charging rent for seats in church* was very common in the 1800s. In other words, if you wanted a place to sit in church on Sunday morning, you had to pay for it. In fact, Free Methodist churches were called \"free\" because they decided that they would make the pews in their churches rent-free so as not to exclude the poor. Even though this book is old, it sheds light on a serious blind spot people had back then, which is extremely relevant to our ministry-monetizing blind spots today.",
+          "file": "https://archive.org/details/seatrentsbrought00begg/mode/2up"
+        },
+        {
+          "image": "/media/resources/pew-rents-and-the-nt.jpg",
+          "title": "Pew Rents and the New Testament: Can They Be Reconciled?",
+          "authors": "Robert C. Ogden",
+          "file": "https://archive.org/details/pewrentsnewtesta00ogde/page/n3/mode/2up",
+          "description": "This short book from 1892 provides a beautiful example of humble submission to *Scripture* rather than pragmatism and expediency, especially in the midst of strong pressure to do otherwise. A few quotes from the book: \"It may require courage and a venture of faith in ministers and churches to break away from a traditional system with its grooves all cut and to accept a new one without the prestige of popularity, but if the new is the Christian way it ought to be accepted regardless of immediate results; and there is no doubt that if Christ be in it, its results will prove satisfactory.\" \"The tendency of the period is to adjust the methods of Christianity to the apparently practical. Christ NEVER surrendered AN IDEAL.\" \"I hold that it cannot stand the test; that it contradicts and subverts the spirit of the Gospel; that it is opposed to the idea that the Gospel must be freely preached; that it has worked incalculable harm to persons; that it has introduced false standards of church association and ministerial success; and that it has largely perverted the Church in this country from its plain and simple work of serving humanity.\" The principles expounded and demonstrated in this book could not be more relevant for the present-day Jesus trade.",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Economics",
+      "resources": [
+        {
+          "image": "/media/resources/free-the-future.jpg",
+          "title": "Free: The Future of a Radical Price",
+          "paywall": false,
+          "authors": "Chris Anderson",
+          "description": "While this book is written from a secular worldview, it contains a great deal surprising insight into some aspects of the economy that challenge conventional wisdom. There are elements that demonstrate that the wisdom of God's way of doing things has implications beyond ministry. Anderson shows that the best way to reach people and make an impact is by giving freely, whether that's for profit or not for profit. In the end, the book reveals the ignorance and naivety of many evangelicals when it comes to economics and selling Jesus. This book is also [available for free on Audible](https://www.audible.com/pd/FREE-The-Future-of-a-Radical-Price-Audiobook/B002V5CUHI).",
+          "file": "https://archive.org/details/FreeTheFutureOfARadicalPrice/page/n175/mode/2up"
+        },
+        {
+          "image": "/media/resources/cognitive-surplus.jpg",
+          "title": "Cognitive Surplus",
+          "authors": "Clay Shirky",
+          "file": "https://a.co/d/bWmpQ0Y",
+          "paywall": true,
+          "description": "Many Christians still fail to understand that money is not the only reason people spend time producing quality things at scale. As this book proves, millions of people are interested in doing hard work that surpasses even the caliber of \"professionals\" for no pay at all. Even though writing from a secular worldview, Shirky's evidence shows that it's possible to do incredible things in ministry, simply out of love for Christ and his Church. And when we put a price tag on something that was intended to be free for the community of faith, it can cause severe damage. Although not all of this book is relevant to the Jesus trade, much of it will be a paradigm shift for the reader, and promote a healthier perspective on the ministry-monetization that plagues the evangelical world."
+        },
+        {
+          "image": "/media/resources/economics.jpg",
+          "file": "https://www.amazon.com/Principles-Economics-Saifedean-Ammous-ebook/dp/B0C6YVRJ8F/ref=sr_1_1?crid=2Z0V1JAYST42K&keywords=principles+of+economics+saifedean&qid=1695015757&sprefix=principles+of+economics+saifedean%2Caps%2C171&sr=8-1",
+          "authors": "Saifedean Ammous",
+          "title": "Principles of Economics",
+          "paywall": true,
+          "description": "Many Christians have been blinded by the mainstream macroeconomic theory that was developed by British economist John Maynard Keynes during the 1930s. This theory undermines biblical principles (such as not stealing) and leads to the erosion of charitable giving. It could be argued that the Jesus trade owes some of its popularity to the Keynesian deception. This book by Ammous, although written from a non-Christian worldview, provides an alternative perspective on economics that accords more closely with biblical principles such as \"just weights and measures\" (Deut 25:13-16, Prov 11:1, 16:11, Amos 8:4-6). The bearing of this book's content is not directly related to our core message on this website, but it helps stimulate a more robust way of thinking about how God's wisdom might be applied to the economy in pragmatic terms, and may help people take yet one more step further away from the Jesus trade."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "people": [
+    {
+      "name": "Conley Owens",
+      "title": "Author of The Dorean Principle",
+      "degrees": "MDiv",
+      "site": "https://thedoreanprinciple.org/",
+      "bio": "Conley is a software engineer, a pastor at Silicon Valley Reformed Baptist Church, and the father of nine kids.  He is also the author of The Dorean Principle: A Biblical Response to the Commercialization of Christianity.",
+      "quote": "I began exploring issues with licensing back in college, and over time I witnessed the substantial friction it created in ministry. I was convicted regarding the harm commercial practices cause the church, but for a long time, I was never sure if the Bible had much to say directly about the matter. It turns out it does!",
+      "image": "/media/people/conley_owens.jpg"
+    },
+    {
+      "name": "Bethany Case",
+      "title": "Cofounder of Aleph with Beth",
+      "degrees": "MA in Linguistics",
+      "site": "https://freehebrew.online/",
+      "bio": "Bethany is a linguist, mother, artist, and Hebrew teacher with Aleph with Beth, which offers free Biblical Hebrew learning resources worldwide.",
+      "quote": "I've seen firsthand that many Christians around the world have little to no access to biblical language resources and in-depth Bible study tools, so we are creating public domain Hebrew resources for free translation and sharing. Copyrights and legal restrictions on Christian images, films, books, etc. often prevent me from using them to enhance the learning experience of Hebrew.",
+      "image": "/media/people/beth_case.jpg"
+    },
+    {
+      "name": "Andrew Case",
+      "title": "Cofounder of Aleph with Beth",
+      "degrees": "MDiv",
+      "site": "https://hismagnificence.com/",
+      "bio": "Andrew is a Bible translation consultant and the cofounder of Aleph with Beth, which provides free videos for learning biblical Hebrew. He is also an author and musician.",
+      "quote": "I've seen up close the biblical knowledge famine in the developing world. I want my African brothers to have access to the same depth of Bible study that I have, but the status quo of copyright and monetized Christian resources keeps that from happening, and severely hinders my work in Bible translation. So I'm doing my part to encourage a reformation in this area.",
+      "image": "/media/people/andrew_case.jpg"
+    },
+    {
+      "name": "Jon Here",
+      "title": "Founder of Gracious Tech",
+      "degrees": "MDiv",
+      "site": "https://gracious.tech",
+      "bio": "Jon has served as a pastor, a missionary in South-East Asia, and went on to start his own company for creating apps for mission. Every app his company makes is free to use and open source.",
+      "quote": "The first app I made was for evangelizing using plain Scripture. It was almost done when I realised Bible translations forbid sharing plain Scripture! Copyright has been the number one barrier to my ministry ever since. The more I've reflected on Scripture and the practices of modern ministries, the more concerned I've become.",
+      "image": "/media/people/jon_here.jpg"
+    }
+  ]
+}

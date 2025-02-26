@@ -1,0 +1,6 @@
+#!/bin/bash
+# Process conversations data
+set -e
+cd "$(dirname "$(dirname "$0")")"
+
+node .bin/process_conversations.mjs "$@"

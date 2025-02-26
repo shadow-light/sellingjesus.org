@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="info_sold_free.svg"
+   inkscape:export-filename="info_sold_free.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#f9f9f9"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     borderlayer="true"
+     inkscape:zoom="0.4692965"
+     inkscape:cx="-640.32014"
+     inkscape:cy="456.0017"
+     inkscape:window-width="2560"
+     inkscape:window-height="1347"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient29031"
+       id="linearGradient37133"
+       x1="3.5170827"
+       y1="5.2348347"
+       x2="55.475166"
+       y2="89.284142"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(0.99999349)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient29031">
+      <stop
+         style="stop-color:#f4d36d;stop-opacity:1;"
+         offset="0"
+         id="stop29027" />
+      <stop
+         style="stop-color:#fffec0;stop-opacity:1"
+         offset="1"
+         id="stop29029" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient28146-5"
+       id="radialGradient28148"
+       cx="22.656284"
+       cy="27.999153"
+       fx="22.656284"
+       fy="27.999153"
+       r="33.245487"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.3539341,2.5975167,-0.78168109,1.0093128,-31.444992,-59.110828)"
+       spreadMethod="pad" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient28146-5">
+      <stop
+         style="stop-color:#f9e9b5;stop-opacity:1"
+         offset="0"
+         id="stop28142" />
+      <stop
+         style="stop-color:#ecba1e;stop-opacity:1"
+         offset="0.56552273"
+         id="stop2058" />
+      <stop
+         style="stop-color:#f8e8b8;stop-opacity:1"
+         offset="1"
+         id="stop28144" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter3430-1"
+       x="-0.021856024"
+       y="-0.021856024"
+       width="1.0528187"
+       height="1.0528187">
+      <feFlood
+         flood-opacity="0.29910104808998744"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood3420-2" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite3422-9" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.3"
+         result="blur"
+         id="feGaussianBlur3424-3" />
+      <feOffset
+         dx="0.3"
+         dy="0.3"
+         result="offset"
+         id="feOffset3426-1" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="fbSourceGraphic"
+         id="feComposite3428-9" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix3450-4" />
+      <feFlood
+         id="feFlood3452-7"
+         flood-opacity="0.129412"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite3454-8"
+         in="flood"
+         operator="out"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3456-4"
+         in="composite1"
+         stdDeviation="0.3"
+         result="blur" />
+      <feOffset
+         id="feOffset3458-5"
+         dx="0.3"
+         dy="0.3"
+         result="offset" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite3460-0"
+         in="offset"
+         operator="atop"
+         result="composite2" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3514"
+       id="radialGradient28792"
+       cx="75.158463"
+       cy="63.820152"
+       fx="75.158463"
+       fy="63.820152"
+       r="15.713974"
+       gradientTransform="matrix(-0.75083096,0.29109768,-2.4760195,-6.3864115,254.57127,417.49294)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3514">
+      <stop
+         style="stop-color:#fee28b;stop-opacity:1"
+         offset="0"
+         id="stop3510" />
+      <stop
+         style="stop-color:#fffedd;stop-opacity:1"
+         offset="1"
+         id="stop3512" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter26088-3"
+       x="-0.040420441"
+       y="-0.023781678"
+       width="1.0976827"
+       height="1.0574724">
+      <feFlood
+         flood-opacity="0.7594786168739549"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood26078-6" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite26080-1" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.5"
+         result="blur"
+         id="feGaussianBlur26082-0" />
+      <feOffset
+         dx="0.5"
+         dy="0.5"
+         result="offset"
+         id="feOffset26084-6" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite26086-3" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-weight:bold;font-size:246.731px;line-height:2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold Italic';text-align:center;text-decoration-color:#000000;text-anchor:middle;white-space:pre;fill:#800000;fill-opacity:0.5;stroke:#000000;stroke-width:1.77337;stroke-linejoin:bevel;stop-color:#000000"
+       x="514.61859"
+       y="509.49341"
+       id="text4079-7"
+       transform="scale(0.97239006,1.0283939)"><tspan
+         sodipodi:role="line"
+         x="514.61859"
+         y="509.49341"
+         id="tspan4081-5"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:246.731px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';fill:#800000;fill-opacity:1;stroke:none;stroke-width:1.77337">SOLD</tspan></text>
+    <rect
+       style="fill:#800000;fill-opacity:1;stroke:none;stroke-width:1.12259;stroke-linejoin:bevel;stop-color:#000000"
+       id="rect176159-6"
+       width="660.42523"
+       height="44.028347"
+       x="169.78738"
+       y="411.75021" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-weight:bold;font-size:57.0918px;line-height:2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold Italic';text-align:center;text-decoration-color:#000000;text-anchor:middle;white-space:pre;fill:#bfbfbf;fill-opacity:0.5;stroke:#000000;stroke-width:0.41035;stroke-linejoin:bevel;stop-color:#000000"
+       x="499.52609"
+       y="278.19077"
+       id="text4079-35"><tspan
+         sodipodi:role="line"
+         x="499.52609"
+         y="278.19077"
+         id="tspan4081-62"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:57.0918px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.41035">SHOULD BE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-weight:bold;font-size:260.134px;line-height:2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold Italic';text-align:center;text-decoration-color:#000000;text-anchor:middle;white-space:pre;fill:#008000;fill-opacity:0.5;stroke:#000000;stroke-width:1.8697;stroke-linejoin:bevel;stop-color:#000000"
+       x="494.85574"
+       y="778.02704"
+       id="text4079-7-4"><tspan
+         sodipodi:role="line"
+         x="494.85574"
+         y="778.02704"
+         id="tspan4081-5-0"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:260.134px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';fill:#008000;fill-opacity:1;stroke:none;stroke-width:1.8697">FREE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-weight:bold;font-size:141.975px;line-height:2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold Italic';text-align:center;text-decoration-color:#000000;text-anchor:middle;white-space:pre;fill:#bfbfbf;fill-opacity:0.5;stroke:#000000;stroke-width:1.02044;stroke-linejoin:bevel;stop-color:#000000"
+       x="496.01392"
+       y="212.94336"
+       id="text4079-3"><tspan
+         sodipodi:role="line"
+         x="496.01392"
+         y="212.94336"
+         id="tspan4081-6"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:141.975px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02044">MINISTRY</tspan></text>
+    <g
+       id="g262555"
+       transform="matrix(0.73380578,0,0,0.73380578,133.09711,124.90822)">
+      <rect
+         style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:1.44232;stroke-linejoin:bevel;stop-color:#000000"
+         id="rect176159"
+         width="800"
+         height="60"
+         x="100"
+         y="917.07068" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:37.1312px;line-height:0;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-decoration-color:#000000;text-anchor:middle;white-space:pre;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266881;stroke-linejoin:bevel;stop-color:#000000"
+         x="499.7915"
+         y="957.70422"
+         id="text124192-1"><tspan
+           sodipodi:role="line"
+           id="tspan124190-6"
+           x="499.7915"
+           y="957.70422"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ffffff;fill-opacity:1;stroke-width:0.266881">Freely you received, freely give (Matt 10:8)</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.0452px;line-height:0;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-decoration-color:#000000;text-anchor:middle;white-space:pre;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.194388;stroke-linejoin:bevel;stop-color:#000000"
+       x="500.63388"
+       y="441.50949"
+       id="text124192"><tspan
+         sodipodi:role="line"
+         id="tspan124190"
+         x="500.63388"
+         y="441.50949"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ffffff;stroke-width:0.194388">Teach for a price (Micah 3:11)</tspan></text>
+    <g
+       id="g1610"
+       transform="matrix(3.4698288,0,0,3.4698288,574.90356,356.63817)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.8966px;line-height:normal;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro Bold';text-decoration-color:#000000;fill:#000000;fill-opacity:1;stroke-width:371.767;stop-color:#000000"
+         x="27.978573"
+         y="173.14232"
+         id="text198764-3"><tspan
+           id="tspan198762-6"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.8966px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro Bold';fill:#000000;fill-opacity:1;stroke-width:371.767"
+           x="27.978573"
+           y="173.14232"
+           sodipodi:role="line"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro Bold';fill:#000000;fill-opacity:1;stroke-width:371.767"
+             id="tspan100302">Selling Jesus .org</tspan></tspan></text>
+      <g
+         id="g1264"
+         transform="matrix(0.2379313,0,0,0.2379313,3.4862606,161.49561)">
+        <circle
+           cx="37.499657"
+           cy="37.499657"
+           fill="#d4f7e6"
+           stop-color="#000000"
+           stroke-opacity="0.5"
+           stroke-width="0.688941"
+           id="circle2"
+           style="fill:url(#linearGradient37133);fill-opacity:1;stroke:none;stroke-width:0.689246;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           r="37.5" />
+        <circle
+           cx="37.499901"
+           cy="37.499901"
+           r="32.942863"
+           fill="#d4f7e6"
+           stop-color="#000000"
+           stroke-opacity="0.5"
+           stroke-width="0.605214"
+           id="circle2-3"
+           style="fill:url(#radialGradient28148);fill-opacity:1;stroke:none;stroke-width:1.88025;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:1.88025, 1.88025;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter3430-1)" />
+        <circle
+           cx="37.499874"
+           cy="37.5005"
+           r="36.09581"
+           fill="#d4f7e6"
+           stop-color="#000000"
+           stroke-opacity="0.5"
+           stroke-width="0.605214"
+           id="circle2-3-3"
+           style="opacity:0.370597;fill:none;fill-opacity:1;stroke:#e8ad25;stroke-width:2.0602;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:2.0602, 2.0602;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           d="M 34.880494,12.270686 V 22.756624 H 22.656285 v 5.242529 h 12.224209 v 3.819517 c -5.781856,1.814618 -8.314013,4.279132 -8.218945,8.246734 0.127215,5.292112 3.977547,6.715198 8.218945,7.554936 v 5.968187 c -2.06311,-0.661764 -2.688654,-2.309481 -3.120626,-4.016014 h -5.511643 c 0.592372,5.433251 3.912025,8.189694 8.780574,9.605467 v 3.551427 h 5.136859 v -3.518592 c 5.606931,-1.16443 8.937801,-4.455445 8.964858,-8.765217 0.02699,-4.245639 -2.184137,-6.167317 -8.896117,-7.703387 V 37.3309 c 1.899813,0.339492 2.523236,1.731469 2.972978,3.286846 h 5.40217 c -0.358038,-5.393907 -3.693662,-7.777979 -8.489521,-8.828108 v -3.790777 h 12.224208 v -5.24253 H 40.120026 V 12.270393 Z m 0,25.100727 v 4.544735 c -1.60174,-0.05071 -2.47307,-0.691462 -2.594171,-1.856229 -0.138521,-1.341035 0.737576,-2.28915 2.594171,-2.688506 z m 5.351491,11.040254 c 2.192841,0.116896 3.504113,1.010274 3.603203,2.395626 0.103638,1.442977 -1.314564,2.593659 -3.603203,2.887198 z"
+           fill="#105a37"
+           stroke-width="0.106117"
+           id="path4"
+           style="fill:url(#radialGradient28792);fill-opacity:1;stroke:none;stroke-width:0.10575;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;filter:url(#filter26088-3)" />
+      </g>
+    </g>
+  </g>
+</svg>

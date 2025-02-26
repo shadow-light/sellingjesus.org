@@ -1,0 +1,276 @@
+
+// FONTS
+
+
+@font-face
+    font-family: 'Noto Serif Hebrew'
+    font-style: normal
+    font-weight: 400
+    src: url(@/_assets/fonts/noto_serif_hebrew.woff2) format('woff2')
+    unicode-range: U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F
+
+@font-face
+    font-family: 'Noto Serif Greek'  // greek-ext
+    font-style: normal
+    font-weight: 400
+    font-stretch: 100%
+    font-display: swap
+    src: url(https://fonts.gstatic.com/s/notoserif/v23/ga6iaw1J5X9T9RW6j9bNVls-hfgvz8JcMofYTa32J4wsL2JAlAhZqFCTy8cKtq8.woff2) format('woff2')
+    unicode-range: U+1F00-1FFF
+
+@font-face
+    font-family: 'Noto Serif Greek'  // greek
+    font-style: normal
+    font-weight: 400
+    font-stretch: 100%
+    font-display: swap
+    src: url(https://fonts.gstatic.com/s/notoserif/v23/ga6iaw1J5X9T9RW6j9bNVls-hfgvz8JcMofYTa32J4wsL2JAlAhZqFCTxMcKtq8.woff2) format('woff2')
+    unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF
+
+
+// THEME
+
+
+:root
+    // Custom
+    --brand: #105a37
+    --solid-bg:             hsl(152, 70%, 80%)
+    // VitePress
+    --vp-c-brand-1: var(--vp-c-green-1)
+    --vp-c-brand-2: var(--vp-c-green-2)
+    --vp-c-brand-3: var(--vp-c-green-3)
+    --vp-c-brand-soft: var(--vp-c-green-soft)
+
+html.dark
+    --solid-bg:             hsl(152, 70%, 20%)
+
+
+// CUSTOMISE VITEPRESS
+
+
+.VPNav, .VPNav .content-body
+    // Prevent white nav showing when changing back to home page
+    transition: none !important
+
+.VPNavBarTitle a
+    font-family: 'Crimson Pro', serif
+    font-size: 20px !important
+
+
+.VPNavBarMenuLink.active
+    background-color: #105a3722
+html.dark .VPNavBarMenuLink.active
+    background-color: #105a3744
+
+
+.VPButton
+    font-family: var(--vp-font-family-base)
+    margin: 6px
+
+    &:hover
+        text-decoration: none !important
+
+    &.small
+        font-size: 12px !important
+        line-height: 1 !important
+        padding: 8px !important
+        font-weight: normal !important
+
+
+
+
+// Don't show search keyboard shortcut
+.DocSearch-Button-Keys
+    visibility: hidden  // So still takes up space
+
+// Move search box to end of navbar so logo more prominent
+@media (min-width: 768px)
+    .VPNavBarSearch
+        order: 1
+        flex-grow: 0
+
+// Prevent sidebar items from going beyond 2 lines
+.VPSidebarItem .text
+    overflow: hidden
+    display: -webkit-box
+    -webkit-box-orient: vertical
+    -webkit-line-clamp: 2
+
+
+// VitePress doesn't seem to need this, and allows growing when no aside
+.content
+    max-width: none !important
+
+
+// PAGES
+
+
+.vp-doc
+    // NOTE Hebrew/Greek don't contain non-Hebrew/Greek chars, so will only apply to relevant chars
+    font-family: 'Noto Serif Hebrew', 'Noto Serif Greek', 'Crimson Pro', serif
+    font-size: 20px
+    --vp-custom-block-font-size: 18px
+    line-height: 32px
+
+    p
+        line-height: inherit
+
+    td, th
+        font-size: 0.8em
+
+    a
+        text-decoration: none
+        &:hover
+            text-decoration: underline
+
+    blockquote > p
+        margin: 16px 0  // Stop VP from removing p margins in blockquotes
+        color: inherit
+        font-size: 0.9em
+
+    img
+        border-radius: 12px
+
+    h1, h2, h3, h4, h5, h6
+        line-height: 1.1
+
+    details summary
+        font-family: var(--vp-font-family-base)
+        color: var(--vp-c-brand-1)
+
+    @media (min-width: 800px)
+        // Larger headings on desktop for aesthetics
+        h1
+            font-size: 64px
+        h2
+            font-size: 32px
+
+
+.footnote-ref
+    user-select: none
+
+.footnote-ref:not(:hover)
+    opacity: 0.5
+
+.footnotes-sep
+    margin-top: 64px !important
+
+.footnotes
+    color: var(--vp-c-text-2)
+    font-size: 0.8em
+    line-height: 1.2
+
+    p
+        margin: 0
+
+.fb-enhancer-link
+    text-decoration: solid underline hsl(50, 100%, 40%, 0.5) 2px !important
+    background-color: transparent !important
+
+    &:hover
+        color: hsl(50, 100%, 40%) !important
+
+
+// GENERIC
+
+
+html
+    overflow-wrap: break-word  // Break when needed (expand container to its limit first though)
+
+iframe
+    border-style: none
+    border-radius: 12px
+    width: 100%
+    aspect-ratio: 16 / 9
+
+mark
+    background-color: hsl(60deg, 100%, 40%, 0.3)
+    color: inherit
+
+sup, sub
+    line-height: 0
+
+
+// UTILS
+
+
+.ui
+    font-family: var(--vp-font-family-base)
+
+
+// PRINT
+
+
+@media print
+    :root
+        --vp-c-text-1: black
+        a
+            color: black
+
+    .VPNav, .VPLocalNav
+        display: none !important
+
+
+// SPECIFIC PAGES
+
+
+.route_
+    background-image: url('/_assets/home/bg.svg')
+    @media (min-width: 960px)
+        // Gradient makes text hard to read on mobile
+        background-image: url('/_assets/home/bg.svg'), linear-gradient(-15deg, var(--brand), #105a3700, #105a3700)
+    .VPNavBarTitle .title
+        zoom: 1.4
+    .VPFeature
+        border-color: transparent
+        background-color: hsl(152deg 10% 50% / 30%)
+
+    .VPHero
+        .main
+            order: 0  // Prevent VP from placing text under video
+            @media (max-width: 960px)
+                padding-bottom: 48px
+        .image
+            margin: 0  // Prevent VP from putting image/video under text
+        .image-bg
+            display: none  // Prevents clicking video as sits on top of it
+        .image-container
+            // Override VP's weird positioning
+            transform: none !important
+            align-items: flex-start
+            width: 100%
+            height: auto  // Prevent VP from making too high on mobile
+            @media (min-width: 960px)
+                padding-left: 24px
+
+.route_learn
+    // Wider width for learn page
+    .VPDoc > .container
+        max-width: 1500px !important
+        > .content
+            max-width: none !important
+
+
+.vp-doc._learn_profiles, .vp-doc._about
+
+    h2
+        border-style: none
+        padding-top: 0
+
+    p > img  // To avoid matching any old img (e.g. in person-bio)
+        border-radius: 50%
+        margin-top: 36px
+        width: 100%
+        aspect-ratio: 1 / 1
+
+        @media (min-width: 600px)
+            float: left
+            max-width: 200px
+            margin-right: 24px
+            margin-bottom: 12px
+
+
+.vp-doc._learn_funding
+    img
+        object-fit: cover
+        aspect-ratio: 16 / 9

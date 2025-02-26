@@ -1,0 +1,5 @@
+#!/bin/bash
+set -e
+cd "$(dirname "$(dirname "$0")")/podcast"
+
+node ../.bin/podcast_to_video.mjs "$@"
