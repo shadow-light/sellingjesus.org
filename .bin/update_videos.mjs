@@ -4,7 +4,7 @@ import {writeFileSync} from 'fs'
 import linkify from 'linkify-string'
 import {google} from 'googleapis'
 
-import settings from '../settings.json' assert {type: 'json'}
+import settings from '../settings.json' with {type: 'json'}
 
 
 // Args

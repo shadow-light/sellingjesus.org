@@ -2,7 +2,7 @@
 import {execSync} from 'node:child_process'
 import {readFileSync, writeFileSync} from 'node:fs'
 
-import podcast_json from '../src/podcast.json' assert {type: 'json'}
+import podcast_json from '../src/podcast.json' with {type: 'json'}
 
 
 // Which episode to convert (defaults to latest)

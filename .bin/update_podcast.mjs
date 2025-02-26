@@ -10,8 +10,8 @@ import Spotify from 'spotify-web-api-node'
 import MarkdownIt from 'markdown-it'
 import {JSDOM} from 'jsdom'
 
-import settings from '../settings.json' assert {type: 'json'}
-import existing_items from '../src/podcast.json' assert {type: 'json'}
+import settings from '../settings.json' with {type: 'json'}
+import existing_items from '../src/podcast.json' with {type: 'json'}
 
 
 const markdowner = new MarkdownIt({linkify: true, typographer: true, html: true})

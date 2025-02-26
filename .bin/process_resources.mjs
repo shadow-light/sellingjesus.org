@@ -4,7 +4,7 @@ import {writeFileSync} from 'fs'
 
 import MarkdownIt from 'markdown-it'
 
-import data from '../src/learn/resources.json' assert {type: 'json'}
+import data from '../src/learn/resources.json' with {type: 'json'}
 
 
 const markdowner = new MarkdownIt({linkify: true, typographer: true, html: true})
