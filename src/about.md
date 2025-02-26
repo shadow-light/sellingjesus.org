@@ -32,11 +32,15 @@ Jon is the founder of [Gracious Tech](https://gracious.tech), an app development
 
 Find out more about our evangelical perspective in our [statement of faith](/about/beliefs).
 
-## Licensing
+## Copying
 
-This website and all its contents (except that owned by a third-party) is [dedicated to the public domain](/free). You can use it without restriction and without attributing us.
+This website and all its contents is [dedicated to the public domain](/free). You can use it without restriction and without attributing us.
 
 <a href='/free'><img src='https://copy.church/badges/sj_standard_pd.svg' style='width: 100%; max-width: 400px;'></a>
+
+We do include some third-party content, so please consult their terms of use when something is attributed to a third-party.
+
+You can find the original source for this site and its contents [on GitHub](https://github.com/shadow-light/sellingjesus.org).
 
 ## Funding
 
