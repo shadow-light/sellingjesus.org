@@ -11,5 +11,7 @@ import CMS from './cms.vue'
 
 
 <ClientOnly>
-    <CMS></CMS>
+    Disabled
+    <!-- <CMS></CMS> -->
+    <!-- To restore, need to reconfigure to work with GitHub -->
 </ClientOnly>
