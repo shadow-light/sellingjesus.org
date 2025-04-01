@@ -1,10 +1,11 @@
 ---
 title: Crossway Releases ESV Into the Public Domain
+titleTemplate: Crossway Releases ESV Into the Public Domain
 description: In a press release this morning, Crossway CEO Josh Dennis has announced that the flagship English Standard Version (ESV) will be dedicated to the public domain.
 category: null
 author: Simon Magus
 date: 2025-04-01T00:00:00.000Z
-image: /media/articles/april-fools-esv.jpg
+image: /media/articles/af-esv.jpg
 ---
 
 April 1st<br>Wheaton, Il

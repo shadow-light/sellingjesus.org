@@ -4,7 +4,9 @@
 import {data} from './articles.data'
 
 
-const article_ids = data.map(page => /([^\/]+)$/.exec(page.url)[1])
+const article_ids = data
+    .filter(page => !!page.frontmatter.category)
+    .map(page => /([^\/]+)$/.exec(page.url)[1])
 
 
 </script>
