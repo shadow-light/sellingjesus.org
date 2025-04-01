@@ -16,4 +16,4 @@ Even apart from translation, Bible study software often is unable to ship versio
 
 Crossway’s action is a reminder that God’s Word is not bound—it is meant to go forth freely to every nation, tribe, and tongue (Matt. 10:8; 2 Cor. 2:17). This is truly a reason for thanksgiving, or at least it would be if we were announcing this on any other day of the year.
 
-To learn about why the Word of God should be distributed without copyright restrictions, please see [The Bondage of the Word: Copyright and the Bible](https://sellingjesus.org/articles/copyright-and-the-bible). For a modern public domain translation of the Scriptures that is available right now, check out the [Berean Standard Bible](https://bsb.freely.giving/).
+To learn about why the Word of God should be distributed without copyright restrictions, please see _[Bible Publishers - Stewards or Gatekeepers?](https://sellingjesus.org/articles/bible-publishers)_. For a modern public domain translation of the Scriptures that is available right now, check out the [Berean Standard Bible](https://bsb.freely.giving/).
