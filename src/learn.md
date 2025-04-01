@@ -22,8 +22,13 @@ const categories = {
 
 for (const article of articles){
 
-    // Add category if it hasn't been hard-coded (for order) yet
+    // Ignore if no category
     const category = article.frontmatter.category
+    if (!category){
+        continue
+    }
+
+    // Add category if it hasn't been hard-coded (for order) yet
     if (! (category in categories)){
         categories[category] = []
     }
