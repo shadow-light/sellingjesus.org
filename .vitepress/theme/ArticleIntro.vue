@@ -13,15 +13,17 @@ img(v-if='frontmatter.image' :src='frontmatter.image')
 import {useData} from 'vitepress'
 import {onMounted, ref} from 'vue'
 
-import {nice_date, ssr_date} from '../utils'
+import {nice_date} from '../utils'
 
 
 const {page, frontmatter} = useData()
 
 
-const date = ref(ssr_date(new Date(frontmatter.value.date)))
+// Initially set in US format for SSR
+const date = ref(nice_date(new Date(frontmatter.value.date), 'en-us'))
 
 onMounted(() => {
+    // Override with local format
     date.value = nice_date(new Date(frontmatter.value.date))
 })
 
