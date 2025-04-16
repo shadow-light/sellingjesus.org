@@ -95,7 +95,7 @@ Even in countries without such a legal exemption, secular licensing organization
 
 So, why do churches pay for a license?
 
-When the U.S. religious exemption was added in 1976, most churches would have been singing from memory or song books. The main need was just to be able to _perform_ songs without legal restriction. It was only after overhead projectors became popular in the 80s that churches began copying lyrics themselves, first onto transparencies and then later into digital presentations. Since the exemption only applies to the performance and display of a song, _copying_ lyrics is not technically covered by the exemption.
+When the U.S. religious exemption was added in 1976, most churches would have been singing from memory or song books. The main need was just to be able to _perform_ songs without legal restriction. It was only after overhead projectors became popular in the 80s that churches began copying lyrics themselves,[^overhead] first onto transparencies and then later into digital presentations. Since the exemption only applies to the performance and display of a song, _copying_ lyrics is not technically covered by the exemption.
 
 This is why when you pay for a CCLI license you are _not_ paying for permission to _perform_ the song at church. That right is covered by the religious exemption.[^38] This has been confirmed by CCLI themselves.[^39] Instead, when conducting a simple non-recorded service, you are merely paying for the permission to copy the lyrics into digital slides for the song you are _already_ allowed to sing. If, however, you print, record, stream, or translate the song, then those activities would _not_ necessarily be covered by the exemption.
 
@@ -225,6 +225,8 @@ _CCLI was sent a draft of this article prior to publication and was invited to g
 [^36]: Quoted from [the APRA AMCOS website](https://www.apraamcos.com.au/about/governance-policy/distribution-rules-practices/distribution-information-guides/places-of-worship). They also mention “divine services, which are exempt” in their [Distribution Practices document](https://assets.apraamcos.com.au/images/PDFs/About/APRA-Distribution-Practices.pdf).
 
 [^37]: It also explicitly [does not apply](https://www.apraamcos.com.au/about/governance-policy/distribution-rules-practices/distribution-information-guides/places-of-worship) to “the public performance of music at functions as well as during activities such as youth groups, study groups and socials, etc.”.
+
+[^overhead]: Pete Ward, [_Selling Worship_](https://archive.org/details/sellingworshipho0000ward) (Paternoster, 2005), p82.
 
 [^38]: In Australia you are covered by the current disposition of the music industry to not demand performance royalties for religious services. This situation may change at any time and there is no legal guarantee it won’t. It is also highly unlikely that many other countries have such an exemption, meaning there are probably a lot of legal gaps that are mostly ignored for the time being.
 
