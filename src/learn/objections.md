@@ -1,3 +1,9 @@
+
+# Common Objections
+
+In addition to the responses below, you can also [ask our custom ChatGPT](https://chatgpt.com/g/g-IyK40Y1jE-freely-giving) any other questions.
+
+
 ## But ministry still costs money and you’ve gotta pay the bills.
 
 This objection stems from a fundamental misunderstanding of what we are saying and what Scripture teaches. No one has ever denied that money is necessary to live and pay the bills so that ministry can be done. The question is, “*Where* should that money come from?” The answer is simple: from the free generosity of God’s people. In other words, we should *not* sell Jesus so that we can pay the bills. Turning truth, spiritual things, and the sacred into products that are blocked by a paywall does not please God, and is certainly not the only way Christian ministry can be funded. Local churches all around us operate just fine and pay the bills without charging entrance fees, and instead rely solely on God’s provision through the offerings of his people. Ministry *should* be supported, but never sold.
