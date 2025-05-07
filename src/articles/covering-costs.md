@@ -129,16 +129,6 @@ To provide further guidance, here are some examples of how different authors hav
 * __Completely free:__ Conley Owens [gives away printed copies](https://thedoreanprinciple.org/order/) of _The Dorean Principle_ for free. This ensures there is no confusion about the sincerity of his message, which directly addresses the sale of ministry. It also helps to spread the teaching at a time when the church is desperately in need of reform and decommercialization.
 * __Printed books at cost:__ [Andrew Case](https://hismagnificence.com/) and [Sawyer Moranville](https://www.linguadeogloria.com/books) make their books freely available online and use Amazon’s print-on-demand service to offer printed copies. While the books are sold under their own Amazon accounts, they make it clear that they are sold at cost and do not generate a profit. They are made available for the convenience of readers who prefer printed editions, and not for the benefit of the authors.
 * __Involving third-parties:__ The [Berean Standard Bible](https://bsb.freely.giving) (BSB) was initially sold by its sponsor, BibleHub. This allowed them to make printed copies available as soon as possible. They sell hardcover bibles as well as premium leather options. They have since invited third-party publishers to sell copies independently of them, and have made all source files available for any additional publishers to contribute to the translation’s dissemination.
-* __Adjacent products and services:__ [Byrd Bound](https://byrdbound.com/) is a premium Bible rebinding service. They replace the covers of bibles with custom designs. To make it more convenient to obtain a rebound Berean Standard Bible, they offer inclusion of the text block of the BSB so you don’t have to purchase it elsewhere. Bible rebinding services [are not ministry](https://sellingjesus.org/articles/defining-ministry) and could make a profit if they would like. Though, many do view themselves as a service to the church, and so set reasonable prices.
-
-Let’s finish with a negative example, to show what inappropriate sale of public domain resources can look like. Logos [sells the World English Bible](https://www.logos.com/product/233100/) for $9.99 at the time of writing. The justification for this is that they have spent time integrating the text with their software, so it could be said that you are paying for the software integration, not the text itself. However, there are several problems with this:
-
-1. There’s no instruction on how to obtain a free copy of the text.
-2. There’s no free version available within Logos, which makes accessing an external free copy inconvenient for Logos users.
-3. The Logos format is proprietary, and copyright prevents any other software from benefiting from their enhancements to the metadata of the text.
-4. The ongoing costs of distributing the text are negligible, so the ministry resource is being sold to benefit the creators, not to aid in the dissemination of the ministry resource.
-
-While it could still be claimed that they are selling a “premium edition” rather than Scripture itself, the other factors make their commerce inappropriate.
 
 
 ## Conclusion
