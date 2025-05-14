@@ -10,9 +10,6 @@ import FeaturePreview from '../../src/_comp/FeaturePreview.vue'
 import BibleQuote from '../../src/_comp/BibleQuote.vue'
 import PodcastPlayer from '../../src/_comp/PodcastPlayer.vue'
 
-// Needed for translation widget
-import 'https://static.elfsight.com/platform/platform.js'
-
 import 'shikwasa/dist/style.css'
 import './custom.sass'
 
