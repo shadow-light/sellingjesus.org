@@ -2,6 +2,11 @@
 <template lang='pug'>
 
 Layout(:class='page_id')
+
+    //- Translation widget
+    template(#nav-bar-content-after)
+        div(class="elfsight-app-3125d421-b225-4914-a224-d9db8ffa3e73" data-elfsight-app-lazy)
+
     template(#doc-before)
         div.vp-doc
             ArticleIntro(v-if='page.relativePath.startsWith("articles/")')
