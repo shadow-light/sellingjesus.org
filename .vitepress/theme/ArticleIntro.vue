@@ -1,7 +1,8 @@
 
 <template lang='pug'>
 
-h1 {{ frontmatter.title }}
+h1 {{ frontmatter.title_h1 || frontmatter.title }}
+h2(v-if='frontmatter.title_h2') {{ frontmatter.title_h2 }}
 p.meta(v-if='date') {{ date }} &mdash; {{ frontmatter.author }}
 img(v-if='frontmatter.image' :src='frontmatter.image')
 
@@ -31,6 +32,12 @@ onMounted(() => {
 
 
 <style lang='sass' scoped>
+
+h2
+    border-top-style: none
+    margin-top: 0
+    font-weight: normal
+    font-style: italic
 
 .meta
     margin: 1em 0
