@@ -66,7 +66,7 @@ In the case of discipline, Paul necessarily had to treat sin harshly. It would b
 
 > For we are taking great care to do what is right, not only _in the sight of the Lord_, but also in the sight of men. (2 Cor. 8:21)
 
-Paul collects money for the poor in Jerusalem (Rom. 15:25-29), collecting from several churches including the Corinthian church (1 Cor. 16:1). Though he might be suspected of skimming off the top, there is no place for this in the presence of the Lord. Moreover, he takes steps to approach the matter with a transparency that gives assurance.
+Paul collects money for the poor in Jerusalem (Rom. 15:25-29), collecting from several churches including the Corinthian church (1 Cor. 16:1). In 2 Corinthians 8, he anticipates the suspicion that he might be suspected of skimming off the top, but there is no place for this in the presence of the Lord. Moreover, he takes steps to approach the matter with a transparency that gives assurance.
 
 
 ### Sincerity is incompatible with self-interested defensiveness
