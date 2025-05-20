@@ -46,7 +46,7 @@ In addition to the prices that match secular counselors, I noticed another pract
 
 It is important to recognize that ACBC, in their same “Standards of Conduct” referenced above, clearly says that counselors “will do everything possible to avoid refusing care to those unable to pay, and will never limit their conversational care only to those who are able to compensate their counselors.”[^10] In adherence to this standard, most of the centers that charge a fee also have some kind of income exemption, to make counseling more affordable to those of lesser means. This usually comes in the form of a financial hardship application that counselees must fill out, or a sliding fee scale based on income.
 
-<table>
+<table><tbody>
 <tr>
 	<th>Family Size</th><th colspan="6">Annual Household Income</th>
 </tr>
@@ -71,7 +71,7 @@ It is important to recognize that ACBC, in their same “Standards of Conduct”
 <tr>
 	<td>1.5 Hours</td><td>$37</td><td>$43</td><td>$50</td><td>$58</td><td>$66</td><td>$75</td>
 </tr>
-</table>
+</tbody></table>
 
 *Trinity Medical Associates biblical counseling fee schedule*[^11]
 

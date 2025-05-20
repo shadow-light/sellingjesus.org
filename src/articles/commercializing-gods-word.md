@@ -21,7 +21,7 @@ In 2 Corinthians, Paul defends the dignity of his ministry, which is fraught wit
 
 That said, the primary source of interest in this verse is the word translated by the ESV as “peddlers” (καπηλεύοντες, from καπηλεύω). Commentators and translations divide over recognizing this word as indicating an adulteration or commercialization of the gospel.  Furthermore, they differ on whether or not this word necessarily implies a motive of profit. Thus, as we will see below, some translations add “for profit” to the verse because they believe it to be implicit information from the context that needs to be made explicit to the reader, even though the words “for profit” are not found in the Greek.[^2]
 
-<table>
+<table><tbody>
     <tr>
         <td><strong>Version</strong></td>
         <td><strong>Commerce</strong></td>
@@ -129,7 +129,7 @@ That said, the primary source of interest in this verse is the word translated b
         <td>from preaching God’s message</td>
         <td>try to get rich</td>
     </tr>
-</table>
+</tbody></table>
 
 ## Corruption or Commerce?
 
@@ -165,7 +165,7 @@ Paul is not disparaged for the *content* of his gospel (corruption) but rather f
 
 Paul writes something remarkably similar in 1 Thessalonians 2:3–5. Although he doesn’t present his concerns in the same sequence, this passage helps shed more light on 2 Corinthians 2:17, as the following comparison demonstrates:[^15]
 
-<table>
+<table><tbody>
     <tr>
         <td><strong>2 Corinthians 2:17</strong></td>
         <td><strong>1 Thessalonians 2:3–5</strong></td>
@@ -186,7 +186,7 @@ Paul writes something remarkably similar in 1 Thessalonians 2:3–5. Although he
         <td>in the sight of God we speak in Christ.</td>
         <td>[4b] so we speak, not to please man, but to please God who tests our hearts.<br>[5b] God is witness.</td>
     </tr>
-</table>
+</tbody></table>
 
 The key issue in 1 Thessalonians 2 is *greed* (1 Thess. 2:5).  If the similarity of these passages indicates a shared concern, it is natural to conclude that 2 Corinthians 2:17 is addressing the commercialization of the gospel over the corruption of the gospel as the primary concern.
 

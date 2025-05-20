@@ -86,7 +86,7 @@ If sincerity is incompatible with all these behaviors, then each comes from an i
 If imagining oneself outside of the presence of God leads to one infraction, it will lead to others. While a sincere heart will not manifest _every_ insincere action, Paul does not speak of these individual manifestations as only existing in some, but as existing in “many” (2 Cor. 2:17). Consider the following syllogism:
 
 
-<table>
+<table><tbody>
   <tr>
    <td><strong>Premise 1</strong>
    </td>
@@ -105,13 +105,13 @@ If imagining oneself outside of the presence of God leads to one infraction, it 
    <td>One who engages in insincere action manifests various insincere actions
    </td>
   </tr>
-</table>
+</tbody></table>
 
 
 Because Paul speaks of peddling the word as one of these insincere actions (2 Cor. 2:17), we can substitute it for the generic insincere action we included before.
 
 
-<table>
+<table><tbody>
   <tr>
    <td><strong>Premise 1</strong>
    </td>
@@ -130,7 +130,7 @@ Because Paul speaks of peddling the word as one of these insincere actions (2 Co
    <td>One who sells biblical instruction manifests various insincere actions
    </td>
   </tr>
-</table>
+</tbody></table>
 
 
 The commercialization of the Word is therefore [the mark of a ministry that will lack integrity in other ways](https://thedoreanprinciple.org/#c7).

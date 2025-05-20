@@ -45,7 +45,7 @@ What then is the limit on Paul’s authority?  As a representative of Christ, th
 While English Bible versions often translate “exousia” (ἐξουσία) as “right” in 1 Corinthians 9, the vast majority of times it is simply translated “authority.” For example, though the word appears 102 times in Scripture, outside of 1 Corinthians 9 and 2 Thessalonians 3:9 (which addresses the same topic of Paul’s fundraising), the Berean Literal Bible (BLB) translates it as “right” only once and the New American Standard Bible (NASB) only translates it as “right” three times. In each of these instances, the word “right” could be replaced with “power,” “authority,” or “access,” and often is in other versions.
 
 
-<table>
+<table><tbody>
   <tr>
    <td><strong>BLB</strong></td>
    <td></td>
@@ -70,7 +70,7 @@ While English Bible versions often translate “exousia” (ἐξουσία) as 
    <td>Revelation 22:14</td>
    <td>they will have the <strong>right</strong> to the tree of life</td>
   </tr>
-</table>
+</tbody></table>
 
 
 These examples speak of a freedom of access rather than something that is owed by someone else.
@@ -127,7 +127,7 @@ Because Paul says that he has a right or authority to receive material support, 
 This stewardship connects to Paul’s boasting and reward.  If he were to act with a plenary authority and not as a steward, he would sacrifice his grounds for boasting.  That is, to step outside of his limited authority would be to abdicate any claim to God’s operation in his ministry. “Let the one who boasts, boast in the Lord” (1 Cor. 1:31; cf. 15:31; 2 Cor. 10:17-18). Moreover, it would sacrifice his reward in exchange for a less valuable one (cf. Mat 6:1-6).  Over material things received in exchange for preaching, he would prefer the high status of being a steward of God (1 Cor. 9:17).  Sincere stewardship stands at odds with any peddling of the word (2 Cor. 2:17).  These boasts and rewards Paul chooses from are mutually exclusive because they come from mutually exclusive modes of proclamation: autonomy and stewardship, plenary authority and limited authority.
 
 
-<table>
+<table><tbody>
   <tr>
    <td></td>
    <td><strong>plenary authority</strong></td>
@@ -153,7 +153,7 @@ This stewardship connects to Paul’s boasting and reward.  If he were to act wi
    <td>reciprocity</td>
    <td>stewardship</td>
   </tr>
-</table>
+</tbody></table>
 
 
 
@@ -179,7 +179,7 @@ If the Corinthians’ right in 1 Corinthians 8 and 10 is neither a claim to owne
 Exploring the larger context of 1 Corinthians, we must take note of the Greek word “exestin” (ἔξεστιν), typically translated as “lawful.” In English, “right” and “lawful” look and sound very different, but “exousia” and “exestin” are closely related etymologically.
 
 
-<table>
+<table><tbody>
   <tr>
    <td><strong>root</strong></td>
    <td>οὐσία</td>
@@ -205,7 +205,7 @@ Exploring the larger context of 1 Corinthians, we must take note of the Greek wo
    <td>right</td>
    <td>lawful</td>
   </tr>
-</table>
+</tbody></table>
 
 
 In other words, when Paul uses the terms “right” and “lawful,” he is speaking in terms of two aspects of the same concept. When a person has a “right” to an activity, that activity for them is “lawful.” Recognizing this connection is possibly the most important key to realizing Paul speaks of a limited right, because he explicitly speaks of “lawfulness” as a limited authority rather than plenary authority.
@@ -222,7 +222,7 @@ Paul argues that sex is lawful, but that doesn’t mean one has a permissive lic
 In context, the point of Paul’s illustration in 1 Corinthians 9 becomes obvious.
 
 
-<table>
+<table><tbody>
   <tr>
    <td><strong>lawful</strong></td>
    <td><strong>not profitable</strong></td>
@@ -243,7 +243,7 @@ In context, the point of Paul’s illustration in 1 Corinthians 9 becomes obviou
    <td>charging for preaching</td>
    <td>1 Corinthians 9</td>
   </tr>
-</table>
+</tbody></table>
 
 
 Returning from the notion of lawfulness to rights, if the Christian’s right to sexual activity is not a plenary authority to enjoy sex as he pleases, only guided by some personal or hyper-contextual wisdom considerations, why would we regard Paul’s right this way? Paul does not speak of a plenary authority to receive material support, but a limited authority with clear boundaries.
