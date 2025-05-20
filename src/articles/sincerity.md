@@ -81,7 +81,7 @@ While Paul defends himself throughout, in the later portions, he particularly de
 
 If sincerity is incompatible with all these behaviors, then each comes from an insincere heart.
 
-![alt_text](images/image1.png)
+![A corrupt heart with several sinful behaviors](/_assets/sincerity/heart.svg)
 
 If imagining oneself outside of the presence of God leads to one infraction, it will lead to others. While a sincere heart will not manifest _every_ insincere action, Paul does not speak of these individual manifestations as only existing in some, but as existing in “many” (2 Cor. 2:17). Consider the following syllogism:
 
@@ -149,7 +149,7 @@ Each one of these seven verses speaks of a different insincere behavior. However
 
 Yet, __all can discern when the Word is being sold__. It is evident; nothing is hidden when someone gives biblical instruction in some direct reciprocal exchange.
 
-![alt_text](images/image2.png)
+![A corrupt heart with "Selling Biblical Instruction" highlighted](/_assets/sincerity/heartpie.svg)
 
 This is why Paul chooses this to be the main sign by which he distinguishes himself from the super apostles.
 
