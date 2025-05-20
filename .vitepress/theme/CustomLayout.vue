@@ -2,11 +2,10 @@
 <template lang='pug'>
 
 Layout(:class='page_id')
-
-    //- Translation widget in navbar
     template(#nav-bar-content-after)
-        div(class="elfsight-app-3125d421-b225-4914-a224-d9db8ffa3e73" data-elfsight-app-lazy)
-
+        TranslateButton.translate-nav
+    template(#nav-screen-content-after)
+        TranslateButton.translate-menu
     template(#doc-before)
         div.vp-doc
             ArticleIntro(v-if='page.relativePath.startsWith("articles/")')
@@ -33,6 +32,7 @@ import {BibleEnhancer} from '@gracious.tech/fetch-enhancer'
 
 import ArticleIntro from './ArticleIntro.vue'
 import VideoPlayer from '../../src/_comp/VideoPlayer.vue'
+import TranslateButton from '../../src/_comp/TranslateButton.vue'
 
 import '@gracious.tech/fetch-client/client.css'
 import '@gracious.tech/fetch-enhancer/styles.css'
@@ -92,5 +92,13 @@ onMounted(() => {
 
     a
         text-decoration: underline
+
+.translate-nav
+    margin-left: 16px
+    @media (max-width: 767px)
+        display: none
+
+.translate-menu
+    margin: 12px auto
 
 </style>
