@@ -2,6 +2,10 @@
 <template lang='pug'>
 
 Layout(:class='page_id')
+    template(#nav-bar-content-after)
+        TranslateButton.translate-nav
+    template(#nav-screen-content-after)
+        TranslateButton.translate-menu
     template(#doc-before)
         div.vp-doc
             ArticleIntro(v-if='page.relativePath.startsWith("articles/")')
@@ -28,6 +32,7 @@ import {BibleEnhancer} from '@gracious.tech/fetch-enhancer'
 
 import ArticleIntro from './ArticleIntro.vue'
 import VideoPlayer from '../../src/_comp/VideoPlayer.vue'
+import TranslateButton from '../../src/_comp/TranslateButton.vue'
 
 import '@gracious.tech/fetch-client/client.css'
 import '@gracious.tech/fetch-enhancer/styles.css'
@@ -60,14 +65,14 @@ onMounted(() => {
 
     const selector = '.VPDoc > .container > .content'
 
-    useRouter().onAfterRouteChanged = to => {
-        const doc = document.querySelector(selector)
+    useRouter().onAfterRouteChange = to => {
+        const doc = document.querySelector(selector) as HTMLElement
         if (doc){
             enhancer.discover_bible_references(doc)
         }
     }
 
-    const doc = document.querySelector(selector)
+    const doc = document.querySelector(selector) as HTMLElement
     if (doc){
         enhancer.discover_bible_references(doc)
     }
@@ -87,5 +92,13 @@ onMounted(() => {
 
     a
         text-decoration: underline
+
+.translate-nav
+    margin-left: 16px
+    @media (max-width: 767px)
+        display: none
+
+.translate-menu
+    margin: 12px auto
 
 </style>

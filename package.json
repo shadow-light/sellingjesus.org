@@ -14,11 +14,11 @@
     "pug": "^3.0.3",
     "sass": "^1.77.2",
     "typescript": "^5.4.5",
-    "vitepress": "^1.2.2"
+    "vitepress": "^1.6.3"
   },
   "dependencies": {
     "@gracious.tech/fetch-client": "^0.8.9",
-    "@gracious.tech/fetch-enhancer": "^0.3.6",
+    "@gracious.tech/fetch-enhancer": "^1.0.0",
     "decap-cms-app": "^3.3.0",
     "googleapis": "^137.1.0",
     "linkify-string": "^4.1.3",
