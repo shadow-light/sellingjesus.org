@@ -5,7 +5,7 @@ title_h1: Speaking in the Sight of God
 title_h2: Why Moral Failing Invariably Accompanies the Sale of Biblical Instruction
 category: Theology
 author: Conley Owens
-date: 2025-05-14T00:00:00.000Z
+date: 2025-05-20T00:00:00.000Z
 image: /media/articles/sincerity.jpg
 ---
 
