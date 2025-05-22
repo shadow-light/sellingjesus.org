@@ -32,30 +32,31 @@ export default {
         ctx.app.component('BibleQuote', BibleQuote)
         ctx.app.component('PodcastPlayer', PodcastPlayer)
 
-        // Enhancer
-        let enhancer:BibleEnhancer|undefined
-        ctx.router.onAfterPageLoad = to => {
-
-            // Init enhancer after first page mounted (as can't init until DOM ready anyway)
-            if (!enhancer){
-                enhancer = new BibleEnhancer({
-                    app_args: {hue: '152'},
-                    before_history_push: () => {
-                        // Store scroll position for VitePress to prevent page jump
-                        history.replaceState({scrollPosition: window.scrollY}, '')
-                    },
-                })
-            }
-
-            // Detect references only within the content part of the page
-            const selector = '.VPDoc > .container > .content'
-            const doc = document.querySelector(selector) as HTMLElement
-            if (doc){
-                enhancer.discover_bible_references(doc)
-            }
-        }
-
         if (!import.meta.env.SSR){
+
+            // Enhancer
+            let enhancer:BibleEnhancer|undefined
+            ctx.router.onAfterPageLoad = to => {
+
+                // Init enhancer after first page mounted (as can't init until DOM ready anyway)
+                if (!enhancer){
+                    enhancer = new BibleEnhancer({
+                        app_args: {hue: '152'},
+                        before_history_push: () => {
+                            // Store scroll position for VitePress to prevent page jump
+                            history.replaceState({scrollPosition: window.scrollY}, '')
+                        },
+                    })
+                }
+
+                // Detect references only within the content part of the page
+                const selector = '.VPDoc > .container > .content'
+                const doc = document.querySelector(selector) as HTMLElement
+                if (doc){
+                    enhancer.discover_bible_references(doc)
+                }
+            }
+
             // Preserve lang query param when navigating so that sharing URL preserves language choice
             // (Elfsight will auto-add the lang param, but Vitepress will lose it when changing page)
             let prev_lang:string|null = null
