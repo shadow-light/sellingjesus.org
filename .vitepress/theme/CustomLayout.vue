@@ -3,9 +3,11 @@
 
 Layout(:class='page_id')
     template(#nav-bar-content-after)
-        TranslateButton.translate-nav
+        ClientOnly
+            TranslateButton.translate-nav
     template(#nav-screen-content-after)
-        TranslateButton.translate-menu
+        ClientOnly
+            TranslateButton.translate-menu
     template(#doc-before)
         div.vp-doc
             ArticleIntro(v-if='page.relativePath.startsWith("articles/")')
