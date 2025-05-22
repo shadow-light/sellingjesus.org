@@ -25,17 +25,12 @@ Layout(:class='page_id')
 <script lang='ts' setup>
 
 import DefaultTheme from 'vitepress/theme'
-import {computed, onMounted} from 'vue'
-import {useData, useRoute, useRouter} from 'vitepress'
-
-import {BibleEnhancer} from '@gracious.tech/fetch-enhancer'
+import {computed} from 'vue'
+import {useData, useRoute} from 'vitepress'
 
 import ArticleIntro from './ArticleIntro.vue'
 import VideoPlayer from '../../src/_comp/VideoPlayer.vue'
 import TranslateButton from '../../src/_comp/TranslateButton.vue'
-
-import '@gracious.tech/fetch-client/client.css'
-import '@gracious.tech/fetch-enhancer/styles.css'
 
 
 const {page, frontmatter} = useData()
@@ -50,32 +45,6 @@ const page_id = computed(() => {
         id = id.slice(0, 'index'.length*-1)  // WARN Don't remove the '_'
     }
     return id
-})
-
-
-onMounted(() => {
-
-    const enhancer = new BibleEnhancer({
-        app_args: {hue: '152'},
-        before_history_push: () => {
-            // Store scroll position for VitePress to prevent page jump
-            history.replaceState({scrollPosition: window.scrollY}, '')
-        },
-    })
-
-    const selector = '.VPDoc > .container > .content'
-
-    useRouter().onAfterRouteChange = to => {
-        const doc = document.querySelector(selector) as HTMLElement
-        if (doc){
-            enhancer.discover_bible_references(doc)
-        }
-    }
-
-    const doc = document.querySelector(selector) as HTMLElement
-    if (doc){
-        enhancer.discover_bible_references(doc)
-    }
 })
 
 </script>
