@@ -29,7 +29,7 @@ delete articles['response-dr-b']
 const sections = {
     "Freely Give": ['freely-give', 'freely-give-today', 'scope'],
     "History": ['simony'],
-    "Theology": ['commerce-condemned', 'biblical-funding', 'colabor', 'defining-ministry', 'sincerity', 'buying', 'judas'],
+    "Theology": ['defining-ministry', 'commerce-condemned', 'biblical-funding', 'colabor', 'sincerity', 'buying', 'judas'],
     "Specific Passages": ['selling-truth', 'temple-cleansing', '1cor9', '1cor9-authority', 'commercializing-gods-word'],
     "Application": ['should-preachers-be-paid', 'paying-pastors', 'covering-costs', 'biblical-counseling', 'counseling-fees', 'ads', 'blood-money', 'pragmatism'],
     "Licensing & Copyright": ['copyright-jesus-command-to-freely-give', 'copyright-and-the-bible', 'letting-go', 'abuse', 'copyright-hijacking', 'sharealike'],
@@ -63,13 +63,17 @@ for (const section in sections){
 
     for (const article_id of sections[section]){
         const article = articles[article_id]
+
         // Add titles/etc before concating
+        articles_html += '<div class="titles">'
         const title = article.frontmatter.title_h1 || article.frontmatter.title
         const subtitle = article.frontmatter.title_h2
         articles_html += `<h2 id="${article_id}">${ch}. ${title}</h2>`
         if (subtitle){
             articles_html += `<div class="subtitle">${subtitle}</div>`
         }
+        articles_html += `<div class="author">${article.frontmatter.author}</div>`
+        articles_html += '</div>'
         articles_html += demote_headings(article.html)
         ch++
     }
@@ -80,13 +84,23 @@ for (const section in sections){
 
 <style lang='sass' scoped>
 
-:deep(h1)
-    font-size: 30px
+:deep(.articles_html)
+
+    h1
+        break-before: page
+
+    .titles
+        break-before: page
+        text-align: center !important
+
+        .author
+            font-style: italic
 
 </style>
 
 
 # Selling Jesus
-The book...
+### Abolish the Jesus Trade
+Preface...
 
-<div v-html='articles_html' />
+<div class='articles_html' v-html='articles_html' />

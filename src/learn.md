@@ -11,7 +11,7 @@ import {data as articles} from './articles.data'
 // NOTE Main categories/articles hard-coded to preserve order, but more may be added (to end)
 const categories = {
     "Freely Give": ['freely-give'],
-    "Theology": ['commerce-condemned', 'biblical-funding', 'colabor', 'defining-ministry'],
+    "Theology": ['defining-ministry', 'commerce-condemned', 'biblical-funding', 'colabor'],
     "Application": ['should-preachers-be-paid', 'paying-pastors', 'covering-costs', 'biblical-counseling', 'counseling-fees', 'ads'],
     "Licensing & Copyright": ['copyright-jesus-command-to-freely-give', 'copyright-and-the-bible', 'letting-go'],
     "Specific Passages": ['selling-truth', 'temple-cleansing', '1cor9', '1cor9-authority', 'commercializing-gods-word'],
