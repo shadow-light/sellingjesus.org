@@ -23,14 +23,14 @@ while (true){
     // Send request
     const resp = await google.youtube('v3').playlistItems.list({
         auth,
-        part: 'snippet',
+        part: 'snippet,status',
         playlistId: settings[`youtube_playlist_${playlist_type}`],
         maxResults: 50,
         pageToken: next_token,
     })
 
-    // Remove scheduled videos that appear as private
-    const items = resp.data.items.filter(item => item.snippet.title !== "Private video")
+    // Only list public videos
+    const items = resp.data.items.filter(item => item.status.privacyStatus === "public")
 
     // Add videos to the list
     videos.push(...items.map(item => ({
