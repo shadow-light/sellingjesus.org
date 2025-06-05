@@ -5,7 +5,8 @@ outline: [1, 2]
 
 <script lang='ts' setup>
 
-import {data as articles_data} from './book.data'
+import {data as articles_data} from './book_articles.data'
+import {data as profiles_data} from './book_profiles.data'
 
 
 // Util to demote all headings in HTML
@@ -56,7 +57,7 @@ if (additional.length){
 
 // Concat all by section
 let articles_html = ''
-let ch = 1
+let ch = 2
 for (const section in sections){
 
     articles_html += `<h1 id="${section}">${section}</h1>`
@@ -79,12 +80,25 @@ for (const section in sections){
     }
 }
 
+
+// Prepare profiles HTML
+const profiles_title = `
+    <div class="titles">
+        <h2 id="profiles">1. Christians Who Sell Jesus</h2>
+        <div class="author">Andrew Case</div>
+    </div>
+`
+const profiles_html = demote_headings(profiles_data[0].html)
+    .replace(/<h2.*?<\/h2>/, profiles_title)
+
+
+
 </script>
 
 
 <style lang='sass' scoped>
 
-:deep(.articles_html)
+:deep(.articles_html), :deep(.profiles_html)
 
     h1
         break-before: page
@@ -96,11 +110,17 @@ for (const section in sections){
         .author
             font-style: italic
 
+:deep(.profiles_html)
+    img
+        display: none
+
 </style>
 
 
 # Selling Jesus
 ### Abolish the Jesus Trade
 Preface...
+
+<div class='profiles_html' v-html='profiles_html' />
 
 <div class='articles_html' v-html='articles_html' />
