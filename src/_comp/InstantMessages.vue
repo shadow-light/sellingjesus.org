@@ -1,13 +1,13 @@
 
 <template lang='pug'>
 
-template(v-if='file_id === "conversations"')
+template(v-if='file_id === "conversations" && !book')
     div(v-for='(topic, i) of topics')
         a(:href='`#topic-${i+1}`')
             h3 {{ topic.heading }}
 
 div(v-for='(topic, i) of topics')
-    h2(:id='`topic-${i+1}`') {{ topic.heading }}
+    component(:is='book ? "h3" : "h2"' :id='`topic-${i+1}`') {{ topic.heading }}
     div(v-html='topic.description')
     podcast-player(v-if='topic.podcast' :id='topic.podcast')
     div
@@ -23,6 +23,7 @@ div(v-for='(topic, i) of topics')
 const props = defineProps<{
     file_id:string,
     topics:{heading:string, description?:string, podcast?:string, messages:string[]}[],
+    book?:boolean,
 }>()
 
 </script>
@@ -30,7 +31,7 @@ const props = defineProps<{
 
 <style lang='sass' scoped>
 
-h2
+h2, h3
     margin-bottom: 36px
 
 .msg

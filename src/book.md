@@ -5,8 +5,11 @@ outline: [1, 2]
 
 <script lang='ts' setup>
 
+import InstantMessages from './_comp/InstantMessages.vue'
 import {data as articles_data} from './book_articles.data'
 import {data as profiles_data} from './book_profiles.data'
+import convo_general from './learn/conversations_processed.json'
+import convo_corinthians from './learn/corinthians_processed.json'
 
 
 // Util to demote all headings in HTML
@@ -57,7 +60,7 @@ if (additional.length){
 
 // Concat all by section
 let articles_html = ''
-let ch = 2
+let ch = 1 + 3
 for (const section in sections){
 
     articles_html += `<h1 id="${section}">${section}</h1>`
@@ -96,9 +99,9 @@ const profiles_html = demote_headings(profiles_data[0].html)
 </script>
 
 
-<style lang='sass' scoped>
+<style lang='sass'>
 
-:deep(.articles_html), :deep(.profiles_html)
+._book
 
     h1
         break-before: page
@@ -110,9 +113,12 @@ const profiles_html = demote_headings(profiles_data[0].html)
         .author
             font-style: italic
 
-:deep(.profiles_html)
-    img
+    .player
         display: none
+
+    .profiles_html
+        img
+            display: none
 
 </style>
 
@@ -122,5 +128,20 @@ const profiles_html = demote_headings(profiles_data[0].html)
 Preface...
 
 <div class='profiles_html' v-html='profiles_html' />
+
+<div class="titles">
+    <h2 id="convo-general">2. Conversations about Selling Jesus</h2>
+    <div class="author">Andrew Case</div>
+</div>
+<div v-html='convo_general.intro'></div>
+<InstantMessages file_id='conversations' :topics='convo_general.topics' book></InstantMessages>
+
+<div class="titles">
+    <h2 id="convo-corinthians">3. Conversations between Paul and the Corinthians</h2>
+    <div class="author">Conley Owens</div>
+</div>
+<div v-html='convo_corinthians.intro'></div>
+<InstantMessages file_id='corinthians' :topics='convo_corinthians.topics' book></InstantMessages>
+
 
 <div class='articles_html' v-html='articles_html' />
