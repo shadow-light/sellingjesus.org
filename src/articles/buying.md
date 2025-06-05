@@ -7,6 +7,7 @@ date: 2025-03-19T00:00:00.000Z
 image: /media/articles/buying.jpg
 ---
 
+<podcast-player id="2zPqORbj8gw0zmbXoBqeSF"></podcast-player>
 
 Here at Selling Jesus, we frequently address—as one might imagine, given the name—the sin of selling Jesus. Plain passages of Scripture such as [Matthew 10:8](/articles/freely-give-today) and [2 Corinthians 2:17](/articles/commercializing-gods-word) all forbid selling ministry and spiritual benefits, most especially biblical teaching. This applies to [seminary tuition](/learn/profiles#tom-the-seminary-president), [gospel conference tickets](/learn/profiles#susan-the-bible-study-author), [Bible version licenses](/articles/bible-publishers), [worship music royalties](/articles/worship-tax), [Christian e-book charges](/learn/profiles#joe-the-author), and more. If you want to know more about our position, or see [how ministry ought to be supported](/articles/should-preachers-be-paid), you can browse the [articles](/learn) on this site.
 
