@@ -10,6 +10,7 @@ import ArticlePreview from '../../src/_comp/ArticlePreview.vue'
 import FeaturePreview from '../../src/_comp/FeaturePreview.vue'
 import BibleQuote from '../../src/_comp/BibleQuote.vue'
 import PodcastPlayer from '../../src/_comp/PodcastPlayer.vue'
+import YouTube from '../../src/_comp/YouTube.vue'
 
 import 'shikwasa/dist/style.css'
 import '@gracious.tech/fetch-client/client.css'
@@ -31,6 +32,7 @@ export default {
         ctx.app.component('FeaturePreview', FeaturePreview)
         ctx.app.component('BibleQuote', BibleQuote)
         ctx.app.component('PodcastPlayer', PodcastPlayer)
+        ctx.app.component('YouTube', YouTube)
 
         if (!import.meta.env.SSR){
 
