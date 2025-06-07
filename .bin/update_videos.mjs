@@ -15,6 +15,10 @@ const playlist_type = process.argv[2]
 const auth = google.auth.fromAPIKey(process.env.YOUTUBE_API_KEY)
 
 
+// Videos that have a manually added markdown file
+const manually_added = ['fDoApqyqIG4']
+
+
 // Keep listing videos until all fetched
 const videos = []
 let next_token = null
@@ -33,16 +37,26 @@ while (true){
     const items = resp.data.items.filter(item => item.status.privacyStatus === "public")
 
     // Add videos to the list
-    videos.push(...items.map(item => ({
-        id: item.snippet.resourceId.videoId,
-        image: `https://img.youtube.com/vi/${item.snippet.resourceId.videoId}/hqdefault.jpg`,
-        type: playlist_type,
-        number: item.snippet.position + 1,
-        title: item.snippet.title,
-        description: item.snippet.description.slice(0, 320),  // Display cuts at around 300
-        description_html: linkify(item.snippet.description, {target: '_blank', defaultProtocol: 'https'})
-            .replaceAll('\n', '<br>'),
-    })))
+    for (const item of items){
+        const video_id = item.snippet.resourceId.videoId
+
+        // Skip videos that have a manually added markdown file
+        // As localSearch plugin will complain about duplicate ids
+        if (manually_added.includes(video_id)){
+            continue
+        }
+
+        videos.push({
+            id: video_id,
+            image: `https://img.youtube.com/vi/${video_id}/hqdefault.jpg`,
+            type: playlist_type,
+            number: item.snippet.position + 1,
+            title: item.snippet.title,
+            description: item.snippet.description.slice(0, 320),  // Display cuts at around 300
+            description_html: linkify(item.snippet.description, {target: '_blank', defaultProtocol: 'https'})
+                .replaceAll('\n', '<br>'),
+        })
+    }
 
     // Finish if no more items to get
     if (!resp.data.nextPageToken){
