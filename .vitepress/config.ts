@@ -143,7 +143,10 @@ export default defineConfig({
         head.push(['meta', {name: 'og:title', content: ctx.title}])
         head.push(['meta', {name: 'og:description', content: ctx.description}])
 
-        // Change og:image for dynamic routes that have their own
+        // Change og:image to match content when possible
+        // See if `image` param has been passed to pageData (e.g. Podcast, videos)
+        // Otherwise see if frontmatter specifies an image
+        // And if neither then default site image will be used
         let image = ctx.pageData.params?.image ?? ctx.pageData.frontmatter.image
         if (image){
             if (image.startsWith('/')){

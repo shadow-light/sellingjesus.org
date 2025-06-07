@@ -35,6 +35,7 @@ while (true){
     // Add videos to the list
     videos.push(...items.map(item => ({
         id: item.snippet.resourceId.videoId,
+        image: `https://img.youtube.com/vi/${item.snippet.resourceId.videoId}/hqdefault.jpg`,
         type: playlist_type,
         number: item.snippet.position + 1,
         title: item.snippet.title,
