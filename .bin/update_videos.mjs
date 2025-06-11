@@ -44,7 +44,7 @@ while (true){
         videos.push({
             id: video_id,
             title: item.snippet.title,
-            s3id: existing?.s3id ?? null,
+            filename: existing?.filename ?? null,
             number: item.snippet.position + 1,
             type: playlist_type,
             image: `https://img.youtube.com/vi/${video_id}/hqdefault.jpg`,
