@@ -1,5 +1,5 @@
 
-import {writeFileSync} from 'fs'
+import {writeFileSync, readFileSync} from 'fs'
 
 import linkify from 'linkify-string'
 import {google} from 'googleapis'
@@ -7,8 +7,10 @@ import {google} from 'googleapis'
 import settings from '../settings.json' with {type: 'json'}
 
 
-// Args
+// Get existing data
 const playlist_type = process.argv[2]
+const json_path = `src/videos_${playlist_type}.json`
+const existing_videos = JSON.parse(readFileSync(json_path, 'utf8'))
 
 
 // Auth
@@ -35,12 +37,17 @@ while (true){
     // Add videos to the list
     for (const item of items){
         const video_id = item.snippet.resourceId.videoId
+
+        // See if have existing data
+        const existing = existing_videos.find(v => v.id === video_id)
+
         videos.push({
             id: video_id,
-            image: `https://img.youtube.com/vi/${video_id}/hqdefault.jpg`,
-            type: playlist_type,
-            number: item.snippet.position + 1,
             title: item.snippet.title,
+            s3id: existing?.s3id ?? null,
+            number: item.snippet.position + 1,
+            type: playlist_type,
+            image: `https://img.youtube.com/vi/${video_id}/hqdefault.jpg`,
             description: item.snippet.description.slice(0, 320),  // Display cuts at around 300
             description_html: linkify(item.snippet.description, {target: '_blank', defaultProtocol: 'https'})
                 .replaceAll('\n', '<br>'),
@@ -56,4 +63,4 @@ while (true){
 
 
 // Save to file
-writeFileSync(`src/videos_${playlist_type}.json`, JSON.stringify(videos))
+writeFileSync(json_path, JSON.stringify(videos, undefined, 4))

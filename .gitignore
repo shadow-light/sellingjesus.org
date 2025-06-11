@@ -4,9 +4,6 @@ node_modules/
 /dist/
 /.env
 /.vitepress/cache/
-/src/videos_doc.json
-/src/videos_humor.json
-/src/videos_reactions.json
 /src/learn/resources_processed.json
 /src/learn/conversations_processed.json
 /src/learn/corinthians_processed.json
