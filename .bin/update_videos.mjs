@@ -47,7 +47,7 @@ while (true){
             filename: existing?.filename ?? null,
             number: item.snippet.position + 1,
             type: playlist_type,
-            image: `https://img.youtube.com/vi/${video_id}/hqdefault.jpg`,
+            image: `https://img.youtube.com/vi/${video_id}/hq720.jpg`,
             description: item.snippet.description.slice(0, 320),  // Display cuts at around 300
             description_html: linkify(item.snippet.description, {target: '_blank', defaultProtocol: 'https'})
                 .replaceAll('\n', '<br>'),

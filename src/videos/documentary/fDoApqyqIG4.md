@@ -1,6 +1,6 @@
 ---
 description: In conversations about charging for ministry, 1 Corinthians 9 often comes up, but many come away with the wrong message when they read it.
-image: https://img.youtube.com/vi/fDoApqyqIG4/hqdefault.jpg
+image: https://img.youtube.com/vi/fDoApqyqIG4/hq720.jpg
 ---
 
 # 1 Corinthians 9 - An Exegetical Walkthrough
