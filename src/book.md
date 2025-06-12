@@ -102,6 +102,19 @@ const profiles_html = demote_headings(profiles_data[0].html)
 <style lang='sass'>
 
 ._book
+    font-family: 'Noto Serif Hebrew', 'Noto Serif Greek', 'Crimson Pro', serif
+    font-size: 20px
+    line-height: 32px
+
+    td, th
+        font-size: 0.8em
+
+    a
+        color: inherit
+        text-decoration: none
+
+    blockquote > p
+        font-size: 0.9em
 
     h1
         break-before: page
@@ -123,8 +136,7 @@ const profiles_html = demote_headings(profiles_data[0].html)
 </style>
 
 
-# Selling Jesus
-### Abolish the Jesus Trade
+# Abolish the Jesus Trade
 Preface...
 
 <div class='profiles_html' v-html='profiles_html' />
