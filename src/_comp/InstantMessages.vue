@@ -43,6 +43,7 @@ img
     width: 48px
     height: 48px
     border-radius: 50% !important
+    margin: 0  // To counter default auto margin for images
 
 .txt
     padding: 6px 12px
