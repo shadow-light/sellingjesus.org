@@ -13,8 +13,8 @@ div.book
         h2 Contents
         template(v-for='section of toc')
             h3 {{ section.title }}
-            template(v-for='chapter of section.chapters')
-                div.toc-chapter(@click='goto(chapter.id)') {{ chapter.title }}
+            div.toc-chapter(v-for='chapter of section.chapters' @click='goto(chapter.id)')
+                | {{ chapter.title }}
 
     div.preface(class='break')
         p Preface...
