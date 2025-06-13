@@ -1,0 +1,19 @@
+#!/bin/bash
+set -e
+cd "$(dirname "$(dirname "$0")")/book"
+
+
+# Ensure shared dir exists
+mkdir -p shared
+
+# Build HTML
+echo -n "Fresh build of book HTML? [Y/n] "
+read fresh_build
+if [[ "$fresh_build" != "n" ]]; then
+    ../.bin/build
+fi
+cp ../dist/book.html shared/book.html
+
+# Render to PDF
+sudo docker build -t sj_book .
+sudo docker run --rm --network=host -v "$PWD/shared":/home/app/shared sj_book
