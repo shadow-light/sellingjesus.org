@@ -13,3 +13,5 @@ node_modules/
 /podcast/*.mp4
 /podcast/video_bg.png
 /podcast/episodes/
+
+/book/shared

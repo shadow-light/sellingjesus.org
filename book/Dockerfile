@@ -17,7 +17,7 @@ RUN mkdir -p /home/app/
 
 # Install all required python modules
 RUN python3 -m pip install --target /home/app/ \
-    awslambdaric boto3 "pypdf==5.*" "reportlab==4.*" "weasyprint==62.*"
+    boto3 "pypdf==5.*" "reportlab==4.*" "weasyprint==62.*"
 
 
 ## Create image that will actually be deployed
@@ -31,7 +31,7 @@ COPY --from=build-image /home/app/ /home/app/
 # Install distro modules needed at runtime (weasy deps, fonts)
 RUN apk add --no-cache \
     libstdc++ pango zlib-dev jpeg-dev openjpeg-dev libffi-dev \
-    font-noto-all font-noto-cjk msttcorefonts-installer
+    msttcorefonts-installer
 
 # Copy in fonts that aren't available in the distro
 COPY fonts/ /usr/share/fonts/
@@ -41,9 +41,8 @@ RUN update-ms-fonts
 RUN fc-cache --really-force --verbose
 
 # Copy in the actual function
-COPY main.py /home/app/
+COPY create.py /home/app/
 
 # Execution settings
 WORKDIR /home/app/
-ENTRYPOINT ["/usr/local/bin/python", "-m", "awslambdaric"]
-CMD ["main.entry"]
+CMD ["/usr/local/bin/python", "create.py"]
