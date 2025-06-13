@@ -5,7 +5,7 @@ div.book
 
     div.first-page
         h1 Abolish the Jesus Trade
-        h2 The Joy of Freely Giving
+        h3 The Joy of Freely Giving
         h3 By Andrew Case, Conley Owens, Jon Here, and other contributors
         h4 First Edition (July 2025)
 
@@ -13,8 +13,8 @@ div.book
         h2 Contents
         template(v-for='section of toc')
             h3 {{ section.title }}
-            div.toc-chapter(v-for='chapter of section.chapters' @click='goto(chapter.id)')
-                | {{ chapter.title }}
+            div.toc-chapter(v-for='chapter of section.chapters')
+                a(@click='goto(chapter.id)' :href='"#" + chapter.id') {{ chapter.title }}
 
     div.preface(class='break')
         p Preface...
@@ -114,7 +114,7 @@ let articles_html = ''
 let ch = 1 + 3
 for (const section in sections){
 
-    articles_html += `<h1>${section}</h1>`
+    articles_html += `<div class='section break'><h1>${section}</h1></div>`
 
     for (const article_id of sections[section]){
         const article = articles[article_id]
@@ -131,7 +131,7 @@ for (const section in sections){
         articles_html += '</div>'
         articles_html += demote_headings(article.html)
         ch++
-        articles_html += `<div class='website'>For links to sources in this article, please visit: https://sellingjesus.org/articles/${article_id}</div>`
+        articles_html += `<div class='website'>An online version of this article, with links to sources, is available at: https://sellingjesus.org/articles/${article_id}</div>`
     }
 }
 
