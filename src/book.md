@@ -1,6 +1,5 @@
 ---
-navbar: false
-aside: false
+layout: false
 ---
 
 <script lang='ts' setup>
