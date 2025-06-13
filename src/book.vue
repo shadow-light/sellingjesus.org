@@ -1,31 +1,38 @@
 
 <template lang='pug'>
 
-h1 Abolish the Jesus Trade
-p Preface...
+div.first-page
+    h1 Abolish the Jesus Trade
+    h2 The Joy of Freely Giving
+    h3 By Andrew Case, Conley Owens, Jon Here, and other contributors
+    h4 First Edition (July 2025)
 
-h2 Contents
-template(v-for='section of toc')
-    h3 {{ section.title }}
-    template(v-for='chapter of section.chapters')
-        h4.toc(@click='goto(chapter.id)') {{ chapter.title }}
+div.toc(class='break')
+    h2 Contents
+    template(v-for='section of toc')
+        h3 {{ section.title }}
+        template(v-for='chapter of section.chapters')
+            h4.toc-chapter(@click='goto(chapter.id)') {{ chapter.title }}
 
-div(class='profiles_html' v-html='profiles_html')
+div.preface(class='break')
+    p Preface...
+
+div(class='profiles_html break' v-html='profiles_html')
 
 div.convos
-div(class="titles")
-    h2(id="convo-general") 2. Conversations about Selling Jesus
-    div(class="author") Andrew Case
+    div(class="titles break")
+        h2(id="chapter-convo-general") 2. Conversations about Selling Jesus
+        div(class="author") Andrew Case
 
-div(v-html='convo_general.intro')
-InstantMessages(file_id='conversations' :topics='convo_general.topics' book)
+    div(v-html='convo_general.intro')
+    InstantMessages(file_id='conversations' :topics='convo_general.topics' book)
 
-div(class="titles")
-    h2(id="convo-corinthians") 3. Conversations between Paul and the Corinthians
-    div(class="author") Conley Owens
+    div(class="titles break")
+        h2(id="chapter-convo-corinthians") 3. Conversations between Paul and the Corinthians
+        div(class="author") Conley Owens
 
-div(v-html='convo_corinthians.intro')
-InstantMessages(file_id='corinthians' :topics='convo_corinthians.topics' book)
+    div(v-html='convo_corinthians.intro')
+    InstantMessages(file_id='corinthians' :topics='convo_corinthians.topics' book)
 
 div(class='articles_html' v-html='articles_html')
 
@@ -111,7 +118,7 @@ for (const section in sections){
         const article = articles[article_id]
 
         // Add titles/etc before concating
-        articles_html += '<div class="titles">'
+        articles_html += '<div class="titles break">'
         const title = article.frontmatter.title_h1 || article.frontmatter.title
         const subtitle = article.frontmatter.title_h2
         articles_html += `<h2 id="chapter-${article_id}">${ch}. ${title}</h2>`
@@ -129,13 +136,76 @@ for (const section in sections){
 // Prepare profiles HTML
 const profiles_title = `
     <div class="titles">
-        <h2 id="profiles">1. Christians Who Sell Jesus</h2>
+        <h2 id="chapter-profiles">1. Christians Who Sell Jesus</h2>
         <div class="author">Andrew Case</div>
     </div>
 `
 const profiles_html = demote_headings(profiles_data[0].html)
     .replace(/<h2.*?<\/h2>/, profiles_title)
 
+
+// Generate outline
+interface OutlineChapter {
+    id:string
+    title:string
+}
+
+interface OutlineSection {
+    title:string
+    chapters:OutlineChapter[]
+}
+
+const toc:OutlineSection[] = [
+    {title: "Introduction", chapters: [
+        {id: "chapter-profiles", title: "1. Christians Who Sell Jesus"},
+        {id: "chapter-convo-general", title: "2. Conversations about Selling Jesus"},
+        {id: "chapter-convo-corinthians", title: "3. Conversations between Paul and the Corinthians"},
+    ]},
+]
+
+function add_to_toc(html:string){
+
+    // Parse given HTML
+    const dom = new DOMParser().parseFromString(html, 'text/html')
+
+    // Init state
+
+    let current_section:OutlineSection|null = null
+
+    // Loop through headings
+    for (const el of dom.querySelectorAll('h1, h2')){
+        const tag = el.tagName.toLowerCase()
+        const title = el.textContent!.trim()
+
+        // Handle new section
+        if (tag === 'h1') {
+            current_section = {
+                title,
+                chapters: [],
+            }
+            toc.push(current_section)
+
+        // Handle new chapter
+        } else if (tag === 'h2' && current_section) {
+            current_section.chapters.push({
+                title,
+                id: el.id,
+            })
+        }
+    }
+
+    return toc
+}
+
+
+add_to_toc(articles_html)
+
+
+// Navigate to chapter on click in TOC
+const shadow = useShadowRoot()
+const goto = (id:string) => {
+    shadow?.querySelector('#' + id)?.scrollIntoView()
+}
 
 
 </script>
