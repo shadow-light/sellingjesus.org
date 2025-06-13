@@ -20,7 +20,7 @@ import './custom.sass'
 export default {
     ...DefaultTheme,
     Layout: CustomLayout,
-    enhanceApp(ctx){
+    async enhanceApp(ctx){
 
         // Extend default theme
         DefaultTheme.enhanceApp(ctx)
@@ -34,7 +34,11 @@ export default {
         ctx.app.component('PodcastPlayer', PodcastPlayer)
         ctx.app.component('YouTube', YouTube)
 
-        if (!import.meta.env.SSR){
+        if (import.meta.env.SSR){
+            // Book needs DOMParser to render in SSR, but avoid including in browser bundle
+            const jsdom = await import('jsdom')
+            global.DOMParser = new jsdom.JSDOM().window.DOMParser
+        } else {
 
             // Enhancer
             let enhancer:BibleEnhancer|undefined
