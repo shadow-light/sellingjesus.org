@@ -1,10 +1,23 @@
 ---
 navbar: false
-outline: [1, 2]
 ---
 
 <script lang='ts' setup>
-import BookPage from './book.vue'
+
+import {defineCustomElement} from 'vue'
+
+import VueBook from './book.vue'
+
+
+// Use custom element/shadow DOM to exclude site's CSS during development
+// When built the site's CSS will simply not be included
+const ssr = import.meta.env.SSR
+if (!ssr){
+    customElements.define('custom-book', defineCustomElement(VueBook))
+}
+
 </script>
 
-<BookPage />
+
+<VueBook v-if='ssr' />
+<custom-book v-else />
