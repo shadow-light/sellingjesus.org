@@ -14,6 +14,9 @@ if [[ "$fresh_build" != "n" ]]; then
 fi
 cp ../dist/book.html shared/book.html
 
+# Build CSS
+../node_modules/.bin/sass ../src/book.sass shared/book.css
+
 # Render to PDF
 sudo docker build -t sj_book .
 sudo docker run --rm --network=host -v "$PWD/shared":/home/app/shared sj_book
