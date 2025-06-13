@@ -8,6 +8,9 @@ div.book
         h3 The Joy of Freely Giving
         h3 By Andrew Case, Conley Owens, Jon Here, and other contributors
         h4 First Edition (July 2025)
+        div.dedication
+            p This book is freely given to the glory of God and dedicated to the public domain. It may be copied, translated, adapted, in whole or in part, without needing to ask permission. You can access this content digitally at sellingJesus.org
+            img(src='https://copy.church/badges/sj_standard_pd.svg')
 
     div.toc(class='break')
         h3 Contents
