@@ -10,11 +10,12 @@ div.book
         h4 First Edition (July 2025)
 
     div.toc(class='break')
-        h2 Contents
+        h3 Contents
         template(v-for='section of toc')
             h3 {{ section.title }}
-            div.toc-chapter(v-for='chapter of section.chapters')
-                a(@click='goto(chapter.id)' :href='"#" + chapter.id') {{ chapter.title }}
+            div(v-for='chapter of section.chapters')
+                a.toc-chapter(@click='goto(chapter.id)' :href='"#" + chapter.id')
+                    | {{ chapter.title }}
 
     div.preface(class='break')
         p Preface...
@@ -23,14 +24,14 @@ div.book
 
     div.convos
         div(class="titles break")
-            h2(id="chapter-convo-general") 2. Conversations about Selling Jesus
+            h2(id="chapter-convo-general") 2.&nbsp;&nbsp;Conversations about Selling Jesus
             div(class="author") Andrew Case
 
         div(v-html='convo_general.intro')
         InstantMessages(file_id='conversations' :topics='convo_general.topics' book)
 
         div(class="titles break")
-            h2(id="chapter-convo-corinthians") 3. Conversations between Paul and the Corinthians
+            h2(id="chapter-convo-corinthians") 3.&nbsp;&nbsp;Conversations between Paul and the Corinthians
             div(class="author") Conley Owens
 
         div(v-html='convo_corinthians.intro')
@@ -123,7 +124,7 @@ for (const section in sections){
         articles_html += '<div class="titles break">'
         const title = article.frontmatter.title_h1 || article.frontmatter.title
         const subtitle = article.frontmatter.title_h2
-        articles_html += `<h2 id="chapter-${article_id}">${ch}. ${title}</h2>`
+        articles_html += `<h2 id="chapter-${article_id}">${ch}.&nbsp;&nbsp;${title}</h2>`
         if (subtitle){
             articles_html += `<div class="subtitle">${subtitle}</div>`
         }
@@ -131,7 +132,7 @@ for (const section in sections){
         articles_html += '</div>'
         articles_html += demote_headings(article.html)
         ch++
-        articles_html += `<div class='website'>An online version of this article, with links to sources, is available at: https://sellingjesus.org/articles/${article_id}</div>`
+        articles_html += `<div class='website'>An online version of this article, with links to sources, is available at:<br>https://sellingjesus.org/articles/${article_id}</div>`
     }
 }
 
@@ -139,7 +140,7 @@ for (const section in sections){
 // Prepare profiles HTML
 const profiles_title = `
     <div class="titles">
-        <h2 id="chapter-profiles">1. Christians Who Sell Jesus</h2>
+        <h2 id="chapter-profiles">1.&nbsp;&nbsp;Christians Who Sell Jesus</h2>
         <div class="author">Andrew Case</div>
     </div>
 `

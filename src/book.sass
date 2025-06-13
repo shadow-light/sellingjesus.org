@@ -16,9 +16,51 @@
 @page
     size: 6in 9in
     margin: 0.5in
+    margin-top: 1in  // Space for page number etc
+
+    @top-left
+        height: 0.5in
+        vertical-align: middle
+        font-size: 9pt
+        content: counter(page)
+
+    @top-right
+        height: 0.5in
+        vertical-align: middle
+        font-size: 9pt
+        content: string(heading)
+
+@page no-chapter
+    @top-left
+        content: none
+    @top-center
+        content: none
+    @top-right
+        content: none
+
+@page :left
+    margin-right: 1in
+
+@page :right
+    margin-left: 1in
+
+h1
+    page: no-chapter
+
+h2
+    string-set: heading content()
 
 h3, h4, h5, h6
     bookmark-level: none
+
+h2, h3, h4, h5, h6
+    break-after: avoid  // Move heading to next page if was going to break after it
+    break-inside: avoid  // Don't make heading go across pages
+
+p, blockquote, li, div
+    // Ensure at least 2 lines before/after a page break, otherwise move whole block to next page
+    orphans: 2
+    widows: 2
 
 
 // FONTS
@@ -46,11 +88,12 @@ h3, h4, h5, h6
 
 
 // GENERIC
-:host
+.book, body
     color: black
     font-family: 'Noto Serif Hebrew', 'Noto Serif Greek', 'Crimson Pro', serif
-    font-size: 20px
-    line-height: 32px
+    font-size: 12pt
+    line-height: 1.4
+    text-align: justify
 
 img
     width: 100%
@@ -61,7 +104,17 @@ mark
 hr
     border-bottom-style: none
     border-top: 1px solid black
-    margin: 16px 0
+    margin: 1em 0
+
+h1, h2, h3, h4, h5, h6
+    margin-top: 1em
+    margin-bottom: 0.5em
+
+ol, ul
+    padding-left: 1.5em
+
+p
+    margin: 0.5em 0
 
 sup, sub
     line-height: 0
@@ -91,7 +144,7 @@ table
     display: none
 
 .footnotes-sep
-    margin-top: 64px !important
+    margin-top: 2em
 
 
 .footnotes
@@ -110,6 +163,7 @@ table
 
 .section
     text-align: center
+    margin-top: 2in
 
 .break
     break-before: page
@@ -122,6 +176,9 @@ table
 
     h3
         font-style: italic
+
+.toc-chapter
+    font-size: 0.9em
 
 .toc-chapter:hover
     cursor: pointer

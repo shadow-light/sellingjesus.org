@@ -7,9 +7,7 @@ cd "$(dirname "$(dirname "$0")")/book"
 mkdir -p shared
 
 # Build HTML
-echo -n "Fresh build of book HTML? [Y/n] "
-read fresh_build
-if [[ "$fresh_build" != "n" ]]; then
+if [[ "$1" != "--skip" ]]; then
     ../.bin/build
 fi
 cp ../dist/book.html shared/book.html
