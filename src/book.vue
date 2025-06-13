@@ -1,40 +1,42 @@
 
 <template lang='pug'>
 
-div.first-page
-    h1 Abolish the Jesus Trade
-    h2 The Joy of Freely Giving
-    h3 By Andrew Case, Conley Owens, Jon Here, and other contributors
-    h4 First Edition (July 2025)
+div.book
 
-div.toc(class='break')
-    h2 Contents
-    template(v-for='section of toc')
-        h3 {{ section.title }}
-        template(v-for='chapter of section.chapters')
-            h4.toc-chapter(@click='goto(chapter.id)') {{ chapter.title }}
+    div.first-page
+        h1 Abolish the Jesus Trade
+        h2 The Joy of Freely Giving
+        h3 By Andrew Case, Conley Owens, Jon Here, and other contributors
+        h4 First Edition (July 2025)
 
-div.preface(class='break')
-    p Preface...
+    div.toc(class='break')
+        h2 Contents
+        template(v-for='section of toc')
+            h3 {{ section.title }}
+            template(v-for='chapter of section.chapters')
+                div.toc-chapter(@click='goto(chapter.id)') {{ chapter.title }}
 
-div(class='profiles_html break' v-html='profiles_html')
+    div.preface(class='break')
+        p Preface...
 
-div.convos
-    div(class="titles break")
-        h2(id="chapter-convo-general") 2. Conversations about Selling Jesus
-        div(class="author") Andrew Case
+    div(class='profiles_html break' v-html='profiles_html')
 
-    div(v-html='convo_general.intro')
-    InstantMessages(file_id='conversations' :topics='convo_general.topics' book)
+    div.convos
+        div(class="titles break")
+            h2(id="chapter-convo-general") 2. Conversations about Selling Jesus
+            div(class="author") Andrew Case
 
-    div(class="titles break")
-        h2(id="chapter-convo-corinthians") 3. Conversations between Paul and the Corinthians
-        div(class="author") Conley Owens
+        div(v-html='convo_general.intro')
+        InstantMessages(file_id='conversations' :topics='convo_general.topics' book)
 
-    div(v-html='convo_corinthians.intro')
-    InstantMessages(file_id='corinthians' :topics='convo_corinthians.topics' book)
+        div(class="titles break")
+            h2(id="chapter-convo-corinthians") 3. Conversations between Paul and the Corinthians
+            div(class="author") Conley Owens
 
-div(class='articles_html' v-html='articles_html')
+        div(v-html='convo_corinthians.intro')
+        InstantMessages(file_id='corinthians' :topics='convo_corinthians.topics' book)
+
+    div(class='articles_html' v-html='articles_html')
 
 </template>
 
@@ -129,6 +131,7 @@ for (const section in sections){
         articles_html += '</div>'
         articles_html += demote_headings(article.html)
         ch++
+        articles_html += `<div class='website'>For links to sources in this article, please visit: https://sellingjesus.org/articles/${article_id}</div>`
     }
 }
 
