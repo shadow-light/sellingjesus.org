@@ -16,36 +16,44 @@
 @page
     size: 6in 9in
     margin: 0.5in
-    margin-bottom: 1in  // Space for page number etc
+    margin-top: 1in  // Space for page number etc
 
-    @bottom-left
+    @top-left
         height: 0.5in
         vertical-align: middle
         font-size: 9pt
 
-    @bottom-right
+    @top-center
+        height: 0.5in
+        vertical-align: middle
+        font-size: 9pt
+        font-style: italic
+
+    @top-right
         height: 0.5in
         vertical-align: middle
         font-size: 9pt
 
 @page no-chapter
-    @bottom-left
+    @top-left
         content: none
-    @bottom-right
+    @top-center
+        content: none
+    @top-right
         content: none
 
 @page :left
     margin-right: 1in
-    @bottom-left
+    @top-left
         content: counter(page)
-    @bottom-right
+    @top-center
         content: string(heading)
 
 @page :right
     margin-left: 1in
-    @bottom-left
+    @top-center
         content: string(heading)
-    @bottom-right
+    @top-right
         content: counter(page)
 
 h1
