@@ -1,7 +1,6 @@
 ---
 title: The Folly of Pragmatism in Ministry Fundraising
 description: Practical concerns cannot be determinative when in conflict with a biblical principle.
-category: Application
 author: Conley Owens
 date: 2024-08-14T00:00:00.000Z
 image: /media/articles/pragmatism.jpg

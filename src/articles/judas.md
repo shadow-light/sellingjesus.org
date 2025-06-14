@@ -1,7 +1,6 @@
 ---
 title: The Sin of Judas and the Sale of Christian Teaching
 description: "Is selling Christian teaching really the same as betraying Jesus for money?"
-category: Theology
 author: Conley Owens
 date: 2024-08-05T00:00:00.000Z
 image: /media/articles/judas.jpg

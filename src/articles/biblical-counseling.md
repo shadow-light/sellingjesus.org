@@ -2,7 +2,6 @@
 title: Biblical Counseling Should Be Free
 description: Biblical counseling is ministry and so should flourish through generous funding, not by charging those seeking healing in Christ.
 image: /media/articles/biblical-counseling.jpg
-category: Application
 author: Andrew Case
 date: 2023-11-20T00:00:00.000Z
 ---

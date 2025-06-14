@@ -2,7 +2,6 @@
 title: Objections to Paying Pastors
 description: Some people have been so put off by the commercialization of ministry that it has led them to question whether pastors should be paid at all.
 image: /media/articles/paying-pastors.jpg
-category: Application
 author: Jon Here
 date: 2024-06-01T00:00:00.000Z
 ---

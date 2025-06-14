@@ -1,7 +1,6 @@
 ---
 title: 1 Corinthians 9 — The Meaning of “Right” / “Authority”
 description: Why Paul's “right” to material support is much more limited than many people think.
-category: Specific Passages
 author: Conley Owens
 date: 2024-11-12T00:00:00.000Z
 image: /media/articles/1cor9-authority.jpg

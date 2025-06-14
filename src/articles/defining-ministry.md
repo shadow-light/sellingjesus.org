@@ -2,7 +2,6 @@
 title: What Is Christian Ministry?
 description: While Christians should glorify God in all aspects of life, not all work can be classified as ministry.
 image: /media/articles/defining-ministry.jpg
-category: Theology
 author: Andrew Case
 date: 2024-08-06T00:00:00.000Z
 ---

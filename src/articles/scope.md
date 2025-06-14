@@ -2,7 +2,6 @@
 title: The Scope of Jesus’ Command to Freely Give
 description: Interpreting it too broadly or too narrowly misunderstands Jesus'
   expectation for ministry.
-category: Freely Give
 author: Jon Here
 date: 2023-05-24T12:00:23.317Z
 image: /media/articles/scope.jpg

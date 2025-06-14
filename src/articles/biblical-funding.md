@@ -2,7 +2,6 @@
 title: The Biblical Model for Funding Ministry
 description: How biblical funding differs from the commercial practices many use today.
 image: /media/articles/biblical-funding.jpg
-category: Theology
 author: Jon Here
 date: 2023-02-21T00:00:00.000Z
 ---

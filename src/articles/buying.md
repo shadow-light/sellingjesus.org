@@ -1,7 +1,6 @@
 ---
 title: The Sin of Buying Jesus
 description: It is not only ministers who are culpable for the commercialization of Christianity, buyers who willingly support the sale of ministry also fall into sin.
-category: Theology
 author: Conley Owens
 date: 2025-03-19T00:00:00.000Z
 image: /media/articles/buying.jpg

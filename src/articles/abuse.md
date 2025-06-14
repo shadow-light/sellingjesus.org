@@ -1,7 +1,6 @@
 ---
 title: A Biblical Approach to Abuse of Resources
 description: While it is understandable to have concerns about the potential misuse of Christian resources, the biblical approach calls us to prioritize the free and generous sharing of these resources over any legal protections copyright might afford.
-category: Licensing & Copyright
 author: Jon Here
 date: 2025-03-27T00:00:00.000Z
 image: /media/articles/abuse.jpg

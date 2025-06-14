@@ -2,7 +2,6 @@
 title: The Wages of a Prostitute
 title_h2: Why Donating Ministry Income Doesn’t Justify the Sale of Christian Teaching
 description: Why Donating Ministry Income Doesn’t Justify the Sale of Christian Teaching
-category: Theology
 author: Conley Owens
 date: 2025-06-13T00:00:00.000Z
 image: /media/articles/prostitutes-wages.jpg

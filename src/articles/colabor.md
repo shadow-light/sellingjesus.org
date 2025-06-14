@@ -2,7 +2,6 @@
 title: Giving out of Obligation to God, Not Man
 description: There is a big difference between giving as colabor and giving as reciprocity, and that difference is God.
 image: /media/articles/colabor.jpg
-category: Theology
 author: Andrew Case
 date: 2023-11-07T00:00:00.000Z
 ---

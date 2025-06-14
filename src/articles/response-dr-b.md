@@ -1,7 +1,6 @@
 ---
 title: A Rejoinder to Dr. B
 description: Conley Owens responds to a critique of The Dorean Principle from Dr. B of Mindanao Grace Seminary.
-category: Responses
 author: Conley Owens
 date: 2024-06-05T00:00:00.000Z
 image: /media/articles/response-dr-b.jpg

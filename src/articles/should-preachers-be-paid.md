@@ -3,7 +3,6 @@ title: Should Preachers be Paid?
 description: Jesus was clear that the preached word should be freely given, so
   is it right for preachers of God's Word to be paid? Yes. As this article
   explains.
-category: Application
 author: Conley Owens
 date: 2023-10-03T00:19:04.001Z
 image: /media/articles/preacher.jpg

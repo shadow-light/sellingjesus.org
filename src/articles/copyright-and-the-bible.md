@@ -1,7 +1,6 @@
 ﻿---
 title: "The Bondage of the Word: Copyright and the Bible"
 description: "For nearly a century, copyright legislation has been subtly but effectively applied, misused and abused in regard to the word of God in order to chain the Bible to a new pulpit, differing in kind but not in essence from the restrictive practice so loudly decried in the Middle Ages. While the contemporary difference can be described in terms of dollars and cents, the net effect is identical: the free and unhindered access by God’s people to the revealed truth of His word is restricted once more, this time not by the ecclesiastical hierarchy, but by the chains of copyright and financial ransom as demanded by the proprietary publishers. Has God’s word of a sudden ceased to be the “intellectual property” of God’s people? Must it now remain under the peculiar control of executives, scholars and lawyers?"
-category: Licensing & Copyright
 author: Maurice A. Robinson, Ph.D.
 date: 1996-11-21T00:00:00.000Z
 image: /media/articles/bondage.jpg

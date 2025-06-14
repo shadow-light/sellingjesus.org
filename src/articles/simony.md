@@ -1,7 +1,6 @@
 ---
 title: The Sale of Religious Instruction Considered Simony
 description: Simony is the practice of selling spiritual things, which thrived throughout the Middle Ages, and still exists today in a new form.
-category: History
 author: Conley Owens
 date: 2024-01-29T00:00:00.000Z
 image: /media/articles/simony.jpg

@@ -4,7 +4,6 @@ description: Should a ministry relationship, either in its initiation or
   continuation, ever be conditioned on the payment of a fee? Should the
   fulfillment of a biblical responsibility to care for God's people ever be
   conditioned on the payment of a fee?
-category: Application
 license: permission
 author: Deborah Dewart
 date: 2007-01-01T00:00:00.000Z

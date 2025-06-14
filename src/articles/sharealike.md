@@ -2,7 +2,6 @@
 title: The Problem with Creative Commons ShareAlike
 description: It is only through waiving every claim to works of ministry that
   the gospel may be freely given as it was freely received.
-category: Licensing & Copyright
 author: Conley Owens
 date: 2023-05-22T12:00:23.317Z
 image: /media/articles/sharealike.jpg

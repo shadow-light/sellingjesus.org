@@ -3,7 +3,6 @@ title: Why Moral Failing Invariably Accompanies the Sale of Biblical Instruction
 description: The sale of biblical instruction necessarily entails an ulterior motive of gain. As such, it constitutes a compromise of sincerity that will invariably manifest in other ways.
 title_h1: Speaking in the Sight of God
 title_h2: Why Moral Failing Invariably Accompanies the Sale of Biblical Instruction
-category: Theology
 author: Conley Owens
 date: 2025-05-20T00:00:00.000Z
 image: /media/articles/sincerity.jpg

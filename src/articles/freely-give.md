@@ -2,7 +2,6 @@
 title: The Command to Freely Give
 description: Jesus gives us a clear command regarding money and ministry, but do we still follow it today?
 image: /media/articles/freely-give.jpg
-category: Freely Give
 author: Jon Here
 date: 2023-02-14T00:00:00.000Z
 ---

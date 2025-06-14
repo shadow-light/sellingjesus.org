@@ -2,7 +2,6 @@
 title: Should Christian Ministry Be Supported by Ads?
 description: Some things in life require honor and respect, and shouldn't be
   turned into advertising opportunities.
-category: Application
 author: Andrew Case
 date: 2023-11-09T00:00:00.000Z
 image: /media/articles/ads.jpg

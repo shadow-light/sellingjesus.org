@@ -2,7 +2,6 @@
 title: 1 Corinthians 9 — Affirming Payment or Condemning It?
 description: 1 Corinthians 9 is a difficult passage to grasp. So difficult that many have missed its point entirely.
 image: /media/articles/1cor9.jpg
-category: Specific Passages
 author: Jon Here
 date: 2024-02-06T00:00:00.000Z
 ---

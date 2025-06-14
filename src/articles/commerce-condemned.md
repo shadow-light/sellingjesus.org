@@ -2,7 +2,6 @@
 title: Ten Times Commercializing Ministry Is Condemned
 description: Many have tried to profit from ministry, even back in biblical times.
 image: /media/articles/commerce-condemned.jpg
-category: Theology
 author: Jon Here
 date: 2023-03-21T00:00:00.000Z
 ---

@@ -2,7 +2,6 @@
 title: Blood Money and Its Connection to Ministry
 description: If blood donation can be supported, instead of sold, why can’t we do the same with Christian ministry?
 image: /media/articles/blood-money.jpg
-category: Application
 author: Andrew Case
 date: 2024-10-31T00:00:00.000Z
 ---
