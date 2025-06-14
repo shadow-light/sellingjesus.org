@@ -52,6 +52,7 @@ import {useShadowRoot} from 'vue'
 import InstantMessages from './_comp/InstantMessages.vue'
 import {data as articles_data} from './book_articles.data'
 import {data as profiles_data} from './book_profiles.data'
+import {articles_by_category} from '/@/_comp/articles'
 import convo_general from './learn/conversations_processed.json'
 import convo_corinthians from './learn/corinthians_processed.json'
 
@@ -77,51 +78,20 @@ function demote_headings(html:string){
 const articles = Object.fromEntries(articles_data.map(a => [a.url.split('/').pop(), a]))
 
 
-// Explicitly exclude
-delete articles['response-dr-b']
-
-
-// Hard-code order of articles by section
-const sections:Record<string, string[]> = {
-    "Freely Give": ['freely-give', 'freely-give-today', 'scope'],
-    "Theology": ['defining-ministry', 'commerce-condemned', 'biblical-funding', 'colabor', 'sincerity', 'buying', 'judas', 'prostitutes-wages'],
-    "Specific Passages": ['selling-truth', 'temple-cleansing', '1cor9', '1cor9-authority', 'commercializing-gods-word'],
-    "History": ['simony'],
-    "Application": ['should-preachers-be-paid', 'paying-pastors', 'covering-costs', 'biblical-counseling', 'ads', 'blood-money', 'pragmatism'],
-    "Licensing & Copyright": ['copyright-jesus-command-to-freely-give', 'copyright-and-the-bible', 'abuse', 'copyright-hijacking', 'sharealike'],
-    "Contemporary Commerce": ['bible-publishers', 'worship-tax', 'acbc', 'kjv'],
-}
-
-
-// Add any not yet hardcoded to "Additional" section
-// NOTE Should move out of this section before actually publishing, it's just to ensure nothing missed
-const all_hardcoded = Object.values(sections).flat()
-const additional = []
-for (const id in articles){
-    if (!articles[id].frontmatter.category){
-        continue  // No category is for April fools etc
-    }
-    if (articles[id].frontmatter.license){
-        continue  // Exclude anything with a license (not public domain)
-    }
-    if (!all_hardcoded.includes(id)){
-        additional.push(id)
-    }
-}
-if (additional.length){
-    sections["Additional"] = additional
-}
-
-
-// Concat all by section
+// Concat all by category
 let articles_html = ''
 let ch = 1 + 3
-for (const section in sections){
+for (const category in articles_by_category){
 
-    articles_html += `<div class='section break'><h1>${section}</h1></div>`
+    articles_html += `<div class='section break'><h1>${category}</h1></div>`
 
-    for (const article_id of sections[section]){
+    for (const article_id of articles_by_category[category]){
         const article = articles[article_id]
+
+        // Exclude if not public domain
+        if (article.frontmatter.license){
+            continue
+        }
 
         // Add titles/etc before concating
         articles_html += '<div class="titles break">'
