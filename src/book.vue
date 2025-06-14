@@ -85,7 +85,7 @@ delete articles['response-dr-b']
 const sections:Record<string, string[]> = {
     "Freely Give": ['freely-give', 'freely-give-today', 'scope'],
     "History": ['simony'],
-    "Theology": ['defining-ministry', 'commerce-condemned', 'biblical-funding', 'colabor', 'sincerity', 'buying', 'judas'],
+    "Theology": ['defining-ministry', 'commerce-condemned', 'biblical-funding', 'colabor', 'sincerity', 'buying', 'judas', 'prostitutes-wages'],
     "Specific Passages": ['selling-truth', 'temple-cleansing', '1cor9', '1cor9-authority', 'commercializing-gods-word'],
     "Application": ['should-preachers-be-paid', 'paying-pastors', 'covering-costs', 'biblical-counseling', 'ads', 'blood-money', 'pragmatism'],
     "Licensing & Copyright": ['copyright-jesus-command-to-freely-give', 'copyright-and-the-bible', 'abuse', 'copyright-hijacking', 'sharealike'],
