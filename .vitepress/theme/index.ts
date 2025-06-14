@@ -56,11 +56,16 @@ export default {
                 }
 
                 // Detect references only within the content part of the page
+                // NOTE VitePress seems to have a bug where page not mounted yet
+                //      on first load during dev,
+                //      and nextTick didn't work, so resorting to setTimeout
                 const selector = '.VPDoc > .container > .content'
-                const doc = document.querySelector(selector) as HTMLElement
-                if (doc){
-                    enhancer.discover_bible_references(doc)
-                }
+                setTimeout(() => {
+                    const doc:HTMLElement|null = document.querySelector(selector)
+                    if (doc){
+                        enhancer!.discover_bible_references(doc)
+                    }
+                }, 1)
             }
 
             // Preserve lang query param when navigating so that sharing URL preserves language choice
