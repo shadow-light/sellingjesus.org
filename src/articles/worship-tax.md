@@ -1,7 +1,7 @@
 ---
 title: The Worship Tax
 description: How church worship is exploited by the Christian music industry for commercial gain, despite religious exemptions for churches.
-category: Specific Ministries
+category: Contemporary Commerce
 author: Jon Here
 date: 2024-04-07T00:00:00.000Z
 image: /media/articles/worship-tax.jpg

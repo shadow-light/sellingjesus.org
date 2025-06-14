@@ -1,7 +1,7 @@
 ---
 title: The KJV Is Still Restricted by Copyright
 description: From its inception, the KJV has been tightly managed under the Crown's perpetual copyright in the United Kingdom.
-category: Specific Ministries
+category: Contemporary Commerce
 author: Andrew Case
 date: 2025-01-27T00:00:00.000Z
 image: /media/articles/kjv.jpg

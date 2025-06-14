@@ -301,7 +301,7 @@ export const cms_config:CmsConfig = {
                 field_title,
                 field_desc,
                 {name: 'category', label: "Category", widget: 'select',
-                    options: ["Theology", "Specific Passages", "Application", "Licensing & Copyright", "Specific Ministries", "History", "Responses"],
+                    options: ["Theology", "Specific Passages", "Application", "Licensing & Copyright", "Contemporary Commerce", "History", "Responses"],
                 },
                 {
                     name: 'author',

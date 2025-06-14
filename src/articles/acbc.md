@@ -5,7 +5,7 @@ description: "The Association of Certified Biblical Counselors, contrary to
   whether or not they will charge, and how much. In doing so unintentionally
   undermine their foundational premise that the Bible is sufficient for giving
   us direction for life and ministry. "
-category: Specific Ministries
+category: Contemporary Commerce
 author: Sarah Owens
 date: 2023-11-29T00:00:00.000Z
 image: /media/articles/acbc.jpg

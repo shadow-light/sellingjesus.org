@@ -89,7 +89,7 @@ const sections:Record<string, string[]> = {
     "History": ['simony'],
     "Application": ['should-preachers-be-paid', 'paying-pastors', 'covering-costs', 'biblical-counseling', 'ads', 'blood-money', 'pragmatism'],
     "Licensing & Copyright": ['copyright-jesus-command-to-freely-give', 'copyright-and-the-bible', 'abuse', 'copyright-hijacking', 'sharealike'],
-    "Specific Ministries": ['bible-publishers', 'worship-tax', 'acbc', 'kjv'],
+    "Contemporary Commerce": ['bible-publishers', 'worship-tax', 'acbc', 'kjv'],
 }
 
 

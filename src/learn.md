@@ -15,7 +15,7 @@ const categories = {
     "Application": ['should-preachers-be-paid', 'paying-pastors', 'covering-costs', 'biblical-counseling', 'counseling-fees', 'ads'],
     "Licensing & Copyright": ['copyright-jesus-command-to-freely-give', 'copyright-and-the-bible', 'letting-go'],
     "Specific Passages": ['selling-truth', 'temple-cleansing', '1cor9', '1cor9-authority', 'commercializing-gods-word'],
-    "Specific Ministries": ['bible-publishers', 'worship-tax', 'acbc'],
+    "Contemporary Commerce": ['bible-publishers', 'worship-tax', 'acbc'],
     "History": ['simony'],
     "Responses": [],
 }

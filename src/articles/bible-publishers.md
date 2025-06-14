@@ -1,7 +1,7 @@
 ---
 title: Bible Publishers - Stewards or Gatekeepers?
 description: The church has gradually handed God's Word over to businesses that claim it as their own.
-category: Specific Ministries
+category: Contemporary Commerce
 author: Jon Here
 date: 2023-10-30T00:00:00.000Z
 image: /media/articles/bible-publishers.jpg
