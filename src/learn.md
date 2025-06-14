@@ -4,41 +4,8 @@ aside: false
 
 <script lang='ts' setup>
 
-import {data as articles} from './articles.data'
+import {articles_by_category} from '@/_comp/articles'
 
-
-// Group articles by category
-// NOTE Main categories/articles hard-coded to preserve order, but more may be added (to end)
-const categories = {
-    "Freely Give": ['freely-give'],
-    "Theology": ['defining-ministry', 'commerce-condemned', 'biblical-funding', 'colabor'],
-    "Application": ['should-preachers-be-paid', 'paying-pastors', 'covering-costs', 'biblical-counseling', 'counseling-fees', 'ads'],
-    "Licensing & Copyright": ['copyright-jesus-command-to-freely-give', 'copyright-and-the-bible', 'letting-go'],
-    "Specific Passages": ['selling-truth', 'temple-cleansing', '1cor9', '1cor9-authority', 'commercializing-gods-word'],
-    "Contemporary Commerce": ['bible-publishers', 'worship-tax', 'acbc'],
-    "History": ['simony'],
-    "Responses": [],
-}
-
-for (const article of articles){
-
-    // Ignore if no category
-    const category = article.frontmatter.category
-    if (!category){
-        continue
-    }
-
-    // Add category if it hasn't been hard-coded (for order) yet
-    if (! (category in categories)){
-        categories[category] = []
-    }
-
-    // Add article
-    const article_id = article.url.split('/').pop()
-    if (!categories[category].includes(article_id)){
-        categories[category].push(article_id)
-    }
-}
 
 </script>
 
@@ -129,7 +96,7 @@ We're a group of pastors and disciples of Jesus, who love him and want everyone 
 ## Articles
 
 <div class='categories'>
-    <div v-for='[category, articles] in Object.entries(categories)'>
+    <div v-for='[category, articles] in Object.entries(articles_by_category)'>
         <h3>{{ category }}</h3>
         <ArticlePreview v-for='(article, i) of articles' :id='article' :short='i !== 0'></ArticlePreview>
     </div>
