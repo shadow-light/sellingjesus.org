@@ -19,10 +19,10 @@ export const articles_by_category:Record<string, string[]> = {
     ],
     "Specific Passages": [
         'selling-truth',
-        'temple-cleansing',
+        'commercializing-gods-word',
         '1cor9',
         '1cor9-authority',
-        'commercializing-gods-word',
+        'temple-cleansing',
     ],
     "History": [
         'simony',
@@ -34,7 +34,6 @@ export const articles_by_category:Record<string, string[]> = {
         'biblical-counseling',
         'counseling-fees',
         'ads',
-        'blood-money',
         'pragmatism',
     ],
     "Copyright & Licensing": [
@@ -50,6 +49,7 @@ export const articles_by_category:Record<string, string[]> = {
         'worship-tax',
         'acbc',
         'kjv',
+        'blood-money',
     ],
 }
 
