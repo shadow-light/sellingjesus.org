@@ -23,7 +23,8 @@ const props = defineProps<{url:string, image:string, number?:number, title:strin
     square?:boolean, short?:boolean, paywall?:string}>()
 
 const target = computed(() => {
-    return props.url.startsWith('http') ? '_blank' : ''
+    // NOTE Ensure null if disabled, otherwise target exists and results in page reload
+    return props.url.startsWith('http') ? '_blank' : null
 })
 
 const zeroes = computed(() => props.number ? '000'.slice(props.number.toString().length) : '')
