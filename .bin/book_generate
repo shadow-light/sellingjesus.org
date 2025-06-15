@@ -1,16 +1,17 @@
 #!/bin/bash
 set -e
-cd "$(dirname "$(dirname "$0")")/book"
+cd "$(dirname "$(dirname "$0")")"
 
-
-# Ensure shared dir exists
-mkdir -p shared
 
 # Build HTML
 if [[ "$1" != "--skip" ]]; then
-    ../.bin/build
+    BUILD_BOOK=true node_modules/.bin/vitepress build --outDir book/dist
 fi
-cp ../dist/book.html shared/book.html
+
+# Copy book's HTML
+cd book
+mkdir -p shared
+cp dist/book.html shared/book.html
 
 # Build CSS
 ../node_modules/.bin/sass ../src/book.sass shared/book.css

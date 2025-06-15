@@ -2,6 +2,7 @@
 import path from 'path'
 
 import MarkdownPluginFootnote from 'markdown-it-footnote'
+import MarkdownPluginFootnoteBook from './plugin_book_footnotes.mjs'
 import {defineConfig} from 'vitepress'
 
 import settings from '../settings.json'
@@ -75,7 +76,12 @@ export default defineConfig({
     markdown: {
         config: (md) => {
             md.options.typographer = true
-            md.use(MarkdownPluginFootnote)
+            // Book has different rendering of footnotes
+            if (process.env.BUILD_BOOK){
+                md.use(MarkdownPluginFootnoteBook)
+            } else {
+                md.use(MarkdownPluginFootnote)
+            }
         },
     },
     themeConfig: {
