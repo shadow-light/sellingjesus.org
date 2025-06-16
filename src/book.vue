@@ -27,14 +27,14 @@ div.book
 
     div.convos
         div(class="titles break")
-            h2(id="chapter-convo-general") 2.&nbsp;&nbsp;Conversations about Selling Jesus
+            h2(id="chapter-convo-general") Conversations about Selling Jesus
             div(class="author") Andrew Case
 
         div(v-html='convo_general.intro')
         InstantMessages(file_id='conversations' :topics='convo_general.topics' book)
 
         div(class="titles break")
-            h2(id="chapter-convo-corinthians") 3.&nbsp;&nbsp;Conversations between Paul and the Corinthians
+            h2(id="chapter-convo-corinthians") Conversations between Paul and the Corinthians
             div(class="author") Conley Owens
 
         div(v-html='convo_corinthians.intro')
@@ -129,7 +129,6 @@ console.warn(`No category for articles: ${no_cat.join(', ')}`)
 
 // Concat all by category
 let articles_html = ''
-let ch = 1 + 3
 for (const category in articles_by_category){
 
     articles_html += `<div class='section break'><h1>${category}</h1></div>`
@@ -146,14 +145,13 @@ for (const category in articles_by_category){
         articles_html += '<div class="titles break">'
         const title = article.frontmatter.title_h1 || article.frontmatter.title
         const subtitle = article.frontmatter.title_h2
-        articles_html += `<h2 id="chapter-${article_id}">${ch}.&nbsp;&nbsp;${title}</h2>`
+        articles_html += `<h2 id="chapter-${article_id}">${title}</h2>`
         if (subtitle){
             articles_html += `<div class="subtitle">${subtitle}</div>`
         }
         articles_html += `<div class="author">${article.frontmatter.author}</div>`
         articles_html += '</div>'
         articles_html += inline_footnotes(demote_headings(article.html))
-        ch++
         articles_html += `<div class='website'>An online version of this article, with links to sources, is available at:<br>https://sellingjesus.org/articles/${article_id}</div>`
     }
 }
@@ -162,7 +160,7 @@ for (const category in articles_by_category){
 // Prepare profiles HTML
 const profiles_title = `
     <div class="titles">
-        <h2 id="chapter-profiles">1.&nbsp;&nbsp;Christians Who Sell Jesus</h2>
+        <h2 id="chapter-profiles">Christians Who Sell Jesus</h2>
         <div class="author">Andrew Case</div>
     </div>
 `
