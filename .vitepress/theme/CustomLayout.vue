@@ -15,9 +15,15 @@ Layout(:class='page_id')
         PersonBio(v-if='frontmatter.author' :name='frontmatter.author')
     template(#doc-bottom)
         div.pd
-            | All original content is freely given and <a href='/free'>dedicated to the public domain</a>.
-            br
-            | <a href='/ianal'>We do not give legal advice.</a>
+            div
+                a(href='https://copy.church' target='_blank') Let's copy, church
+                | &nbsp;|&nbsp;
+                a(href='https://thedoreanprinciple.org/' target='_blank') The Dorean Principle
+                | &nbsp;|&nbsp;
+                a(href='https://www.doreancon.org/' target='_blank') Doreancon
+            div All original content is freely given and #[a(href='/free') dedicated to the public domain].
+            div
+                a(href='/ianal') We do not give legal advice.
     template(#home-hero-image)
         VideoPlayer(address='https://d2dho1yua3fd92.cloudfront.net/introduction.mp4.dash/')
 
