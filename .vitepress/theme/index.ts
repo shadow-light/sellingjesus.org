@@ -48,6 +48,7 @@ export default {
                 if (!enhancer){
                     enhancer = new BibleEnhancer({
                         app_args: {hue: '152'},
+                        spaces_to_nbsp: true,
                         before_history_push: () => {
                             // Store scroll position for VitePress to prevent page jump
                             history.replaceState({scrollPosition: window.scrollY}, '')

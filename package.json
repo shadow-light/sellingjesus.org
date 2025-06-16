@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@gracious.tech/fetch-client": "^0.8.9",
-    "@gracious.tech/fetch-enhancer": "^1.0.0",
+    "@gracious.tech/fetch-enhancer": "^1.1.0",
     "decap-cms-app": "^3.3.0",
     "googleapis": "^137.1.0",
     "linkify-string": "^4.1.3",
