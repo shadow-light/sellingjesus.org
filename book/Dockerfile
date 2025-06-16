@@ -17,7 +17,7 @@ RUN mkdir -p /home/app/
 
 # Install all required python modules
 RUN python3 -m pip install --target /home/app/ \
-    boto3 "pypdf==5.*" "reportlab==4.*" "weasyprint==62.*"
+    boto3 "pypdf==5.*" "reportlab==4.*" "weasyprint==65.*"
 
 
 ## Create image that will actually be deployed
