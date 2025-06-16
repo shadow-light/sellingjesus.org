@@ -74,6 +74,50 @@ function demote_headings(html:string){
 }
 
 
+// Util to inline footnotes for an article
+function inline_footnotes(article:string){
+    const dom = new DOMParser().parseFromString(article, 'text/html')
+
+    // Replace all refs with actual footnote contents
+    dom.querySelectorAll('.footnote-ref').forEach(sup => {
+
+        // Identify the <li> with the contents
+        // WARN .href prepends "about:blank" for some reason
+        const id = (sup.firstChild as HTMLAnchorElement).href.split('#')[1]
+        const li = dom.querySelector('#' + id)
+        if (!li){
+            throw new Error("Couldn't get footnote contents")
+        }
+
+        // Create new <span> to hold contents with same attributes
+        const new_span = dom.createElement('span')
+        for (const attr of li.attributes){
+            new_span.setAttribute(attr.name, attr.value)
+        }
+
+        // Footnotes have 1 or more <p> children so flatten and separate with <br> instead
+        new_span.innerHTML = [...li.children].map(p => p.innerHTML).join('<br>')
+
+        // Replace the ref and remove the <li>
+        sup.replaceWith(new_span)
+        li.remove()
+    })
+
+    // Ensure moved all footnotes
+    // NOTE May not exist if no footnotes in article
+    if (dom.querySelector('.footnotes-list')?.innerHTML.trim()){
+        throw new Error("Didn't inline all footnotes")
+    }
+
+    // Remove old containers
+    dom.querySelector('.footnotes-sep')?.remove()
+    dom.querySelector('.footnotes')?.remove()
+
+    // Return new html
+    return dom.body.innerHTML
+}
+
+
 // Convert to object with ids
 const articles = Object.fromEntries(articles_data.map(a => [a.url.split('/').pop(), a]))
 
@@ -108,7 +152,7 @@ for (const category in articles_by_category){
         }
         articles_html += `<div class="author">${article.frontmatter.author}</div>`
         articles_html += '</div>'
-        articles_html += demote_headings(article.html)
+        articles_html += inline_footnotes(demote_headings(article.html))
         ch++
         articles_html += `<div class='website'>An online version of this article, with links to sources, is available at:<br>https://sellingjesus.org/articles/${article_id}</div>`
     }
