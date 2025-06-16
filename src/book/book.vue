@@ -172,7 +172,7 @@ for (const category in articles_by_category){
         articles_html += `<div class="author">${article.frontmatter.author}</div>`
         articles_html += '</div>'
         articles_html += inline_footnotes(demote_headings(article.html))
-        articles_html += `<div class='website'>An online version of this article, with links to sources, is available at:<br>https://sellingjesus.org/articles/${article_id}</div>`
+        articles_html += `<div class='website'>An online version of this article, with links to any sources, is available at:<br>https://sellingjesus.org/articles/${article_id}</div>`
     }
 
     // Append profiles to end of Application category
