@@ -33,9 +33,6 @@ RUN apk add --no-cache \
     libstdc++ pango zlib-dev jpeg-dev openjpeg-dev libffi-dev \
     msttcorefonts-installer
 
-# Copy in fonts that aren't available in the distro
-COPY fonts/ /usr/share/fonts/
-
 # Get Alpine to recognise the new fonts
 RUN update-ms-fonts
 RUN fc-cache --really-force --verbose
