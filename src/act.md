@@ -36,3 +36,10 @@ Follow any of our social accounts to read and discuss new material as we release
 If you use Facebook, you can also [join this discussion group](https://www.facebook.com/groups/doreanism). You should read at least some of [The Dorean Principle](https://thedoreanprinciple.org/) before joining, so you understand the arguments being put forward.
 
 You may also like to start your own group with friends who are interested in this topic.
+
+
+## Attend Doreancon
+
+Fellowship with other believers at a free conference on freely giving, or listen and engage with the talks online.
+
+<VPButton href='https://www.doreancon.org/' text="Doreancon website" />
