@@ -5,17 +5,13 @@ cd "$(dirname "$(dirname "$0")")"
 
 # Build HTML
 if [[ "$1" != "--skip" ]]; then
-    BUILD_BOOK=true node_modules/.bin/vitepress build --outDir book/dist
+    BUILD_BOOK=true node_modules/.bin/vitepress build --outDir book/shared/dist
 fi
 
-# Copy book's HTML
-cd book
-mkdir -p shared
-cp dist/book.html shared/book.html
-
 # Build CSS
-../node_modules/.bin/sass ../src/book.sass shared/book.css
+node_modules/.bin/sass src/book.sass book/shared/book.css
 
 # Render to PDF
+cd book
 sudo docker build -t sj_book .
 sudo docker run --rm --network=host -v "$PWD/shared":/home/app/shared sj_book
