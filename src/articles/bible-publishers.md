@@ -24,10 +24,10 @@ Some argue that Bible publishers are "generous" in allowing quotations of Script
 
 So while publishers do allow their Bible translations to be quoted up to certain limits, these terms do not go very far beyond what is already permissible under "fair use" laws, and in many cases are even more restrictive. The limits are as follows:
 
-| Translation | Verse limit | Scripture can be | Share whole book
-| - | - | - | -
-| <Badge type='danger' text="NIV" /> <Badge type='danger' text="ESV" /> <Badge type='danger' text="NLT" /> <Badge type='danger' text="NKJV" /> <Badge type='danger' text="NRSV" /> | 500 verses | 25% of work | No
-| <Badge type='danger' text="CSB" /> <Badge type='danger' text="NASB" /> <Badge type='danger' text="LSB" /> | 1000 verses | 50% of work | No
+| Translation               | Verse limit   | Scripture can be  | Share whole book
+| -                         | -             | -                 | -
+| NIV, ESV, NLT, NKJV, NRSV | 500 verses    | 25% of work       | No
+| CSB, NASB, LSB            | 1000 verses   | 50% of work       | No
 
 These limits are more permissive than fair use law in the sense that you are guaranteed to be able to use a certain number of verses, regardless of other factors. However, not by much. You still can't share a substantial part such as an entire book, even if it is only 13 verses like 2 John. More significantly, you can't share plain Scripture. Since Scripture can only comprise 25-50% of a work you have created, you must always accompany it with other commentary.
 
