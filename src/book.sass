@@ -81,6 +81,9 @@ p, blockquote, li, div
     orphans: 2
     widows: 2
 
+table
+    break-inside: avoid
+
 .footnote-item
     float: footnote
     font-size: 10pt  // NOT em since if inline in a blockquote it would be even further smaller
@@ -169,6 +172,7 @@ blockquote > p
 
 table
     width: 100%
+    text-align: left  // justify not good for short cells
 
 // COMMON
 
