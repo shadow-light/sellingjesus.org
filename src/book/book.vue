@@ -13,7 +13,7 @@ div.book
             img(src='https://copy.church/badges/sj_standard_pd.svg')
 
     div.toc(class='break')
-        h3 Contents
+        h2(class='center') Contents
         div
             a.toc-chapter(@click='goto("chapter-intro")' href='#chapter-intro') Introduction
         template(v-for='section of toc')
