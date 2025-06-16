@@ -53,14 +53,14 @@
         content: none
 
 @page :left
-    margin-right: 1in
+    margin-right: 0.875in  // 0.5 + 0.375 (recommended for 300-500 page book)
     @top-left
         content: counter(page)
     @top-center
         content: string(heading)
 
 @page :right
-    margin-left: 1in
+    margin-left: 0.875in
     @top-center
         content: string(heading)
     @top-right
