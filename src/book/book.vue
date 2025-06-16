@@ -14,14 +14,20 @@ div.book
 
     div.toc(class='break')
         h3 Contents
+        div
+            a.toc-chapter(@click='goto("chapter-intro")' href='#chapter-intro') Introduction
         template(v-for='section of toc')
             h3 {{ section.title }}
             div(v-for='chapter of section.chapters')
                 a.toc-chapter(@click='goto(chapter.id)' :href='"#" + chapter.id')
                     | {{ chapter.title }}
 
-    div.preface(class='break')
-        p Preface...
+    div.intro(class='break')
+        div.titles
+            h2(id="chapter-intro") Introduction
+            div(class="subtitle") A Christian Dystopia?
+            div(class="author") Andrew Case
+        template(v-html='page_intro.html')
 
     div.convos
         div(class="titles break")
@@ -49,7 +55,7 @@ import {useShadowRoot} from 'vue'
 
 import InstantMessages from '@/_comp/InstantMessages.vue'
 import {data as articles_data} from './book_articles.data'
-import {data as profiles_data} from './book_profiles.data'
+import {data as pages_data} from './pages.data'
 import {articles_by_category, article_ids} from '@/_comp/articles'
 import convo_general from '@/learn/conversations_processed.json'
 import convo_corinthians from '@/learn/corinthians_processed.json'
@@ -61,6 +67,11 @@ import styles from './book.sass?inline'
 defineOptions({
     styles: [styles],
 })
+
+
+// Unpack pages (order defined in imported file)
+const page_intro = pages_data[0]
+const page_profiles = pages_data[1]
 
 
 // Util to demote all headings in HTML
@@ -123,7 +134,7 @@ const profiles_title = `
         <div class="author">Andrew Case</div>
     </div>
 `
-const profiles_html = demote_headings(profiles_data[0].html)
+const profiles_html = demote_headings(page_profiles.html)
     .replace(/<h2.*?<\/h2>/, profiles_title)
 
 
@@ -183,10 +194,9 @@ interface OutlineSection {
 }
 
 const toc:OutlineSection[] = [
-    {title: "Introduction", chapters: [
-        {id: "chapter-profiles", title: "1. Christians Who Sell Jesus"},
-        {id: "chapter-convo-general", title: "2. Conversations about Selling Jesus"},
-        {id: "chapter-convo-corinthians", title: "3. Conversations between Paul and the Corinthians"},
+    {title: "Conversations", chapters: [
+        {id: "chapter-convo-general", title: "Conversations about Selling Jesus"},
+        {id: "chapter-convo-corinthians", title: "Conversations between Paul and the Corinthians"},
     ]},
 ]
 
