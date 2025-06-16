@@ -23,8 +23,6 @@ div.book
     div.preface(class='break')
         p Preface...
 
-    div(class='profiles_html break' v-html='profiles_html')
-
     div.convos
         div(class="titles break")
             h2(id="chapter-convo-general") Conversations about Selling Jesus
@@ -118,6 +116,17 @@ function inline_footnotes(article:string){
 }
 
 
+// Prepare profiles HTML
+const profiles_title = `
+    <div class="titles">
+        <h2 id="chapter-profiles">Christians Who Sell Jesus</h2>
+        <div class="author">Andrew Case</div>
+    </div>
+`
+const profiles_html = demote_headings(profiles_data[0].html)
+    .replace(/<h2.*?<\/h2>/, profiles_title)
+
+
 // Convert to object with ids
 const articles = Object.fromEntries(articles_data.map(a => [a.url.split('/').pop(), a]))
 
@@ -154,18 +163,12 @@ for (const category in articles_by_category){
         articles_html += inline_footnotes(demote_headings(article.html))
         articles_html += `<div class='website'>An online version of this article, with links to sources, is available at:<br>https://sellingjesus.org/articles/${article_id}</div>`
     }
+
+    // Append profiles to end of Application category
+    if (category === "Application"){
+        articles_html += `<div class='profiles_html break'>${profiles_html}</div>`
+    }
 }
-
-
-// Prepare profiles HTML
-const profiles_title = `
-    <div class="titles">
-        <h2 id="chapter-profiles">Christians Who Sell Jesus</h2>
-        <div class="author">Andrew Case</div>
-    </div>
-`
-const profiles_html = demote_headings(profiles_data[0].html)
-    .replace(/<h2.*?<\/h2>/, profiles_title)
 
 
 // Generate outline

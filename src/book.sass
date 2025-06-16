@@ -37,12 +37,16 @@
     @footnote
         border-top: 0.1mm solid black
 
-@page no-chapter
+@page category
     @top-left
         content: none
     @top-center
         content: none
     @top-right
+        content: none
+
+@page chapter-start
+    @top-center
         content: none
 
 @page :left
@@ -63,10 +67,11 @@ body
     counter-reset: chapter-footnote  // Init footnote counter high up so has global scope
 
 h1
-    page: no-chapter
+    page: category
     counter-set: chapter-footnote 0  // Reset footnote counter for every chapter
 
 h2
+    page: chapter-start
     string-set: heading content()
 
 h3, h4, h5, h6
@@ -86,7 +91,7 @@ table
 
 .footnote-item
     float: footnote
-    font-size: 10pt  // NOT em since if inline in a blockquote it would be even further smaller
+    font-size: 9pt  // NOT em since if inline in a blockquote it would be even further smaller
     counter-increment: chapter-footnote
 
 ::footnote-call
