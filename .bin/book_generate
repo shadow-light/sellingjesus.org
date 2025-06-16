@@ -9,7 +9,7 @@ if [[ "$1" != "--skip" ]]; then
 fi
 
 # Build CSS
-node_modules/.bin/sass src/book.sass book/shared/book.css
+node_modules/.bin/sass src/book/book.sass book/shared/book.css
 
 # Render to PDF
 cd book

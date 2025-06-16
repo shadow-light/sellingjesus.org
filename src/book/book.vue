@@ -47,12 +47,12 @@ div.book
 
 import {useShadowRoot} from 'vue'
 
-import InstantMessages from './_comp/InstantMessages.vue'
+import InstantMessages from '@/_comp/InstantMessages.vue'
 import {data as articles_data} from './book_articles.data'
 import {data as profiles_data} from './book_profiles.data'
 import {articles_by_category, article_ids} from '@/_comp/articles'
-import convo_general from './learn/conversations_processed.json'
-import convo_corinthians from './learn/corinthians_processed.json'
+import convo_general from '@/learn/conversations_processed.json'
+import convo_corinthians from '@/learn/corinthians_processed.json'
 
 import styles from './book.sass?inline'
 

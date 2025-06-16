@@ -17,7 +17,7 @@ def modified_url_fetcher(url):
 def create():
     # Render HTML to PDF
     font_config = FontConfiguration()
-    weasy_html = HTML(filename='shared/dist/book.html', url_fetcher=modified_url_fetcher)
+    weasy_html = HTML(filename='shared/dist/book/index.html', url_fetcher=modified_url_fetcher)
     weasy_css = CSS(filename='shared/book.css', url_fetcher=modified_url_fetcher, font_config=font_config)
     weasy_doc = weasy_html.render(stylesheets=[weasy_css], font_config=font_config)
     num_pages = len(weasy_doc.pages)
