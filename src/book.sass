@@ -34,6 +34,9 @@
         vertical-align: middle
         font-size: 9pt
 
+    @footnote
+        border-top: 0.1mm solid black
+
 @page no-chapter
     @top-left
         content: none
@@ -56,8 +59,12 @@
     @top-right
         content: counter(page)
 
+body
+    counter-reset: chapter-footnote  // Init footnote counter high up so has global scope
+
 h1
     page: no-chapter
+    counter-set: chapter-footnote 0  // Reset footnote counter for every chapter
 
 h2
     string-set: heading content()
@@ -74,6 +81,16 @@ p, blockquote, li, div
     orphans: 2
     widows: 2
 
+.footnote-item
+    float: footnote
+    font-size: 0.8em
+    counter-increment: chapter-footnote
+
+::footnote-call
+    content: counter(chapter-footnote)
+
+::footnote-marker
+    content: counter(chapter-footnote) ". "
 
 // FONTS
 
@@ -100,7 +117,7 @@ p, blockquote, li, div
 
 
 // GENERIC
-.book, body
+.book, html
     color: black
     font-family: 'Noto Serif Hebrew', 'Noto Serif Greek', 'Crimson Pro', serif
     font-size: 12pt
@@ -116,7 +133,7 @@ mark
 
 hr
     border-bottom-style: none
-    border-top: 1px solid black
+    border-top: 0.1mm solid black
     margin: 1em 0
 
 h1, h2
