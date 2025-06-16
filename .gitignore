@@ -4,6 +4,7 @@ node_modules/
 /dist/
 /.env
 /.vitepress/cache/
+/.vitepress/.temp/
 /src/learn/resources_processed.json
 /src/learn/conversations_processed.json
 /src/learn/corinthians_processed.json
