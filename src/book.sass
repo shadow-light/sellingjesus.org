@@ -93,27 +93,30 @@ p, blockquote, li, div
 ::footnote-marker
     content: counter(chapter-footnote) ". "
 
+
 // FONTS
 
-// Crimson Pro and Noto Serif Hebrew
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200..900;1,200..900&family=Noto+Serif+Hebrew:wdth,wght@62.5..100,100..900&display=swap')
+@font-face
+    font-family: 'Noto Serif Hebrew'
+    font-style: normal
+    font-weight: 400
+    src: url(@/_assets/fonts/noto_serif_hebrew.woff2) format('woff2')
+    unicode-range: U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F
 
-// Noto Serif Greek requires manual limiting of unicode range
 @font-face
-    font-family: 'Noto Serif Greek'  // greek-ext
+    font-family: 'EB Garamond Greek' // greek ext (ancient Greek)
     font-style: normal
     font-weight: 400
-    font-stretch: 100%
     font-display: swap
-    src: url(https://fonts.gstatic.com/s/notoserif/v23/ga6iaw1J5X9T9RW6j9bNVls-hfgvz8JcMofYTa32J4wsL2JAlAhZqFCTy8cKtq8.woff2) format('woff2')
+    src: url(@/_assets/fonts/eb_garamond_greek_ext.woff2) format('woff2')
     unicode-range: U+1F00-1FFF
+
 @font-face
-    font-family: 'Noto Serif Greek'  // greek
+    font-family: 'EB Garamond Greek' // greek
     font-style: normal
     font-weight: 400
-    font-stretch: 100%
     font-display: swap
-    src: url(https://fonts.gstatic.com/s/notoserif/v23/ga6iaw1J5X9T9RW6j9bNVls-hfgvz8JcMofYTa32J4wsL2JAlAhZqFCTxMcKtq8.woff2) format('woff2')
+    src: url(@/_assets/fonts/eb_garamond_greek.woff2) format('woff2')
     unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF
 
 
