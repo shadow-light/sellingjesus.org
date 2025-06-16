@@ -27,7 +27,7 @@ div.book
             h2(id="chapter-intro") Introduction
             div(class="subtitle") A Christian Dystopia?
             div(class="author") Andrew Case
-        template(v-html='page_intro.html')
+        div(v-html='page_intro.html')
 
     div.convos
         div(class="titles break")
