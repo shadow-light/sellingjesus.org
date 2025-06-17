@@ -5,6 +5,7 @@ Layout(:class='page_id')
     template(#nav-bar-content-after)
         ClientOnly
             TranslateButton.translate-nav
+            CountDown
     template(#nav-screen-content-after)
         ClientOnly
             TranslateButton.translate-menu
@@ -39,6 +40,7 @@ import {useData, useRoute} from 'vitepress'
 import ArticleIntro from './ArticleIntro.vue'
 import VideoPlayer from '../../src/_comp/VideoPlayer.vue'
 import TranslateButton from '../../src/_comp/TranslateButton.vue'
+import CountDown from '../../src/_comp/CountDown.vue'
 
 
 const {page, frontmatter} = useData()
