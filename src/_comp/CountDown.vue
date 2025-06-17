@@ -1,7 +1,7 @@
 
 <template lang="pug">
 
-a.widget(v-if='!takedown' :href='url')
+a.widget(v-if='!takedown' :href='url' target='_blank')
     div.name {{ name }}
     div.timer(v-if="countdown")
         | {{countdown.value}} {{countdown.unit}}{{countdown.value !== 1 ? 's' : ''}}
