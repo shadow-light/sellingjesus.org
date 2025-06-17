@@ -78,13 +78,31 @@ html.dark .VPNavBarMenuLink.active
         font-weight: normal !important
 
 
+// Show "More" dropdown when no space to display all nav items
+.VPNavScreenMenuGroup
+    display: none  // Never show the "More" option in narrow-width menu dropdown
+@media (max-width: 999px)
+    .VPNavBarMenuGroup ~ .VPNavBarMenuLink
+        display: none  // Hide links after the "More" when it's showing since it includes them
+@media (min-width: 1000px)
+    .VPNavBarMenuGroup
+        display: none  // Hide the "More" item when links are all visible
 
-
-// Don't show search keyboard shortcut
-.DocSearch-Button-Keys
-    visibility: hidden  // So still takes up space
+// Force search button to always be small to save navbar space (normally small only on narrow width)
+.VPNavBarSearch
+    padding-left: 0
+    .DocSearch-Button
+        padding: 0
+        background-color: transparent
+    .DocSearch-Button-Keys, .DocSearch-Button-Placeholder
+        display: none
+    .DocSearch-Search-Icon
+        margin-right: 0
+        width: 24px
+        height: 24px
 
 // Move search box to end of navbar so logo more prominent
+// But not on narrow width so that menu is the right-most item
 @media (min-width: 768px)
     .VPNavBarSearch
         order: 1

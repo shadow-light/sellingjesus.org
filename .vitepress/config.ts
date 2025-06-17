@@ -42,6 +42,15 @@ const videos_sidebar = [
 ]
 
 
+// These will be grouped under a "More" item when screen narrows
+const more_menu_items = [
+    {text: "Podcast", link: '/podcast', activeMatch: '/podcast'},
+    {text: "Graphics", link: '/graphics', activeMatch: '/graphics'},
+    {text: "Take Action", link: '/act', activeMatch: '/act'},
+    {text: "About", link: '/about', activeMatch: '/about'},
+]
+
+
 export default defineConfig({
     cleanUrls: true,  // Don't force `.html` on urls
     outDir: 'dist',
@@ -83,10 +92,8 @@ export default defineConfig({
         nav: [
             {text: "Articles", link: '/learn', activeMatch: '/(learn|articles)'},
             {text: "Videos", link: '/videos/documentary', activeMatch: '/videos'},
-            {text: "Podcast", link: '/podcast', activeMatch: '/podcast'},
-            {text: "Graphics", link: '/graphics', activeMatch: '/graphics'},
-            {text: "Take Action", link: '/act', activeMatch: '/act'},
-            {text: "About", link: '/about', activeMatch: '/about'},
+            {text: "More", items: more_menu_items},
+            ...more_menu_items,
         ],
         socialLinks: [
             {link: 'https://www.youtube.com/@SellingJesus', icon: 'youtube'},
