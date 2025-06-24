@@ -18,6 +18,9 @@ div.book
         img(src='https://copy.church/badges/sj_standard_pd.svg')
 
     div.third-page(class='break')
+        p Men buy and sell their fellow-men, and say, “Where is the evil?”
+        p &mdash; Uncle Tom's Cabin
+        p &nbsp;
         p Its leaders give judgment for a bribe;<br>its priests teach for a price;<br>its prophets practice divination for money.
         p Yet they lean on Yahweh and say,<br>“Is not Yahweh in our midst?<br>No disaster shall come upon us.”
         p &mdash; Micah 3:11
