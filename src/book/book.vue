@@ -4,13 +4,23 @@
 div.book
 
     div.first-page
-        h1 Abolish the Jesus Trade
-        h3 The Joy of Freely Giving
-        h3 By Andrew Case, Conley Owens, Jon Here, and other contributors
-        h4 First Edition (July 2025)
+        h1
+            span ABOLISH
+            br
+            span the Jesus Trade
+
+    div.second-page(class='break')
+        p #[em Abolish the Jesus Trade: Spread the Joy of Freely Giving]
+        p 2025, Andrew Case, Conley Owens, Jon Here, and other contributors<br>First edition
+        p Published by #[em Selling Jesus]<br>sellingjesus.org
         div.dedication
-            p This book is freely given to the glory of God and dedicated to the public domain. It may be copied, translated, adapted, in whole or in part, without needing to ask permission. You can access this content digitally at sellingJesus.org
+            p This book is freely given to the glory of God and dedicated to the public domain. It may be copied, translated, adapted, in whole or in part, without needing to ask permission. You can access this content digitally at sellingjesus.org
             img(src='https://copy.church/badges/sj_standard_pd.svg')
+
+    div.third-page(class='break')
+        p Its leaders give judgment for a bribe;<br>its priests teach for a price;<br>its prophets practice divination for money.
+        p Yet they lean on Yahweh and say,<br>“Is not Yahweh in our midst?<br>No disaster shall come upon us.”
+        p &mdash; Micah 3:11
 
     div.toc(class='break')
         h2(class='center') Contents
