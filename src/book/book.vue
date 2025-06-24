@@ -13,9 +13,9 @@ div.book
         p #[em Abolish the Jesus Trade: Spread the Joy of Freely Giving]
         p 2025, Andrew Case, Conley Owens, Jon Here, and other contributors<br>First edition
         p Published by #[em Selling Jesus]<br>sellingjesus.org
-        div.dedication
-            p This book is freely given to the glory of God and dedicated to the public domain. It may be copied, translated, adapted, in whole or in part, without needing to ask permission. You can access this content digitally at sellingjesus.org
-            img(src='https://copy.church/badges/sj_standard_pd.svg')
+        p &nbsp;
+        p This book is freely given to the glory of God and dedicated to the public domain. It may be copied, translated, adapted, in whole or in part, without needing to ask permission. You can access this content digitally at sellingjesus.org
+        img(src='https://copy.church/badges/sj_standard_pd.svg')
 
     div.third-page(class='break')
         p Its leaders give judgment for a bribe;<br>its priests teach for a price;<br>its prophets practice divination for money.
@@ -44,7 +44,7 @@ div.book
             h2(id="chapter-convo-general") Conversations about Selling Jesus
             div(class="author") Andrew Case
 
-        div(v-html='convo_general.intro')
+        p The following two chapters depict a fictional conversation between a young man named Tim and his pastor. Their conversational format and style is intended to help to make them more readable. We hope it serves as a simple introduction to some of the foundational topics of this book. Formal articles will follow, examining Scripture at greater depth.
         InstantMessages(file_id='conversations' :topics='convo_general.topics' book)
 
         div(class="titles break")
@@ -71,6 +71,12 @@ import convo_general from '@/learn/conversations_processed.json'
 import convo_corinthians from '@/learn/corinthians_processed.json'
 
 import styles from './book.sass?inline'
+
+
+// Delete descriptions of convo sections since only a couple have them and better to be consistent
+for (const convo of convo_general.topics){
+    convo.description = ""
+}
 
 
 // Need to manually inject book styles into shadow DOM
