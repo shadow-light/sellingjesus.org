@@ -34,6 +34,7 @@ export const articles_by_category:Record<string, string[]> = {
         'biblical-counseling',
         'counseling-fees',
         'ads',
+        'conferences',
         'pragmatism',
     ],
     "Copyright & Licensing": [
