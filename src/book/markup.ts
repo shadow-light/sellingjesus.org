@@ -13,7 +13,7 @@ function _linkify_ref(node:Text, match:PassageReferenceMatch){
     const remainder = ref_node.splitText(match.text.length)
 
     // Turn ref text into a link
-    const ref_a = document.createElement('a')
+    const ref_a = node.ownerDocument.createElement('a')
     ref_a.setAttribute('class', 'fb-enhancer-link')
     ref_a.textContent = match.text
     ref_node.replaceWith(ref_a)
@@ -36,7 +36,7 @@ export async function markup_references(root:HTMLElement,
 
     // Create DOM walker that will ignore subtrees identified by filter arg
     // NOTE Not excluding non-text nodes initially so can filter out whole subtrees if needed
-    const walker = document.createTreeWalker(root, NodeFilter.SHOW_ALL, node => {
+    const walker = root.ownerDocument.createTreeWalker(root, NodeFilter.SHOW_ALL, node => {
 
         // Process all text nodes
         if (node.nodeType === node.TEXT_NODE){
