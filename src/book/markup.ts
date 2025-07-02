@@ -3,6 +3,15 @@ import {PassageReference, PassageReferenceMatch, detect_references}
     from '@gracious.tech/bible-references'
 
 
+// Shadow global with own constants so don't need to polyfill
+const NodeFilter = {
+    FILTER_ACCEPT: 1,
+    FILTER_REJECT: 2,
+    FILTER_SKIP: 3,
+    SHOW_ALL: 0xFFFFFFFF,
+}
+
+
 // Util for turning a passage ref into an <a> element
 function _linkify_ref(node:Text, match:PassageReferenceMatch){
 
@@ -58,7 +67,7 @@ export async function markup_references(root:HTMLElement,
     // Get all relevant text nodes in advance (as modifying DOM will interrupt walk)
     const nodes:[Text, Generator<PassageReferenceMatch, null>, PassageReferenceMatch][] = []
     while (walker.nextNode()){
-        if (walker.currentNode.nodeType === Node.TEXT_NODE){
+        if (walker.currentNode.nodeType === walker.currentNode.TEXT_NODE){
             const detector = detect_references(walker.currentNode.textContent!)
             const match = detector.next().value
             if (match){
