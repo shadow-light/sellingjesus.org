@@ -40,7 +40,7 @@ div.book
             h2(id="chapter-intro") Introduction
             div(class="subtitle") A Christian Dystopia?
             div(class="author") Andrew Case
-        div(v-html='page_intro.html')
+        div(v-html='intro_html')
 
     div.convos
         div(class="titles break")
@@ -69,6 +69,7 @@ import {useShadowRoot} from 'vue'
 import InstantMessages from '@/_comp/InstantMessages.vue'
 import {data as articles_data} from './book_articles.data'
 import {data as pages_data} from './pages.data'
+import {markup_references} from './markup'
 import {articles_by_category, article_ids} from '@/_comp/articles'
 import convo_general from '@/learn/conversations_processed.json'
 import convo_corinthians from '@/learn/corinthians_processed.json'
@@ -99,6 +100,14 @@ function demote_headings(html:string){
         let newLevel = Math.min(parseInt(level) + 1, 6)
         return `<${slash}h${newLevel}`
     })
+}
+
+
+// Util to wrap all references in an <a>
+function wrap_refs(html:string){
+    const dom = new DOMParser().parseFromString(html, 'text/html')
+    markup_references(dom.body)
+    return dom.body.innerHTML
 }
 
 
@@ -146,6 +155,10 @@ function inline_footnotes(article:string){
 }
 
 
+// Prepare intro HTML
+const intro_html = wrap_refs(page_intro.html)
+
+
 // Prepare profiles HTML
 const profiles_title = `
     <div class="titles">
@@ -153,7 +166,7 @@ const profiles_title = `
         <div class="author">Andrew Case</div>
     </div>
 `
-const profiles_html = demote_headings(page_profiles.html)
+const profiles_html = wrap_refs(demote_headings(page_profiles.html))
     .replace(/<h2.*?<\/h2>/, profiles_title)
 
 
@@ -190,7 +203,7 @@ for (const category in articles_by_category){
         }
         articles_html += `<div class="author">${article.frontmatter.author}</div>`
         articles_html += '</div>'
-        articles_html += inline_footnotes(demote_headings(article.html))
+        articles_html += wrap_refs(inline_footnotes(demote_headings(article.html)))
         articles_html += `<div class='website'>An online version of this article, with links to any sources, is available at:<br>https://sellingjesus.org/articles/${article_id}</div>`
     }
 
