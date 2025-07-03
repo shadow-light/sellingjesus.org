@@ -52,7 +52,7 @@ One may object that this is a broken understanding of how the license works, but
 
 ## An objection considered
 
-Some have asserted that Creative Commons Attribution Share-Alike actually advances biblical concerns.  Consider the following image from Unfolding Word:^[Oakes, Perry. Equipping the Global Church to Translate the Bible into Its Own Language, https://unfolding-word.cdn.prismic.io/unfolding-word/a322c3aa-1338-42d0-a27a-01c4aac0597b_1-Equipping-the-Global-Church_Oakes.pdf]
+Some have asserted that Creative Commons Attribution Share-Alike actually advances biblical concerns.  Consider the following image from Unfolding Word:^[Oakes, Perry. [Equipping the Global Church to Translate the Bible into Its Own Language](https://unfolding-word.cdn.prismic.io/unfolding-word/a322c3aa-1338-42d0-a27a-01c4aac0597b_1-Equipping-the-Global-Church_Oakes.pdf)]
 
 <div style='text-align: center;'>
     <img src='/media/cc-by-sa-justification.jpg' alt="CC BY-SA diagram" style='display: inline;'>
