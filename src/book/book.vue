@@ -195,7 +195,13 @@ for (const category in articles_by_category){
 
     articles_html += `<div class='section break'><h1>${category}</h1></div>`
 
-    for (const article_id of articles_by_category[category]){
+    // Include 'bible-societies' in book but not site yet
+    const articles_for_category = [...articles_by_category[category]]
+    if (category === "History" && !articles_for_category.includes('bible-societies')){
+        articles_for_category.push('bible-societies')
+    }
+
+    for (const article_id of articles_for_category){
         const article = articles[article_id]
 
         // Exclude if not public domain
