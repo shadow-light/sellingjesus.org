@@ -53,8 +53,6 @@ The parallel with human blood is not the only or main reason Christian ministry 
 
 Instead of viewing ministry as an act of self-giving love, many evangelicals have embraced a business model. This worship of worldly market wisdom demoralizes spiritual relationships within the Body of Christ. Believers become consumers, and those offering Spirit-given ministry become service sellers. The holiness of ministry is lost, swallowed up by the same commercial logic that Titmuss warned about with blood.
 
-For those who want to dive deeper into these issues, we recommend reading [*The Dorean Principle*](https://thedoreanprinciple.org/) by Conley Owens​, which unpacks how the commercialization of Christianity violates biblical ethics. Additionally, exploring resources on this website (sellingJesus.org) can provide more reasons to resist the commodification of ministry and reclaim it as a free gift.
-
 
 [^1]: Kathleen McLaughlin, *Blood Money: The Story of Life, Death, and Profit Inside America's Blood Industry* (Atria, 2023), 42.
 [^2]: Wikipedia, [_Blood donation_](https://en.wikipedia.org/wiki/Blood_donation)

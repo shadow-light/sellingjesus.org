@@ -27,7 +27,7 @@ In 1 Corinthians 9:7 Paul asks, “Who serves as a soldier at his own expense?�
 
 Again, it’s important to emphasize that mixing financial incentives with spiritual and sacred things compromises the purity of motive and mission. And when ad revenue drives content, the focus can subtly shift from *serving*, to maximizing clicks.  
 
-Again, as we’ve said multiple times on this website, [Christian workers deserve wages](https://sellingjesus.org/articles/should-preachers-be-paid) (Luke 10:7), and ministries require financial resources. But biblical support stems from collaborative generosity, not commercial exchange. Those who receive blessings should give voluntarily to spread blessings to others. Any contribution must flow from the Spirit’s leading, not worldly coercion.
+Again, as we’ve said multiple times, [Christian workers deserve wages](https://sellingjesus.org/articles/should-preachers-be-paid) (Luke 10:7), and ministries require financial resources. But biblical support stems from collaborative generosity, not commercial exchange. Those who receive blessings should give voluntarily to spread blessings to others. Any contribution must flow from the Spirit’s leading, not worldly coercion.
 
 Paul echoed this principle by refusing to peddle the word of God (2 Cor 2:17). True ministers trust God to provide through His people. They don’t resort to treating others as impersonal revenue streams. 
 
