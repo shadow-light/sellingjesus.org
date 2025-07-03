@@ -40,7 +40,7 @@
         border-top: 0.1mm solid black
         padding-top: 0.05in
 
-@page category
+@page numberless
     @top-left
         content: none
     @top-center
@@ -70,7 +70,7 @@ body
     counter-reset: chapter-footnote  // Init footnote counter high up so has global scope
 
 h1
-    page: category
+    page: numberless
     counter-set: chapter-footnote 0  // Reset footnote counter for every chapter
 
 h2
@@ -236,6 +236,7 @@ table
 // SPECIFIC
 
 .first-page
+    page: numberless
     text-align: center
     margin-top: 2in
 
@@ -246,14 +247,24 @@ table
             font-size: 49pt
 
 .second-page
+    page: numberless
     margin-top: 2in
     img
         width: 2.5in
 
 
 .third-page
+    page: numberless
     margin-top: 2in
     text-align: center
+
+.toc
+    page: numberless
+
+    .toc-title
+        margin-top: 0
+        margin-bottom: 5mm
+        font-size: 1.5em
 
 .toc-chapter
     font-size: 0.9em

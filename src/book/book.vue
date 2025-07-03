@@ -26,11 +26,11 @@ div.book
         p &mdash; 2 Corinthians 2:17
 
     div.toc(class='break')
-        h2(class='center') Contents
+        h3.toc-title(class='center') Contents
         div
             a.toc-chapter(@click='goto("chapter-intro")' href='#chapter-intro') Introduction
         template(v-for='section of toc')
-            h3 {{ section.title }}
+            h4 {{ section.title }}
             div(v-for='chapter of section.chapters')
                 a.toc-chapter(@click='goto(chapter.id)' :href='"#" + chapter.id')
                     | {{ chapter.title }}
