@@ -57,9 +57,9 @@ For those who want to dive deeper into these issues, we recommend reading [*The 
 
 
 [^1]: Kathleen McLaughlin, *Blood Money: The Story of Life, Death, and Profit Inside America's Blood Industry* (Atria, 2023), 42.
-[^2]: https://en.wikipedia.org/wiki/Blood_donation
-[^3]: https://www.bbc.com/news/business-46197271
-[^4]: https://pmc.ncbi.nlm.nih.gov/articles/PMC3934296/
+[^2]: Wikipedia, [_Blood donation_](https://en.wikipedia.org/wiki/Blood_donation)
+[^3]: Padraig Belton, [_Should we pay people for donating blood?_](https://www.bbc.com/news/business-46197271), Nov 15, 2018.
+[^4]: Carlo Petrini, [_Production of plasma-derived medicinal products: ethical implications for blood donation and donors_](https://pmc.ncbi.nlm.nih.gov/articles/PMC3934296/), Feb 21, 2013.
 [^5]: Ibid.
-[^6]: https://www.regione.toscana.it/documents/10180/23327/inglese/e7ae21b0-d0a1-4156-a15d-4d2c3527bc89
+[^6]: [_Donating blood, the ethical principles_](https://web.archive.org/web/20250517081516/https://www.regione.toscana.it/documents/10180/23327/inglese/e7ae21b0-d0a1-4156-a15d-4d2c3527bc89)
 [^7]: See real examples of this in chapter 2 of McLaughlin, *Blood Money.*
