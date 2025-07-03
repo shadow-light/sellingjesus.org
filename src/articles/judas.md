@@ -31,7 +31,7 @@ Similarly, the one who sells Christian teaching sells what is not his to sell.  
 
 > As you go, preach this message: ‘The kingdom of heaven is near.’ Heal the sick, raise the dead, cleanse the lepers, drive out demons. Freely you have received; freely give. (Matthew 10:7-8)
 
-Moreover, since good news of the gospel is Christ himself (Rom. 16:25; 1 Cor. 1:23; Php 1:15), and the one who receives him possesses him as his own (1 John 5:12), the one who sells that message is not transacting in mere words, but in Christ himself, as did Judas.
+Moreover, since good news of the gospel is Christ himself (Rom 16:25; 1 Cor 1:23; Php 1:15), and the one who receives him possesses him as his own (1 John 5:12), the one who sells that message is not transacting in mere words, but in Christ himself, as did Judas.
 
 
 ## A Disregard for Heavenly Gain
@@ -40,7 +40,7 @@ Values are comparative.  Judas’s sin was not merely in valuing earthly riches,
 
 > If my preaching is voluntary, I have a reward. But if it is not voluntary, I am still entrusted with a responsibility. What then is my reward? That in preaching the gospel I may offer it free of charge, and so not use up my rights in preaching it. (1 Corinthians 9:17-18)
 
-The one who sells Christian teaching forfeits the heavenly reward available to those who offer the word of God freely.  Jesus himself described how those who give or pray for recognition among men trade a heavenly reward for an earthly one (Matt. 6:1-6).  The same applies to the work of preaching and teaching.  The one who exchanges the word for material honors does so at the expense of heavenly honors.
+The one who sells Christian teaching forfeits the heavenly reward available to those who offer the word of God freely.  Jesus himself described how those who give or pray for recognition among men trade a heavenly reward for an earthly one (Matt 6:1-6).  The same applies to the work of preaching and teaching.  The one who exchanges the word for material honors does so at the expense of heavenly honors.
 
 
 ## An Injury to the Kingdom
@@ -90,11 +90,11 @@ The prophet Zechariah encountered a situation that shares several details with t
 
 In summary,
 
-1. he is paid thirty pieces of silver (Matt. 27:3),
-2. the silver is cast into the temple (Matt. 27:5), and
-3. the silver is given to a potter (Matt. 27:7).
+1. he is paid thirty pieces of silver (Matt 27:3),
+2. the silver is cast into the temple (Matt 27:5), and
+3. the silver is given to a potter (Matt 27:7).
 
-Matthew himself testifies that Zechariah’s activity functions as a prophecy fulfilled by Judas (Matt. 27:9-10).[^2]
+Matthew himself testifies that Zechariah’s activity functions as a prophecy fulfilled by Judas (Matt 27:9-10).[^2]
 
 So what is the context of Zechariah?  His people are as a flock with poor shepherds. These men are hirelings, eager to gain wealth from the sheep through selling them, saying “Blessed be the LORD, for I am rich!” (Zec 11:4-5). As a sign to Judah, Zechariah is commanded by God to take the role of a shepherd, only to abandon the flock.
 
@@ -104,7 +104,7 @@ It is at this point that he breaks his staff and asks for payment, which he rece
 
 The picture of Judas is not primarily of one who harms the good shepherd, but one who has no care for the sheep and only wishes to profit from them. We should not narrowly interpret its significance or narrowly apply it.
 
-Any sin which takes place in the narratives of Scripture is given as an example for us to avoid (cf. 1 Cor. 10:6).  Those who would reject the similarities between the activities of Judas and peddlers of the word risk making the sin of Judas one that cannot be imitated today, and therefore it would be of no real caution to the church.
+Any sin which takes place in the narratives of Scripture is given as an example for us to avoid (cf. 1 Cor 10:6).  Those who would reject the similarities between the activities of Judas and peddlers of the word risk making the sin of Judas one that cannot be imitated today, and therefore it would be of no real caution to the church.
 
 
 ## Conclusion

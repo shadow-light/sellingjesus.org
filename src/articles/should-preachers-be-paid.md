@@ -11,9 +11,9 @@ image: /media/articles/preacher.jpg
 <podcast-player id="1wpCgDM5Xk97RKrNg0Tefa"></podcast-player>
 
 
-Jesus was clear that the preached word should be freely given (Matt. 10:8) and Paul spoke against being a peddler of the Word (2 Cor. 2:17). Given these embargos on commercial exchanges in ministry, one who desires to follow a biblical ethic may wonder whether a minister—in particular, a preacher—may even be paid at all. Out of such concern, some have forgone a reliable income in the work of the gospel to live as tent-makers,^[The term “tent-maker” comes from Paul’s work in a trade in order to fund his church-planting efforts (Acts 18:1-4).] and others have gone as far as abandoning ministry altogether, unable to navigate the difficulty.
+Jesus was clear that the preached word should be freely given (Matt 10:8) and Paul spoke against being a peddler of the Word (2 Cor 2:17). Given these embargos on commercial exchanges in ministry, one who desires to follow a biblical ethic may wonder whether a minister—in particular, a preacher—may even be paid at all. Out of such concern, some have forgone a reliable income in the work of the gospel to live as tent-makers,^[The term “tent-maker” comes from Paul’s work in a trade in order to fund his church-planting efforts (Acts 18:1-4).] and others have gone as far as abandoning ministry altogether, unable to navigate the difficulty.
 
-However, the Bible is clear that ministers should be financially supported. In the same context that Jesus commanded the disciples to “freely give” their message, he acknowledged that the worker is “worthy of his food” (Matt. 10:10). Paul also argued for the right of a minister to earn a living as he does ministry (1 Cor. 9:1-14).
+However, the Bible is clear that ministers should be financially supported. In the same context that Jesus commanded the disciples to “freely give” their message, he acknowledged that the worker is “worthy of his food” (Matt 10:10). Paul also argued for the right of a minister to earn a living as he does ministry (1 Cor 9:1-14).
 
 Ministry should be supported, but it shouldn’t be sold. So long as the gospel worker makes no exchange for his message, he is free to receive support. Let’s consider several implications of this distinction.
 
@@ -23,13 +23,13 @@ First, the Bible not only allows—but even commends—vocational ministry. Whil
 
 > When Silas and Timothy came down from Macedonia, Paul devoted himself *fully* to the word, testifying to the Jews that Jesus is the Christ. (Acts 18:5)
 
-Evidently, Silas and Timothy brought Paul financial support so that he might labor fulltime in the proclamation of the gospel. The churches of Macedonia were Paul’s primary external source of funding (Phil. 4:15), and elsewhere he confirms that they supplied his work in Corinth (2 Cor. 11:9).
+Evidently, Silas and Timothy brought Paul financial support so that he might labor fulltime in the proclamation of the gospel. The churches of Macedonia were Paul’s primary external source of funding (Phil 4:15), and elsewhere he confirms that they supplied his work in Corinth (2 Cor 11:9).
 
 Paul evidently preferred a focused ministry, and in his second letter to Timothy, he explains why this is ideal:
 
-> A soldier refrains from entangling himself in civilian affairs in order to please the one who enlisted him. (2 Tim. 2:4)
+> A soldier refrains from entangling himself in civilian affairs in order to please the one who enlisted him. (2 Tim 2:4)
 
-The Lord supplies his laborers with what they need, and for many he provides enough for full-time work. To forbid vocational ministry is to forbid what God has ordained (1 Cor. 9:14).
+The Lord supplies his laborers with what they need, and for many he provides enough for full-time work. To forbid vocational ministry is to forbid what God has ordained (1 Cor 9:14).
 
 ## Salaries
 
@@ -52,9 +52,9 @@ Should a minister’s regular paycheck then be counted as reciprocity or colabor
 
 Third, ministers may receive honorariums. Our concern for the support of preachers and other ministers does not end with those firmly installed in a congregation, but extends even to those who may work temporarily with various congregations.
 
-So what is an honorarium? In the New Testament, the term “honor” frequently denotes “price” or “value” (cf. Matt. 27:6–9; Acts 4:34; 5:2–3; 1 Tim. 5:17). Similarly, we use the word “honorarium” to speak of a sum given to a speaker. These may have the shape of commercial transactions—one providing the other with a service in exchange for a fee—but such a shape is not necessary.
+So what is an honorarium? In the New Testament, the term “honor” frequently denotes “price” or “value” (cf. Matt 27:6–9; Acts 4:34; 5:2–3; 1 Tim 5:17). Similarly, we use the word “honorarium” to speak of a sum given to a speaker. These may have the shape of commercial transactions—one providing the other with a service in exchange for a fee—but such a shape is not necessary.
 
-Used rightly, honorariums may be regarded as a fruitful means of supporting interim preachers and teachers. If the purpose of a church is to gather for the collective worship of God in the preaching and hearing of the Word, the congregation and preacher work toward the same end. Anchored by a mutual desire to properly honor God, a church provides an honorarium as an act of co­labor. If a regular preacher receives from his church in coordination with his labors among them, then a visiting preacher may do the same. This is why Paul could acknowledge that Peter was able to arrive at Cor­inth and receive financial support for his work there (cf. 1 Cor. 9:5).
+Used rightly, honorariums may be regarded as a fruitful means of supporting interim preachers and teachers. If the purpose of a church is to gather for the collective worship of God in the preaching and hearing of the Word, the congregation and preacher work toward the same end. Anchored by a mutual desire to properly honor God, a church provides an honorarium as an act of co­labor. If a regular preacher receives from his church in coordination with his labors among them, then a visiting preacher may do the same. This is why Paul could acknowledge that Peter was able to arrive at Cor­inth and receive financial support for his work there (cf. 1 Cor 9:5).
 
 ## Conclusion
 

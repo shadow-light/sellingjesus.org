@@ -9,7 +9,7 @@ image: /media/articles/freely-give-today.jpg
 
 <podcast-player id="3Zx16pQ1QsIFW3mhgOaZEA"></podcast-player>
 
-In Matthew 10:8, Jesus said “freely you received, freely give.”  One modern translation says, “you received without paying, give without pay.”  Many, including myself, have taken this as a clear indication that no minister should ever charge for ministry.  More particularly, this command continues to regulate biblical instruction today, forbidding teachers from selling biblical teaching.  I do not limit this to sermons, but believe it extends to gospel conferences, seminaries, Christian literature, etc. That is not to say that ministry shouldn’t be financially supported.  In the next two verses Jesus explains that ministers are to be supported, “a worker is worthy of his food.”  However, this support is to come through generous partners rather than sales of biblical teaching.  In the case of those initial disciples, it was to come through a “worthy house” (Matt. 10:11-12) or a “son of peace” (Luke 10:6-7) rather than from hearers in exchange for kingdom proclamation.
+In Matthew 10:8, Jesus said “freely you received, freely give.”  One modern translation says, “you received without paying, give without pay.”  Many, including myself, have taken this as a clear indication that no minister should ever charge for ministry.  More particularly, this command continues to regulate biblical instruction today, forbidding teachers from selling biblical teaching.  I do not limit this to sermons, but believe it extends to gospel conferences, seminaries, Christian literature, etc. That is not to say that ministry shouldn’t be financially supported.  In the next two verses Jesus explains that ministers are to be supported, “a worker is worthy of his food.”  However, this support is to come through generous partners rather than sales of biblical teaching.  In the case of those initial disciples, it was to come through a “worthy house” (Matt 10:11-12) or a “son of peace” (Luke 10:6-7) rather than from hearers in exchange for kingdom proclamation.
 
 Of course, there are many others who have rejected this interpretation, arguing that descriptive passages should not be read prescriptively.  And it's true: a narrative passage that contains a command does not necessarily imply that the command applies to us today.  In Jeremiah 13:1, the Lord tells Jeremiah to buy a loincloth, yet this does not mean that we should also buy a loincloth.  So, if Jesus tells the disciples to freely give, why does this necessarily imply we must freely give?  The primary key in biblical interpretation is context; does the context really indicate that this command applies to Christians today?
 
@@ -25,7 +25,7 @@ In full, Matthew 10:8 says, "Heal the sick, raise the dead, cleanse the lepers, 
 
 For the sake of transparency, it’s probably worth mentioning that there are a host of respectable Christian theologians—especially beginning in the 17th century—who have promoted this interpretation that the command to freely give only applies to miracles.  However, in my research on this matter, almost every theologian that has taken this position was contending with or trying to distance themselves from Quakers or Anabaptists more generally.  Many Anabaptist groups have historically rejected the idea that ministers should have regular financial support, and they often used this verse to promote their rejection of salaried ministers.  The orthodox contending with the heterodox found it easy to appeal to the miraculous context.  While I support salaried ministry, ministry regularly supported by financial partnership with other believers, I do not believe this to be the best response.
 
-Matthew 10:8 does indeed speak of miracles, but Jesus’ instructions to the disciples do not begin there.  Rather, he explains their activity in the preceding verse, “As you go, preach this message: ‘The kingdom of heaven is near’” (Matt. 10:7).  While it has a different nature than the various commands to perform miracles, it belongs in the same list.  The disciples are to freely do all of the above.  Just as they are to freely perform miracles, they are to freely proclaim the kingdom of heaven.  In other words, they are to freely proclaim the gospel.
+Matthew 10:8 does indeed speak of miracles, but Jesus’ instructions to the disciples do not begin there.  Rather, he explains their activity in the preceding verse, “As you go, preach this message: ‘The kingdom of heaven is near’” (Matt 10:7).  While it has a different nature than the various commands to perform miracles, it belongs in the same list.  The disciples are to freely do all of the above.  Just as they are to freely perform miracles, they are to freely proclaim the kingdom of heaven.  In other words, they are to freely proclaim the gospel.
 
 ## Objection 2: “Freely give” only applies to the first mission, not subsequent ones
 
@@ -49,7 +49,7 @@ Perhaps one might argue that the surrounding commands like “raise the dead” 
 
 One might concede that this applies to future missions, but only missions to the lost and not to believers.  After all, the disciples were sent to share the good news with those who had not heard it.
 
-Interestingly, Matthew 10 provides the perfect testing ground for this hypothesis since this first mission was *not* only to the lost, strictly speaking.  In verse 6, Jesus said, “Go rather to the lost sheep of Israel.”  It might be easy to focus on the notion of the "lost sheep", but the fact of the matter is that these were the visible people of God.   They were the people who had been entrusted with the oracles of God (Rom. 3:2).  They were the people who had heard the gospel preached beforehand to Abraham according to Galatians 3:8.  Undoubtedly, many of these people trusted in the coming Messiah and were the faithful ones the New Testament regards as awaiting the consolation of Israel (Luke 2:25).  Given that many in Israel were believers, this command most certainly applies to teaching believers as well.
+Interestingly, Matthew 10 provides the perfect testing ground for this hypothesis since this first mission was *not* only to the lost, strictly speaking.  In verse 6, Jesus said, “Go rather to the lost sheep of Israel.”  It might be easy to focus on the notion of the "lost sheep", but the fact of the matter is that these were the visible people of God.   They were the people who had been entrusted with the oracles of God (Rom 3:2).  They were the people who had heard the gospel preached beforehand to Abraham according to Galatians 3:8.  Undoubtedly, many of these people trusted in the coming Messiah and were the faithful ones the New Testament regards as awaiting the consolation of Israel (Luke 2:25).  Given that many in Israel were believers, this command most certainly applies to teaching believers as well.
 
 ## Objection #4: “Freely give” only applies to the gospel, not all biblical teaching
 
@@ -81,17 +81,17 @@ This does not only apply to the gospel which has been given to us freely, but to
 
 Is this not the understanding we are trying to impart? It is not an understanding that is taught naturally, but one that must be taught by the Spirit.
 
-This observation of motivation explains why we are willing to apply other parts of Matthew 10 to Christians today.  Why be wise as serpents and innocent as doves?  Because we are still sheep in the midst of wolves (Matt. 10:16).  Why should we anticipate persecution?  Because a disciple is still not above his teacher (Matt. 10:24).  Why should we not fear man?  Because man still cannot destroy the soul and we are still of more value than sparrows (Matt. 10:28-31).  Likewise, why should we freely give?  Because the enlightenment we are trying to impart still is not obtained naturally, but supernaturally.  Even today in our modern world, the message we have comes from special revelation and the illuminating work of the Spirit.
+This observation of motivation explains why we are willing to apply other parts of Matthew 10 to Christians today.  Why be wise as serpents and innocent as doves?  Because we are still sheep in the midst of wolves (Matt 10:16).  Why should we anticipate persecution?  Because a disciple is still not above his teacher (Matt 10:24).  Why should we not fear man?  Because man still cannot destroy the soul and we are still of more value than sparrows (Matt 10:28-31).  Likewise, why should we freely give?  Because the enlightenment we are trying to impart still is not obtained naturally, but supernaturally.  Even today in our modern world, the message we have comes from special revelation and the illuminating work of the Spirit.
 
 ## Positive Case #2: The rest of the New Testament confirms that we ministers must “freely give”
 
 I believe that one of the best pieces of evidence that the command to "freely give" applies broadly to biblical instruction, even in our era, is its confirmation elsewhere in Scripture.  These are numerous, and it is beyond the scope of this article to go into all of them, but it is worth listing several here.
 
-> What then is my reward? That in preaching the gospel I may offer it free of charge, and so not use up my rights in preaching it. (1 Cor. 9:18)
+> What then is my reward? That in preaching the gospel I may offer it free of charge, and so not use up my rights in preaching it. (1 Cor 9:18)
 
-> Was it a sin for me to humble myself in order to exalt you, because I preached the gospel of God to you free of charge (2 Cor. 11:7)
+> Was it a sin for me to humble myself in order to exalt you, because I preached the gospel of God to you free of charge (2 Cor 11:7)
 
-> For we are not like so many others, who peddle the word of God. On the contrary, in Christ we speak before God with sincerity, as men sent from God. (2 Cor. 2:17)
+> For we are not like so many others, who peddle the word of God. On the contrary, in Christ we speak before God with sincerity, as men sent from God. (2 Cor 2:17)
 
 > For they went out on behalf of the Name, accepting nothing from the Gentiles. Therefore we ought to support such men, so that we may be fellow workers for the truth. (3 John 7-8)
 
@@ -114,11 +114,11 @@ come to the waters;\
 and you without money,\
 come, buy, and eat!\
 Come, buy wine and milk\
-without money and without cost! (Isa. 55:1)
+without money and without cost! (Isa 55:1)
 
 The Bible itself even ends on this same note:
 
-> The Spirit and the bride say, “Come!” Let the one who hears say, “Come!” And let the one who is thirsty come, and the one who desires the water of life drink freely. (Rev. 22:17)
+> The Spirit and the bride say, “Come!” Let the one who hears say, “Come!” And let the one who is thirsty come, and the one who desires the water of life drink freely. (Rev 22:17)
 
 In Matthew 10:8, the disciples offer a message of free grace, and so they offer it freely.  We likewise offer a message of free grace, so we should offer it freely as well.
 

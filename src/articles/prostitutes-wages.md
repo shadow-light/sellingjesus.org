@@ -67,7 +67,7 @@ While the wages of a prostitute are not an acceptable sacrifice, that does not m
 
 > And at the end of seventy years, the LORD will restore Tyre. Then she will return to hire as a prostitute and sell herself to all the kingdoms on the face of the earth. Yet her profits and wages will be set apart to the LORD; they will not be stored or saved, for her profit will go to those who live before the LORD, for abundant food and fine clothing. (Isa 23:17-18)
 
-The surprising detail here is that the Lord will accept the prostitute’s wages. While Isaiah speaks in metaphor regarding the nation of Tyre, he indicates that the Lord will ultimately use such ill-gotten funds. This is a theme repeated several times in Scripture (Prov 13:22; Ecc 2:26; cf. Rom. 8:28). Those who grieve the sale of biblical teaching may rejoice in God’s ultimate purposes for it.
+The surprising detail here is that the Lord will accept the prostitute’s wages. While Isaiah speaks in metaphor regarding the nation of Tyre, he indicates that the Lord will ultimately use such ill-gotten funds. This is a theme repeated several times in Scripture (Prov 13:22; Ecc 2:26; cf. Rom 8:28). Those who grieve the sale of biblical teaching may rejoice in God’s ultimate purposes for it.
 
 
 ## The Lord’s Forgiveness of the Word-Peddler

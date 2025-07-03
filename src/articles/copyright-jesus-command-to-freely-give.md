@@ -54,7 +54,7 @@ Additionally, the involuntary nature of copyright precludes [colabor](https://th
 
 ## Copyright and Sincerity
 
-Stepping back and examining things through the lens of sincerity, we must question the earnestness of one who asserts all copyrights over the content of their ministry. If they impose restrictions or require payment, can they truly say that they operate as a servant of Christ (cf. 1 Cor. 9:16)? If they impose restrictions or require payment, can they truly say that they are a servant to all so that more might be won (cf. 1 Cor. 9:19)?
+Stepping back and examining things through the lens of sincerity, we must question the earnestness of one who asserts all copyrights over the content of their ministry. If they impose restrictions or require payment, can they truly say that they operate as a servant of Christ (cf. 1 Cor 9:16)? If they impose restrictions or require payment, can they truly say that they are a servant to all so that more might be won (cf. 1 Cor 9:19)?
 
 
 

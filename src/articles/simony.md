@@ -42,7 +42,7 @@ That is, theologians have historically grouped both the sin of Simon and the sin
 
 ## Objection 2: Simony Refers to Ordinations, Not Other Religious Things
 
-Ordination to church office involves the laying on of hands (1 Tim. 5:22).  In biblical examples, we also see this associated with an impartation of the Spirit (Acts 8:18; 2 Tim. 1:6).  While Protestants would generally (and correctly) regard this feature of laying on hands as reserved to the apostles, the assumption such a gift continues to be communicated by the laying on of hands led the purchase of ordinations in particular to be regarded as simony.  Just as Simon tried to buy the gift of the Spirit through the laying on of hands, crooked men who had obtained their office illicitly were guilty of attempting the same.
+Ordination to church office involves the laying on of hands (1 Tim 5:22).  In biblical examples, we also see this associated with an impartation of the Spirit (Acts 8:18; 2 Tim 1:6).  While Protestants would generally (and correctly) regard this feature of laying on hands as reserved to the apostles, the assumption such a gift continues to be communicated by the laying on of hands led the purchase of ordinations in particular to be regarded as simony.  Just as Simon tried to buy the gift of the Spirit through the laying on of hands, crooked men who had obtained their office illicitly were guilty of attempting the same.
 
 However, it should be clear that the heart of Simon’s sin extends to more than just matters that involve the laying on of hands.  Rather, the purchase or sale of any spiritual thing freely given by God constitutes a sin of like character.  Indeed, throughout history, theologians who addressed simony agreed on this, regularly defining it as a desire to exchange spiritual things for material things. For example, John Hus defined Simony as “an evil consent to exchange of spiritual goods for nonspiritual.”[^2]  Expositing Gregory the Great, one of the first to campaign heavily against simony in the church, he summarizes,
 
@@ -57,9 +57,9 @@ If simony is a desire to exchange spiritual things for material things, one migh
 However, this view misses what the Bible says about the nature of teaching within the church.  It is not a natural matter but a spiritual one.
 
 
-> We have not received the spirit of the world, but the Spirit who is from God, that we may understand what God has freely given us. And this is what we speak, not in words taught us by human wisdom, but in words taught by the Spirit, expressing spiritual truths in spiritual words. (1 Cor. 2:12-13)
+> We have not received the spirit of the world, but the Spirit who is from God, that we may understand what God has freely given us. And this is what we speak, not in words taught us by human wisdom, but in words taught by the Spirit, expressing spiritual truths in spiritual words. (1 Cor 2:12-13)
 
-Any minister who seeks to instruct others about the things of God should not be seeking to impart human wisdom, but words taught by the Spirit.  That is, successful Christian teaching involves a work of the Spirit who is freely given.  To charge for this would be discordant with the gracious gift of God (Matt. 10:8).
+Any minister who seeks to instruct others about the things of God should not be seeking to impart human wisdom, but words taught by the Spirit.  That is, successful Christian teaching involves a work of the Spirit who is freely given.  To charge for this would be discordant with the gracious gift of God (Matt 10:8).
 
 At this point, one may object on historical grounds, observing that past theologians did not regard the sale of religious instruction as simony.  While it was not common for works on simony to even address the matter of teaching, we do have at least one example of a theologian who was hesitant to label the sale of religious instruction as simony.  Wycliffe writes,
 
@@ -68,7 +68,7 @@ At this point, one may object on historical grounds, observing that past theolog
 
 A few aspects of Wycliffe’s argument should be considered before accepting it.  First, in context, he uses Isaiah 55:1 as evidence that teaching could be bought because it encourages people to “come and buy without money.”  Yet the call to buy _without money_ indicates that the grace of God should not be purchased at all, not that it should be purchased for a modest fee.  Second, Wycliffe implies that even baptism or communion (the sacraments themselves) could be bought and sold.  Third, Wycliffe is operating without working distinctions that would account for the call to supply ministers without a reciprocal exchange.
 
-This last point is crucial. [Scripture makes the distinction between reciprocity and colabor](https://sellingjesus.org/articles/colabor).  While Jesus says that ministers should freely give (Matt. 10:8), he commands that they be supported by kingdom citizens (Matt. 10:9-10).  While John says that missionaries should not charge those to whom they are sent (3 John 7), he also says that they should be supported by fellow workers (3 John 8).  Armed with this simple distinction, we are free to say that ministers should never charge for the work of ministry, though they should certainly expect God’s people to support the work, and even condition their continued labors on that continued support.
+This last point is crucial. [Scripture makes the distinction between reciprocity and colabor](https://sellingjesus.org/articles/colabor).  While Jesus says that ministers should freely give (Matt 10:8), he commands that they be supported by kingdom citizens (Matt 10:9-10).  While John says that missionaries should not charge those to whom they are sent (3 John 7), he also says that they should be supported by fellow workers (3 John 8).  Armed with this simple distinction, we are free to say that ministers should never charge for the work of ministry, though they should certainly expect God’s people to support the work, and even condition their continued labors on that continued support.
 
 What we see in Wycliffe is not a denial of this assessment but his attempt to wrestle with the matter of ministry fundraising apart from this reciprocity/colabor distinction.  This is by and large a product of his situation in the era in which he lived.  As the sale of ordinations ran rampant, he offers deep thoughts and distinctions on the matter.  As the commercial sale of teaching was not a similarly common issue, he settles for a minimal accounting on the matter.  We live in an era where the commercial sale of teaching is far more common; therefore, we are called to a greater clarity.
 
@@ -123,7 +123,7 @@ Though primarily a modern problem that takes a different shape than the sale of 
 The gospel has been given freely and should therefore be freely given.  The same is true for all revelation that has been handed down from on high.  To give such things freely is not a burden, but a wonderful privilege!
 
 
-> What then is my reward? That in preaching the gospel I may offer it free of charge, and so not use up my rights in preaching it. (1 Cor. 9:18)
+> What then is my reward? That in preaching the gospel I may offer it free of charge, and so not use up my rights in preaching it. (1 Cor 9:18)
 
 
 [^1]: Lombard, Peter. Sentences, 4.25.2

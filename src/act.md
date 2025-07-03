@@ -12,7 +12,7 @@ For book authors, there is also a detailed guide on [self-publishing a free book
 
 Raise these issues in conversations with your friends, family, church leaders, small group, etc. And share our podcast, videos, and website with as many people as possible. Simply do what any disciple of Jesus should do:
 
-> Preach the word; be prepared in season and out of season; reprove, rebuke, and encourage with every form of patient instruction. For the time will come when men will not tolerate sound doctrine, but with itching ears they will gather around themselves teachers to suit their own desires. (2 Tim. 4:2-3)
+> Preach the word; be prepared in season and out of season; reprove, rebuke, and encourage with every form of patient instruction. For the time will come when men will not tolerate sound doctrine, but with itching ears they will gather around themselves teachers to suit their own desires. (2 Tim 4:2-3)
 
 Share what Scripture says, using any one of the resources available on this site, or relevant passages straight from the Bible. The only way hearts and minds will change is if God's people discuss and submit themselves to his Word.
 

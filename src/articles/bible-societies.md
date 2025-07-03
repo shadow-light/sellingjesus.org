@@ -111,7 +111,7 @@ The transformation of Bible societies from charitable missions to commercial ent
 
 What began as a pure mission to give away God’s Word became a hybrid operation—part charity, part business. The founding ideal, rooted in the freely given grace of God, still lingered in the rhetoric, but the economic structures told another story. The Bible societies had not become for-profit corporations in name, but they had become commercial enterprises in practice. And the Bible, once held to be a gift without price, now had a price tag attached—even if only to fund its own distribution. The ends had justified the means.
 
-The legacy of that transformation continues today. Modern Bible societies rely on copyright to fund their operations and control their texts, often preventing others from freely copying and sharing the Scriptures. The challenge for the 21st-century church is to recover the original vision: that the Word of God may “run freely and be glorified” (2 Thess. 3:1)—not just spiritually, but legally and economically as well.
+The legacy of that transformation continues today. Modern Bible societies rely on copyright to fund their operations and control their texts, often preventing others from freely copying and sharing the Scriptures. The challenge for the 21st-century church is to recover the original vision: that the Word of God may “run freely and be glorified” (2 Thess 3:1)—not just spiritually, but legally and economically as well.
 
 
 [^1]: David Paul Nord, “Benevolent Capital: Financing Evangelical Book Publishing in Early Nineteenth-Century America,” in _God and Mammon: Protestants, Money, and the Market, 1790–1860_, ed. Mark A. Noll (Oxford: Oxford University Press, 2001), 147.

@@ -15,6 +15,6 @@ One of the greatest challenges in global Bible translation has been the need for
 
 Even apart from translation, Bible study software often is unable to ship versions like the ESV due to licensing issues. Even when sufficient funding exists, publishers refuse to work with smaller players in order to avoid the hassle. Additionally, scholars may develop commentaries and ministers may now develop Bible study materials without concerns over copyright restrictions.
 
-Crossway’s action is a reminder that God’s Word is not bound—it is meant to go forth freely to every nation, tribe, and tongue (Matt. 10:8; 2 Cor. 2:17). This is truly a reason for thanksgiving, or at least it would be if we were announcing this on any other day of the year.
+Crossway’s action is a reminder that God’s Word is not bound—it is meant to go forth freely to every nation, tribe, and tongue (Matt 10:8; 2 Cor 2:17). This is truly a reason for thanksgiving, or at least it would be if we were announcing this on any other day of the year.
 
 To learn about why the Word of God should be distributed without copyright restrictions, please see _[Bible Publishers - Stewards or Gatekeepers?](https://sellingjesus.org/articles/bible-publishers)_ For a modern public domain translation of the Scriptures that is available right now, check out the [Berean Standard Bible](https://bsb.freely.giving/).

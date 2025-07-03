@@ -26,11 +26,11 @@ Typically, this label of “simony” is attached to the activity of those who w
 
 ## Purchasing Biblical Teaching May Be A Sin
 
-We should recognize that commerce around Christian teaching fits within this category, and therefore may also be a sin. The one who attempts to purchase Christian teaching is not merely attempting to purchase raw knowledge, a set of propositions and dry information about the Christian faith; they seek to effect in themselves a work of the Spirit of God, who not only propositionally communicates to them the truth of God, but experientially communicates to them the goodness of God so that it would not be rejected (1 Cor. 2:14). This spiritual enlightenment happens through a human teacher as an instrument, but its agent is the Holy Spirit.
+We should recognize that commerce around Christian teaching fits within this category, and therefore may also be a sin. The one who attempts to purchase Christian teaching is not merely attempting to purchase raw knowledge, a set of propositions and dry information about the Christian faith; they seek to effect in themselves a work of the Spirit of God, who not only propositionally communicates to them the truth of God, but experientially communicates to them the goodness of God so that it would not be rejected (1 Cor 2:14). This spiritual enlightenment happens through a human teacher as an instrument, but its agent is the Holy Spirit.
 
 > We have not received the spirit of the world, but the Spirit who is from God, that we may understand what God has freely given us. And this is what we speak, not in words taught us by human wisdom, but in words taught by the Spirit, expressing spiritual truths in spiritual words. (1 Corinthians 2:12-13)
 
-Note that Paul speaks of such truth as being freely given. If such truth is freely given by God, then it must be freely given by man in order to obey the command of Christ: “freely you received, freely give” (Matt. 10:8).
+Note that Paul speaks of such truth as being freely given. If such truth is freely given by God, then it must be freely given by man in order to obey the command of Christ: “freely you received, freely give” (Matt 10:8).
 
 More to our point, if the one who purchases Christian teaching ultimately seeks to purchase an effect of the Spirit, he engages in the same sin as Simon.
 
@@ -99,7 +99,7 @@ The Aristotelian categories of _material causes_ and _formal causes_ provide use
 * __Material but not formal obedience__: You reject the gang’s supposed authority but pay the money anyway so that your storefront is not harmed.
 * __Neither material nor formal obedience__: You keep your money and face the consequences.
 
-While it is permissible to pay off the gang to protect yourself, it would be wrong to treat the racket as though it were an honorable system (Isa. 5:20). Therefore, the first approach would be sinful, but either of the latter two options are permissible.
+While it is permissible to pay off the gang to protect yourself, it would be wrong to treat the racket as though it were an honorable system (Isa 5:20). Therefore, the first approach would be sinful, but either of the latter two options are permissible.
 
 We can apply these categories to our question of simony. Let us distinguish between _material commodification_ and _formal commodification_. Commodification refers to the process of making something a matter of commerce,[^3] so material commodification would be making something a matter of commerce outwardly by selling or purchasing it, and formal commodification would be doing so inwardly by regarding it as something to be bought and sold. Let’s consider a situation where there is a commentary on the book of Acts in an e-book format available for $20.
 
@@ -141,7 +141,7 @@ In that vein, a few personal examples may be helpful here:
 
 Because these remarks involve concessions to differing circumstances, they may seem like a hodgepodge of [unprincipled pragmatism](/articles/pragmatism). Hopefully, the previous distinctions between material and formal commoditization make it clear why they are not. Where actions are permissible, wisdom must be employed for biblical priorities to be kept in order.
 
-Most people who have tried to live the Christian life faithfully recognize the need for such wisdom decisions. Many have zealously participated in boycotts against products that come from companies lacking Christian values only to later realize the number of similarly compromised corporations. The quantity is so great that they could not sustain their boycott at the scale needed to do so consistently. The Lord has not called us to avoid all interactions with evil things, but only to be wise about them (1 Cor. 5:9-10). Some have attempted to do so via hermitage, but this is itself forbidden (Prov. 18:1).
+Most people who have tried to live the Christian life faithfully recognize the need for such wisdom decisions. Many have zealously participated in boycotts against products that come from companies lacking Christian values only to later realize the number of similarly compromised corporations. The quantity is so great that they could not sustain their boycott at the scale needed to do so consistently. The Lord has not called us to avoid all interactions with evil things, but only to be wise about them (1 Cor 5:9-10). Some have attempted to do so via hermitage, but this is itself forbidden (Prov 18:1).
 
 
 ## Conclusion

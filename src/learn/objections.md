@@ -30,13 +30,13 @@ We have not received the spirit of the world, but the Spirit who is from God, th
 
 Is this not the understanding we are trying to impart? It is not an understanding that is taught naturally, but one that must be taught by the Spirit.
 
-This observation of motivation explains why we are willing to apply other parts of Matthew 10 to Christians today.  Why be wise as serpents and innocent as doves?  Because we are still sheep in the midst of wolves (Matt. 10:16).  Why should we anticipate persecution?  Because a disciple is still not above his teacher (Matt. 10:24).  Why should we not fear man?  Because man still cannot destroy the soul and we are still of more value than sparrows (Matt. 10:28-31).  Likewise, why should we freely give? 
+This observation of motivation explains why we are willing to apply other parts of Matthew 10 to Christians today.  Why be wise as serpents and innocent as doves?  Because we are still sheep in the midst of wolves (Matt 10:16).  Why should we anticipate persecution?  Because a disciple is still not above his teacher (Matt 10:24).  Why should we not fear man?  Because man still cannot destroy the soul and we are still of more value than sparrows (Matt 10:28-31).  Likewise, why should we freely give? 
 
 Second: The rest of the New Testament confirms that we ministers must “freely give.” One of the best pieces of evidence that the command to “freely give” applies broadly to biblical instruction, even in our era, is its confirmation elsewhere in Scripture. These are numerous, and it is beyond the scope of this article to go into all of them, but it is worth listing several here.
 
-* What then is my reward? That in preaching the gospel I may offer it free of charge, and so not use up my rights in preaching it. (1 Cor. 9:18)
-* Was it a sin for me to humble myself in order to exalt you, because I preached the gospel of God to you free of charge? (2 Cor. 11:7)
-* For we are not like so many others, who peddle the word of God. On the contrary, in Christ we speak before God with sincerity, as men sent from God. (2 Cor. 2:17)
+* What then is my reward? That in preaching the gospel I may offer it free of charge, and so not use up my rights in preaching it. (1 Cor 9:18)
+* Was it a sin for me to humble myself in order to exalt you, because I preached the gospel of God to you free of charge? (2 Cor 11:7)
+* For we are not like so many others, who peddle the word of God. On the contrary, in Christ we speak before God with sincerity, as men sent from God. (2 Cor 2:17)
 * For they went out on behalf of the Name, accepting nothing from the Gentiles. Therefore we ought to support such men, so that we may be fellow workers for the truth. (3 John 7-8)
 
 Third, history confirms that “freely give” was not a temporary ethic. The early disciples affirmed the command to freely give as a continuing injunction.  The Didache is the oldest known extrabiblical Christian writing in existence, being authored in the first century.  As far as the New Testament goes, it likely only incorporates Matthew.  It even uses the phrase from Matthew 10:10, “worthy of his food” (Didache 13.1).  Chapter 11 of the Didache says “Let every apostle, when he cometh to you, be received as the Lord; but he shall not abide more than a single day, or if there be need, a second likewise; but if he abide three days, he is a false proph­et. And when he departeth let the apostle receive nothing save bread, until he findeth shelter; but if he ask money, he is a false proph­et. … And whosoever shall say in the Spirit, Give me silver or anything else, ye shall not listen to him;” (Didache 11.4–6, 12a).
@@ -48,11 +48,11 @@ come to the waters;\
 and you without money,\
 come, buy, and eat!\
 Come, buy wine and milk\
-without money and without cost! (Isa. 55:1)
+without money and without cost! (Isa 55:1)
 
 The Bible itself even ends on this same note:
 
-The Spirit and the bride say, “Come!” Let the one who hears say, “Come!” And let the one who is thirsty come, and the one who desires the water of life drink freely. (Rev. 22:17)
+The Spirit and the bride say, “Come!” Let the one who hears say, “Come!” And let the one who is thirsty come, and the one who desires the water of life drink freely. (Rev 22:17)
 
 In Matthew 10:8, the disciples offer a message of free grace, and so they offer it freely.  We likewise offer a message of free grace, so we should offer it freely as well.
 
