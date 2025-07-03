@@ -2,6 +2,7 @@
 import {createContentLoader} from 'vitepress'
 
 
-export default createContentLoader(['book/intro.md', 'learn/profiles.md'], {
+// WARN These will be sorted alphabetically regardless of input order
+export default createContentLoader(['book/conclusion.md', 'book/intro.md', 'learn/profiles.md'], {
     render: true,
 })

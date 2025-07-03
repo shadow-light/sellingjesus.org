@@ -34,6 +34,8 @@ div.book
             div(v-for='chapter of section.chapters')
                 a.toc-chapter(@click='goto(chapter.id)' :href='"#" + chapter.id')
                     | {{ chapter.title }}
+        div(style='margin-top: 1em')
+            a.toc-chapter(@click='goto("chapter-conclusion")' href='#chapter-conclusion') Conclusion
 
     div.intro(class='break')
         div.titles
@@ -58,6 +60,12 @@ div.book
         InstantMessages(file_id='corinthians' :topics='convo_corinthians.topics' book)
 
     div(class='articles_html' v-html='articles_html')
+
+    div.conclusion(class='break')
+        div.titles
+            h2(id="chapter-conclusion") Conclusion
+            div(class="author") Andrew Case
+        div(v-html='conclusion_html')
 
 </template>
 
@@ -90,8 +98,9 @@ defineOptions({
 
 
 // Unpack pages (order defined in imported file)
-const page_intro = pages_data[0]
-const page_profiles = pages_data[1]
+const page_conclusion = pages_data[0]
+const page_intro = pages_data[1]
+const page_profiles = pages_data[2]
 
 
 // Util to demote all headings in HTML
@@ -155,8 +164,9 @@ function inline_footnotes(article:string){
 }
 
 
-// Prepare intro HTML
+// Prepare intro/conclusion HTML
 const intro_html = wrap_refs(page_intro.html)
+const conclusion_html = wrap_refs(page_conclusion.html)
 
 
 // Prepare profiles HTML
