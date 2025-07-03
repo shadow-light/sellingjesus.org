@@ -489,9 +489,9 @@ We affirm that true biblical ministry should be supported by the free generosity
 We deny that ministry should be monetized or sold in any way.
 
 
-[^1]: See, for example, https://relevantmagazine.com/faith/theres-no-difference-between-spiritual-and-secular.
+[^1]: See, for example: John Mark Comer, [_There’s No Difference Between ‘Spiritual’ and ‘Secular’_](https://relevantmagazine.com/faith/theres-no-difference-between-spiritual-and-secular), June 16, 2021.
 
-[^2]: https://www.christianlegalsociety.org/project/what-the-priesthood-of-all-believers-means-for-your-work/
+[^2]: Dr. Art Lindsley, [_What the ‘Priesthood of All Believers’ Means for Your Work_](https://www.christianlegalsociety.org/project/what-the-priesthood-of-all-believers-means-for-your-work/).
 
 [^3]: Here we are not using the word “priesthood” in the sense of the Roman Catholic conception, but always in the protestant sense of the "priesthood of all believers," wherein all Christians have direct access to God through faith in Christ, not mediated through a human priest.
 
@@ -509,7 +509,7 @@ We deny that ministry should be monetized or sold in any way.
 
 [^10]: An alternative interpretation is that Romans 12:1 is primarily focused on sexual purity, as referenced earlier in Romans 1:24, 6:13, 6:19, 7:5, 8:13. These passages collectively emphasize the importance of presenting one's literal body as pure and untainted by sin. While the broader context of Romans does address the overarching theme of resisting sinful desires in general, the specific call to offer one's body as a living sacrifice seems particularly focused on maintaining purity. This interpretation is supported by Romans 6:13, which starkly illustrates the contrast: "Do not present the parts of your body to sin as instruments of wickedness, but present yourselves to God as those who have been brought from death to life; and present the parts of your body to Him as instruments of righteousness." Additionally, Romans 6:19 reinforces this theme by reminding believers of their past, when they offered the parts of their body "in slavery to impurity." The persistent call across these references is to a transformation from impurity to sanctity in physical bodies. There may be an overextension of this theme by commentators into broader aspects of life, which only comes later as a culmination of the sexual purity focus.
 
-[^11]: https://reformedbooksonline.com/on-the-definition-of-worship/#definitions
+[^11]: reformedbooksonline.com, [_Definitions of Worship_](https://reformedbooksonline.com/on-the-definition-of-worship/#definitions).
 
 [^12]: D.A. Carson, _Exegetical Fallacies_ (Baker, 1996), 60-61.
 
@@ -517,19 +517,19 @@ We deny that ministry should be monetized or sold in any way.
 
 [^14]: Some samples of its use from the NETS translation of the Septuagint: “And as for me, I have taken your brothers the Levites from the midst of Israel's sons, as a gift given to the Lord, to minister in the ministries of the tent of witness. And you and your sons with you shall maintain your priestly office according to the whole manner of the altar and that which is within the veil. And you shall minister in the ministry as a gift of your priesthood, and the alien who comes near shall die” (Num 18:6-7). “And to the sons of Levi, behold, I have given every tithe in Israel as an allotment for their ministries, as much as they minister in the ministry in the tent of witness” (Num 18:21). “This is not a small thing for you, is it, that the God of Israel has separated you from the congregation of Israel and brought you to himself to minister in the services of the tent of the Lord and to stand by before the congregation to serve them?” (Num 16:9). “And you shall eat it in every place, you and your households, because this is a wage for you for your ministries in the tent of witness” (Num 18:31). “And they ministered with instruments before the tent of the house of witness until Solomon had built the Lord’s house in Jerusalem, and they stood according to their rule at their ministrations” (1 Chron 6:17).
 
-[^15]: https://www.biblicalcyclopedia.com/M/ministry.html
+[^15]: James Strong and John McClintock, [_The Cyclopedia of Biblical, Theological, and Ecclesiastical Literature_](https://www.biblicalcyclopedia.com/M/ministry.html) (Haper and Brothers; NY; 1880).
 
-[^16]: https://www.desiringgod.org/labs/who-are-the-ministers-in-the-church
+[^16]: John Piper, [_Who Are the Ministers in the Church?_](https://www.desiringgod.org/labs/who-are-the-ministers-in-the-church), Sep 21, 2021.
 
 [^17]: Glenn Graham. _An Exegetical Summary of Ephesians_, 2nd ed. (Dallas: SIL International, 2008).
 
 [^18]: Ibid.
 
-[^19]: https://www.desiringgod.org/labs/how-do-saints-build-the-body
+[^19]: John Piper, [_How Do Saints Build the Body?_](https://www.desiringgod.org/labs/how-do-saints-build-the-body), Sep 23, 2021.
 
 [^20]: It’s important to observe that “the notion of building up or edifying the body had been a major criterion in Paul’s evaluation of various ministries (cf. 1 Cor 14:3–5, 12, 26).” Andrew Lincoln, _Ephesians. Vol. 42. Word Biblical Commentary_ (Dallas: Word, Incorporated, 1990).
 
-[^21]: https://www.desiringgod.org/labs/how-do-saints-build-the-body
+[^21]: John Piper, [_How Do Saints Build the Body?_](https://www.desiringgod.org/labs/how-do-saints-build-the-body), Sep 23, 2021.
 
 [^22]: Ibid.
 
@@ -537,7 +537,7 @@ We deny that ministry should be monetized or sold in any way.
 
 [^24]: Contra the ancient heresy of gnosticism which was characterized by a dualistic view of reality, sharply distinguishing between the spiritual (considered good) and the material (considered evil or irrelevant).
 
-[^25]: While God also expects believers to show mercy and compassion to the destitute outside the Church (Isaiah 1:17, Amos 5:24, Luke 10:25-37), mercy ministry, as it was practiced by the apostles and Early Church, was _focused_ on expressing the communion of the saints by contributing to the needs _of the saints_. See more on this at https://www.modernreformation.org/resources/articles/mercy-ministries-two-perspectives-2
+[^25]: While God also expects believers to show mercy and compassion to the destitute outside the Church (Isaiah 1:17, Amos 5:24, Luke 10:25-37), mercy ministry, as it was practiced by the apostles and Early Church, was _focused_ on expressing the communion of the saints by contributing to the needs _of the saints_. For more on this: William H. Smith, [_Mercy Ministries: Two Perspectives_](https://www.modernreformation.org/resources/articles/mercy-ministries-two-perspectives-2), May 3, 2007.
 
 [^26]: For example, an unacceptable conclusion would be that opening a burger chain is ministry because it involves serving food, since the apostles served food to destitute widows among the burgeoning early church. Giving away food to the destitute in the body of Christ is very different from _selling_ food to those who are not destitute outside the body of Christ.
 
@@ -545,7 +545,7 @@ We deny that ministry should be monetized or sold in any way.
 
 [^28]: Ronald Trail, _An Exegetical Summary of 1 Corinthians 1–9_ (Dallas: SIL International, 2008).
 
-[^29]: Conley Owens, _The Dorean Principle,_ https://thedoreanprinciple.org/#c5_4.
+[^29]: Conley Owens, _The Dorean Principle,_ ["The Reward of Servanthood"](https://thedoreanprinciple.org/#c5_4).
 
 [^30]: See _[The Dorean Principle](https://thedoreanprinciple.org/)_, “[The Command to Freely Give](https://sellingjesus.org/articles/freely-give),” “[Does Jesus’ Command to ‘Freely Give’ Apply Today?](https://sellingjesus.org/articles/freely-give-today)”
 
