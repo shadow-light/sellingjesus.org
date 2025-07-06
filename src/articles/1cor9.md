@@ -147,7 +147,7 @@ In conclusion, 1 Corinthians 9 does not support selling ministry. It condemns it
 
 [^haveto]: This phrase is literally "right to not work". If someone has the right to not do something, they are not being forbidden from doing it, but are rather being freed from _having_ to do it. A right to not clean the dishes is best expressed as a right to not _have to_ clean the dishes. Which is why "have to" is supplied for clarity.
 
-[^voluntary]: Some translations render ἑκὼν as "voluntary", however "voluntary" can be understood to mean someone has "volunteered" to serve under an authority, which would mean they are not really "free" (9:1). Rather, Paul is giving an example of someone who _is_ free from any authority or obligation. Thus "of my own will" is a better rendering as it removes the potential for such a misunderstanding.
+[^voluntary]: Some translations render ἑκὼν as "voluntary", however "voluntary" can be understood to mean someone has "volunteered" to serve under an authority, which would mean they are not really "free" (9:1). Rather, Paul is giving an example of someone who _is_ free from any authority or obligation. Thus "of my own will" is a better rendering as it removes the potential for such a misunderstanding.
 
 [^still]: Some translations render the perfect tense of πεπίστευμαι as "I am still entrusted", however the use of "still" can mislead readers into thinking it is in contrast to "but if not of my own will". In which case Paul would be saying that he is still entrusted with a responsibility _despite_ not preaching of his own will. When really Paul is entrusted with a responsibility _in accord with_ not preaching of his own will. Thus "I have been entrusted" is more suitable.
 
