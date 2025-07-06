@@ -264,7 +264,7 @@ A minister of the gospel does not have a plenary authority to receive every gift
 
 [^3]: James Begg, _Seat Rents_, 20.
 
-[^4]: “use” is “katachresasthai” (καταχρήσασθαι), intensified with the prefix “kata” (κατα). The idea is not that Paul made some use of his rights, but that he did not abuse his authority (cf. New King James Version). See also Garland, 1 Corinthians, 2003, 427.
+[^4]: “Use” is “καταχρήσασθαι”, intensified with the prefix “κατα”. The idea is not that Paul made some use of his rights, but that he did not abuse his authority (cf. New King James Version). See also Garland, 1 Corinthians, 2003, 427.
 
 [^5]: It plays off of the Corinthians’ incomplete notion of Christian liberty, that “all things are lawful.”
 
