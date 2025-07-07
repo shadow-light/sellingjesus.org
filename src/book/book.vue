@@ -34,7 +34,7 @@ div.book
             div(v-for='chapter of section.chapters')
                 a.toc-chapter(@click='goto(chapter.id)' :href='"#" + chapter.id')
                     | {{ chapter.title }}
-        div(style='margin-top: 1em')
+        div.toc-conclusion
             a.toc-chapter(@click='goto("chapter-conclusion")' href='#chapter-conclusion') Conclusion
 
     div.intro(class='break')
