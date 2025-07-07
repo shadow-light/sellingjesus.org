@@ -79,7 +79,7 @@ These matters are often flipped on their head.  For example, in Corinth, the “
 
 Regardless of how well-intentioned anyone who sells Christian teaching may be, ultimately Scripture implicates them as insincere. They definitionally operate with an ulterior motive, giving teaching in exchange for some material gain.
 
-> For we are not like so many others, who peddle the word of God for profit. On the contrary, in Christ we speak before God with sincerity, as men sent from God. (2 Corinthians 2:17)
+> For we are not like so many others, who peddle the word of God. On the contrary, in Christ we speak before God with sincerity, as men sent from God. (2 Corinthians 2:17)
 
 
 ## The Fulfillment of Prophecy
