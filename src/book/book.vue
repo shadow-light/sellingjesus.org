@@ -294,7 +294,8 @@ function add_to_toc(html:string){
         // Handle new chapter
         } else if (tag === 'h2' && current_section) {
             current_section.chapters.push({
-                title,
+                // Use combined title for articles (as two 1 Cor 9 articles have same name otherwise)
+                title: articles[el.id.slice('chapter-'.length)]?.frontmatter.title ?? title,
                 id: el.id,
             })
         }
