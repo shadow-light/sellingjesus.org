@@ -54,10 +54,9 @@ One may object that this is a broken understanding of how the license works, but
 
 Some have asserted that Creative Commons Attribution Share-Alike actually advances biblical concerns.  Consider the following image from Unfolding Word:^[Oakes, Perry. [Equipping the Global Church to Translate the Bible into Its Own Language](https://unfolding-word.cdn.prismic.io/unfolding-word/a322c3aa-1338-42d0-a27a-01c4aac0597b_1-Equipping-the-Global-Church_Oakes.pdf)]
 
-<div style='text-align: center;'>
-    <img src='/media/cc-by-sa-justification.jpg' alt="CC BY-SA diagram" style='display: inline;'>
-    <p><em>An attempt at a biblical justification for CC BY-SA</em></p>
-</div>
+<img src='/media/cc-by-sa-justification.jpg' alt="CC BY-SA diagram">
+
+_An attempt at a biblical justification for CC BY-SA_
 
 Presumably, “give credit where credit is due” is a citation of Romans 13:7.  While we could take issue with both the selective translation and application of this text, our present concern is Share-Alike rather than Attribution.  Here, the graphic implies that the Share-Alike feature promotes the kind of freely giving Jesus commanded in Matthew 10:8.
 
