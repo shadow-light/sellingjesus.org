@@ -16,7 +16,7 @@ But Scripture does already provide us with a clearly defined boundary for minist
 
 When Jesus sent out the twelve disciples to minister to Israelite towns, he commanded them to "freely give":
 
-<bible-quote passage="Matt 10:7-8"></bible-quote>
+> As you go, preach this message: ‘The kingdom of heaven is near.’ Heal the sick, raise the dead, cleanse the lepers, drive out demons. Freely you have received; freely give. (Matt 10:7-8)
 
 Let's consider some options for interpreting this command of Jesus:
 
@@ -31,7 +31,7 @@ So this appears to simply be a straightforward command of Jesus, to freely give 
 
 If Jesus' command to freely give is to be obeyed, then how do we make sense of Paul's teachings on the right to payment? Let's consider one of the most significant passages regarding this matter:
 
-<bible-quote passage="1 Cor 9:3-7"></bible-quote>
+> This is my defense to those who scrutinize me: Have we no right to food and to drink? Have we no right to take along a believing wife, as do the other apostles and the Lord’s brothers and Cephas? Or are Barnabas and I the only apostles who must work for a living? Who serves as a soldier at his own expense? Who plants a vineyard and does not eat of its fruit? Who tends a flock and does not drink of its milk? (1 Cor 9:3-7)
 
 While this passage (and the whole of 1 Corinthians 9) absolutely does affirm a right to financial support, that is not the take-home message Paul intended.
 
@@ -47,7 +47,7 @@ This is not the only section of the letter to talk about "rights". Paul has alre
 
 Paul's argument in regard to food sacrificed to idols is that while one may have a right to eat it, that right is not a permissive license to do as you please, rather it can be misused to the detriment of others:
 
-<bible-quote passage="1 Cor 8:9"></bible-quote>
+> Be careful, however, that your freedom does not become a stumbling block to the weak. (1 Cor 8:9)
 
 Likewise, Paul at times didn't exercise his right to financial support because it is not a right that is always justified, it too can be misused. After declaring that he didn't make use of his right to support, he gives the clear reason why: _“so that we may not be a hindrance to the gospel of Christ”_ (1 Cor 9:12).
 
