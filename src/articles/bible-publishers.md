@@ -44,7 +44,7 @@ So no, Scripture is not legal to copy and share in any reasonable sense. Not bec
 
 ## Are publishers generous with permission?
 
-No. While they are not all the same, they all make it difficult to get permission, whether it is due to complicated application processes, slow responses, burdensome conditions, charging fees, or simply not granting permission.
+No. While they are not all the same, they all make it difficult to get permission, whether it is due to complicated application processes, slow responses, burdensome conditions, charging fees, or simply not granting permission.[^edits]
 
  * The non-commercial permission form [for the NIV](https://www.biblica.com/permissions/) has *__49 fields__* to fill out, including one for your "distribution and marketing strategy".
  * Crossway allowed the ESV to be used by open source Bible apps for some years, and then suddenly decided to [stop and recoup licensing fees](https://www.crosswire.org/pipermail/sword-devel/2019-June/047095.html). Several open source Bible apps were then [forced to remove it](https://github.com/AndBible/and-bible/wiki/FAQ#i-cant-find-esv-any-more-in-downloads-whats-wrong), resulting in these apps receiving very negative reviews from oblivious users ("Poor review due to the fact that ESV version is no longer available").
@@ -176,7 +176,7 @@ I hope when this article is read in 10 years time there will be plenty of good f
 
 The most important characteristic of a translation is, of course, accuracy, but the main way Christians adopt new translations is through trust. While the major translations have endorsements from famous pastors, that is not the best way to evaluate a new translation.
 
-Which is why you should start reading the BSB and comparing it to other translations yourself right now. There is no need to "switch" to it, because reading multiple translations is always a better practice. So simply start adding the BSB into the mix. Quote it in Bible studies and discipleship resources without having to worry about breaking any rules. Once you are confident in its quality, you may even start preaching from it, as I have. And so have the joy of knowing the words that come out of your mouth are truly free, as God intended.[^edits]
+Which is why you should start reading the BSB and comparing it to other translations yourself right now. There is no need to "switch" to it, because reading multiple translations is always a better practice. So simply start adding the BSB into the mix. Quote it in Bible studies and discipleship resources without having to worry about breaking any rules. Once you are confident in its quality, you may even start preaching from it, as I have. And so have the joy of knowing the words that come out of your mouth are truly free, as God intended.
 
 <VPButton text="Berean Standard Bible" href="https://bsb.freely.giving/"></VPButton>
 <VPButton text="Other free translations" href="https://copy.church/initiatives/bibles/" theme='alt'></VPButton>
@@ -187,6 +187,8 @@ Which is why you should start reading the BSB and comparing it to other translat
 [^US]: Along with other factors, fair use takes into account "the amount and substantiality of the portion used in relation to the copyrighted work as a whole" ([Title 17, section 107](https://www.copyright.gov/title17/92chap1.html#107)). There are no set amounts, and quality is taken into account as well as quantity. A small quotation of high value could be considered unfair, where as a very large quotation of less value could be considered "fair use".
 
 [^Australia]: Australia gives copyright owners the exclusive right to "reproduce the work in a material form" ([Copyright Act](https://www.legislation.gov.au/Details/C2022C00192) section 31), with "material form" being defined as "a substantial part of the work" (Copyright Act section 10). The Australian Copyright Council advises that "a part may be considered substantial if it is an important, essential or distinctive part" ([Quotes and Extracts fact sheet](https://www.copyright.org.au/browse/book/ACC-Quotes-and-Extracts-INFO034/)). Australia has "fair dealing" exemptions that allow for more substantial use as long as it is for the purpose of research or study, criticism or review, parody or satire, or reporting news (Copyright Act sections 40-42). This is in contrast to "fair use" exemptions which are general rather than limited to specific uses. However, the definition of "substantial" means Australia does somewhat have a "fair use" allowance, but it allows for much less than countries with a proper fair use exemption.
+
+[^edits]: Additional examples of restrictive licensing practices have been added since first publication (26 Feb 2025).
 
 [^boast]: Quoted from the FAQ "How will you raise the money?" for [The Video Bible](https://videobible.com/about)
 
@@ -227,5 +229,3 @@ Which is why you should start reading the BSB and comparing it to other translat
 [^cc]: All publishers are likely to be aware of Creative Commons licenses, as there has been active discussion about open licensing within the bible industry over the last few years. Crossway certainly knows about them, as they explicitly forbid them being used when quoting the ESV.
 
 [^profit]: Some translations add "for profit" to Paul's statement, but it is not in the original text.
-
-[^edits]: Minor edits have been made since publication, such as including additional examples of restrictive licensing practices (26 Feb 2025).
