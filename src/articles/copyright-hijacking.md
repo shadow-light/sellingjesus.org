@@ -1,5 +1,5 @@
 ---
-title: On the Specter of Copyright Hijacking
+title: On the Specter of Copyright Hijacking
 description: Can someone republish public domain works and claim them as their own? No, here's why.
 author: Conley Owens
 date: 2024-05-28T00:00:00.000Z
