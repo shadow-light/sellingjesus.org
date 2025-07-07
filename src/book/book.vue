@@ -82,7 +82,7 @@ import {articles_by_category, article_ids} from '@/_comp/articles'
 import convo_general from '@/learn/conversations_processed.json'
 import convo_corinthians from '@/learn/corinthians_processed.json'
 
-import styles from './book.sass?inline'
+import styles from '../../book/styles_pdf.sass?inline'
 
 
 // Delete descriptions of convo sections since only a couple have them and better to be consistent
