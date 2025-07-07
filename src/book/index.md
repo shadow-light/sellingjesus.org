@@ -19,5 +19,5 @@ if (!ssr){
 </script>
 
 
-<VueBook v-if='ssr' />
-<custom-book v-else />
+<VueBook v-if='ssr'></VueBook>
+<custom-book v-else></custom-book>

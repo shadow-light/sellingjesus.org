@@ -29,10 +29,10 @@ iframe
 
 # {{ $params.title }}
 
-<YouTube :id='params.id' />
+<YouTube :id='params.id'></YouTube>
 
 <div v-if='download_url' class='download'>
-    <VPButton text="Download (4K)" :href="download_url" />
+    <VPButton text="Download (4K)" :href="download_url"></VPButton>
 </div>
 
 <div v-html='$params.description_html'></div>

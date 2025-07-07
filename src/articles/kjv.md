@@ -55,7 +55,7 @@ This fixation on control is not unique to the history of the KJV. Modern Christi
 
 So please join us in confronting the Bible market, which treats God’s Word as a commodity to bind and monetize. For more on this topic, see [this article on the history of the KJV](https://kjbhistory.com/the-kjv-copyright-a-sordid-tale-of-intrigue-and-avarice/), check out [copy.church](https://copy.church/) and read *[The Dorean Principle](https://thedoreanprinciple.org/)*.
 
-<YouTube id='EpQRSI-rqjg' />
+<YouTube id='EpQRSI-rqjg'></YouTube>
 
 
 [^1]: For more information see these articles on [Crown copyright](https://en.wikipedia.org/wiki/Crown_copyright) and the [King James Version](https://en.wikipedia.org/wiki/King_James_Version)
