@@ -42,7 +42,7 @@ We can therefore determine that when Jesus said the disciples had "freely receiv
 
 Some will argue that "all of life is ministry" and so Jesus' command could be taken to mean that you can't sell anything, or have to live communally as some of the early disciples did for a time (Acts 4:32). The generous spirit and dedication to the gospel is certainly something we all should learn from, but the difference between Acts 4 and Matthew 10 is that the passage in Acts is descriptive, whereas Jesus' command is prescriptive. It is an imperative (δωρεὰν δότε).
 
-The specific actions Jesus directs his disciples to perform are "preach", "heal/cleanse", "raise the dead", and "drive out demons" (10:7-8). These are all spiritual activities.
+The specific actions Jesus directs his disciples to perform are "preach", "heal/cleanse", "raise the dead", and "drive out demons" (Matt 10:7-8). These are all spiritual activities.
 
 It is important to remember that the function of healings in Jesus' ministry were not simply for him to serve as a doctor, but were a form of gospel proclamation. John describes Jesus' healing of an official's son as "the second sign that Jesus performed" (John 4:54). Jesus did not heal everyone he could see, such as when he healed only one man at a pool full of people with ailments (John 5:1-13). Healings were not just about helping the sick but "so that the works of God would be displayed" (John 9:3). So we should not confuse miraculous healings with medical work today. God does heal through both miracles and doctors, but it is the miracles that are in view in Matthew 10 and not regular healings.
 
@@ -65,9 +65,9 @@ These arguments all have common problems:
 
 Furthermore, regarding evangelism:
  1. Miracles were to be freely given, not just evangelism.
- 2. Jesus specifically forbid the disciples to go to gentile towns on that particular trip (10:5), so it wasn't evangelising non-believers but rather discipling existing followers of Yahweh.
- 3. Jesus was teaching and discipling the twelve for long periods of time as _free ministry_, which is what he was training them up to do as well as "workers of the harvest" (9:38).
+ 2. Jesus specifically forbid the disciples to go to gentile towns on that particular trip (Matt 10:5), so it wasn't evangelising non-believers but rather discipling existing followers of Yahweh.
+ 3. Jesus was teaching and discipling the twelve for long periods of time as _free ministry_, which is what he was training them up to do as well as "workers of the harvest" (Matt 9:38).
 
-It is therefore right and appropriate to apply this command to all forms of gospel ministry. This includes preaching, teaching, Scripture, worship music, ministry resources, and anything else that specifically deals with spiritual matters. Importantly noting that those who serve in these ways are to be financially supported in their freely given ministries, just as Jesus' disciples were (10:10).
+It is therefore right and appropriate to apply this command to all forms of Spirit-empowered ministry (for more on this, see [_What Is Christian Ministry?_](/articles/defining-ministry)). This includes preaching, teaching, Scripture, worship music, ministry resources, and anything else that specifically deals with spiritual matters. Importantly noting that those who serve in these ways are to be financially supported in their freely given ministries, just as Jesus' disciples were (Matt 10:10).
 
 Without this command of Jesus, there is nothing to stop Christianity from becoming a commercial enterprise. I really wish that was a warning for the future. It is in fact what many forms of ministry have already become.
