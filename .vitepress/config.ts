@@ -63,9 +63,10 @@ export default defineConfig({
         ['meta', {name: 'twitter:card', content: 'summary'}],
         // WARN WhatsApp requires a URL with domain included
         ['meta', {property: 'og:image', content: 'https://sellingjesus.org/_assets/social.jpg'}],
+        // Import main font here so doesn't hold up other styles (since not self hosting)
         ['link', {
             rel: 'stylesheet',
-            href: "https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700",
+            href: "https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200..900;1,200..900&display=swap",
         }],
         // Needed for translation widget
         ['script', {
