@@ -90,33 +90,6 @@ import {episodes} from './podcast.json'
     })
 
     cms.registerEditorComponent({
-        id: 'passage',
-        label: "Bible passage",
-        fields: [
-            {
-                name: 'passage',
-                label: "Passage reference",
-                widget: 'string',
-            },
-        ],
-        pattern: /^<bible-quote passage="([^"]*?)"><\/bible-quote>$/,
-        fromBlock(match){
-            return {
-                passage: match[1],
-            }
-        },
-        toBlock(data){
-            return `\n<bible-quote passage="${data.passage}"></bible-quote>\n`
-        },
-        toPreview(data){
-            return `\n${data.summary}\n`
-        },
-        // Passed down to Decap object widget used to display this
-        collapsed: true,
-        summary: "{{passage}}"
-    })
-
-    cms.registerEditorComponent({
         id: 'article',
         label: "Article button",
         fields: [

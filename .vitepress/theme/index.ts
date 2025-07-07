@@ -8,7 +8,6 @@ import CustomLayout from './CustomLayout.vue'
 import PersonBio from '../../src/_comp/PersonBio.vue'
 import ArticlePreview from '../../src/_comp/ArticlePreview.vue'
 import FeaturePreview from '../../src/_comp/FeaturePreview.vue'
-import BibleQuote from '../../src/_comp/BibleQuote.vue'
 import PodcastPlayer from '../../src/_comp/PodcastPlayer.vue'
 import YouTube from '../../src/_comp/YouTube.vue'
 
@@ -30,7 +29,6 @@ export default {
         ctx.app.component('PersonBio', PersonBio)
         ctx.app.component('ArticlePreview', ArticlePreview)
         ctx.app.component('FeaturePreview', FeaturePreview)
-        ctx.app.component('BibleQuote', BibleQuote)
         ctx.app.component('PodcastPlayer', PodcastPlayer)
         ctx.app.component('YouTube', YouTube)
 
