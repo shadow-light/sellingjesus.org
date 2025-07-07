@@ -1,5 +1,7 @@
 ---
 title: Covering Costs — Can You Charge for Printed Books?
+title_h1: Covering Costs
+title_h2: Can You Charge for Printed Books?
 description: Some Christian resources are expensive to produce and distribute, and this can make it challenging to give them for free if there is limited funding available.
 image: /media/articles/covering-costs.jpg
 author: Jon Here

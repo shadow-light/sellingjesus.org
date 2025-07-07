@@ -1,5 +1,7 @@
 ---
 title: John 2/Mark 11 – Cleansing the Temple of Commerce
+title_h1: John 2 / Mark 11
+title_h2: Cleansing the Temple of Commerce
 description: "Jesus was offended by exactly that which he drove out: the commerce."
 author: Jon Here
 date: 2024-04-07T00:00:00.000Z

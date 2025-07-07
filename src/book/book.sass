@@ -144,7 +144,7 @@ table
     hyphens: auto
 
 img
-    width: 100%
+    max-width: 100%
 
 mark
     background-color: hsl(0, 0%, 90%)
@@ -188,6 +188,10 @@ blockquote > p
 table
     width: 100%
     text-align: left  // justify not good for short cells
+
+    th, td
+        // Stop weasyprint from setting very narrow width (doesn't balance cells as well as browsers)
+        min-width: 0.6in
 
 // COMMON
 

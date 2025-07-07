@@ -1,5 +1,6 @@
 ---
 title: The Worship Tax
+title_h2: How your church's worship profits secular investors via CCLI
 description: How church worship is exploited by the Christian music industry for commercial gain, despite religious exemptions for churches.
 author: Jon Here
 date: 2024-04-07T00:00:00.000Z

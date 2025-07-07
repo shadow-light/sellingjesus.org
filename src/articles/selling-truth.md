@@ -1,5 +1,7 @@
 ---
 title: Micah 3:11 — Selling Truth
+title_h1: Micah 3:11
+title_h2: Selling Truth
 description: Micah had a message for Israel's leaders, and he has one for us as well.
 image: /media/articles/selling-truth.jpg
 author: Andrew Case

@@ -1,5 +1,7 @@
 ---
 title: 2 Corinthians 2:17 — Commercializing the Word of God
+title_h1: 2 Corinthians 2:17
+title_h2: Commercializing the Word of God
 description: Is it ok to sell God's Word if you have good motives? That seems to
   be what some Bible translations imply, but it couldn't be further from the
   truth.
