@@ -37,7 +37,7 @@ Most of their practices would be abhorred today, such as judges taking bribes. Y
 
 Priests in the temple were supposed to be provided for by receiving some of the food offered at the temple after it had already been sacrificed to God (Num 18:8-20). Eli's sons, however, decided that they wanted to eat the meat before it had been sacrificed, effectively requiring payment from those who came to worship God.
 
-> Even before the fat was burned, the servant of the priest would come and say to the man who was sacrificing, “Give the priest some meat to roast, because he will not accept boiled meat from you, but only raw.”And if any man said to him, “The fat must be burned first; then you may take whatever you want,” the servant would reply, “No, you must give it to me right now. If you refuse, I will take it by force!”Thus the sin of these young men was severe in the sight of the LORD, for they were treating the LORD’s offering with contempt. (1 Sam 2:15-17)
+> Even before the fat was burned, the servant of the priest would come and say to the man who was sacrificing, “Give the priest some meat to roast, because he will not accept boiled meat from you, but only raw.” And if any man said to him, “The fat must be burned first; then you may take whatever you want,” the servant would reply, “No, you must give it to me right now. If you refuse, I will take it by force! ”Thus the sin of these young men was severe in the sight of the LORD, for they were treating the LORD’s offering with contempt. (1 Sam 2:15-17)
 
 ## Accepting payment
 
@@ -59,7 +59,7 @@ While the Bible condemns charging for ministry it also condemns offering to buy 
 
 Simon was amazed at the ministry of the apostles, and especially how God granted his Spirit to people they ministered to. Rather than become part of that ministry through sincere means, he thought he could obtain it with money.
 
-> When Simon saw that the Spirit was given through the laying on of the apostles’ hands, he offered them money. “Give me this power as well,” he said, “so that everyone on whom I lay my hands may receive the Holy Spirit.”But Peter replied, “May your silver perish with you, because you thought you could buy the gift of God with money! You have no part or share in our ministry, because your heart is not right before God. (Acts 8:18-21)
+> When Simon saw that the Spirit was given through the laying on of the apostles’ hands, he offered them money. “Give me this power as well,” he said, “so that everyone on whom I lay my hands may receive the Holy Spirit.” But Peter replied, “May your silver perish with you, because you thought you could buy the gift of God with money! You have no part or share in our ministry, because your heart is not right before God. (Acts 8:18-21)
 
 Note that Simon's sin wasn't paying for salvation for himself; he was seeking to dispense "God's gift" to others, most certainly for money. Simon's sin became known as "Simony", the sale of spiritual things.
 
