@@ -38,6 +38,8 @@
 
     @footnote
         border-top: 0.1mm solid black
+        // Make border a short line rather than full width
+        border-image: linear-gradient(to right, black 20%, transparent 20%) 1
         padding-top: 0.05in
 
 @page numberless
@@ -170,7 +172,10 @@ ol, ul
     padding-left: 1.5em
 
 p
-    margin: 0.5em 0
+    margin: 0
+
+p + p
+    text-indent: 0.25in
 
 sup, sub
     line-height: 0
