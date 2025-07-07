@@ -2,6 +2,7 @@
 set -e
 cd "$(dirname "$(dirname "$0")")/book"
 
+new_head='<head><meta charset="utf-8"><title>Abolish the Jesus Trade</title></head>'
 
 # Build HTML
 if [[ "$1" != "--skip" ]]; then
@@ -17,8 +18,8 @@ if [[ "$1" != "--skip" ]]; then
     cp shared/dist_epub/book/index.html shared/dist_epub/book.html
 
     # Remove site assets and meta from <head>
-    perl -i -pe 's|<head>.+</head>|<head></head>|gi' shared/dist_pdf/book.html
-    perl -i -pe 's|<head>.+</head>|<head></head>|gi' shared/dist_epub/book.html
+    perl -i -0777 -pe "s|<head>.+?</head>|$new_head|gis" shared/dist_pdf/book.html
+    perl -i -0777 -pe "s|<head>.+?</head>|$new_head|gis" shared/dist_epub/book.html
 
     # Remove any inline styles for consistency (VitePress also adds position:relative to wrapper)
     perl -i -pe 's|style=".*?"||gi' shared/dist_pdf/book.html
