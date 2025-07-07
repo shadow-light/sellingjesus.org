@@ -85,6 +85,19 @@ export default defineConfig({
         config: (md) => {
             md.options.typographer = true
             md.use(MarkdownPluginFootnote)
+            // Normalize Greek/Hebrew diacritic combos to single chars for better font support
+            // WARN Chosen Greek font doesn't support diacritics when separate chars
+            md.use((md) => md.core.ruler.after('inline', 'normalize-unicode', (state) => {
+                for (const token of state.tokens){
+                    if (token.type !== 'inline')
+                        continue
+                    for (const child of token.children ?? []) {
+                        if (child.type === 'text') {
+                            child.content = child.content.normalize('NFC')
+                        }
+                    }
+                }
+            }))
         },
     },
     themeConfig: {

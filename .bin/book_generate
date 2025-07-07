@@ -17,7 +17,8 @@ if [[ "$1" != "--skip" ]]; then
 fi
 
 # Build CSS
-node_modules/.bin/sass src/book/book.sass book/shared/book.css
+node_modules/.bin/sass src/book/book.sass book/shared/dist/book.css
+perl -i -pe 's|url\(/|url(./|gi' book/shared/dist/book.css
 
 # Render to PDF
 cd book

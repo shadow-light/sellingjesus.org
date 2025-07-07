@@ -2,14 +2,14 @@
 import subprocess
 from pathlib import Path
 
-from weasyprint import HTML, CSS, default_url_fetcher
+from weasyprint import HTML, CSS
 from weasyprint.text.fonts import FontConfiguration
 
 
 def create():
     # Define paths
     file_html = 'shared/dist/book.html'
-    file_css = 'shared/book.css'
+    file_css = 'shared/dist/book.css'
 
     # Render HTML to PDF
     font_config = FontConfiguration()
@@ -20,7 +20,7 @@ def create():
 
     # Also build epub
     subprocess.run(
-        ['pandoc', 'book.html', '-o', '../book.epub', '--css', '../book.css', '--toc'],
+        ['pandoc', 'book.html', '-o', '../book.epub', '--css', 'book.css', '--toc'],
         cwd='shared/dist',
         check=True,
     )
