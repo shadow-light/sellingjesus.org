@@ -5,7 +5,15 @@ cd "$(dirname "$(dirname "$0")")"
 
 # Build HTML
 if [[ "$1" != "--skip" ]]; then
-    BUILD_BOOK=true node_modules/.bin/vitepress build --outDir book/shared/dist
+    VITE_BOOK=true node_modules/.bin/vitepress build --outDir book/shared/dist
+    # Remove site assets to ensure they don't interfere
+    rm -r book/shared/dist/assets
+    # Copy to root so media relative urls resolve
+    cp book/shared/dist/book/index.html book/shared/dist/book.html
+    # Remove site styles
+    perl -i -pe 's|<link rel="preload stylesheet"[^>]*?>||gi' book/shared/dist/book.html
+    # Make URLs relative to dir (--base only affects assets, not absolute image urls etc)
+    perl -i -pe 's|src="/|src="./|gi' book/shared/dist/book.html
 fi
 
 # Build CSS
