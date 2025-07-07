@@ -19,7 +19,7 @@ We'll now consider how supporting ministry works at a spiritual level to better 
 ## Offerings to God
 The donating of money at church is rightly called an "offering" because it emphasises the person the money is being offered to, and it is not the pastor or the church. Let's see how Paul described money he received from the church in Philippi:
 
-<bible-quote passage="Phil 4:18"></bible-quote>
+> I have all I need and more, now that I have received your gifts from Epaphroditus. They are a fragrant offering, an acceptable sacrifice, well-pleasing to God. (Phil 4:18)
 
 Paul starts off describing how he himself has received support but then moves to describing it as _“a fragrant offering, an acceptable sacrifice, very pleasing to God”_. While Paul received it in practical terms, it was actually God who received it spiritually speaking. Supporting Paul in his ministry was one of the ways the Philippian Christians lived out their obligation to worship God.
 
@@ -31,11 +31,11 @@ We'll represent this obligation via a diagram that will become more meaningful l
 ## Provision from God
 There is another spiritual dimension to financial support of ministry and that is God's provision. While Paul was provided for by other believers at a practical level, it wasn't them that did the providing spiritually. We have already looked at Jesus' command to "freely give" (Matt 10:8), but what we haven't looked at is his instruction on provision which immediately follows it:
 
-<bible-quote passage="Matt 10:9-10"></bible-quote>
+> Do not take along any gold or silver or copper in your belts. Take no bag for the road, or second tunic, or sandals, or staff; for the worker is worthy of his provisions. (Matt 10:9-10)
 
 As we can see, freely giving and being financially supported goes hand-in-hand without conflict. But who is doing the providing here? And who is the employer of the worker? Do the towns people employ the worker? Obviously not. They will stay with them for some days and move on to the next town. The immediate context of the passage is key to understanding this:
 
-<bible-quote passage="Matt 9:37-38"></bible-quote>
+> Then He said to His disciples, “The harvest is plentiful, but the workers are few. Ask the Lord of the harvest, therefore, to send out workers into His harvest.” (Matt 9:37-38)
 
  God is the employer and it is he who provides for his workers, which he often does through other believers. Let's add this insight to our diagram:
 
@@ -53,7 +53,7 @@ We have now completed the picture of the biblical model of financial support. Wh
 ## A consistent biblical model
 This biblical model of funding is not just theory. Aside from the New Testament evidence, it was also fairly clearly articulated in Levitical law (Num 18:8-20). As Paul says:
 
-<bible-quote passage="1 Cor 9:13-14"></bible-quote>
+> Do you not know that those who work in the temple eat of its food, and those who serve at the altar partake of its offerings? In the same way, the Lord has prescribed that those who preach the gospel should receive their living from the gospel. (1 Cor 9:13-14)
 
 Let's apply the model to the example of the temple:
 
@@ -79,13 +79,13 @@ Secondly, the ministry is restricted to only paying customers. The person giving
 
 The commercial model is also in the bible, but not in a positive way:
 
-<bible-quote passage="Micah 3:11"></bible-quote>
+> Her leaders judge for a bribe,<br>her priests teach for a price,<br>and her prophets practice divination for money.<br>Yet they lean upon the LORD, saying,<br>“Is not the LORD among us?<br>No disaster can come upon us.” (Micah 3:11)
 
 Selling ministry is a tell-tale sign of a false teacher. Please don't take this as an accusation that all who currently sell ministry resources are false teachers; that would be a wrong and absurd accusation. But by commercializing ministry we have blurred the lines and allowed false teachers to flourish since they can't be identified by trying to profit from ministry, as they use the same financial practices many respected Evangelicals do.
 
 While many have good intentions and are just utilising commercial practices for practical reasons, nevertheless, the sincerity of ministry is still at stake. As who is to know where the minister's heart is at? What they do know is that they had to pay for the ministry. Paul always ensured he preached for free so that his hearers would know of his sincerity:
 
-<bible-quote passage="2 Cor 2:17"></bible-quote>
+> For we are not like so many others, who peddle the word of God. On the contrary, in Christ we speak before God with sincerity, as men sent from God. (2 Cor 2:17)
 
 ## Decommercializing ministry
 
