@@ -1,5 +1,5 @@
 ---
-title: Does Jesus’ Command to “Freely Give” Apply Today?
+title: Does Jesus’ Command to “Freely Give” Apply Today?
 description: In biblical interpretation, context is key, and so does the context
   really indicate that this command applies to Christians today?
 author: Conley Owens
