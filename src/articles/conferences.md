@@ -210,4 +210,4 @@ Funding:
 While there are a number of gray areas, the main point is clear: God has forbidden finance-based partiality in giving access to biblical teaching. This is precisely what is done when tickets to Christian conferences are sold.
 
 
-[^1]: Most of the articles on this site are relevant to this question. For a sampling of passages, consider Matthew 10:8; 1 Corinthians 2:12-13; 1 Corinthians 9; 2 Corinthians 11; 3 John 7-8.
+[^1]: Most of our articles are relevant to this question. For a sampling of passages, consider Matthew 10:8; 1 Corinthians 2:12-13; 1 Corinthians 9; 2 Corinthians 11; 3 John 7-8.

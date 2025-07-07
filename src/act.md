@@ -42,4 +42,4 @@ You may also like to start your own group with friends who are interested in thi
 
 Fellowship with other believers at a free conference on freely giving, or listen and engage with the talks online.
 
-<VPButton href='https://www.doreancon.org/' text="Doreancon website" />
+<VPButton href='https://www.doreancon.org/' text="Doreancon website"></VPButton>

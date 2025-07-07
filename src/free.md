@@ -34,7 +34,7 @@ You do not need to ask the original rights holder for permission, even if you ch
 
 &nbsp;
 
-<VPButton href='/' text="Learn about freely giving" />
+<VPButton href='/' text="Learn about freely giving"></VPButton>
 
 &nbsp;
 

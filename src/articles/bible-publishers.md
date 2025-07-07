@@ -176,8 +176,8 @@ The most important characteristic of a translation is, of course, accuracy, but 
 
 Which is why you should start reading the BSB and comparing it to other translations yourself right now. There is no need to "switch" to it, because reading multiple translations is always a better practice. So simply start adding the BSB into the mix. Quote it in Bible studies and discipleship resources without having to worry about breaking any rules. Once you are confident in its quality, you may even start preaching from it, as I have. And so have the joy of knowing the words that come out of your mouth are truly free, as God intended.[^edits]
 
-<VPButton text="Berean Standard Bible" href="https://bsb.freely.giving/" />
-<VPButton text="Other free translations" href="https://copy.church/initiatives/bibles/" theme='alt' />
+<VPButton text="Berean Standard Bible" href="https://bsb.freely.giving/"></VPButton>
+<VPButton text="Other free translations" href="https://copy.church/initiatives/bibles/" theme='alt'></VPButton>
 
 
 [^exceptions]: There are a few modern openly licensed or public domain English translations. You can learn about their licenses at [Let's copy, church](https://copy.church/initiatives/bibles/).

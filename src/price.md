@@ -7,7 +7,7 @@ image: /_assets/social_price.jpg
 
 # What price tag would you put on Christian teaching?
 
-<price-calculator />
+<price-calculator></price-calculator>
 
 <script setup lang="ts">
 

@@ -5,7 +5,7 @@ image: https://img.youtube.com/vi/fDoApqyqIG4/hq720.jpg
 
 # 1 Corinthians 9 - An Exegetical Walkthrough
 
-<YouTube id='fDoApqyqIG4' />
+<YouTube id='fDoApqyqIG4'></YouTube>
 
 ## Transcript
 

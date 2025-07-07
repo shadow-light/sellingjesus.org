@@ -134,7 +134,7 @@ Directly exchanging spiritual things for money is exactly the type of funding th
 In conclusion, 1 Corinthians 9 does not support selling ministry. It condemns it. Paul navigates a complex space where the right to support exists, but must be exercised cautiously to avoid compromising the gospel and one's own integrity. This nuanced approach, reflected in other areas of his teachings, suggests that context and intention play a crucial role in determining the appropriateness of receiving or offering support. This passage cannot and should not be used to justify the commercialization of spiritual things so prevalent today. In the end, 1 Corinthians 9 must be read in light of Jesus’ command to freely give what has been freely received (Matt 10:8).
 
 
-<YouTube id='fDoApqyqIG4' />
+<YouTube id='fDoApqyqIG4'></YouTube>
 
 
 [^tangent]: See Garland, *1 Corinthians*, for a detailed explanation of this.

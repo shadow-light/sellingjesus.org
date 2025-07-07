@@ -69,4 +69,4 @@ There are several ways you can beat YouTube at their own game and rid your chann
 
 The short answer to this article’s title is: no, ministry should not be supported by ads. Instead, it should be supported by the free generosity of God’s people. When we are pointing people to Jesus, it is counterintuitive to point them to ads. Our Father is a faithful provider, and he can advance his Kingdom through us without resorting to secular revenue models. Let’s stop pushing manipulative, distracting things into other people’s lives in the name of Christ, and instead reflect his servant heart, bearing one another’s burdens (Gal 6:2).
 
-<YouTube id='5NNpaX1nC_c' />
+<YouTube id='5NNpaX1nC_c'></YouTube>
