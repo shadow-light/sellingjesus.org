@@ -11,7 +11,6 @@
    sodipodi:docname="diagram.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -31,12 +30,12 @@
      fit-margin-bottom="0"
      inkscape:snap-page="true"
      inkscape:zoom="1.0973349"
-     inkscape:cx="481.16578"
-     inkscape:cy="190.46145"
-     inkscape:window-width="2560"
-     inkscape:window-height="1347"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:cx="661.60294"
+     inkscape:cy="190.9171"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="360"
+     inkscape:window-y="1440"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -50,18 +49,6 @@
        flatten="false"
        hide_clip="false"
        message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient35173">
-      <stop
-         style="stop-color:#003380;stop-opacity:1"
-         offset="0"
-         id="stop35169" />
-      <stop
-         style="stop-color:#003380;stop-opacity:0"
-         offset="1"
-         id="stop35171" />
-    </linearGradient>
     <marker
        style="overflow:visible"
        id="TriangleOutM"
@@ -188,17 +175,6 @@
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path34710-3" />
     </marker>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient35173"
-       id="radialGradient35177"
-       cx="204.19289"
-       cy="251.98375"
-       fx="204.19289"
-       fy="251.98375"
-       r="32.204617"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.4226769,0,0,1.4226769,-86.307617,-106.50771)" />
     <marker
        style="overflow:visible"
        id="TriangleOutM-2"
@@ -235,14 +211,25 @@
          id="circle83105"
          cx="204.19289"
          cy="251.98375"
-         r="21.405699"
-         d="m 225.59859,251.98375 a 21.405699,21.405699 0 0 1 -21.4057,21.4057 21.405699,21.405699 0 0 1 -21.4057,-21.4057 21.405699,21.405699 0 0 1 21.4057,-21.4057 21.405699,21.405699 0 0 1 21.4057,21.4057 z" />
-      <path
-         id="lpe_path-effect83107"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.37256;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;stop-color:#000000"
-         class="powerclip"
-         d="m 153.37589,201.16698 h 101.634 v 101.63353 h -101.634 z m 72.2227,50.81677 a 21.405699,21.405699 0 0 0 -21.4057,-21.4057 21.405699,21.405699 0 0 0 -21.4057,21.4057 21.405699,21.405699 0 0 0 21.4057,21.4057 21.405699,21.405699 0 0 0 21.4057,-21.4057 z" />
+         r="21.405699" />
     </clipPath>
+    <radialGradient
+       id="radialGradient35177"
+       cx="204.19"
+       cy="251.98"
+       r="32.205002"
+       gradientTransform="matrix(1.4227,0,0,1.4227,-82.60375,-107.56782)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#003380"
+         offset="0"
+         id="stop1896" />
+      <stop
+         stop-color="#003380"
+         stop-opacity="0"
+         offset="1"
+         id="stop1898" />
+    </radialGradient>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -258,6 +245,11 @@
        y="174.78217"
        rx="1.977327"
        ry="1.4956635" />
+    <path
+       id="path1992"
+       clip-path="none"
+       style="opacity:0.5;fill:url(#radialGradient35177);stroke-width:1"
+       d="m 207.8972,205.10538 a 45.816998,45.816998 0 0 0 -45.81684,45.81685 45.816998,45.816998 0 0 0 45.81684,45.81683 45.816998,45.816998 0 0 0 45.81684,-45.81683 45.816998,45.816998 0 0 0 -45.81684,-45.81685 z m 0.004,24.41763 a 21.406,21.406 0 0 1 21.40593,21.40593 21.406,21.406 0 0 1 -21.40593,21.40645 21.406,21.406 0 0 1 -21.40593,-21.40645 21.406,21.406 0 0 1 21.40593,-21.40593 z" />
     <text
        xml:space="preserve"
        style="font-weight:300;font-size:8.46667px;line-height:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-decoration-color:#000000;white-space:pre;fill:#000000;stroke:none;stroke-width:0.264583;stroke-opacity:0.5;stop-color:#000000"
@@ -344,18 +336,6 @@
        style="opacity:0.5;fill:none;stroke:#005500;stroke-width:2.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-5)"
        d="m 123.98619,205.66275 53.00353,30.60161"
        id="path34403-5" />
-    <path
-       style="opacity:0.509682;fill:url(#radialGradient35177);fill-opacity:1;stroke:none;stroke-width:2.93783;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;stop-color:#000000"
-       id="path35069"
-       clip-path="url(#clipPath83103)"
-       transform="translate(3.7041668,-1.058333)"
-       d="m 250.00989,251.98375 a 45.817001,45.816765 0 0 1 -45.817,45.81676 45.817001,45.816765 0 0 1 -45.817,-45.81676 45.817001,45.816765 0 0 1 45.817,-45.81677 45.817001,45.816765 0 0 1 45.817,45.81677 z"
-       sodipodi:type="arc"
-       sodipodi:ry="45.816765"
-       sodipodi:rx="45.817001"
-       sodipodi:cy="251.98375"
-       sodipodi:cx="204.19289"
-       inkscape:path-effect="#path-effect83107" />
     <text
        xml:space="preserve"
        style="font-weight:300;font-size:8.46667px;line-height:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-decoration-color:#000000;white-space:pre;fill:#000000;stroke:none;stroke-width:0.264583;stroke-opacity:0.5;stop-color:#000000"
