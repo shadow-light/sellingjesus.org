@@ -1,26 +1,37 @@
 #!/bin/bash
 set -e
-cd "$(dirname "$(dirname "$0")")"
+cd "$(dirname "$(dirname "$0")")/book"
 
 
 # Build HTML
 if [[ "$1" != "--skip" ]]; then
-    VITE_BOOK=true node_modules/.bin/vitepress build --outDir book/shared/dist
-    # Remove site assets to ensure they don't interfere
-    rm -r book/shared/dist/assets
-    # Copy to root so media relative urls resolve
-    cp book/shared/dist/book/index.html book/shared/dist/book.html
-    # Remove site styles
-    perl -i -pe 's|<link rel="preload stylesheet"[^>]*?>||gi' book/shared/dist/book.html
-    # Make URLs relative to dir (--base only affects assets, not absolute image urls etc)
-    perl -i -pe 's|src="/|src="./|gi' book/shared/dist/book.html
+
+    # Build HTML
+    cd ..
+    VITE_BOOK=pdf node_modules/.bin/vitepress build --outDir book/shared/dist_pdf
+    VITE_BOOK=epub node_modules/.bin/vitepress build --outDir book/shared/dist_epub
+    cd book
+
+    # Copy HTML to dist root for easier url resolution
+    cp shared/dist_pdf/book/index.html shared/dist_pdf/book.html
+    cp shared/dist_epub/book/index.html shared/dist_epub/book.html
+
+    # Remove site assets and meta from <head>
+    perl -i -pe 's|<head>.+</head>|<head></head>|gi' shared/dist_pdf/book.html
+    perl -i -pe 's|<head>.+</head>|<head></head>|gi' shared/dist_epub/book.html
+
+    # Remove any inline styles for consistency (VitePress also adds position:relative to wrapper)
+    perl -i -pe 's|style=".*?"||gi' shared/dist_pdf/book.html
+    perl -i -pe 's|style=".*?"||gi' shared/dist_epub/book.html
+
+    # Make img URLs relative to dir (--base only affects assets, not absolute image urls etc)
+    perl -i -pe 's|src="/|src="./|gi' shared/dist_pdf/book.html
+    perl -i -pe 's|src="/|src="./|gi' shared/dist_epub/book.html
 fi
 
 # Build CSS
-node_modules/.bin/sass src/book/book.sass book/shared/dist/book.css
-perl -i -pe 's|url\(/|url(./|gi' book/shared/dist/book.css
+../node_modules/.bin/sass styles_pdf.sass shared/dist_pdf/book.css
 
-# Render to PDF
-cd book
+# Render to PDF/EPUB
 sudo docker build -t sj_book .
 sudo docker run --rm --network=host -v "$PWD/shared":/home/app/shared sj_book
