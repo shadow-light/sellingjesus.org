@@ -24,8 +24,10 @@ Of all the passages in Scripture dedicated to the intersection between money and
 
 I would posit that there are three primary ways of interpreting Paul’s right.  In the context of ministry and giving, it is either:
 
-__A.__ a claim to material support,\
-__B.__ a plenary authority to receive material support, or\
+__A.__ a claim to material support,
+
+__B.__ a plenary authority to receive material support, or
+
 __C.__ a limited authority to receive material support.
 
 The point of this article is to advocate for __C__ as the correct understanding.  I will present arguments for this in a moment, but first, a few words of clarification.
