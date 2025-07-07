@@ -16,9 +16,7 @@ When Jesus said "freely you received, freely give" (Matt 10:8) when he sent out 
 
 In 2 Corinthians Paul responds to the "super apostles" who were not just leading the church astray but were also peddling God's Word, exchanging their teaching for money. Unlike the super apostles, Paul never charged for ministry (2 Cor 11:7), he only accepted _voluntary_ financial support (Phil 4:18).
 
-> For we are not like so many others, who peddle the word of God. On the contrary, in Christ we speak before God with sincerity, as men sent from God.
->
-> __2 Cor 2:17__
+> For we are not like so many others, who peddle the word of God. On the contrary, in Christ we speak before God with sincerity, as men sent from God. (2 Cor 2:17)
 
 While many translations like to constrain Paul's condemnation by appending "for profit" (implying non-profit sale of teaching is ok), such additions are not from the original text.
 
