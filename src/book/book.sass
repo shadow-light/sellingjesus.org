@@ -147,6 +147,7 @@ table
 
 img
     max-width: 100%
+    margin: 0.5em 0  // Since no <p> margin
 
 mark
     background-color: hsl(0, 0%, 90%)
@@ -162,7 +163,7 @@ h1, h2
 
 h3, h4, h5, h6
     margin-top: 1em
-    margin-bottom: 0
+    margin-bottom: 0.25em
     text-align: left
 
 h2
@@ -175,7 +176,7 @@ p
     margin: 0
 
 .intro, .articles_html, .conclusion
-    p + p
+    p + p:not(:has(img))
         text-indent: 0.25in
 
 sup, sub

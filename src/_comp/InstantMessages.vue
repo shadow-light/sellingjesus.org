@@ -8,8 +8,9 @@ template(v-if='file_id === "conversations" && !book')
 
 div(v-for='(topic, i) of topics')
     component(:is='book ? "h3" : "h2"' :id='`topic-${i+1}`') {{ topic.heading }}
-    div(v-html='topic.description')
-    podcast-player(v-if='topic.podcast' :id='topic.podcast')
+    //- WARN Don't exist for book or will mess with `break-after: avoid` for heading above
+    div(v-if='topic.description' v-html='topic.description')
+    podcast-player(v-if='topic.podcast && !book' :id='topic.podcast')
     div
         div.msg(v-for='(message, i) of topic.messages')
             img(:src='`/_assets/convos/${file_id}_${i % 2 === 0 ? "asker" : "responder"}.jpg`')
