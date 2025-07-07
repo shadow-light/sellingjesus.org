@@ -59,7 +59,3 @@ Used rightly, honorariums may be regarded as a fruitful means of supporting inte
 ## Conclusion
 
 Ministers should take special precautions not to transgress the Bible’s ethic of ministry fundraising. However, if we forbid what the Bible permits and even commends, we wander into the realm of legalism, harming ourselves and others. Let us not sell ministry, but let us encourage its support to the fullest!
-
-&nbsp;
-
-_See also [Objections to Paying Pastors](/articles/paying-pastors)_

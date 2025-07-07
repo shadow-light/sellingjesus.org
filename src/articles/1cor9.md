@@ -88,8 +88,6 @@ It can be hard to follow the whole chapter given its size, so let's now reduce t
 
 </blockquote>
 
-(_See also a [modernized conversation between Paul and the Corinthians](https://sellingjesus.org/learn/corinthians)._)
-
 
 ## The tension
 This chapter is a challenging one to fully understand because Paul is holding two things in tension.
