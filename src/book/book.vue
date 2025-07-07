@@ -112,6 +112,13 @@ function demote_headings(html:string){
 }
 
 
+// Util to remove elements not-for-print
+function rm_ui(html:string){
+    return html.replace(/<youtube.*?<\/youtube>/g, '')
+        .replace(/<vpbutton.*?<\/vpbutton>/g, '')
+}
+
+
 // Util to wrap all references in an <a>
 function wrap_refs(html:string){
     const dom = new DOMParser().parseFromString(html, 'text/html')
@@ -219,8 +226,22 @@ for (const category in articles_by_category){
         }
         articles_html += `<div class="author">${article.frontmatter.author}</div>`
         articles_html += '</div>'
-        articles_html += wrap_refs(inline_footnotes(demote_headings(article.html)))
-        articles_html += `<div class='website'>An online version of this article, with links to any sources, is available at:<br>sellingjesus.org/articles/${article_id}</div>`
+        articles_html += rm_ui(wrap_refs(inline_footnotes(demote_headings(article.html)))).trim()
+
+        // Detect what tags article ends with so can insert a final footnote
+        let end_tags = articles_html.match(/<\/p>$/)?.[0]
+            ?? articles_html.match(/<\/p>\s*<\/blockquote>$/)?.[0]
+        if (!end_tags){
+            console.error(articles_html.slice(-200))
+            throw new Error("Couldn't detect tags article ends with")
+        }
+
+        // Remove end tags (will add back below)
+        articles_html = articles_html.slice(0, end_tags.length * -1)
+
+        // Add url footnote
+        articles_html += `<span class='footnote-item'>An online version of this article, with links to any sources, is available at:<br>sellingjesus.org/articles/${article_id}</span>`
+        articles_html += end_tags
     }
 
     // Append profiles to end of Application category
