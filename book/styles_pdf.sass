@@ -183,7 +183,8 @@ p
     margin: 0
 
 .intro, .articles_html, .conclusion
-    p + p:not(:has(img))
+    // Second of two normal paragraphs should be indented (i.e. not blockquote/img/etc)
+    p:not(:has(img)) + p:not(:has(img))
         text-indent: 0.25in
 
 sup, sub
