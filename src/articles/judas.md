@@ -75,11 +75,11 @@ All who sell Christian teaching do so with the stated intention of the good of C
 
 These matters are often flipped on their head.  For example, in Corinth, the “super apostles” who charged for their preaching were considered as bringing glory to the kingdom while Paul was only bringing shame. Of course, nothing could have been further from the truth.
 
-> Was it a sin for me to humble myself in order to exalt you, because I preached the gospel of God to you free of charge? … Why? Because I do not love you? God knows I do! (2 Corinthians 11:7, 11)
+> Was it a sin for me to humble myself in order to exalt you, because I preached the gospel of God to you free of charge? […] Why? Because I do not love you? God knows I do! (2 Cor 11:7, 11)
 
 Regardless of how well-intentioned anyone who sells Christian teaching may be, ultimately Scripture implicates them as insincere. They definitionally operate with an ulterior motive, giving teaching in exchange for some material gain.
 
-> For we are not like so many others, who peddle the word of God. On the contrary, in Christ we speak before God with sincerity, as men sent from God. (2 Corinthians 2:17)
+> For we are not like so many others, who peddle the word of God. On the contrary, in Christ we speak before God with sincerity, as men sent from God. (2 Cor 2:17)
 
 
 ## The Fulfillment of Prophecy

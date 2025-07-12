@@ -26,7 +26,7 @@ Let's closely examine the context, and especially the lead up to Jesus' command:
 
 <sup>10:1</sup>And calling His twelve disciples to Him, Jesus gave them authority over unclean spirits, so that they could drive them out and heal every disease and sickness.
 
-<sup>2-4</sup>These are the names of the twelve apostles... [omitted]
+<sup>2-4</sup>These are the names of the twelve apostles [...]
 
 <sup>5</sup>These twelve Jesus sent out with the following instructions: “Do not go onto the road of the Gentiles or enter any town of the Samaritans. <sup>6</sup>Go rather to the lost sheep of Israel. <sup>7</sup>As you go, preach this message: ‘The kingdom of heaven is near.’ <sup>8</sup>Heal the sick, raise the dead, cleanse the lepers, drive out demons. <mark>Freely you have received; freely give.</mark>
 

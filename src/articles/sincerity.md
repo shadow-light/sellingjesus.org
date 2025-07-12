@@ -154,7 +154,7 @@ Yet, __all can discern when the Word is being sold__. It is evident; nothing is 
 
 This is why Paul chooses this to be the main sign by which he distinguishes himself from the super apostles.
 
-> Was it a sin for me to humble myself in order to exalt you, because I preached the gospel of God to you _free of charge_?... But I will keep on doing what I am doing, in order to undercut those who want an opportunity to be regarded as our equals in the things of which they boast. (2 Cor 11:7,12)
+> Was it a sin for me to humble myself in order to exalt you, because I preached the gospel of God to you _free of charge_? [...] But I will keep on doing what I am doing, in order to undercut those who want an opportunity to be regarded as our equals in the things of which they boast. (2 Cor 11:7,12)
 
 In other areas, he can argue for his sincerity, but ultimately the Corinthians must decide whether to accept his arguments (2 Cor 6:11-13). When it comes to peddling the Word, they have no ground for such an accusation.
 

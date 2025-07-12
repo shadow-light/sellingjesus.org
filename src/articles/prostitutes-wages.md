@@ -48,7 +48,7 @@ If these gifts are illegitimate before God then those teachers who broadcast the
 
 Notably, Jude picks up on the imagery of this proverb and incorporates it into his brief epistle:
 
-> For certain people have crept in unnoticed…These are hidden reefs at your love feasts, as they feast with you without fear, shepherds feeding themselves; __waterless clouds, swept along by winds__; (Jude 4,12; cf. 2 Peter 2:17)
+> For certain people have crept in unnoticed […] These are hidden reefs at your love feasts, as they feast with you without fear, shepherds feeding themselves; __waterless clouds, swept along by winds__; (Jude 4,12; cf. 2 Peter 2:17)
 
 Putting this together, we see a startling image. Those who publicly announce that they donate the proceeds from sales of ministry often do so as proof of their legitimacy. Yet if we acknowledge it as a false gift, Jude identifies this very behavior as marking _false_ teachers.
 

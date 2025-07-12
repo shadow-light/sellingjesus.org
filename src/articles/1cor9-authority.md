@@ -170,7 +170,7 @@ Paul’s comments regarding the conscience in 1 Corinthians 8:7–12 have given 
 
 However, this Corinthian contention between the weak and the strong is assumed rather than proven.[^6] There is no suggestion that those with weak consciences may be offended or that they would somehow benefit from understanding that it is permissible to eat food sacrificed to idols. Instead, Paul’s concern is the opposite: he worries that they will be drawn into eating (1 Cor 8:10). Their weak consciences, which do not know the difference between right and wrong, may be deceived by the foolish bravado of other Christians into thinking that one may eat food sacrificed to idols. In 1 Corinthians 10, he directly tells them to flee idolatry by ceasing to eat food sacrificed to idols.
 
-> Therefore my beloved, flee from idolatry. …Then what do I mean? That what is sacrificed to an idol is anything, or that an idol is anything? Rather, that what the Gentiles sacrifice, they sacrifice to demons and not to God. And I do not want you to be fellow partakers with demons. (1 Corinthians 10:14,19-20)
+> Therefore my beloved, flee from idolatry. […] Then what do I mean? That what is sacrificed to an idol is anything, or that an idol is anything? Rather, that what the Gentiles sacrifice, they sacrifice to demons and not to God. And I do not want you to be fellow partakers with demons. (1 Cor 10:14,19-20)
 
 Moreover, the connection to Romans 14 is not as direct as it appears on an initial inspection. While Romans 14 speaks of a weak brother, 1 Corinthians 8 speaks of a weak conscience. The weak conscience of 1 Corinthians 8 is a conscience that remains unconvicted regarding a sinful action unlike the weak brother of Romans 14 that is wrongly convicted by a neutral action.
 

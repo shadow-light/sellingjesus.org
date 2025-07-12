@@ -87,7 +87,7 @@ First, it should be evident that ministries engaged in this practice rarely limi
 While it may be appropriate to charge for food at a conference or housing at a seminary, often charging for such material things is a proxy for charging for spiritual things.  Aquinas is representative of medieval theologians when he asserts that Scripture forbids not only the sale of spiritual things but also the sale of material things that are _annexed_ to spiritual things.
 
 
-> A thing may be annexed to spiritual things […] as being dependent on spiritual things. [...] such things can by no means exist apart from spiritual things. Consequently it is altogether unlawful to sell such things, because the sale thereof implies the sale of things spiritual.[^6]
+> A thing may be annexed to spiritual things […] as being dependent on spiritual things. […] such things can by no means exist apart from spiritual things. Consequently it is altogether unlawful to sell such things, because the sale thereof implies the sale of things spiritual.[^6]
 
 To “annex” one thing to another is to attach it in such a way that the other cannot be independently obtained.  For example, if you require someone purchase a physical certificate in order to be baptized, you have annexed that certificate to baptism.
 
