@@ -87,13 +87,13 @@ The several agricultural analogies are the least direct, but neither the ox (1 C
 
 The analogy of the soldier is more direct.
 
-> Who at any time serves as a soldier at his own expense? (1 Corinthians 9:7a)
+> Who at any time serves as a soldier at his own expense? (1 Cor 9:7a)
 
 Consider the contexts in which the soldier is permitted to take money from citizens. He should collect from taxes given to the king; the citizens are obligated to the king, and as the soldier collects, he has authority from the king to receive this money even for his own support.  However, there are circumstances where it would be wrong for him to receive money.  If he compels a citizen to give directly to him rather than to the king, it is extortion.  If the citizen offers money beyond his duty to the king, for the sake of the soldier, it is bribery.  The soldier’s right to receive on behalf of the king is limited rather than plenary.
 
 The same is true for the most direct analogy: that of the priesthood.
 
-> Do you not know that those working in the temple eat the things of the temple; those attending at the altar partake in the altar? (1 Corinthians 9:13)
+> Do you not know that those working in the temple eat the things of the temple; those attending at the altar partake in the altar? (1 Cor 9:13)
 
 The Levites received of the tithes and offerings given by the people in Israel.  As frequently indicated throughout Numbers 18, “the Lord is their inheritance” (Deu 18:2).  That is, they had authority to receive contributions and sacrifices that were made to God. However, this was not a plenary authority to receive anything offered to them in the context of ministry.  If one offered sacrifice directly to them rather than to the Lord, it would be idolatrous. The sons of Eli committed a great sin in receiving meat that was not offered to the Lord (1 Sam 2:12-17).  If we would not regard the priests as having a plenary authority to any kind of support, we should not regard Paul as having this sort of authority either.
 
@@ -121,7 +121,7 @@ Even the length of the chapter adds weight to the judgment that Paul’s authori
 
 Paul’s reason for rejecting material support is centered in the notion of stewardship.
 
-> For if I preach the gospel, there is no boasting to me, for necessity is laid upon me. But woe be to me if I should not preach the gospel. For if I do this willingly, I have a reward; but if unwillingly, I am entrusted with a stewardship. What then is my reward? That in preaching the gospel, I should offer the gospel free of charge, so as not to use up my right[^4] in the gospel. (1 Corinthians 9:16-18)
+> For if I preach the gospel, there is no boasting to me, for necessity is laid upon me. But woe be to me if I should not preach the gospel. For if I do this willingly, I have a reward; but if unwillingly, I am entrusted with a stewardship. What then is my reward? That in preaching the gospel, I should offer the gospel free of charge, so as not to use up my right[^4] in the gospel. (1 Cor 9:16-18)
 
 Paul rejects the idea that he operates with autonomy when he says he does not proclaim the gospel of his own will. That is, he is not a free agent who gives the gospel to whom he wills for the price that he sets. Instead, he is a steward who does not use his particular authority to charge for the gospel.
 
@@ -164,7 +164,7 @@ This stewardship connects to Paul’s boasting and reward.  If he were to act wi
 
 Perhaps the strongest argument to be made comes from the larger context of the epistle.  Much insight can be drawn from the surrounding chapters, which address the matter of meat sacrificed to idols.  In fact, chapter 9 serves as an illustration for the consideration of these surrounding chapters.  There, he speaks of the Corinthians’ “right” to eat.
 
-> But be careful, lest somehow this __right__ of yours becomes an occasion of stumbling to those being weak (1 Corinthians 8:9)
+> But be careful, lest somehow this __right__ of yours becomes an occasion of stumbling to those being weak (1 Cor 8:9)
 
 Paul’s comments regarding the conscience in 1 Corinthians 8:7–12 have given rise to an interpretation that regards the issue in Corinth to center on a conflict between those of a strong conscience and those of a weak conscience. In this view, those with strong consciences know they are permitted to eat all things, but those with weak consciences do not feel comfortable availing themselves of this freedom. Paul’s solution is for the strong to be considerate of others by foregoing their right to eat food sacrificed to idols so as not to offend the muddy consciences of the weak. By this reading, the strong are not at risk of any religious danger, only of offending weaker brothers. This appears to be corroborated by the companion text in Romans 14:1.
 
@@ -257,7 +257,7 @@ Returning from the notion of lawfulness to rights, if the Christian’s right to
 While we’ve only scratched the surface of 1 Corinthians 9, it should be evident that when Paul uses the word “right,” he does not indicate a claim to material support or even a plenary authority to receive it.  Even as an apostle, he does not have a permissive license or legal carte blanche that would justify any and all courses of action.  Rather, he denotes a limited authority of stewardship that permits him to receive that which is truly offered to the Lord.  Paul would never charge for his preaching, accepting honor for himself that belongs to the Lord. However, as his representative and steward, the apostle gladly receives what is offered to the Lord.
 
 
-> But I have all things, and abound. I am full, having received from Epaphroditus the things from you, an odor of a sweet smell, an acceptable sacrifice, well-pleasing to God. (Philippians 4:18)
+> But I have all things, and abound. I am full, having received from Epaphroditus the things from you, an odor of a sweet smell, an acceptable sacrifice, well-pleasing to God. (Phil 4:18)
 
 A minister of the gospel does not have a plenary authority to receive every gift that is offered to him.  He has something much greater! He has a boast in the Lord and a reward of stewardship itself, and within that stewardship from God he may receive all that is offered in sacrifice to the Lord.
 

@@ -28,7 +28,7 @@ Typically, this label of “simony” is attached to the activity of those who w
 
 We should recognize that commerce around Christian teaching fits within this category, and therefore may also be a sin. The one who attempts to purchase Christian teaching is not merely attempting to purchase raw knowledge, a set of propositions and dry information about the Christian faith; they seek to effect in themselves a work of the Spirit of God, who not only propositionally communicates to them the truth of God, but experientially communicates to them the goodness of God so that it would not be rejected (1 Cor 2:14). This spiritual enlightenment happens through a human teacher as an instrument, but its agent is the Holy Spirit.
 
-> We have not received the spirit of the world, but the Spirit who is from God, that we may understand what God has freely given us. And this is what we speak, not in words taught us by human wisdom, but in words taught by the Spirit, expressing spiritual truths in spiritual words. (1 Corinthians 2:12-13)
+> We have not received the spirit of the world, but the Spirit who is from God, that we may understand what God has freely given us. And this is what we speak, not in words taught us by human wisdom, but in words taught by the Spirit, expressing spiritual truths in spiritual words. (1 Cor 2:12-13)
 
 Note that Paul speaks of such truth as being freely given. If such truth is freely given by God, then it must be freely given by man in order to obey the command of Christ: “freely you received, freely give” (Matt 10:8).
 
@@ -66,13 +66,13 @@ The problem with simony is not the actual exchange of material things for spirit
 
 In this light, it may be obvious that purchasing Christian teaching is not necessarily a sin. Since we have framed the vindicating factor as a matter of “rights,” we ought to ask whether Christians—and even non-Christians for that matter—have a right to biblical teaching. While no one is owed anything in particular, God has freely given his Word, and so it ought to be regarded as a “right.”
 
-> Come, all you who are thirsty, come to the waters; and you without money, come, buy, and eat! Come, buy wine and milk without money and without cost! (Isaiah 55:1)
+> Come, all you who are thirsty, come to the waters; and you without money, come, buy, and eat! Come, buy wine and milk without money and without cost! (Isa 55:1)
 
 In other words, no one has the authority to restrict access to biblical teaching by means of a paywall.
 
 > Its heads give judgment for a bribe; its priests teach for a price; its prophets practice divination for money; yet they lean on the LORD and say, “Is not the LORD in the midst of us? No disaster shall come upon us.” (Micah 3:11)
 >
-> For we are not, like so many, peddlers of God's word, but as men of sincerity, as commissioned by God, in the sight of God we speak in Christ. (2 Corinthians 2:17)
+> For we are not, like so many, peddlers of God's word, but as men of sincerity, as commissioned by God, in the sight of God we speak in Christ. (2 Cor 2:17)
 
 If this is the case, then the one who purchases biblical teaching may be like the redeemer who frees the slave. He does not need to do so out of a heart that regards biblical teaching to be a matter of commerce, but as one who operates in a world where it is treated as a matter of commerce.
 

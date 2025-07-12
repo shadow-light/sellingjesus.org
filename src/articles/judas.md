@@ -29,7 +29,7 @@ When Judas betrayed Jesus, he was not content with the situation in life that Go
 
 Similarly, the one who sells Christian teaching sells what is not his to sell.  Inasmuch as it is of his own imagination—not in accord with the word of God—it ought not to be taught as religious knowledge at all.  Inasmuch as it is derived from divine revelation, it has been freely received and ought to be freely given.
 
-> As you go, preach this message: ‘The kingdom of heaven is near.’ Heal the sick, raise the dead, cleanse the lepers, drive out demons. Freely you have received; freely give. (Matthew 10:7-8)
+> As you go, preach this message: ‘The kingdom of heaven is near.’ Heal the sick, raise the dead, cleanse the lepers, drive out demons. Freely you have received; freely give. (Matt 10:7-8)
 
 Moreover, since good news of the gospel is Christ himself (Rom 16:25; 1 Cor 1:23; Php 1:15), and the one who receives him possesses him as his own (1 John 5:12), the one who sells that message is not transacting in mere words, but in Christ himself, as did Judas.
 
@@ -38,7 +38,7 @@ Moreover, since good news of the gospel is Christ himself (Rom 16:25; 1 Cor 1:23
 
 Values are comparative.  Judas’s sin was not merely in valuing earthly riches, but in valuing them beyond heavenly riches, such that he was willing to exchange the former for the latter.  Paul describes the folly of this thinking when he remarks that the gospel is not his to sell, but even if it were, the material reward that could be gained by selling it would not match the heavenly reward that may be possessed by offering it freely.
 
-> If my preaching is voluntary, I have a reward. But if it is not voluntary, I am still entrusted with a responsibility. What then is my reward? That in preaching the gospel I may offer it free of charge, and so not use up my rights in preaching it. (1 Corinthians 9:17-18)
+> If my preaching is voluntary, I have a reward. But if it is not voluntary, I am still entrusted with a responsibility. What then is my reward? That in preaching the gospel I may offer it free of charge, and so not use up my rights in preaching it. (1 Cor 9:17-18)
 
 The one who sells Christian teaching forfeits the heavenly reward available to those who offer the word of God freely.  Jesus himself described how those who give or pray for recognition among men trade a heavenly reward for an earthly one (Matt 6:1-6).  The same applies to the work of preaching and teaching.  The one who exchanges the word for material honors does so at the expense of heavenly honors.
 
@@ -52,24 +52,24 @@ Moreover, Judas was willing to bring direct harm to the kingdom of God.  Those w
 > and you without money,\
 > come, buy, and eat!\
 > Come, buy wine and milk\
-> without money and without cost! (Isaiah 55:1)
+> without money and without cost! (Isa 55:1)
 
 One may argue that this does not harm Jesus himself, but Jesus himself claimed that a neglect of his elect is a malicious neglect of him.
 
-> And they too will reply, ‘Lord, when did we see You hungry or thirsty or a stranger or naked or sick or in prison, and did not minister to You?’ Then the King will answer, ‘Truly I tell you, whatever you did not do for one of the least of these, you did not do for Me.’ (Matthew 25:44-45; cf. Acts 9:4)
+> And they too will reply, ‘Lord, when did we see You hungry or thirsty or a stranger or naked or sick or in prison, and did not minister to You?’ Then the King will answer, ‘Truly I tell you, whatever you did not do for one of the least of these, you did not do for Me.’ (Matt 25:44-45; cf. Acts 9:4)
 
 In fact, in considering the way it harms the kingdom, the sin of selling Christian teaching is even greater than the sin of Judas in several ways.  Appealing to the Parisian Theologian William Perault, John Wycliffe observed that “simoniacs go beyond Iscariot, who secretly sold to the elders Truth existing in a mortal body, but simoniacs do the opposite entirely with regard to both the Son and the Holy Spirit.”[^1]  A modern commentator explains Wycliffe’s use of Perault: “The contrast here is that Judas sold God secretly as he exists in the human body of Christ, but simoniacs openly sell the divine Christ and the Holy Spirit.” If we acknowledge that [selling Christian teaching is simony](https://sellingjesus.org/articles/simony), the reality of this assessment becomes apparent.
 
 Judas operated in the shadows, but peddlers of the word of God operate openly.  Judas did bodily harm to Christ, but the one who exchanges Christian teaching for money spiritually dishonors Christ who has been given to us freely. Additionally, since he presumably hopes to effect some work of the Spirit in the hearts of the hearers, he likewise dishonors the Holy Spirit who has been freely given as well.
 
-> We have not received the spirit of the world, but the Spirit who is from God, that we may understand what God has freely given us. And this is what we speak, not in words taught us by human wisdom, but in words taught by the Spirit, expressing spiritual truths in spiritual words. (1 Corinthians 2:12-13)
+> We have not received the spirit of the world, but the Spirit who is from God, that we may understand what God has freely given us. And this is what we speak, not in words taught us by human wisdom, but in words taught by the Spirit, expressing spiritual truths in spiritual words. (1 Cor 2:12-13)
 
 
 ## A Pretext of Friendship
 
 Lastly, Judas turned Jesus over to the Roman authorities under the pretext of friendship.
 
-> Now the betrayer had arranged a signal with them: “The One I kiss is the man; arrest Him.” Going directly to Jesus, he said, “Greetings, Rabbi!” and kissed Him. “Friend,” Jesus replied, “do what you came for.” (Matthew 26:48-50)
+> Now the betrayer had arranged a signal with them: “The One I kiss is the man; arrest Him.” Going directly to Jesus, he said, “Greetings, Rabbi!” and kissed Him. “Friend,” Jesus replied, “do what you came for.” (Matt 26:48-50)
 
 All who sell Christian teaching do so with the stated intention of the good of Christ and his kingdom.  In some cases, this is all for show, but in every other case, those good intentions are at best misguided.
 
@@ -98,7 +98,7 @@ Matthew himself testifies that Zechariah’s activity functions as a prophecy fu
 
 So what is the context of Zechariah?  His people are as a flock with poor shepherds. These men are hirelings, eager to gain wealth from the sheep through selling them, saying “Blessed be the LORD, for I am rich!” (Zec 11:4-5). As a sign to Judah, Zechariah is commanded by God to take the role of a shepherd, only to abandon the flock.
 
-> Then I said, “Let the dying die, and the perishing perish; and let those who remain devour one another’s flesh.” (Zechariah 11:9)
+> Then I said, “Let the dying die, and the perishing perish; and let those who remain devour one another’s flesh.” (Zec 11:9)
 
 It is at this point that he breaks his staff and asks for payment, which he receives in thirty pieces of silver.
 

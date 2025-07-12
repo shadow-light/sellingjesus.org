@@ -30,9 +30,7 @@ A key takeaway is that content creators cannot anticipate how their works may be
 
 The biblical ethic teaches that we should offer gospel ministry without imposing any sort of burden.
 
-> And when I was present with you and was in need, I was not a burden on any man, for the brothers, when they came from Macedonia, supplied my need. And in everything I kept myself from being burdensome to you, and so I will remain.
->
-> **2 Cor 11:9**
+> And when I was present with you and was in need, I was not a burden on any man, for the brothers, when they came from Macedonia, supplied my need. And in everything I kept myself from being burdensome to you, and so I will remain. (2 Cor 11:9)
 
 Many are quick to read this passage as Paul simply claiming that he did not take money from the Corinthians. It is true that he took money from the Macedonians and not the Corinthians. However, if we interpret “burden” as referring simply to money, that would suggest that Paul *did* burden the Macedonians, something he asserts he would never do to any of his churches (2 Cor 12:14).^[On its face, 2 Cor­inth­ians 12:13 may suggest otherwise (“For what is there in which you were made inferior to the rest of the churches, except that I myself was not a burden to you? Forgive me this wrong.”). But the irony present in the verse more likely only indicates that his non-burdensome actions toward oth­er church­es would count as burdens if applied to the Cor­inth­ians. Besides, it would be difficult to justify the apostle’s behavior if he actually did treat his congregations with partiality (cf. James 2:1).] Furthermore, one might interpret “burden” as referring to financial hardship, but the Corinthians were well-off compared to the Macedonians.^[Some in Corinth were presumably of noble birth (1 Cor 1:26) and well off (1 Cor 11:21). On the other hand, the Macedonians gave “beyond their means” (2 Cor 8:4) and Paul goes as far as to describe it as “robbery” to take money from them (2 Cor 11:8).]
 

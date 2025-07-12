@@ -44,7 +44,7 @@ In our own culture, a similar notion is communicated by the terms “blood money
 
 If these gifts are illegitimate before God then those teachers who broadcast their donations are guilty of a false boast. Consider the following proverb:
 
-> Like clouds and wind without rain is a man who boasts of a gift he does not give. (Proverbs 25:14)
+> Like clouds and wind without rain is a man who boasts of a gift he does not give. (Prov 25:14)
 
 Notably, Jude picks up on the imagery of this proverb and incorporates it into his brief epistle:
 

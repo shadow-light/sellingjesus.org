@@ -74,7 +74,7 @@ There are also less honorable approaches. For example:
 While we should walk by faith and not by sight in every area of life, this is especially true in the work of ministry. In fact, the Bible specifically tells us that pragmatic (results-oriented) approaches to generosity typically don’t play out as one would expect.
 
 
-> _One gives freely, yet gains even more; another withholds what is right, only to become poor._ (Proverbs 11:24)
+> _One gives freely, yet gains even more; another withholds what is right, only to become poor._ (Prov 11:24)
 
 Let me encourage you to take a step back and examine your heart around whatever concern you may have regarding copyright hijacking.
 

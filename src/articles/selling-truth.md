@@ -15,9 +15,7 @@ date: 2023-03-22T00:00:00.000Z
 
 But this isn’t new. Truth was already being sold way back in the 8<sup>th</sup> century BC in the time of the prophet Micah, and what he wrote has implications for today’s monetizing of ministry. So, I invite you to join me in taking out the microscope and meditating on Micah 3:11. The prophet is speaking of the nation of Israel:
 
-> Its leaders give judgment for a bribe;<br>its priests teach for a price;<br>its prophets practice pagan divination for money.<br>Yet they lean on Yahweh and say,<br>“Is not Yahweh in our midst?<br>No disaster shall come upon us.”
->
-> **Micah 3:11**
+> Its leaders give judgment for a bribe;<br>its priests teach for a price;<br>its prophets practice pagan divination for money.<br>Yet they lean on Yahweh and say,<br>“Is not Yahweh in our midst?<br>No disaster shall come upon us.” (Micah 3:11)
 
 We have three parallel lines in this part of the poem: 1) leaders taking bribes, 2) priests selling their teaching, 3) prophets selling divination. If we didn’t have the first line, we might mistake the second two lines as things that are actually okay because of how normal they have become in our current commercialized Christian climate. But the first line is something we still universally recognize as wrong. Bribery within the justice system is obviously sinful to everyone.
 

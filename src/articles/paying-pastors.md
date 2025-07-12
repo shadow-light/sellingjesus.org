@@ -64,7 +64,7 @@ While we do reject reciprocity in ministry, and affirm that there should be no o
 
 The New Testament was written in a time when there were relatively few churches, so most accounts we have of funding ministry are in the context of mission and evangelism. But there is no instruction in Scripture to only give to ministries which don’t benefit you. Rather, Paul explicitly tells us that it _is_ appropriate to support those who serve at one’s own church:
 
-> Elders who lead effectively are worthy of double honor, especially those who work hard at preaching and teaching. For the Scripture says, “Do not muzzle an ox while it is treading out the grain,” and, “The worker is worthy of his wages.” (1 Timothy 5:17-18)
+> Elders who lead effectively are worthy of double honor, especially those who work hard at preaching and teaching. For the Scripture says, “Do not muzzle an ox while it is treading out the grain,” and, “The worker is worthy of his wages.” (1 Tim 5:17-18)
 
 The context of this passage is clearly the local church, with elders who serve the congregation. _Honor_ is clearly financial in application, given the context of _financially_ honoring widows prior to it, and the subsequent quotes (ox, wages).[^7]
 
