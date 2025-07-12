@@ -23,13 +23,9 @@ If this is so, God’s Word should also be sufficient for answering the question
 
 The Association of Certified Biblical Counselors (ACBC) is an esteemed organization, devoted to counseling according to God’s Word. I myself am an ACBC certified counselor, and greatly appreciate and admire the work they have done in equipping both pastors and laymen to rightly handle God’s Word in counseling. However, when it comes to Jesus’s teaching that the ministry of the gospel should be offered freely (Mat 10:8), this organization has opted to turn a blind eye. Rather than take the position of its founder Jay Adams, who clearly assumed that biblical counseling would be offered for free,[^3] ACBC leaves the door open for individual counselors to decide whether or not they will charge, and how much: “The Bible is clear that ministers of the gospel of Jesus are entitled to earn their living from the gospel…. Biblical counselors … must seek to love their counselees in discerning whether to charge fees and how much to charge.”[^4] Notice that they wrongly assume that earning a living “from the gospel” means *charging* people for speaking truth in love, putting a price tag on wisdom, and requiring people “obtain the gift of God with money” (Acts 8:20). Also, they imply that it can be loving to charge people for healing, for pointing them to Jesus, and for other spiritual gifts that are involved in biblical counseling. But it is never loving to disobey God by selling access to the ministry of his Word and Spirit. As we’ll see in the data presented below, this confusing stance regarding money and ministry has created a biblical counseling landscape in which everyone simply does what is right in their own eyes.
 
-To see how the ACBC financial policy plays out in practice, I have compiled data from all the official ACBC training centers that offer counseling.[^5] This information was usually available on the websites of the individual counseling centers, though I occasionally had to reach out via email to ask. ([The full collected data](https://docs.google.com/spreadsheets/d/1tV5d4dZ_l0IvwmKX7J5kGoUWFvClxtc1qlbM9-qVJlo/edit?usp=sharing).)
-
-&nbsp;
+To see how the ACBC financial policy plays out in practice, I have [compiled data](https://docs.google.com/spreadsheets/d/1tV5d4dZ_l0IvwmKX7J5kGoUWFvClxtc1qlbM9-qVJlo/edit?usp=sharing) from all the official ACBC training centers that offer counseling.[^5] This information was usually available on the websites of the individual counseling centers, though I occasionally had to reach out via email to ask.
 
 ![](/media/acbc-charts.jpg)
-
-&nbsp;
 
 Of all the ACBC counseling and training centers listed, only about 55% of centers offer their counseling without any fees. Of those remaining, 25% charge for each counseling session, while 20% do not charge per session, but still include some administrative fees (such as an initial setup fee or cancellation deposit).
 

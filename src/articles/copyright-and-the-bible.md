@@ -158,11 +158,7 @@ In contrast, I find it commendable that Richard Francis Weymouth, when creating 
 
 There is no need for negotiation concerning the contemporary "Bondage of the Word"; it already exists and there seems to be no sign that such abuse will diminish. Legislation and royalty fees to the contrary, and notwithstanding the legal chains and bonds which modern editors and publishers have attempted to impose, our Almighty God once and for all has declared that "the word of God is *not* bound" (2 Tim 2.9), and only from this perspective can anything truly be accomplished solely for the glory of God. Amen.[^27]
 
-&nbsp;
-
 ---
-
-&nbsp;
 
 ### Exhibit A: A Display of "Prohibited" Scripture
 To exemplify the abuses imposed by copyright and subsequent restrictions, this page reproduces *without* seeking permission either orally or in writing the *entire* text of the book of 2 John — a *direct* violation of the restriction regarding the quotation of the copyrighted biblical text of the NRSV. The restriction is violated because an entire book of the Bible is quoted, in utter disregard of the specific NRSV restriction statement on the inside title page, which expressly states (emphasis added):
@@ -178,9 +174,6 @@ To exemplify the abuses imposed by copyright and subsequent restrictions, this p
 > Quotations or reprints in excess of five hundred (500) verses (as well as other permission requests) *must* be approved *in writing* by the NRSV Permissions Office, the National Council of the Churches of Christ in the U.S.A.
 
 The real absurdity to this entire excursus is that *no* permission would have been required to quote the far more extensive passage from 1 Jn 1:2 all the way through 2 Jn 12. However, the mere reproduction of the thirteen verses which appear below is prohibited. Regardless of restrictions, however, here now is the *entire* text of 2 John from the NRSV — used *without* seeking any permission whatsoever:
-
-
-&nbsp;
 
 
 #### The Second Letter of John

@@ -164,12 +164,6 @@ _Instead, we speak with sincerity in Christ, as from God and before God. (2 Cori
 <img src='/_assets/bible-publishers/other_beginning.jpg'>
 
 
-&nbsp;
-
----
-
-&nbsp;
-
 ### A free alternative
 
 I hope when this article is read in 10 years time there will be plenty of good free translations to recommend. For now, I recommend just one: [The Berean Standard Bible](https://bsb.freely.giving/) (BSB). It is the first modern English translation to be translated straight from the original languages, overseen by scholars, and dedicated to the public domain. Which means you can use it however you need to, without breaking any rules. You are probably not familiar with it because it was only freed from copyright this year (2023).
