@@ -49,11 +49,11 @@ In short, the KJV’s beginnings sowed the seed and set a precedent for Bible pu
 
 ## The Biblical Contradiction
 
-Although the KJV is in the public domain in most countries, this status arises not from any spirit of generosity or devotion to freely sharing the Word of God, but *in spite of* historical and ongoing attempts to control it. From its inception, the KJV has been tightly managed under the Crown's perpetual copyright in the United Kingdom. This system of monopolistic control, driven by the Crown’s desire to regulate who could print and profit from the Bible, stands in stark contrast to the spirit of the gospel and the very definition of what a Bible is—*God’s* Word, not man’s.
+Although the KJV is in the public domain in most countries, this status arises not from any spirit of generosity or devotion to freely sharing the Word of God, but *in spite of* historical and ongoing attempts to control it. From its inception, the KJV has been tightly managed under the Crown's perpetual copyright in the United Kingdom. This system of monopolistic control, driven by the Crown’s desire to regulate who could print and profit from the Bible, stands in stark contrast to the spirit of the gospel and the very definition of what a Bible is—*God’s* Word, not man’s.[^7]
 
-This fixation on control is not unique to the history of the KJV. Modern Christian publishing is fraught with efforts to profit from and restrict access to Scripture[^7], ignoring Jesus’ command in Matthew 10:8: “Freely you have received; freely give.”
+This fixation on control is not unique to the history of the KJV. Modern Christian publishing is fraught with efforts to profit from and restrict access to Scripture,[^8] ignoring Jesus’ command in Matthew 10:8: “Freely you have received; freely give.”
 
-So please join us in confronting the Bible market, which treats God’s Word as a commodity to bind and monetize. For more on this topic, see [this article on the history of the KJV](https://kjbhistory.com/the-kjv-copyright-a-sordid-tale-of-intrigue-and-avarice/), check out [copy.church](https://copy.church/) and read *[The Dorean Principle](https://thedoreanprinciple.org/)*.
+So please join us in confronting the Bible market, which treats God’s Word as a commodity to bind and monetize.
 
 <YouTube id='EpQRSI-rqjg'></YouTube>
 
@@ -70,4 +70,6 @@ So please join us in confronting the Bible market, which treats God’s Word as 
 
 [^6]: David Norton, *A History of the English Bible as Literature* (Cambridge: Cambridge University Press, 2000), 90–91. See also Norton’s detailed *A Textual History Of The King James Bible*, and his two-volume, *History of the Bible as Literature*. In addition see the [inexpensive condensed volume](https://www.amazon.com/King-James-Bible-History-Tyndale/dp/0521616883).
 
-[^7]: See our article *[Bible Publishers: Stewards or Gatekeepers?](https://sellingjesus.org/articles/bible-publishers)*
+[^7]: For more on the history of the KJV, see [_The KJV Copyright – A Sordid Tale Of Intrigue And Avarice_](https://kjbhistory.com/the-kjv-copyright-a-sordid-tale-of-intrigue-and-avarice/) by Timothy Berg, Mar 27, 2020.
+
+[^8]: See our article *[Bible Publishers: Stewards or Gatekeepers?](https://sellingjesus.org/articles/bible-publishers)*
