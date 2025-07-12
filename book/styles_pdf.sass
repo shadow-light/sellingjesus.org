@@ -1,5 +1,3 @@
-// NOTE URLs should be relative to root (as don't need for site preview anyway, just build)
-
 
 // Import Crimson Pro as will clear all content from <head> which is where it's usually imported
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200..900;1,200..900&display=swap')
@@ -93,6 +91,10 @@ h2, h3, h4, h5, h6
     break-after: avoid  // Move heading to next page if was going to break after it
     break-inside: avoid  // Don't make heading go across pages
 
+figcaption
+    break-inside: avoid
+    break-before: avoid  // Don't separate from img
+
 p, blockquote, li, div
     // Ensure at least 2 lines before/after a page break, otherwise move whole block to next page
     orphans: 2
@@ -122,7 +124,7 @@ table
     font-family: 'Noto Serif Hebrew'
     font-style: normal
     font-weight: 400
-    src: url(_assets/fonts/noto_serif_hebrew.woff2) format('woff2')
+    src: url(/_assets/fonts/noto_serif_hebrew.woff2) format('woff2')
     unicode-range: U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F
 
 @font-face
@@ -130,7 +132,7 @@ table
     font-style: normal
     font-weight: 400
     font-display: swap
-    src: url(_assets/fonts/eb_garamond_greek_ext.woff2) format('woff2')
+    src: url(/_assets/fonts/eb_garamond_greek_ext.woff2) format('woff2')
     unicode-range: U+1F00-1FFF
 
 @font-face
@@ -138,7 +140,7 @@ table
     font-style: normal
     font-weight: 400
     font-display: swap
-    src: url(_assets/fonts/eb_garamond_greek.woff2) format('woff2')
+    src: url(/_assets/fonts/eb_garamond_greek.woff2) format('woff2')
     unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF
 
 
@@ -152,9 +154,20 @@ table
     text-align: justify
     hyphens: auto
 
+figure
+    display: block
+    margin: 0  // WeasyPrint adds left/right margins for some reason...
+
 img
+    display: block
     max-width: 100%
     margin: 0.5em 0  // Since no <p> margin
+
+figcaption
+    text-align: center
+    font-style: italic
+    font-size: 0.9em
+    margin-bottom: 5mm
 
 mark
     background-color: hsl(0, 0%, 90%)
@@ -246,7 +259,13 @@ table
         margin: 0
 
 .footnote-item
-    text-indent: 0.1in
+    // Force styles as WeasyPrint inherits from wherever footnote was floated from
+    display: block !important
+    text-align: left !important
+    font-style: normal !important
+    font-weight: normal !important
+    font-size: 9pt !important
+    text-indent: 0.1in !important
 
 .footnote-backref
     display: none

@@ -32,6 +32,7 @@ fi
 
 # Build CSS
 ../node_modules/.bin/sass styles_pdf.sass shared/dist_pdf/book.css
+perl -i -pe 's|url\(/|url(./|gi' shared/dist_pdf/book.css
 
 # Render to PDF/EPUB
 sudo docker build -t sj_book .
