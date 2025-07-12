@@ -58,7 +58,7 @@ So please join us in confronting the Bible market, which treats God’s Word as 
 <YouTube id='EpQRSI-rqjg'></YouTube>
 
 
-[^1]: For more information see these articles on [Crown copyright](https://en.wikipedia.org/wiki/Crown_copyright) and the [King James Version](https://en.wikipedia.org/wiki/King_James_Version)
+[^1]: For more information see the Wikipedia articles on [Crown copyright](https://en.wikipedia.org/wiki/Crown_copyright) and the [King James Version](https://en.wikipedia.org/wiki/King_James_Version)
 
 [^2]: For example, *The New Cambridge Paragraph Bible*, edited by David Norton and published by Cambridge University Press in 2005, presents the KJV text in paragraph format with modernized spelling and punctuation. Also, see *The King James Study Bible, Full Color Edition*, published by Thomas Nelson, which features thousands of study notes, archaeological information, special articles, in-text maps, and annotations.
 
