@@ -37,7 +37,7 @@ As we can see, freely giving and being financially supported goes hand-in-hand w
 
 > Then He said to His disciples, “The harvest is plentiful, but the workers are few. Ask the Lord of the harvest, therefore, to send out workers into His harvest.” (Matt 9:37-38)
 
- God is the employer and it is he who provides for his workers, which he often does through other believers. Let's add this insight to our diagram:
+God is the employer and it is he who provides for his workers, which he often does through other believers. Let's add this insight to our diagram:
 
 ![God provides for the minister](/_assets/biblical-funding/diagram_colabor2.svg)
 

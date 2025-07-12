@@ -2,6 +2,7 @@
 import path from 'path'
 
 import MarkdownPluginFootnote from 'markdown-it-footnote'
+import MarkdownContainer from 'markdown-it-container'
 import {defineConfig} from 'vitepress'
 
 import settings from '../settings.json'
@@ -99,6 +100,19 @@ export default defineConfig({
                     }
                 }
             }))
+            // Custom container for wrapping image in <figure> (::: figure url \n caption :::)
+            md.use(MarkdownContainer, 'figure', {
+                validate: function(params){
+                    return params.trim().match(/^figure\s+(.*)$/)
+                },
+                render: function (tokens, idx){
+                    if (tokens[idx].nesting === 1){
+                        const url = tokens[idx].info.trim().match(/^figure\s+(.*)$/)[1]
+                        return `<figure>\n<img src="${md.utils.escapeHtml(url)}">\n<figcaption>\n`
+                    }
+                    return '</figcaption>\n</figure>\n'
+                },
+            })
         },
     },
     themeConfig: {

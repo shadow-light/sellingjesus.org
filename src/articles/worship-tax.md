@@ -43,10 +43,9 @@ Though it describes itself like a ministry[^13] and originates from a church in 
 Presumably, the owner of CCLI carefully looked into SESAC before selling a Christian business that 250,000+ churches rely on and pay millions of dollars to. At the time of the CCLI sale, SESAC was primarily owned by Rizvi Traverse Management,[^16] a private investment firm which also owned a significant part of Playboy (the pornography business).[^17] SESAC has now been sold (and CCLI along with it) to another investment firm called Blackstone.[^18] Blackstone owns many different companies, some of which have concerning practices.[^19] But their main goal, like any investment firm, is to simply maximize profits for their shareholders.
 
 
-![A screenshot showing Rizvi's ownership of SESAC and Playboy](/_assets/worship-tax/rizvi_portfolio.jpg)
-
-
-_This is a screenshot of the public portfolio page for the primary owner of SESAC prior to the sale of CCLI to SESAC.[^20] Noting that the owner (Rizvi Traverse Management) did not merely invest in SESAC but had a controlling interest (at least 75%) and also had an influential stake in Playboy._
+::: figure /_assets/worship-tax/rizvi_portfolio.jpg
+This is a screenshot of the public portfolio page for the primary owner of SESAC prior to the sale of CCLI to SESAC.[^20] Noting that the owner (Rizvi Traverse Management) did not merely invest in SESAC but had a controlling interest (at least 75%) and also had an influential stake in Playboy.
+:::
 
 To be clear, the issue here is not that CCLI is engaged in any disreputable business, but rather that it has been _entrusted_ to the owners of disreputable businesses. These owners now also profit off of the worship of God. Even if CCLI hadn’t been sold to a secular company, there is no reason why it should have been for-profit in the first place.
 
@@ -73,9 +72,9 @@ This is not necessarily new or limited to songs that have been put up for auctio
 So whether auctioned or not, many Christian songs are already benefiting secular investors. CCLI likely takes around 10-15% before distributing royalties.[^31] Assuming the common 50/50 split for publishers and artists, artists will end up taking less than 50% home, with the rest eventually flowing down to investors. Some publishers are non-profit,[^32] but all of them still collect royalties through CCLI. So while it may be claimed that the licensing system is “supporting” Christian artists, it is also profitable to secular investors who may be taking in even more.
 
 
-![A diagram showing how money from churches ends up going to both artists and investors](/_assets/worship-tax/royalties_diagram.jpg)
-
-_Where the money churches pay in licensing fees goes in most cases._
+::: figure /_assets/worship-tax/royalties_diagram.jpg
+Where the money churches pay in licensing fees goes in most cases.
+:::
 
 
 ## The Sanctity of Worship
@@ -102,17 +101,16 @@ This is why when you pay for a CCLI license you are _not_ paying for permission 
 In other words, for all American churches that merely project lyrics onto a screen without streaming their services (which was most churches prior to COVID-19), they are allowed to sing without a license, play the music without a license, and display the lyrics without a license. The only things in question are _printing_ music sheets (which musicians could buy or memorize instead) and copying the lyrics into physical or digital presentations so they can be displayed. So it is the single act of copying lyrics into slides that churches pay CCLI for, _not_ the actual display of those lyrics which is already allowed.
 
 
-![An illustration of someone copying lyrics into slides for church services](/_assets/worship-tax/lyrics_illustration.jpg)
-
-
-_U.S. copyright law explicitly permits performing and displaying religious songs in religious services, but does not explicitly permit the act of copying lyrics into physical or digital presentations._
+::: figure /_assets/worship-tax/lyrics_illustration.jpg
+U.S. copyright law explicitly permits performing and displaying religious songs in religious services, but does not explicitly permit the act of copying lyrics into physical or digital presentations.
+:::
 
 CCLI acknowledges the triviality of this legal gap in one of their factsheets: “The DISPLAY aspect sets up an interesting dichotomy for worship leaders. Apparently the law allows you to DISPLAY lyrics for copyright songs without permission, but it doesn’t allow you to REPRODUCE song lyrics, or store them in a computer.”[^40]
 
 
-![A quote from CCLI's factsheet](/_assets/worship-tax/ccli_quote.jpg)
-
-_From a [CCLI factsheet](https://global.ccli.com/wp-content/uploads/03_TheReligiousServicesExemption-copy.pdf) on the U.S. religious services exemption._
+::: figure /_assets/worship-tax/ccli_quote.jpg
+From a [CCLI factsheet](https://global.ccli.com/wp-content/uploads/03_TheReligiousServicesExemption-copy.pdf) on the U.S. religious services exemption.
+:::
 
 However, U.S. copyright law does have general “fair use” exemptions, and one of the main factors considered is: “the purpose and character of the use, including whether such use is of a commercial nature.”[^41] Since copying lyrics into slides for use in church is (1) non-commercial, (2) trivial, done solely to facilitate the legal display of the work, and (3) only creates a single private copy inaccessible to the public, it is highly likely it would be considered fair use. Since this kind of case has never been considered in court, CCLI and Christian artists will be able to continue to cast doubt on its legality until someone attempts to sue for it. We can be assured, however, that the original purpose of the religious exemption was to prevent such issues from ever arising.
 

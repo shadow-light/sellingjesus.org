@@ -45,7 +45,7 @@ Consider Thomas Aquinas’s explanation of a circumstance where it would be righ
 
 > It would be simoniacal to buy off the opposition of one’s rivals, before acquiring the right to a bishopric or any dignity or prebend, by election, appointment or presentation, since this would be to use money as a means of obtaining a spiritual thing. But it is lawful to use money as a means of removing unjust opposition, after one has already acquired that right.[^1]
 
-To paraphrase: “It is sin to bribe someone to give you a pastoral position that would best be given to another. However, if such a position rightly belongs to you and a corrupt system stands in the way, it would not be a sin to use money in order to secure that position.”
+To paraphrase: “It is a sin to bribe someone to give you a pastoral position that would best be given to another. However, if such a position rightly belongs to you and a corrupt system stands in the way, it would not be a sin to use money in order to secure that position.”
 
 
 ![Diagram comparing forbidden and permissable purchases of ordination](/_assets/buying/diagram1.svg)
