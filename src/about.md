@@ -24,7 +24,7 @@ Conley is a software engineer, a pastor at [Silicon Valley Reformed Baptist Chur
 
 ### Jon Here
 
-Jon is the founder of [Gracious Tech](https://gracious.tech), an app development company that produces software for cross-cultural mission, and hundreds of missionaries rely on its newsletter software *[Stello](https://stello.news)*. He has served for many years as a pastor part-time and also as a missionary in south-east Asia. He completed his MDiv at [Sydney Missionary & Bible College](https://www.smbc.edu.au/). While creating Bible apps he discovered just how commercialized Scripture had become and created *[Let's copy, church](https://copy.church)* in response, to advocate for the free giving of Scripture and other ministry resources.
+Jon is the founder of [Gracious Tech](https://gracious.tech), a company that produces apps for global mission. He also serves as a pastor part-time, and completed his MDiv at [Sydney Missionary & Bible College](https://www.smbc.edu.au/). While serving as a missionary in south-east Asia, he discovered just how commercialized Scripture had become and created *[Let's copy, church](https://copy.church)* in response, to advocate for the free giving of Scripture and other ministry resources.
 
 [Hear Jon's journey](/podcast/4ka49JooCIDoy0kvs15bBK) to confronting the commercialization of Scripture.
 
