@@ -8,10 +8,10 @@ date: 2023-02-21T00:00:00.000Z
 
 When we give offerings at church, who are we giving them to? Practically speaking we are giving them to a legal entity (a local church) which then pools what is "offered" to pay for rent, wages, and other expenses. But the fact we use the term "offering" and not just "donation" should remind us that there is a spiritual dimension going on, even if the secular world cannot see it.
 
-In [_The Command to Freely Give_](/articles/freely-give), it was established that:
+In my article [_The Command to Freely Give_](/articles/freely-give), it is established that:
  1. Jesus commanded free giving in the context of ministry
  2. Paul endorsed financial support for ministry, not commerce
- 3. Paul modelled free giving himself
+ 3. Paul modeled free giving himself
 
 We'll now consider how supporting ministry works at a spiritual level to better understand the importance of the free giving ethic.
 
@@ -89,8 +89,6 @@ While many have good intentions and are just utilising commercial practices for 
 
 ## Decommercializing ministry
 
-[The Dorean Principle](https://thedoreanprinciple.org/) by Conley Owens provides an even deeper analysis of this topic and is highly recommended for those wanting even more evidence from Scripture.
-
-Ministry has become increasingly commercialized over many decades, and so decommercializing it will not be easy or pleasant. Providers of ministry are not alone to blame, as we have all been urging the sale of ministry on, churches and individuals alike. In many ways the first step is to start financially supporting ministries that have otherwise had to rely on sales to survive.
+Ministry has become increasingly commercialized over many decades, and so decommercializing it will not be easy or pleasant. Providers of ministry are not alone to blame, as we have all been urging the sale of ministry on, churches and individuals alike.
 
 Wisdom and grace is needed. However, things must not continue the way they are. As Jesus said, _“you cannot serve both God and money.”_

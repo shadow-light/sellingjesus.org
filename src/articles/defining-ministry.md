@@ -9,7 +9,7 @@ date: 2024-08-06T00:00:00.000Z
 <podcast-player id="0H6tbmBGXCOypEvFDBPZ0R"></podcast-player>
 
 
-When people hear the principle that “ministry should be supported, not sold,” they sometimes object by claiming that essentially anything a Christian does can be considered “ministry,” so it’s impossible to apply the principle. We touched on this perspective in the profile of “[Jane the Free Thinker](https://sellingjesus.org/learn/profiles#jane-the-free-thinker).” Jane believes that there are no guiding principles in Scripture regarding money and ministry because “everything is ministry if it’s done as unto the Lord, right? As long as we’re loving God and our neighbor and seeking to make disciples, all of life is ministry! A janitor can work for the glory of God, and when he does, that’s a ministry just as important as preaching. A Christian flipping burgers can be a ministry just as much as praying for someone’s healing!” So Jane has concluded that, just as a janitor can demand payment for the work he is doing, a Christian can demand payment for each prayer he prays for someone.
+When people hear the principle that “ministry should be supported, not sold,” they sometimes object by claiming that essentially anything a Christian does can be considered “ministry,” so it’s impossible to apply the principle. Such is the perspective of “[Jane the Free Thinker](https://sellingjesus.org/learn/profiles#jane-the-free-thinker).” Jane believes that there are no guiding principles in Scripture regarding money and ministry because “everything is ministry if it’s done as unto the Lord, right? As long as we’re loving God and our neighbor and seeking to make disciples, all of life is ministry! A janitor can work for the glory of God, and when he does, that’s a ministry just as important as preaching. A Christian flipping burgers can be a ministry just as much as praying for someone’s healing!” So Jane has concluded that, just as a janitor can demand payment for the work he is doing, a Christian can demand payment for each prayer he prays for someone.
 
 It’s common for Christians to hold some form of Jane’s view. Therefore, we want to take the time to work towards a careful consideration of the limitations Scripture puts upon what should and should not be considered ministry. We hope to provide a framework that clarifies the concept so that we can discern what true ministry is and know what should not be monetized.
 
@@ -20,9 +20,9 @@ Note that the goal here is not to do a formal lexical study of the word “minis
 This article spends considerable space at the beginning tracing the different reasons for confusion around the meaning of ministry. For those who aren’t interested in this lengthy background, it’s recommended that you skip to one of the following sections:
 
 
-* [The Roots of the Concept in Scripture](#the-roots-of-the-concept-of-ministry-in-the-old-testament-and-its-development-in-the-new-testament)
-* [A Working Definition](#a-working-definition)
-* [Application](#application)
+* [_The Roots of the Concept in Scripture_](#the-roots-of-the-concept-of-ministry-in-the-old-testament-and-its-development-in-the-new-testament)
+* [_A Working Definition_](#a-working-definition)
+* [_Application_](#application)
 
 
 ## The Challenge of Balance

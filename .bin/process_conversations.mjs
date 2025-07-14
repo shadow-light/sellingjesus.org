@@ -53,6 +53,10 @@ data.topics = data.topics.map(topic => {
         }
     }
 
+    // Add names to only first two messages
+    messages[0] = name1 + ': ' + messages[0].trim()
+    messages[1] = name2 + ': ' + messages[1].trim()
+
     return {
         heading: topic.heading,
         description: markdowner.render(topic.description ?? ''),

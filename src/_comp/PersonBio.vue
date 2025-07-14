@@ -66,6 +66,9 @@ const person = computed(() => people.find(p => p.name === props.name))
                 margin-top: 0
                 margin-bottom: 8px
 
+            h4
+                margin: 0
+
             .title
                 margin-right: 12px
 

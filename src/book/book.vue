@@ -5,7 +5,9 @@ div.book
 
     div.first-page
         h1
-            span ABOLISH
+            span Abolish
+            //- Ensure space
+            |
             br
             span the Jesus Trade
 
