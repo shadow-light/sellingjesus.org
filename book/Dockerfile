@@ -17,7 +17,7 @@ RUN mkdir -p /home/app/
 
 # Install all required python modules
 RUN python3 -m pip install --target /home/app/ \
-    boto3 "pypdf==5.*" "reportlab==4.*" "weasyprint==65.*"
+    boto3 "pypdf==5.*" "reportlab==4.*" "git+https://github.com/Kozea/WeasyPrint.git@main"
 
 
 ## Create image that will actually be deployed

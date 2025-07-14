@@ -264,6 +264,11 @@ table
     text-indent: 0.1in !important
     line-height: 1 !important
 
+    //- Don't display footnote number for "see online article" at end of ecah article
+    &.online
+        &::footnote-call, &::footnote-marker
+            content: ''
+
 .footnote-backref
     display: none  // Visible arrow char link inserted by VitePress
 

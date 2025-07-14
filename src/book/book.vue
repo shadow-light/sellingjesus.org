@@ -281,7 +281,7 @@ for (const category in articles_by_category){
         articles_html = articles_html.slice(0, end_tags.length * -1)
 
         // Add url footnote
-        articles_html += `<span class='footnote-item'>An online version of this article, with links to any sources, is available at:<br>sellingjesus.org/articles/${article_id}</span>`
+        articles_html += `<span class='footnote-item online'>An online version of this article, with links to any sources, is available at:<br>sellingjesus.org/articles/${article_id}</span>`
         articles_html += end_tags
     }
 
