@@ -31,7 +31,7 @@ COPY --from=build-image /home/app/ /home/app/
 # Install distro modules needed at runtime (weasy deps, fonts)
 RUN apk add --no-cache \
     libstdc++ pango zlib-dev jpeg-dev openjpeg-dev libffi-dev \
-    msttcorefonts-installer pandoc
+    msttcorefonts-installer calibre
 
 # Get Alpine to recognise the new fonts
 RUN update-ms-fonts

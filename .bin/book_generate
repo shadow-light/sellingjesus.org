@@ -34,6 +34,9 @@ fi
 ../node_modules/.bin/sass styles_pdf.sass shared/dist_pdf/book.css
 perl -i -pe 's|url\(/|url(./|gi' shared/dist_pdf/book.css
 
+# Provide epub cover so can access within docker container
+cp epub_cover.jpg shared/dist_epub/epub_cover.jpg
+
 # Render to PDF/EPUB
 sudo docker build -t sj_book .
 sudo docker run --rm --network=host -v "$PWD/shared":/home/app/shared sj_book

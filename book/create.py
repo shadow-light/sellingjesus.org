@@ -15,7 +15,12 @@ def create_pdf():
 
 def create_epub():
     subprocess.run(
-        ['pandoc', 'book.html', '-o', '../book.epub', '--toc'],
+        [
+            'ebook-convert', 'book.html', '../book.epub',
+            '--title', "Abolish the Jesus Trade",
+            '--authors', "Andrew Case & Conley Owens & Jon Here",
+            '--cover', 'epub_cover.jpg',
+        ],
         cwd='shared/dist_epub',
         check=True,
     )

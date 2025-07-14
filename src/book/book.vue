@@ -3,7 +3,7 @@
 
 div.book
 
-    div.first-page
+    div.first-page(v-if='!EPUB')
         //- So space is preserved
         h1 #[span Abolish] #[br] #[span the Jesus Trade]
 
