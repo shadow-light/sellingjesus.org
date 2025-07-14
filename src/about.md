@@ -16,7 +16,7 @@ Andrew is a graduate of The Southern Baptist Theological Seminary and the Canada
 
 ### Conley Owens
 
-Conley is a software engineer, a pastor at [Silicon Valley Reformed Baptist Church](https://svrbc.org/), and the father of nine kids. He is the author of *[The Dorean Principle: A Biblical Response to the Commercialization of Christianity](https://thedoreanprinciple.org/)*, and lives with his family in Sunnyvale, California.
+Conley is a software engineer, a pastor at [Silicon Valley Reformed Baptist Church](https://svrbc.org/), and the father of nine kids and counting. He is the author of *[The Dorean Principle: A Biblical Response to the Commercialization of Christianity](https://thedoreanprinciple.org/)*, and lives with his family in Sunnyvale, California.
 
 [Hear Conley's journey](/podcast/0C0fmdUdkuXPvogoKhEXeG) to clarity on what Scripture teaches about money and ministry.
 
