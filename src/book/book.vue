@@ -165,7 +165,7 @@ function internalize_urls(dom:Document){
         // Make article links point internally
         const articles_prefix = 'https://sellingjesus.org/articles/'
         if (a.href.startsWith(articles_prefix)){
-            const article_id = a.href.slice(articles_prefix.length).split('#')[0]
+            const article_id = a.href.slice(articles_prefix.length).split(/[\.\#\?]/)[0]
             a.href = '#chapter-' + article_id
         }
     }
