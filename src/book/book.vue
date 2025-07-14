@@ -4,12 +4,8 @@
 div.book
 
     div.first-page
-        h1
-            span Abolish
-            //- Ensure space
-            |
-            br
-            span the Jesus Trade
+        //- So space is preserved
+        h1 #[span Abolish] #[br] #[span the Jesus Trade]
 
     div.second-page(class='break')
         p #[em Abolish the Jesus Trade: Spread the Joy of Freely Giving]
@@ -110,6 +106,7 @@ const page_profiles = pages_data[2]
 
 
 // Util to demote all headings in HTML
+// WARN This is not appropriate to run for all HTML such as intro/conclusion
 function demote_headings(html:string){
     return html.replace(/<(\/?)h([1-6])\b/g, (_, slash, level) => {
         let newLevel = Math.min(parseInt(level) + 1, 6)
@@ -118,10 +115,43 @@ function demote_headings(html:string){
 }
 
 
+// Util to transform website HTML for use in book
+// WARN Should be run per-article/page, not on whole thing
+function bookify_html(html:string){
+
+    // Parse to DOM object
+    const dom = new DOMParser().parseFromString(html, 'text/html')
+
+    // Remove unwanted elements
+    rm_ui(dom)
+
+    // Identify any passage references and wrap in <a> so can style
+    markup_references(dom.body)  // Takes body, not whole dom
+
+    // Make URLs to articles point within own doc
+    internalize_urls(dom)
+
+    // These differ between PDF and EPUB
+    if (EPUB){
+        // pass
+    } else {
+        // Inline footnotes so can float to bottom for each PDF page
+        inline_footnotes(dom)
+    }
+
+    // Return as string
+    return dom.body.innerHTML
+}
+
+
 // Util to remove elements not-for-print
-function rm_ui(html:string){
-    return html.replace(/<youtube.*?<\/youtube>/g, '')
-        .replace(/<vpbutton.*?<\/vpbutton>/g, '')
+function rm_ui(dom:Document){
+    const to_rm = ['youtube', 'iframe', 'vpbutton', 'badge']
+    for (const element_type of to_rm){
+        for (const element of dom.querySelectorAll(element_type)){
+            element.remove()
+        }
+    }
 }
 
 
@@ -142,17 +172,8 @@ function internalize_urls(dom:Document){
 }
 
 
-// Util to wrap all references in an <a>
-function wrap_refs(html:string){
-    const dom = new DOMParser().parseFromString(html, 'text/html')
-    markup_references(dom.body)
-    return dom.body.innerHTML
-}
-
-
 // Util to inline footnotes for an article
-function inline_footnotes(article:string){
-    const dom = new DOMParser().parseFromString(article, 'text/html')
+function inline_footnotes(dom:Document){
 
     // Replace all refs with actual footnote contents
     dom.querySelectorAll('.footnote-ref').forEach(sup => {
@@ -188,15 +209,12 @@ function inline_footnotes(article:string){
     // Remove old containers
     dom.querySelector('.footnotes-sep')?.remove()
     dom.querySelector('.footnotes')?.remove()
-
-    // Return new html
-    return dom.body.innerHTML
 }
 
 
 // Prepare intro/conclusion HTML
-const intro_html = wrap_refs(page_intro.html)
-const conclusion_html = wrap_refs(page_conclusion.html)
+const intro_html = bookify_html(page_intro.html)
+const conclusion_html = bookify_html(page_conclusion.html)
 
 
 // Prepare profiles HTML
@@ -206,7 +224,7 @@ const profiles_title = `
         <div class="author">Andrew Case</div>
     </div>
 `
-const profiles_html = wrap_refs(demote_headings(page_profiles.html))
+const profiles_html = bookify_html(demote_headings(page_profiles.html))
     .replace(/<h2.*?<\/h2>/, profiles_title)
 
 
@@ -249,7 +267,7 @@ for (const category in articles_by_category){
         }
         articles_html += `<div class="author">${article.frontmatter.author}</div>`
         articles_html += '</div>'
-        articles_html += rm_ui(wrap_refs(inline_footnotes(demote_headings(article.html)))).trim()
+        articles_html += bookify_html(demote_headings(article.html)).trim()
 
         // Detect what tags article ends with so can insert a final footnote
         let end_tags = articles_html.match(/<\/p>$/)?.[0]
