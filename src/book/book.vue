@@ -87,6 +87,10 @@ import convo_corinthians from '@/learn/corinthians_processed.json'
 import styles from '../../book/styles_pdf.sass?inline'
 
 
+// Need different HTML structure for epub
+const EPUB = import.meta.env.VITE_BOOK === 'epub'
+
+
 // Delete descriptions of convo sections since only a couple have them and better to be consistent
 for (const convo of convo_general.topics){
     convo.description = ""
@@ -118,6 +122,23 @@ function demote_headings(html:string){
 function rm_ui(html:string){
     return html.replace(/<youtube.*?<\/youtube>/g, '')
         .replace(/<vpbutton.*?<\/vpbutton>/g, '')
+}
+
+
+// Internalize urls so that they point to chapters within doc when exist
+function internalize_urls(dom:Document){
+    for (const a of dom.querySelectorAll('a')){
+        // Ensure relative links point to website (so all are the same for later matching below)
+        if (a.href.startsWith('/')){
+            a.href = 'https://sellingjesus.org' + a.href
+        }
+        // Make article links point internally
+        const articles_prefix = 'https://sellingjesus.org/articles/'
+        if (a.href.startsWith(articles_prefix)){
+            const article_id = a.href.slice(articles_prefix.length).split('#')[0]
+            a.href = '#chapter-' + article_id
+        }
+    }
 }
 
 
