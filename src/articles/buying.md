@@ -8,7 +8,7 @@ image: /media/articles/buying.jpg
 
 <podcast-player id="2zPqORbj8gw0zmbXoBqeSF"></podcast-player>
 
-In our resources, we frequently address the sin of selling Jesus. Plain passages of Scripture such as [Matthew 10:8](/articles/freely-give-today) and [2 Corinthians 2:17](/articles/commercializing-gods-word) all forbid selling ministry and spiritual benefits, most especially biblical teaching. This applies to [seminary tuition](/learn/profiles#tom-the-seminary-president), [gospel conference tickets](/learn/profiles#susan-the-bible-study-author), [Bible version licenses](/articles/bible-publishers), [worship music royalties](/articles/worship-tax), [Christian e-book charges](/learn/profiles#joe-the-author), and more.
+We frequently address the sin of selling Jesus. Plain passages of Scripture such as [Matthew 10:8](/articles/freely-give-today) and [2 Corinthians 2:17](/articles/commercializing-gods-word) all forbid selling ministry and spiritual benefits, most especially biblical teaching. This applies to [seminary tuition](/learn/profiles#tom-the-seminary-president), [gospel conference tickets](/learn/profiles#susan-the-bible-study-author), [Bible version licenses](/articles/bible-publishers), [worship music royalties](/articles/worship-tax), [Christian e-book charges](/learn/profiles#joe-the-author), and more.
 
 However, a question arises at this point: If selling Jesus is a sin, is buying Jesus a sin? Often, people are convinced by the biblical arguments that Christian teaching should not be sold but then want to know whether Christian teaching may be bought. How does this apply to a Christian who wants to go to a seminary that charges tuition, read an e-book that costs money, etc.?
 
