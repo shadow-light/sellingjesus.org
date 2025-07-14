@@ -21,5 +21,5 @@ def create_epub():
     )
 
 
-create_pdf()
 create_epub()
+create_pdf()

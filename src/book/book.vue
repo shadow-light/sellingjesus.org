@@ -269,20 +269,24 @@ for (const category in articles_by_category){
         articles_html += '</div>'
         articles_html += bookify_html(demote_headings(article.html)).trim()
 
-        // Detect what tags article ends with so can insert a final footnote
-        let end_tags = articles_html.match(/<\/p>$/)?.[0]
-            ?? articles_html.match(/<\/p>\s*<\/blockquote>$/)?.[0]
-        if (!end_tags){
-            console.error(articles_html.slice(-200))
-            throw new Error("Couldn't detect tags article ends with")
+        // Since printed book won't have links, insert final footnote with article URL
+        if (!EPUB){
+
+            // Detect what tags article ends with so can insert a final footnote
+            let end_tags = articles_html.match(/<\/p>$/)?.[0]
+                ?? articles_html.match(/<\/p>\s*<\/blockquote>$/)?.[0]
+            if (!end_tags){
+                console.error(articles_html.slice(-200))
+                throw new Error("Couldn't detect tags article ends with")
+            }
+
+            // Remove end tags (will add back below)
+            articles_html = articles_html.slice(0, end_tags.length * -1)
+
+            // Add url footnote
+            articles_html += `<span class='footnote-item online'>An online version of this article, with links to any sources, is available at:<br>sellingjesus.org/articles/${article_id}</span>`
+            articles_html += end_tags
         }
-
-        // Remove end tags (will add back below)
-        articles_html = articles_html.slice(0, end_tags.length * -1)
-
-        // Add url footnote
-        articles_html += `<span class='footnote-item online'>An online version of this article, with links to any sources, is available at:<br>sellingjesus.org/articles/${article_id}</span>`
-        articles_html += end_tags
     }
 
     // Append profiles to end of Application category
