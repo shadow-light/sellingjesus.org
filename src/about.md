@@ -8,7 +8,7 @@ Our purpose here is to highlight and exalt the radical generosity of God’s hea
 
 ### Andrew Case
 
-Andrew is a graduate of The Southern Baptist Theological Seminary and the Canada Institute of Linguistics. He serves as a Bible translation consultant, and produces a podcast about his field called *[Working for the Word](https://workingfortheword.com/)*. He spent seven years doing Bible translation work in Equatorial Guinea (Central Africa), and now he and his wife Bethany work in Mexico. Together founded [freehebrew.online](https://freehebrew.online/) where they teach Hebrew to the world. They have a beautiful baby girl named Naomi. Listen to the music he produces and read his books over at his [personal website](https://hismagnificence.com/).
+Andrew is a graduate of The Southern Baptist Theological Seminary and the Canada Institute of Linguistics. He serves as a Bible translation consultant, and produces a podcast about his field called *[Working for the Word](https://workingfortheword.com/)*. He spent seven years doing Bible translation work in Equatorial Guinea (Central Africa), and now he and his wife Bethany work in Mexico. Together they founded [freehebrew.online](https://freehebrew.online/) where they teach Hebrew to the world. They have two children. Listen to the music he produces and read his books over at his [personal website](https://hismagnificence.com/).
 
 [Hear Andrew's journey](/podcast/1eydXApYJwbTQ0McN0yjfa) to freely giving.
 
