@@ -103,12 +103,6 @@ p, blockquote, li, div
 table
     break-inside: avoid
 
-.footnote-item
-    float: footnote
-    font-size: 8pt  // NOT em since if inline in a blockquote it would be even further smaller
-    line-height: 1
-    counter-increment: chapter-footnote
-
 ::footnote-call
     content: counter(chapter-footnote)
     font-size: 0.8em
@@ -259,13 +253,16 @@ table
         margin: 0
 
 .footnote-item
+    float: footnote
+    counter-increment: chapter-footnote
     // Force styles as WeasyPrint inherits from wherever footnote was floated from
     display: block !important
     text-align: left !important
     font-style: normal !important
     font-weight: normal !important
-    font-size: 9pt !important
+    font-size: 8pt !important
     text-indent: 0.1in !important
+    line-height: 1 !important
 
 .footnote-backref
     display: none
