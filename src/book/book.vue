@@ -146,7 +146,7 @@ function bookify_html(html:string){
 
 // Util to remove elements not-for-print
 function rm_ui(dom:Document){
-    const to_rm = ['youtube', 'iframe', 'vpbutton', 'badge']
+    const to_rm = ['youtube', 'iframe', 'vpbutton', 'badge', 'podcast-player']
     for (const element_type of to_rm){
         for (const element of dom.querySelectorAll(element_type)){
             element.remove()

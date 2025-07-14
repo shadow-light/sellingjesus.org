@@ -1,43 +1,18 @@
 
-# Args
-ARG PYTHON_VERSION="3.11"
+FROM python:3.11-slim
 
 
-## Create temporary image for building assets that require compilation
-# We'll install all the python modules at this step since the whole venv will be copied to new image
-# But all the distro packages needed to compile the python modules will be discarded
+# Install build-weasy deps, weasy deps, and calibre for ebook-convert
+RUN apt-get update && apt-get install -y \
+    build-essential cmake libtool autoconf automake libelf-dev git \
+    libpango-1.0-0 libpangoft2-1.0-0 libharfbuzz-subset0 libjpeg-dev libopenjp2-7-dev libffi-dev \
+    calibre
 
-FROM python:${PYTHON_VERSION}-alpine AS build-image
-
-# Install only the distro modules needed to build the python modules
-RUN apk add --no-cache libstdc++ make cmake build-base libtool autoconf automake elfutils-dev git
-
-# Create dir for function
-RUN mkdir -p /home/app/
-
-# Install all required python modules
-RUN python3 -m pip install --target /home/app/ \
-    boto3 "pypdf==5.*" "reportlab==4.*" "git+https://github.com/Kozea/WeasyPrint.git@main"
-
-
-## Create image that will actually be deployed
-
-# Grab a fresh copy of the Python image
-FROM python:${PYTHON_VERSION}-alpine
-
-# Copy in the built python modules from the build image
-COPY --from=build-image /home/app/ /home/app/
-
-# Install distro modules needed at runtime (weasy deps, fonts)
-RUN apk add --no-cache \
-    libstdc++ pango zlib-dev jpeg-dev openjpeg-dev libffi-dev \
-    msttcorefonts-installer calibre
-
-# Get Alpine to recognise the new fonts
-RUN update-ms-fonts
-RUN fc-cache --really-force --verbose
+# Install weasyprint (need at least v66)
+RUN python3 -m pip install --target /home/app/ "git+https://github.com/Kozea/WeasyPrint.git@main"
 
 # Copy in the actual function
+RUN mkdir -p /home/app/
 COPY create.py /home/app/
 
 # Execution settings

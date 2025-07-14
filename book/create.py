@@ -20,6 +20,7 @@ def create_epub():
             '--title', "Abolish the Jesus Trade",
             '--authors', "Andrew Case & Conley Owens & Jon Here",
             '--cover', 'epub_cover.jpg',
+            '--extra-css', 'book.css',
         ],
         cwd='shared/dist_epub',
         check=True,

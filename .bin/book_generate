@@ -30,9 +30,12 @@ if [[ "$1" != "--skip" ]]; then
     perl -i -pe 's|src="/|src="./|gi' shared/dist_epub/book.html
 fi
 
-# Build CSS
+# Build CSS for PDF
 ../node_modules/.bin/sass styles_pdf.sass shared/dist_pdf/book.css
 perl -i -pe 's|url\(/|url(./|gi' shared/dist_pdf/book.css
+
+# Build CSS for EPUB
+../node_modules/.bin/sass styles_epub.sass shared/dist_epub/book.css
 
 # Provide epub cover so can access within docker container
 cp epub_cover.jpg shared/dist_epub/epub_cover.jpg
