@@ -42,8 +42,9 @@
         font-size: 9pt
 
     @footnote
-        border-top: 0.1mm solid black
         // Make border a short line rather than full width
+        border-style: none  // border-image adds to all sides in WeasyPrint so must disable others
+        border-top: 0.1mm solid black
         border-image: linear-gradient(to right, black 20%, transparent 20%) 1
         padding-top: 0.05in
 
