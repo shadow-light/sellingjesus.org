@@ -141,13 +141,13 @@ function demote_headings(html:string){
 
 // Util to transform website HTML for use in book
 // WARN Should be run per-article/page, not on whole thing
-function bookify_html(html:string){
+function bookify_html(html:string, also_rm:string[]=[]){
 
     // Parse to DOM object
     const dom = new DOMParser().parseFromString(html, 'text/html')
 
     // Remove unwanted elements
-    rm_ui(dom)
+    rm_ui(dom, also_rm)
 
     // Identify any passage references and wrap in <a> so can style
     markup_references(dom.body)  // Takes body, not whole dom
@@ -172,8 +172,8 @@ function bookify_html(html:string){
 
 
 // Util to remove elements not-for-print
-function rm_ui(dom:Document){
-    const to_rm = ['youtube', 'iframe', 'vpbutton', 'badge', 'podcast-player']
+function rm_ui(dom:Document, extra:string[]=[]){
+    const to_rm = ['youtube', 'iframe', 'vpbutton', 'badge', 'podcast-player', ...extra]
     for (const element_type of to_rm){
         for (const element of dom.querySelectorAll(element_type)){
             element.remove()
@@ -278,7 +278,7 @@ const profiles_title = `
         <div class="author">Andrew Case</div>
     </div>
 `
-const profiles_html = bookify_html(demote_headings(page_profiles.html))
+const profiles_html = bookify_html(demote_headings(page_profiles.html), ['img'])
     .replace(/<h2.*?<\/h2>/, profiles_title)
 
 

@@ -13,7 +13,7 @@ div(v-for='(topic, i) of topics')
     podcast-player(v-if='topic.podcast && !book' :id='topic.podcast')
     div
         div.msg(v-for='(message, i) of topic.messages')
-            img(:src='`/_assets/convos/${file_id}_${i % 2 === 0 ? "asker" : "responder"}.jpg`')
+            img(v-if='!book' :src='`/_assets/convos/${file_id}_${i % 2 === 0 ? "asker" : "responder"}.jpg`')
             div.txt(v-html='message')
 
 </template>
