@@ -26,6 +26,8 @@ div.book
     div.toc(class='break')
         h3.toc-title(class='center') Contents
         div
+            a.toc-chapter(@click='goto("chapter-foreword")' href='#chapter-foreword') Foreword
+        div
             a.toc-chapter(@click='goto("chapter-intro")' href='#chapter-intro') Introduction
         template(v-for='section of toc')
             h4 {{ section.title }}
@@ -35,12 +37,20 @@ div.book
         div.toc-conclusion
             a.toc-chapter(@click='goto("chapter-conclusion")' href='#chapter-conclusion') Conclusion
 
+    div.foreword(class='break')
+        div.titles
+            h2(id="chapter-foreword") Foreword
+        div(v-html='foreword_html')
+
     div.intro(class='break')
         div.titles
             h2(id="chapter-intro") Introduction
             div(class="subtitle") A Christian Dystopia?
             div(class="author") Andrew Case
         div(v-html='intro_html')
+
+    div(class='section break')
+        h1 Conversations
 
     div.convos
         div(class="titles break")
@@ -101,8 +111,9 @@ defineOptions({
 
 // Unpack pages (order defined in imported file)
 const page_conclusion = pages_data[0]
-const page_intro = pages_data[1]
-const page_profiles = pages_data[2]
+const page_foreword = pages_data[1]
+const page_intro = pages_data[2]
+const page_profiles = pages_data[3]
 
 
 // Util to demote all headings in HTML
@@ -213,6 +224,7 @@ function inline_footnotes(dom:Document){
 
 
 // Prepare intro/conclusion HTML
+const foreword_html = bookify_html(page_foreword.html)
 const intro_html = bookify_html(page_intro.html)
 const conclusion_html = bookify_html(page_conclusion.html)
 
