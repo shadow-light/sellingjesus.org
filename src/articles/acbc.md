@@ -41,7 +41,7 @@ In addition to the prices that match secular counselors, I noticed another pract
 
 It is important to recognize that ACBC, in their same “Standards of Conduct” referenced above, clearly says that counselors “will do everything possible to avoid refusing care to those unable to pay, and will never limit their conversational care only to those who are able to compensate their counselors.”[^10] In adherence to this standard, most of the centers that charge a fee also have some kind of income exemption, to make counseling more affordable to those of lesser means. This usually comes in the form of a financial hardship application that counselees must fill out, or a sliding fee scale based on income.
 
-<table><tbody>
+<table class='large'><tbody>
 <tr>
 	<th>Family Size</th><th colspan="6">Annual Household Income</th>
 </tr>
@@ -69,6 +69,8 @@ It is important to recognize that ACBC, in their same “Standards of Conduct”
 </tbody></table>
 
 *Trinity Medical Associates biblical counseling fee schedule*[^11]
+
+&nbsp;
 
 In addition to being cumbersome and potentially embarrassing, this type of accommodation does not always come across as genuinely helpful. On the example fee schedule included above, an unmarried person would have to make less than $6000 annually to qualify for free counseling. If this person made $6001, he would be charged $25 per hour, more than a day’s wages for someone at that income. While no genuine biblical counselor intends to lay such heavy burdens on their counselees, these dilemmas are inevitable when trying to force a secular compensation model into what should be a grace-filled and compassionate ministry supported by the free generosity of God’s people.
 
