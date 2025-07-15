@@ -116,6 +116,19 @@ const page_intro = pages_data[2]
 const page_profiles = pages_data[3]
 
 
+// Random id generator
+function random_id(length=8){
+    // WARN Don't use numbers as not valid as first char for id
+    const chars = 'abcdefghijklmnopqrstuvwxyz'
+    const bytes = crypto.getRandomValues(new Uint8Array(length))
+    let id = ''
+    for (const byte of bytes) {
+        id += chars[byte % chars.length]
+    }
+    return id
+}
+
+
 // Util to demote all headings in HTML
 // WARN This is not appropriate to run for all HTML such as intro/conclusion
 function demote_headings(html:string){
@@ -141,6 +154,9 @@ function bookify_html(html:string){
 
     // Make URLs to articles point within own doc
     internalize_urls(dom)
+
+    // Make footnote links unique and not conflict with other articles
+    unique_footnote_ids(dom)
 
     // These differ between PDF and EPUB
     if (EPUB){
@@ -179,6 +195,32 @@ function internalize_urls(dom:Document){
             const article_id = a.href.slice(articles_prefix.length).split(/[\.\#\?]/)[0]
             a.href = '#chapter-' + article_id
         }
+    }
+}
+
+
+// Make footnote ids unique
+function unique_footnote_ids(dom:Document){
+
+    // Generate random id unique to this chunk of HTML
+    const rid = random_id(8) + '-'
+
+    // Update every call
+    for (const a of dom.querySelectorAll('.footnote-ref a') as NodeListOf<HTMLAnchorElement>){
+        a.id = rid + a.id  // This id is for call, to navigate back to it from the footnote
+        // WARN .href prepends "about:blank" for some reason
+        a.href = '#' + rid + a.href.split('#')[1]  // Must insert after the #
+    }
+
+    // Update every footnote's id
+    for (const li of dom.querySelectorAll('.footnote-item') as NodeListOf<HTMLLIElement>){
+        li.id = rid + li.id
+    }
+
+    // Update every backlink
+    for (const a of dom.querySelectorAll('.footnote-backref') as NodeListOf<HTMLAnchorElement>){
+        // WARN .href prepends "about:blank" for some reason
+        a.href = '#' + rid + a.href.split('#')[1]  // Must insert after the #
     }
 }
 
