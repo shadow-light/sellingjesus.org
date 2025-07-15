@@ -17,13 +17,18 @@ def create_epub():
     subprocess.run(
         [
             'ebook-convert', 'book.html', '../book.epub',
+            # Add metadata
             '--title', "Abolish the Jesus Trade",
             '--authors', "Andrew Case & Conley Owens & Jon Here",
             '--cover', 'epub_cover.jpg',
+            # Include custom stylesheet
             '--extra-css', 'book.css',
+            # Treat h1 as chapter groups and h2 as chapters
             '--chapter', '//h:h2',
             '--level1-toc', '//h:h1',
             '--level2-toc', '//h:h2',
+            # Prevent Calibre from unhelpfully changing font-sizes (even em units)
+            '--disable-font-rescaling',
         ],
         cwd='shared/dist_epub',
         check=True,
