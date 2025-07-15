@@ -1,3 +1,5 @@
+// NOTE Modified to create <span>s rather than <a>s
+
 
 import {PassageReference, PassageReferenceMatch, detect_references}
     from '@gracious.tech/bible-references'
@@ -22,7 +24,7 @@ function _linkify_ref(node:Text, match:PassageReferenceMatch){
     const remainder = ref_node.splitText(match.text.length)
 
     // Turn ref text into a link
-    const ref_a = node.ownerDocument.createElement('a')
+    const ref_a = node.ownerDocument.createElement('span')
     ref_a.setAttribute('class', 'fb-enhancer-link')
     ref_a.textContent = match.text
     ref_node.replaceWith(ref_a)
@@ -41,7 +43,7 @@ export function default_filter(element:Element):boolean{
 // Auto-discover references in provided DOM and transform into links
 export async function markup_references(root:HTMLElement,
         translations:string[]=[], always_detect_english=true, filter=default_filter)
-        :Promise<{element: HTMLAnchorElement, ref:PassageReference}[]>{
+        :Promise<{element: HTMLSpanElement, ref:PassageReference}[]>{
 
     // Create DOM walker that will ignore subtrees identified by filter arg
     // NOTE Not excluding non-text nodes initially so can filter out whole subtrees if needed
@@ -78,11 +80,11 @@ export async function markup_references(root:HTMLElement,
     }
 
     // Modify collected text nodes
-    const elements:{element: HTMLAnchorElement, ref:PassageReference}[] = []
+    const elements:{element: HTMLSpanElement, ref:PassageReference}[] = []
     for (const [orig_node, detector, first_valid_match] of nodes){
 
         // Keep track of whole references and any extra ranges they have
-        let same_group:HTMLAnchorElement[] = []
+        let same_group:HTMLSpanElement[] = []
         const wrap_if_multiple_ranges = () => {
 
             // If only a single range then don't need to wrap
