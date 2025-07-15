@@ -182,6 +182,11 @@ function rm_ui(dom:Document, extra:string[]=[]){
 }
 
 
+// Articles not in book should not have their links be internalized
+// NOTE Only need to list ones that are likely to be linked to within other articles
+const not_in_book = ['letting-go', 'counseling-fees']
+
+
 // Internalize urls so that they point to chapters within doc when exist
 function internalize_urls(dom:Document){
     for (const a of dom.querySelectorAll('a')){
@@ -193,6 +198,9 @@ function internalize_urls(dom:Document){
         const articles_prefix = 'https://sellingjesus.org/articles/'
         if (a.href.startsWith(articles_prefix)){
             const article_id = a.href.slice(articles_prefix.length).split(/[\.\#\?]/)[0]
+            if (not_in_book.includes(article_id)){
+                continue
+            }
             a.href = '#chapter-' + article_id
         }
     }
