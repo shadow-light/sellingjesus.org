@@ -1,0 +1,123 @@
+
+figure
+    display: block
+
+img
+    display: block
+    width: 100%
+    max-width: 800px
+    margin: 0.5em auto
+    border-radius: 12px
+
+figcaption
+    text-align: center
+    font-style: italic
+    font-size: 0.9em
+    margin-bottom: 0.5em
+
+mark
+    background-color: hsl(60deg, 100%, 40%, 0.3)
+    color: inherit
+
+td, th
+    font-size: 0.8em
+
+blockquote > p
+    font-size: 0.9em
+
+table
+    width: 100%
+    max-width: 800px
+
+// COMMON
+
+.titles
+    text-align: center
+
+    h2
+        text-transform: uppercase
+
+    .subtitle
+        margin-bottom: 0.5em
+        font-weight: bold
+        font-size: 1.2em
+
+    .author
+        font-style: italic
+        margin-bottom: 2em
+
+.footnotes-sep
+    margin-top: 2em
+
+
+.footnotes
+    font-size: 0.8em
+    line-height: 1.2
+
+    li
+        margin: 0
+
+
+.section
+    text-align: center
+    margin-top: 200px
+
+.fb-enhancer-multi, .fb-enhancer-link
+    white-space: nowrap  // Prevent line breaks mid-reference
+
+
+
+// SPECIFIC
+
+.first-page
+    text-align: center
+    margin: 200px 0
+
+    h1
+        span:nth-child(1)
+            font-size: 72px
+            text-transform: uppercase
+
+.second-page
+    img
+        width: 100%
+        max-width: 400px
+
+
+.third-page
+    margin: 200px 0
+    text-align: center
+
+.toc
+    .toc-title
+        font-size: 1.5em
+
+.toc-conclusion
+    margin-top: 1em
+
+.convos
+
+    .txt
+        display: inline-block
+        padding: 14px
+        margin: 10px 0
+        font-size: 0.9em
+
+        p
+            margin: 0
+
+    .msg:nth-of-type(odd)
+
+        .txt
+            margin-right: 50px
+            border-radius: 0 12px 12px 12px
+            background-color: hsl(0, 0%, 50%, 0.2)
+
+    .msg:nth-of-type(even)
+        text-align: right  // Align box
+
+        .txt
+            text-align: left  // But don't align text
+            margin-left: 50px
+            border-radius: 12px 0 12px 12px
+            background-color: hsl(120deg, 100%, 40%, 0.3)
