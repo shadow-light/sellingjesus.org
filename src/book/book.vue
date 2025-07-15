@@ -24,7 +24,7 @@ div.book
         p &mdash; 2 Corinthians 2:17
 
     div.toc(class='break')
-        h3.toc-title(class='center') Contents
+        h3.toc-title Contents
         div
             a.toc-chapter(@click='goto("chapter-foreword")' href='#chapter-foreword') Foreword
         div
