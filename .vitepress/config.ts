@@ -84,8 +84,20 @@ export default defineConfig({
         },
     },
     markdown: {
+        typographer: true,
+        anchor: {
+            slugify: str => {
+                // Same as default but turn anything that's not a-z into a '-'
+                // NOTE EPUB is strict with this
+                return encodeURIComponent(String(str).trim().toLowerCase()
+                    .replace(/[^a-z]+/g, '-')
+                    .replace(/^-+|-+$/g, '')  // Don't start or end with -
+                )
+            },
+            // Disable links in headings for book
+            ...process.env.VITE_BOOK ? {permalink: undefined} : {},
+        },
         config: (md) => {
-            md.options.typographer = true
             md.use(MarkdownPluginFootnote)
             // Normalize Greek/Hebrew diacritic combos to single chars for better font support
             // WARN Chosen Greek font doesn't support diacritics when separate chars
