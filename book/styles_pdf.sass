@@ -42,9 +42,10 @@
         font-size: 9pt
 
     @footnote
-        // Make border a short line rather than full width
-        border-style: none  // border-image adds to all sides in WeasyPrint so must disable others
         border-top: 0.1mm solid black
+        // Make border a short line rather than full width
+        // WARN This results in weird very faint line at bottom of footnotes in Chrome PDF viewer
+        //      but doesn't seem to come out in print thankfully
         border-image: linear-gradient(to right, black 20%, transparent 20%) 1
         padding-top: 0.05in
 
