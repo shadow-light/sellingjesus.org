@@ -21,11 +21,11 @@ And the same with the ox. The ox doesn’t own the grain that it’s treading. R
 
 The following illustrations help show these relationships of mediated obligation more clearly:
 
-![](/_assets/colabor/mediated_1cor9.svg)
+![Source of provision, to employer, to laborer](/_assets/colabor/mediated_1cor9.svg)
 
 If those previous examples weren’t very clear, Paul’s last example in verses 13 and 14 serve to make everything more clear. Here’s what he says: “Do you not know that those who are employed in the temple service get their food from the temple, and those who serve at the altar share in the sacrificial offerings? In the same way, the Lord commanded that those who proclaim the gospel should get their living by the gospel.” In other words, people gave offerings out of obligation to God, rather than obligation to the Levites.[^1]
 
-![](/_assets/colabor/mediated_temple.svg)
+![Israel, to God, to priests](/_assets/colabor/mediated_temple.svg)
 
 Consider the significance of the phrase “the Lord is their inheritance” (Num 18:20; cf. Deut 18:1–2). It shows the exclusivity of this mode of support. It’s not merely that the Levites receive from the contributions, but they are to have no oth­er inheritance. The law of Moses permits the priests to receive “co­labor”—that which is offered to the Lord—but forbids reciprocity. Consequently, in Israel’s times of faithlessness, the Levites languish (cf. Deut 14:27; Neh 13:10). When this model is violated and a priest accepts offerings directly, he essentially puts himself in the place of God. Such was the sin of Hophni and Phinehas, the corrupt sons of Eli who took raw meat before it had been offered to the Lord (1 Sam 2:12–17).
 
@@ -33,7 +33,7 @@ If you’re unfamiliar with the issue of _reciprocity_ vs. _colabor_, Conley Owe
 
 In contrast, _ministerial colabor_ involves giving to a minister primarily out of an obligation _to God_, to honor and aid the work of Christian ministry. The giver sees himself to be a _colaborer_ with the minister, working together in spiritual labors. In other words, they’re both working for a common Master, giving and serving out of a sense of shared obligation to Christ. 
 
-![](/_assets/colabor/mediated_obligation.svg)
+![immediate obligation vs mediated obligation](/_assets/colabor/mediated_obligation.svg)
 
 So, just as the Levites were supported by the Israelites, modern-day pastors are supported by their congregations. And the key is that the support is provided _voluntarily_ and out of a desire to honor God and support the work of the ministry. Paul speaks to this very issue in 2 Corinthians 9:7, where he says, “Each one must give as he has decided in his heart, not reluctantly or _under compulsion_, for God loves a cheerful giver.” This verse emphasizes that giving to support the work of ministry should be done freely and willingly, without any sense of obligation or pressure. In other words, the person giving shouldn’t be forced or manipulated to give, or put in a situation where he’s exploited indirectly. While most churches do operate by colabor, many other ministries do not.
 

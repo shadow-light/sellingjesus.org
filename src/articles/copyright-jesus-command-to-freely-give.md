@@ -44,7 +44,7 @@ Scripture's teaching on freely giving ministry should lead us to question the ch
 Even though maintaining full copyright protection does not necessitate an exchange of money, it does impose a burden on the recipient of ministry. Apart from express permission, he may not copy, modify, or redistribute that work, the information he has received. Note that this imposes a *requirement*, requirement being [the innermost circle](https://thedoreanprinciple.org/#c11_2) of the forms of acceptance that violate [the dorean principle](https://thedoreanprinciple.org/). As such, it is the most serious form of violation. Moreover, typically, money is involved in the exchange. Ministers refuse ministry—in the form of books, recorded lectures, etc.—apart from a payment collected from the recipient.
 
 
-![](/media/copyright-and-reciprocity.jpg "Copyright and Reciprocity")
+![Copyright and Reciprocity](/media/copyright-and-reciprocity.jpg)
 
 
 
