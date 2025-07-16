@@ -100,7 +100,8 @@ export default defineConfig({
                     }
                 }
             }))
-            // Custom container for wrapping image in <figure> (::: figure url \n caption :::)
+            // Custom container for giving image a caption (::: figure url \n caption :::)
+            // NOTE Not using <figure> as not supported by EPUB
             md.use(MarkdownContainer, 'figure', {
                 validate: function(params){
                     return params.trim().match(/^figure\s+(.*)$/)
@@ -108,9 +109,10 @@ export default defineConfig({
                 render: function (tokens, idx){
                     if (tokens[idx].nesting === 1){
                         const url = tokens[idx].info.trim().match(/^figure\s+(.*)$/)[1]
-                        return `<figure>\n<img src="${md.utils.escapeHtml(url)}">\n<figcaption>\n`
+                        // NOTE EPUB requires alt despite caption
+                        return `<img src="${md.utils.escapeHtml(url)}" alt="See caption">\n<div class="figcaption">\n`
                     }
-                    return '</figcaption>\n</figure>\n'
+                    return '</div>\n'
                 },
             })
         },
