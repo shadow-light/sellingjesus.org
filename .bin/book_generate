@@ -25,6 +25,13 @@ if [[ "$1" != "--skip" ]]; then
     perl -i -pe 's|style=".*?"||gi' shared/dist_pdf/book.html
     perl -i -pe 's|style=".*?"||gi' shared/dist_epub/book.html
 
+    # Remove Vue stuff and other HTML that is invalid in epub
+    perl -i -pe 's|data-v-\w+||gi' shared/dist_epub/book.html
+    perl -i -pe 's|tabindex=".*?"||gi' shared/dist_epub/book.html
+    perl -i -pe 's|aria-label=".*?"||gi' shared/dist_epub/book.html
+    perl -i -pe 's|<section|<div|gi' shared/dist_epub/book.html
+    perl -i -pe 's|</section|</div|gi' shared/dist_epub/book.html
+
     # Make img URLs relative to dir (--base only affects assets, not absolute image urls etc)
     perl -i -pe 's|src="/|src="./|gi' shared/dist_pdf/book.html
     perl -i -pe 's|src="/|src="./|gi' shared/dist_epub/book.html
