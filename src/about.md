@@ -36,7 +36,7 @@ Find out more about our evangelical perspective in our [statement of faith](/abo
 
 This website and all its contents is [dedicated to the public domain](/free). You can use it without restriction and without attributing us.
 
-<a href='/free'><img src='https://copy.church/badges/sj_standard_pd.svg' style='width: 100%; max-width: 400px;'></a>
+<a href='/free'><img src='/_assets/pd.svg' style='width: 100%; max-width: 400px;'></a>
 
 We do include some third-party content, so please consult their terms of use when something is attributed to a third-party.
 

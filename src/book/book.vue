@@ -13,7 +13,7 @@ div.book
         p Published by #[em Selling Jesus]<br>sellingjesus.org
         p &nbsp;
         p This book is freely given to the glory of God and dedicated to the public domain. It may be copied, translated, adapted, in whole or in part, without needing to ask permission. You can access this content digitally at sellingjesus.org
-        img(src='https://copy.church/badges/sj_standard_pd.svg')
+        img(src='/_assets/pd.svg')
 
     div.third-page(class='break')
         p Its leaders give judgment for a bribe;<br>its priests teach for a price;<br>its prophets practice divination for money.
