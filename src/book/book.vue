@@ -13,7 +13,7 @@ div.book
         p Published by #[em Selling Jesus]<br>sellingjesus.org
         p &nbsp;
         p This book is freely given to the glory of God and dedicated to the public domain. It may be copied, translated, adapted, in whole or in part, without needing to ask permission. You can access this content digitally at sellingjesus.org
-        img(src='/_assets/pd.svg' alt="Public domain")
+        img(src='/_assets/pd.png' alt="Public domain")
 
     div.third-page(class='break')
         p Its leaders give judgment for a bribe;<br>its priests teach for a price;<br>its prophets practice divination for money.
@@ -152,11 +152,12 @@ function bookify_html(html:string, also_rm:string[]=[]){
     // Identify any passage references and wrap in <a> so can style
     markup_references(dom.body)  // Takes body, not whole dom
 
-    // Make URLs to articles point within own doc
-    internalize_urls(dom)
+    // Make ids and footnote links unique and not conflict with other articles
+    unique_ids(dom)
 
-    // Make footnote links unique and not conflict with other articles
-    unique_footnote_ids(dom)
+    // Make URLs to articles point within own doc
+    // WARN Must come after unique_ids(), otherwise would add random ids to links to other articles
+    internalize_urls(dom)
 
     // These differ between PDF and EPUB
     if (EPUB){
@@ -207,28 +208,24 @@ function internalize_urls(dom:Document){
 }
 
 
-// Make footnote ids unique
-function unique_footnote_ids(dom:Document){
+// Make ids unique
+function unique_ids(dom:Document){
 
     // Generate random id unique to this chunk of HTML
     const rid = random_id(8) + '-'
 
-    // Update every call
-    for (const a of dom.querySelectorAll('.footnote-ref a') as NodeListOf<HTMLAnchorElement>){
-        a.id = rid + a.id  // This id is for call, to navigate back to it from the footnote
-        // WARN .href prepends "about:blank" for some reason
-        a.href = '#' + rid + a.href.split('#')[1]  // Must insert after the #
+    // Update every id (footnotes and headings etc)
+    for (const el of dom.querySelectorAll('*[id]') as NodeListOf<HTMLElement>){
+        el.id = rid + el.id
     }
 
-    // Update every footnote's id
-    for (const li of dom.querySelectorAll('.footnote-item') as NodeListOf<HTMLLIElement>){
-        li.id = rid + li.id
-    }
-
-    // Update every backlink
-    for (const a of dom.querySelectorAll('.footnote-backref') as NodeListOf<HTMLAnchorElement>){
-        // WARN .href prepends "about:blank" for some reason
-        a.href = '#' + rid + a.href.split('#')[1]  // Must insert after the #
+    // Update every fragment link (footnotes and some section links like in defining-ministry)
+    for (const a of dom.querySelectorAll('a') as NodeListOf<HTMLAnchorElement>){
+        // WARN .href prepends "about:blank", so use getAttribute
+        const href = a.getAttribute('href')
+        if (href?.startsWith('#')){
+            a.href = '#' + rid + href.split('#')[1]  // Must insert after the #
+        }
     }
 }
 

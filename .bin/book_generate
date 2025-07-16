@@ -32,6 +32,10 @@ if [[ "$1" != "--skip" ]]; then
     perl -i -pe 's|<section|<div|gi' shared/dist_epub/book.html
     perl -i -pe 's|</section|</div|gi' shared/dist_epub/book.html
 
+    # Remove unsupported attributes from SVGs for EPUB
+    find shared/dist_epub -type f -name "*.svg" -exec perl -i -pe 's|aria-label=".*?"||gi' {} \;
+    find shared/dist_epub -type f -name "*.svg" -exec perl -i -pe 's|stop-color=".*?"||gi' {} \;
+
     # Make img URLs relative to dir (--base only affects assets, not absolute image urls etc)
     perl -i -pe 's|src="/|src="./|gi' shared/dist_pdf/book.html
     perl -i -pe 's|src="/|src="./|gi' shared/dist_epub/book.html
