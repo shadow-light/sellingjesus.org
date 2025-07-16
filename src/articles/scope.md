@@ -28,7 +28,7 @@ Let's closely examine the context, and especially the lead up to Jesus' command:
 
 <sup>2-4</sup>These are the names of the twelve apostles [...]
 
-<sup>5</sup>These twelve Jesus sent out with the following instructions: “Do not go onto the road of the Gentiles or enter any town of the Samaritans. <sup>6</sup>Go rather to the lost sheep of Israel. <sup>7</sup>As you go, preach this message: ‘The kingdom of heaven is near.’ <sup>8</sup>Heal the sick, raise the dead, cleanse the lepers, drive out demons. <mark>Freely you have received; freely give.</mark>
+<sup>5</sup>These twelve Jesus sent out with the following instructions: “Do not go onto the road of the Gentiles or enter any town of the Samaritans. <sup>6</sup>Go rather to the lost sheep of Israel. <sup>7</sup>As you go, preach this message: ‘The kingdom of heaven is near.’ <sup>8</sup>Heal the sick, raise the dead, cleanse the lepers, drive out demons. <strong>Freely you have received; freely give.</strong>
 
 <sup>9</sup>Do not carry any gold or silver or copper in your belts. <sup>10</sup>Take no bag for the road, or second tunic, or sandals, or staff; for the worker is worthy of his provisions.
 </blockquote>

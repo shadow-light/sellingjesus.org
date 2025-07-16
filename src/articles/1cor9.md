@@ -57,11 +57,11 @@ The intention here is to help us recall what Paul means by these terms, applying
 
 <sup>11</sup> If we have sown spiritual seed [_of great value_] among you, is it too much for us to reap a material harvest [_of lesser value_] from you? <sup>12</sup> If others have this right to your support, shouldn’t we have it all the more? [_Thus we deserve support from you more than anyone else does!_]
 
-<mark>But we did not exercise this right.</mark> Instead, we put up with anything rather than hinder the gospel of Christ [_by expecting support from you_].
+<strong>But we did not exercise this right.</strong> Instead, we put up with anything rather than hinder the gospel of Christ [_by expecting support from you_].
 
 <sup>13</sup> Do you not know that those who work in the temple eat of its food, and those who serve at the altar partake of its offerings? <sup>14</sup> In the same way, the Lord has prescribed that those who preach the gospel should receive their living from the gospel [_through the support of others_].
 
-<sup>15</sup> <mark>But I have not used any of these rights.</mark> And I am not writing this to suggest that something be done for me. Indeed, I would rather die than let anyone nullify my "boast", [_lest anyone think I'm doing this for material gain_].
+<sup>15</sup> <strong>But I have not used any of these rights.</strong> And I am not writing this to suggest that something be done for me. Indeed, I would rather die than let anyone nullify my "boast", [_lest anyone think I'm doing this for material gain_].
 
 <sup>16</sup> For when I preach the gospel, I have no reason to boast, because I am obligated to preach [_as God's servant_]. Woe to me if I do not preach the gospel!
 
