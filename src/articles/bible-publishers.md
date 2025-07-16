@@ -64,7 +64,7 @@ I recently [made an app](https://paper.bible) that allows anyone to print indivi
 While sites like Bible Gateway allow you to print portions of a book, it maxes out at 10 chapters. There is also no special license granted for printing, so sharing a printout with anyone else is in many cases illegal, even though Christians often do it.
 
 
-<img src='/_assets/bible-publishers/paul_read.jpg'>
+![Paul selling books to the church at Laodicea](/_assets/bible-publishers/paul_read.jpg)
 
 
 ## Do they commercialize Scripture?
@@ -73,7 +73,7 @@ Yes. To start with the clearest offender, the NKJV is a 100% for-profit translat
 
 While all the other organizations are non-profit, some of them have given exclusive publishing rights to for-profit companies.[^exclusive] Biblica has given Zondervan exclusive rights in the US to print the NIV commercially, meaning a significant portion of the profits go to Zondervan's owner (also News Corp), and no other Christian publishers can print the NIV.
 
-<img src='/_assets/bible-publishers/trace_niv.jpg'>
+![A diagram tracing Bible sales to News Corp](/_assets/bible-publishers/trace_niv.jpg)
 
 Just like secular companies, Christian publishers have been printing special gimmicks to generate profit and are even willing to exploit Christian vices to do so. Some idolize American identity, like the [NASB Founders' [of America] Bible](https://thefoundersbible.com/products/the-founders-bible-heirloom-edition/) and the [NKJV American Patriot's Bible](https://www.christianbook.com/the-nkjv-american-patriots-bible-hardcover/9781418541538/pd/541538), while others appeal to believers' materialistic tendencies. While high quality products have their uses, the exclusive publishing and $400 USD [correction, $399.99] price tag make the [ESV Pulpit Bible](https://www.crossway.org/bibles/esv-pulpit-bible-tgl/) truly stand out.
 
@@ -133,7 +133,7 @@ Are these publishers really worthy of such control? I received the following res
 
 This was for a modern English translation widely trusted by Reformed Evangelicals. I refused (politely) to corrupt Scripture in that way and they never ended up giving me the permission I needed for their text. They obviously didn't intend on changing the _meaning_ of the text, but they were willing to put an intentional mistake into God's holy Word for the sake of controlling it.
 
-<img src='/_assets/bible-publishers/other_heresy.jpg'>
+![An early Christian preventing the free distribution of good teaching](/_assets/bible-publishers/other_heresy.jpg)
 
 
 ## Would God want his Word to be "stewarded" in this way?
@@ -161,7 +161,7 @@ _Instead, we speak with sincerity in Christ, as from God and before God. (2 Cori
 
 &nbsp;
 
-<img src='/_assets/bible-publishers/other_beginning.jpg'>
+![Going past the copyright page to get to God's grace](/_assets/bible-publishers/other_beginning.jpg)
 
 
 ### A free alternative
