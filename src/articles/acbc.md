@@ -25,7 +25,7 @@ The Association of Certified Biblical Counselors (ACBC) is an esteemed organizat
 
 To see how the ACBC financial policy plays out in practice, I have [compiled data](https://docs.google.com/spreadsheets/d/1tV5d4dZ_l0IvwmKX7J5kGoUWFvClxtc1qlbM9-qVJlo/edit?usp=sharing) from all the official ACBC training centers that offer counseling.[^5] This information was usually available on the websites of the individual counseling centers, though I occasionally had to reach out via email to ask.
 
-![](/media/acbc-charts.jpg)
+![Graphs showing the cost of ACBC counseling](/media/acbc-charts.jpg)
 
 Of all the ACBC counseling and training centers listed, only about 55% of centers offer their counseling without any fees. Of those remaining, 25% charge for each counseling session, while 20% do not charge per session, but still include some administrative fees (such as an initial setup fee or cancellation deposit).
 
