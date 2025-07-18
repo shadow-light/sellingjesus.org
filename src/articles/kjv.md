@@ -68,7 +68,7 @@ So please join us in confronting the Bible market, which treats God’s Word as 
 
 [^5]: David Daniell, *The Bible in English: Its History and Influence* (New Haven, CT: Yale University Press, 2003), 451.
 
-[^6]: David Norton, *A History of the English Bible as Literature* (Cambridge: Cambridge University Press, 2000), 90–91. See also Norton’s detailed *A Textual History Of The King James Bible*, and his two-volume, *History of the Bible as Literature*. In addition see the [inexpensive condensed volume](https://www.amazon.com/King-James-Bible-History-Tyndale/dp/0521616883).
+[^6]: David Norton, *A History of the English Bible as Literature* (Cambridge: Cambridge University Press, 2000), 90–91. See also Norton’s detailed *A Textual History Of The King James Bible*, and his two-volume, *History of the Bible as Literature*.
 
 [^7]: For more on the history of the KJV, see [_The KJV Copyright – A Sordid Tale Of Intrigue And Avarice_](https://kjbhistory.com/the-kjv-copyright-a-sordid-tale-of-intrigue-and-avarice/) by Timothy Berg, Mar 27, 2020.
 
