@@ -1,3 +1,6 @@
+---
+aside: false
+---
 
 # Δωρεὰν Δότε
 ### _Freely Give_
