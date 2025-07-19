@@ -1,9 +1,4 @@
 
-<script lang='ts' setup>
-import VideoPlayer from './_comp/VideoPlayer.vue'
-</script>
-
-
 # Δωρεὰν Δότε
 ### _Freely Give_
 

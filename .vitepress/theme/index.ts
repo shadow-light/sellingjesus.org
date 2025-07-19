@@ -9,6 +9,7 @@ import PersonBio from '../../src/_comp/PersonBio.vue'
 import ArticlePreview from '../../src/_comp/ArticlePreview.vue'
 import FeaturePreview from '../../src/_comp/FeaturePreview.vue'
 import PodcastPlayer from '../../src/_comp/PodcastPlayer.vue'
+import VideoPlayer from '../../src/_comp/VideoPlayer.vue'
 import YouTube from '../../src/_comp/YouTube.vue'
 
 import 'shikwasa/dist/style.css'
@@ -30,6 +31,7 @@ export default {
         ctx.app.component('ArticlePreview', ArticlePreview)
         ctx.app.component('FeaturePreview', FeaturePreview)
         ctx.app.component('PodcastPlayer', PodcastPlayer)
+        ctx.app.component('VideoPlayer', VideoPlayer)
         ctx.app.component('YouTube', YouTube)
 
         if (import.meta.env.SSR){
