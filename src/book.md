@@ -59,8 +59,8 @@ You can supply a printing service such as [Lulu](https://www.lulu.com/) with the
 ## Why we're giving this book for free
 One of the distinctions we explain in this book is that if teaching is given freely, then [it's ok to charge for paper and ink](/articles/covering-costs). In practice, this means releasing teaching from copyright and making it freely accessible online, but we don’t expect everyone to give away printed books for free, as we are doing here.
 
-_So why are we doing so?_ To demonstrate his sincerity, Paul gave up his right to any form of support from the Corinthians (1 Cor 9:18; 2 Cor 2:17; 2 Cor 11:7,12) so there would be no confusion about his motives. Likewise, we don’t want anything to cast doubt on the sincerity of the message we’re sharing. That’s why we don’t charge for printing or delivery—and we don’t ask for donations either. Again, we’re not saying everyone must do this; we wholeheartedly encourage financially supporting ministry. We’ve simply chosen this approach because of the nature of the topic we’re addressing.
+So why _are_ we giving away printed copies? To demonstrate his sincerity, Paul gave up his right to any form of support from the Corinthians (1 Cor 9:18; 2 Cor 2:17; 2 Cor 11:7,12) so there would be no confusion about his motives. Likewise, we don’t want anything to cast doubt on the sincerity of the message we’re sharing. That’s why we don’t charge for printing or delivery—and we don’t ask for donations either. Again, we’re not saying everyone must do this; we wholeheartedly encourage financially supporting ministry. We’ve simply chosen this approach because of the nature of the topic we’re addressing.
 
 While we can't afford to do this at scale, we provide everything needed to print in bulk should someone wish to, and are thankful for those who can offer such services at cost.
 
-If you have any questions about this, please read the book—it’s free! As this is exactly the kind of thing we explore in depth.
+If you have any questions about this, please read the book, because it's exactly the kind of thing it explores in depth—and it's free!
