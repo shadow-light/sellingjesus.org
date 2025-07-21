@@ -9,10 +9,14 @@ div.book
 
     div.second-page(class='break')
         p #[em Abolish the Jesus Trade: Spread the Joy of Freely Giving]
-        p 2025, Andrew Case, Conley Owens, Jon Here, and other contributors<br>First edition
-        p Published by #[em Selling Jesus]<br>sellingjesus.org
+        p By Andrew Case, Conley Owens, Jon Here, and other contributors
         p &nbsp;
-        p This book is freely given to the glory of God and dedicated to the public domain. It may be copied, translated, adapted, in whole or in part, without needing to ask permission. You can access this content digitally at sellingjesus.org
+        p Published by #[em Selling Jesus]
+        p sellingjesus.org
+        p First edition (2025)
+        //- p ISBN: 978-1-257-99519-6
+        p &nbsp;
+        p This book is freely given to the glory of God and dedicated to the public domain. It may be copied, translated, adapted, in whole or in part, without needing to ask permission. You can also access this content online at sellingjesus.org.
         img(src='/_assets/pd.png' alt="Public domain")
 
     div.third-page(class='break')
