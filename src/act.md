@@ -22,7 +22,7 @@ The Jesus trade won't be abolished without prayer. Pray for us as we continue to
 
 ## Give someone a book
 
-The[ books and resources page](https://sellingjesus.org/learn/resources) has several books that are free to download. If you know someone who might benefit from going deeper into the biblical command to give freely, you can send them Conley Owens' book *[The Dorean Principle](https://thedoreanprinciple.org/)*. Even the paper copies are free, with free shipping. So make someone's day with a gift in the mail!
+Send someone a copy of *[Abolish the Jesus Trade](/book)*, or *[The Dorean Principle](https://thedoreanprinciple.org/)*.  Even the paper copies are free, with free shipping. So make someone's day with a gift in the mail! The[ books and resources page](https://sellingjesus.org/learn/resources) also has several books that are free to download.
 
 ## Join discussions
 

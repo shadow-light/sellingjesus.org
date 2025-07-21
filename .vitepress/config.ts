@@ -47,6 +47,7 @@ const videos_sidebar = [
 const more_menu_items = [
     {text: "Podcast", link: '/podcast', activeMatch: '/podcast'},
     {text: "Graphics", link: '/graphics', activeMatch: '/graphics'},
+    // {text: "Book", link: '/book', activeMatch: '/book'},
     {text: "Take Action", link: '/act', activeMatch: '/act'},
     {text: "About", link: '/about', activeMatch: '/about'},
 ]
