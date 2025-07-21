@@ -55,6 +55,9 @@ You can supply a printing service such as [Lulu](https://www.lulu.com/) with the
 <VPButton text="Download PDF" href="/book/Abolish-the-Jesus-Trade.pdf" target='_blank'></VPButton>
 <VPButton text="Download cover PDF" href="/book/Abolish-the-Jesus-Trade-cover.pdf" target='_blank'></VPButton>
 
+## Listen to audio version
+Most of the articles in the book are already available [on our podcast](/podcast).
+
 
 ## Translations and adaptations
 
