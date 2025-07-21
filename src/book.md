@@ -56,6 +56,16 @@ You can supply a printing service such as [Lulu](https://www.lulu.com/) with the
 <VPButton text="Download cover PDF" href="/book/Abolish-the-Jesus-Trade-cover.pdf" target='_blank'></VPButton>
 
 
+## Translations and adaptations
+
+If you'd like to translate or adapt the book in an editable format, there are several options:
+
+ * Edit [the EPUB](/book/Abolish-the-Jesus-Trade.epub) (recommended) using software like [Sigil](https://sigil-ebook.com/sigil/)
+ * Edit [this Word document](/book/Abolish-the-Jesus-Trade.docx) (though the formatting is not as accurate as the PDF/EPUB)
+ * Copy and paste from [our website](/learn) which has all the articles
+ * Software developers can also edit [the original Markdown](https://github.com/shadow-light/sellingjesus.org/tree/main/src/articles) the book is generated from
+
+
 ## Why we're giving this book for free
 One of the distinctions we explain in this book is that if teaching is given freely, then [it's ok to charge for paper and ink](/articles/covering-costs). In practice, this means releasing teaching from copyright and making it freely accessible online, but we don’t expect everyone to give away printed books for free, as we are doing here.
 
