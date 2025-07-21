@@ -14,8 +14,9 @@ if [[ "$1" != "--skip" ]]; then
     cd book
 
     # Copy HTML to dist root for easier url resolution
-    cp shared/dist_pdf/book/index.html shared/dist_pdf/book.html
-    cp shared/dist_epub/book/index.html shared/dist_epub/book.html
+    # NOTE This overwrites the existing book.html page which isn't needed anyway
+    cp shared/dist_pdf/book_contents/index.html shared/dist_pdf/book.html
+    cp shared/dist_epub/book_contents/index.html shared/dist_epub/book.html
 
     # Remove site assets and meta from <head>
     perl -i -0777 -pe "s|<head>.+?</head>|$new_head|gis" shared/dist_pdf/book.html
