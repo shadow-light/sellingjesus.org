@@ -1,5 +1,7 @@
 ---
 aside: false
+description: A free book that confronts the commercialization of Christianity, and promotes the biblical teaching that ministry should be supported but never sold.
+image: /_assets/social_book.jpg
 ---
 
 
