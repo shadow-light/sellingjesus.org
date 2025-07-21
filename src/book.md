@@ -58,7 +58,7 @@ You can supply a printing service such as [Lulu](https://www.lulu.com/) with the
 ## Why we're giving this book for free
 One of the distinctions we explain in this book is that if teaching is given freely, then [it's ok to charge for paper and ink](/articles/covering-costs). In practice, this means releasing teaching from copyright and providing free access to it online. Whereas we don't expect everyone to also give away free printed books, like we are here.
 
-_So why are we doing so?_ In order to evidence his sincerity, Paul gave up his right to all forms of support from the Corinthians (1 Cor 9:18; 2 Cor 2:17; 11:7,12) so there wouldn't be any confusion regarding his motives. We too do not want anything to cast doubt on the sincerity of the message we are trying to share. So we don't even charge for the cost of printing and delivery, and we don't request donations either. Again, we're not arguing that everyone should do this, we've simply chosen to do so because of the nature of the topic we are addressing.
+_So why are we doing so?_ In order to evidence his sincerity, Paul gave up his right to all forms of support from the Corinthians (1 Cor 9:18; 2 Cor 2:17; 2 Cor 11:7,12) so there wouldn't be any confusion regarding his motives. We too do not want anything to cast doubt on the sincerity of the message we are trying to share. So we don't even charge for the cost of printing and delivery, and we don't request donations either. Again, we're not arguing that everyone should do this, we've simply chosen to do so because of the nature of the topic we are addressing.
 
 While we can't afford to do this at scale, we provide everything needed to print in bulk should someone wish to, and are thankful for those who can offer such services at cost.
 
