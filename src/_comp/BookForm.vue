@@ -144,7 +144,8 @@ const submit = async () => {
     progress.value = true
     error.value = null
     try {
-        const url = 'http://127.0.0.1:5001/copy-church/us-west1/record_order'
+        const url = import.meta.env.DEV ? 'http://127.0.0.1:5001/copy-church/us-west1/record_order'
+            : 'https://record-order-eyjvbqmvpa-uw.a.run.app'
         const resp = await fetch(url, {
             method: 'POST',
             body: JSON.stringify(data),
