@@ -13,7 +13,8 @@ div.form
         label(for='form_email') Email address
         input(id='form_email' type='email' required)
         label(for='form_phone') Phone number
-        input(id='form_phone' type='tel' required)
+        //- NOTE pattern comes from Lulu but allows whitespace at start (end already allowed)
+        input(id='form_phone' type='tel' pattern="^\\s*\\+?[\\d\\s\\-.\\/\\(\\)]{8,20}$")
 
     div.street
         label(for='form_country') Country
@@ -66,7 +67,8 @@ const states = computed(() => {
     if (!input_country.value){
         return
     }
-    return countries.find(c => c.code === input_country.value)!.regions
+    const regions = countries.find(c => c.code === input_country.value)!.regions
+    return regions.length ? regions : undefined
 })
 
 </script>
@@ -133,6 +135,9 @@ input, select
 
     &::placeholder
         color: #888
+
+    &:invalid
+        color: red
 
 select
     width: 300px
