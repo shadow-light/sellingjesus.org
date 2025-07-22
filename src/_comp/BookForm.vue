@@ -59,7 +59,10 @@ form(v-else ref='form' :class='{attempted}')
         label(for='form_color_cream') Cream paper
 
     div.submit
-        VPButton(text="Submit order" @click='submit' type='button' :disabled='progress')
+        div
+            VPButton(text="Submit order" @click='submit' type='button' :disabled='progress')
+        div.error {{ error }}
+
 
 
 </template>
@@ -126,31 +129,37 @@ const submit = async () => {
     const data = {
         name: input_name.value,
         email: input_email.value,
-        books: {abolish: 1},
         color: input_color.value,
-        address: {
-            country: input_country.value,
-            city: input_city.value,
-            postcode: input_postcode.value,
-            street1: input_street1.value,
-            phone: input_phone.value,
-            state: input_state.value,
-            street2: input_street2.value,
-            tax_id: input_tax_id.value,
-        },
+        address_country: input_country.value,
+        address_city: input_city.value,
+        address_postcode: input_postcode.value,
+        address_street1: input_street1.value,
+        address_phone: input_phone.value,
+        address_state: input_state.value,
+        address_street2: input_street2.value,
+        address_tax_id: input_tax_id.value,
     }
 
     // Reset progress state
     progress.value = true
     error.value = null
     try {
-        const resp = await fetch('', {method: 'POST', body: JSON.stringify(data)})
-        if (resp.ok){
+        const url = 'http://127.0.0.1:5001/copy-church/us-west1/record_order'
+        const resp = await fetch(url, {
+            method: 'POST',
+            body: JSON.stringify(data),
+            headers: {
+                'Content-Type': 'application/json',
+            },
+        })
+        const resp_error = (await resp.json()).error
+        if (resp.ok && !resp_error){
             success.value = true
         } else {
-            error.value = "Something went wrong"
+            error.value = resp_error || "Something went wrong"
         }
-    } catch {
+    } catch (caught){
+        console.error(caught)
         error.value = "Could not connect, please try again"
     } finally {
         progress.value = false
@@ -170,6 +179,8 @@ const done = () => {
 <style lang="sass" scoped>
 
 form, .success
+    font-family: var(--vp-font-family-base)
+    font-size: 16px
     border-radius: 12px
     padding: 24px
     margin: 24px 0
@@ -210,7 +221,6 @@ form, .success
 
 label
     font-weight: bold
-    font-size: 0.8em
     line-height: 1
     min-width: 150px
     cursor: pointer
@@ -257,5 +267,8 @@ select
 .submit, .done
     margin-top: 24px
     text-align: center
+
+.error
+    color: hsl(0, 50%, 60%)
 
 </style>
