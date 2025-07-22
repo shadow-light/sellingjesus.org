@@ -21,7 +21,7 @@
 // PAGES
 
 @page
-    size: 6in 9in
+    size: 6in 9in  // NOTE Lulu/KDP will auto-add bleed since don't need it as no full-width images
     margin: 0.5in
     margin-top: 0.8in  // 0.5 + 0.3 for footer and spacing below footer
 
@@ -62,7 +62,8 @@
         content: none
 
 @page :left
-    margin-right: 0.875in  // 0.5 + 0.375 (recommended for 300-500 page book)
+    // NOTE Lulu recommends 1in and KDP says min 0.625in, so middle should be good
+    margin-right: 0.875in  // 0.5 + 0.375
     @top-left
         content: counter(page)
     @top-center
