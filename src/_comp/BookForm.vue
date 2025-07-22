@@ -38,7 +38,7 @@ form(v-else ref='form' :class='{attempted}')
             input(id='form_city' type='text' v-model='input_city' required)
 
         div.state
-            label(for='form_state') State/Region
+            label(for='form_state') State/Province
             select(v-if='states' id='form_state' v-model='input_state' required)
                 option(v-for='state of states' :value='state.code') {{ state.name }}
             input(v-else id='form_state' type='text' v-model='input_state')
