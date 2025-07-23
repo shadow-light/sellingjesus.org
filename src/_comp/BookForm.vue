@@ -2,7 +2,9 @@
 <template lang="pug">
 
 div.success(v-if='success')
-    p Your order has been received.
+    p
+        strong Your order has been received and will soon be on its way.
+    p If you have any questions about your order or would like to cancel it, please contact us.
     div.done
         VPButton(text="Done" @click='done')
 
@@ -60,7 +62,8 @@ form(v-else ref='form' :class='{attempted}')
 
     div.submit
         div
-            VPButton(text="Submit order" @click='submit' type='button' :disabled='progress')
+            VPButton(@click='submit' type='button' :disabled='progress'
+                :text='progress ? "Sending..." : "Submit order"')
         div.error {{ error }}
 
 
@@ -215,6 +218,9 @@ form, .success
     h3
         margin-top: 0
 
+.success
+    text-align: center
+
 .contact, .street, .region, .other
     margin: 36px 0
     display: grid
@@ -296,5 +302,17 @@ select
 
 .error
     color: hsl(0, 50%, 60%)
+
+.submit button[disabled]
+    animation: 1s infinite linear progress
+    background-color: transparent !important
+    background: linear-gradient(90deg, #3333, #ccc3, #3333, #ccc3, #3333)
+    background-size: 200% 100%
+
+@keyframes progress
+    0%
+        background-position: 0% 50%
+    100%
+        background-position: 100% 50%
 
 </style>
