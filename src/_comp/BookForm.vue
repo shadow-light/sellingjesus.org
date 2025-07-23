@@ -107,6 +107,7 @@ const submit = async () => {
 
     // Show errors after first attempt
     attempted.value = true
+    error.value = null
 
     // Trim everything and see if still valid (have to when sending data anyway)
     input_name.value = input_name.value.trim()
@@ -140,38 +141,62 @@ const submit = async () => {
         address_tax_id: input_tax_id.value,
     }
 
-    // Reset progress state
+    // Determine functions URL
+    const url = import.meta.env.DEV ? 'http://127.0.0.1:5001/copy-church/us-west1/record_order'
+        : 'https://record-order-eyjvbqmvpa-uw.a.run.app'
+
+    // Send request
     progress.value = true
-    error.value = null
+    let resp:Response
     try {
-        const url = import.meta.env.DEV ? 'http://127.0.0.1:5001/copy-church/us-west1/record_order'
-            : 'https://record-order-eyjvbqmvpa-uw.a.run.app'
-        const resp = await fetch(url, {
+        resp = await fetch(url, {
             method: 'POST',
             body: JSON.stringify(data),
             headers: {
                 'Content-Type': 'application/json',
             },
         })
-        const resp_error = (await resp.json()).error
-        if (resp.ok && !resp_error){
-            success.value = true
-        } else {
-            error.value = resp_error || "Something went wrong"
-        }
     } catch (caught){
-        console.error(caught)
-        error.value = "Could not connect, please try again"
-    } finally {
         progress.value = false
+        console.error(caught)
+        error.value = "Couldn't connect, please try again"
+        return
     }
+
+    // Handle function failure
+    if (!resp.ok){
+        progress.value = false
+        console.error(resp.status + ' ' + resp.statusText)
+        error.value = "Something went wrong, please contact us instead: info@sellingjesus.org"
+        return
+    }
+
+    // Try read JSON body
+    let resp_error:string|null
+    try {
+        resp_error = (await resp.json()).error
+    } catch {
+        progress.value = false
+        console.error("Couldn't read JSON body")
+        error.value = "Something went wrong, please contact us instead: info@sellingjesus.org"
+        return
+    }
+
+    // Determine result
+    if (resp_error){
+        error.value = resp_error
+    } else {
+        // Reset form before taking out of DOM in case want another submission
+        form.value!.reset()
+        attempted.value = false
+        success.value = true
+    }
+    progress.value = false
 }
+
 
 const done = () => {
     success.value = false
-    // Reset form in case want another submission
-    form.value!.reset()
-    attempted.value = false
 }
 
 </script>
