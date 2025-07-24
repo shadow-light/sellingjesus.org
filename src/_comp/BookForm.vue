@@ -27,6 +27,13 @@ form(v-else ref='form' :class='{attempted}')
     div.street
         label(for='form_country') Country
         select(id='form_country' v-model='input_country' required)
+            option(value='' disabled) Select...
+            option(value='US') United States
+            option(value='GB') United Kingdom
+            option(value='CA') Canada
+            option(value='AU') Australia
+            option(value='NZ') New Zealand
+            option(value='' disabled) ---
             option(v-for='country of countries' :value='country.code') {{ country.name }}
         label(for='form_street1') Street address
         input(id='form_street1' type='text' v-model='input_street1' required)
