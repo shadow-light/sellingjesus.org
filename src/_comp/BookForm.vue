@@ -49,7 +49,7 @@ form(v-else ref='form' :class='{attempted}')
             label(for='form_postcode') Zip/Postcode
             input(id='form_postcode' type='text' v-model='input_postcode' required)
 
-    div.other
+    div.other(v-if='show_tax_id')
         label(for='form_tax_id') Tax ID (optional)
         input(id='form_tax_id' type='text' v-model='input_tax_id'
             placeholder="Only if your country requires it")
@@ -120,6 +120,13 @@ function reset(){
 }
 
 
+// Whether tax_id may be relevant
+const show_tax_id = computed(() => {
+    // These English speaking countries are commonly sent to and do NOT require it, so hide it
+    return input_country.value && !['AU', 'US', 'GB', 'CA', 'NZ'].includes(input_country.value)
+})
+
+
 const states = computed(() => {
     if (!input_country.value){
         return
@@ -163,7 +170,8 @@ const submit = async () => {
         address_phone: input_phone.value,
         address_state: input_state.value,
         address_street2: input_street2.value,
-        address_tax_id: input_tax_id.value,
+        // NOTE In case previously filled but no longer shown
+        address_tax_id: show_tax_id.value ? input_tax_id.value : '',
     }
 
     // Determine functions URL
