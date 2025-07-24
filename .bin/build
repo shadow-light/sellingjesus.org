@@ -17,4 +17,6 @@ cd "$(dirname "$(dirname "$0")")"
 .bin/process_conversations corinthians
 
 # Build actual site
-node_modules/.bin/vitepress build
+# NOTE VitePress will treat file.docx as page unless specify
+# See https://github.com/vuejs/vitepress/blob/52f0eaa0849344aa45efbf7258a6287597e55a9a/src/shared/shared.ts#L230
+VITE_EXTRA_EXTENSIONS=docx node_modules/.bin/vitepress build
