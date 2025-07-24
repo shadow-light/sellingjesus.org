@@ -98,6 +98,28 @@ const input_tax_id = ref('')
 const input_color = ref('white')
 
 
+function reset(){
+
+    // Reset input
+    input_name.value = ''
+    input_email.value = ''
+    input_country.value = ''
+    input_city.value = ''
+    input_postcode.value = ''
+    input_street1.value = ''
+    input_phone.value = ''
+    input_state.value = ''
+    input_street2.value = ''
+    input_tax_id.value = ''
+    input_color.value = 'white'
+
+    // Reset state
+    attempted.value = false
+    error.value = null
+    success.value = false
+}
+
+
 const states = computed(() => {
     if (!input_country.value){
         return
@@ -189,9 +211,6 @@ const submit = async () => {
     if (resp_error){
         error.value = resp_error
     } else {
-        // Reset form before taking out of DOM in case want another submission
-        form.value!.reset()
-        attempted.value = false
         success.value = true
     }
     progress.value = false
@@ -199,7 +218,7 @@ const submit = async () => {
 
 
 const done = () => {
-    success.value = false
+    reset()
 }
 
 </script>
