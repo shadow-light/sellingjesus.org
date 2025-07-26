@@ -126,7 +126,7 @@ Here are some questions you may ask yourself:
 2. Are there teachers more faithful with their ministry fundraising that I could go to first?
 3. How high is the cost? To what degree will my funds be useful to perpetuate the sale of Christian teaching?
 4. How egregious are the licensing practices of the distributor? To what degree will my purchase be confirming their inhibition of translators and others in making use of their work?
-5. Before making this purchase, should I write to the distributor of this teaching (author/publisher/conference organizer/seminary) and explain my moral dilemma and the biblical case for ministry that freely gives?
+5. Before making this purchase, should I write to the distributor of this teaching (author, publisher, conference-organizer, seminary) and explain my moral dilemma and the biblical case for ministry that freely gives?
 
 There is no one-size-fits-all answer for these questions. Given your particular needs and abilities, you may respond differently than the next individual.
 
