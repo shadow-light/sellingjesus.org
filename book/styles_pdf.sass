@@ -107,8 +107,9 @@ table
     break-inside: avoid
 
 ::footnote-call
+    // WARN These styles inherit from .footnote-item
     content: counter(chapter-footnote)
-    font-size: 0.8em
+    font-size: 7pt  // Should be smaller than regular <sup> like 2nd
     line-height: 0  // Don't cause line spacing to increase when present
 
 ::footnote-marker
