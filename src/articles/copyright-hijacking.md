@@ -86,7 +86,7 @@ While copyright hijacking is a real thing, it is a rare threat and should not be
 As such, a ministry’s decision to dedicate their works to the public domain should not be influenced by such pragmatic concerns. Instead, it should be based on their desire to generously follow the command and example of Christ.
 
 
-[^1]: For those familiar with other forms of free licensing, see [why Creative Commons Attribution ShareAlike is not enough](https://sellingjesus.org/articles/sharealike).
+[^1]: For those familiar with other forms of free licensing, see our article [_On the Specter of Copyright Hijacking_](https://sellingjesus.org/articles/sharealike) on why Creative Commons Attribution ShareAlike is not enough.
 
 [^2]: With the potential exception of [critical texts](https://sellingjesus.org/articles/copyright-and-the-bible#_1-ancient-biblical-texts). In this case, some have claimed copyright around their recension of older texts, due to ambiguities in the actual content of autographs (the manuscripts penned by original authors).
 

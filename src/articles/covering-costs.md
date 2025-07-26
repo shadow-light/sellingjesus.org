@@ -10,7 +10,7 @@ date: 2025-05-07T00:00:00.000Z
 
 Some Christian resources are expensive to produce and distribute, and this can make it challenging to give them for free if there is limited funding available. The most common example of this is the printing and shipping of books. This raises the question: Is it permissible to charge for the costs of producing and distributing individual copies, without trying to make a profit from them?
 
-When thinking about Christian resources as property, there is _physical_ property (such as a book) and there is what the world calls _intellectual_ property (the actual content). Let’s first make it crystal clear that, under no circumstances whatsoever, can the ministry content be sold. It does not matter how much time and money was put into creating it. _If you have any doubts about that, please first see [our introductions on the topic](https://sellingjesus.org/)._
+When thinking about Christian resources as property, there is _physical_ property (such as a book) and there is what the world calls _intellectual_ property (the actual content). Let’s first make it crystal clear that, under no circumstances whatsoever, can the ministry content be sold. It does not matter how much time and money was put into creating it. _If you have any doubts about that, please first read [our articles on freely giving](https://sellingjesus.org/learn)._
 
 Such ministry content (or “intellectual property”) must be given away free of charge and without conditions on its use. This is best done by dedicating it to the public domain. When a Christian resource has been dedicated to the public domain, it is free for anyone to copy and pass on to someone else. The ministry itself has been given for free.
 

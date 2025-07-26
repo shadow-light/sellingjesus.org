@@ -176,7 +176,7 @@ Which is why you should start reading the BSB and comparing it to other translat
 <VPButton text="Other free translations" href="https://copy.church/initiatives/bibles/" theme='alt'></VPButton>
 
 
-[^exceptions]: There are a few modern openly licensed or public domain English translations. You can learn about their licenses at [Let's copy, church](https://copy.church/initiatives/bibles/).
+[^exceptions]: There are a few modern openly licensed or public domain English translations. You can learn about their licenses at [_copy.church_](https://copy.church/initiatives/bibles/).
 
 [^US]: Along with other factors, fair use takes into account "the amount and substantiality of the portion used in relation to the copyrighted work as a whole" ([Title 17, section 107](https://www.copyright.gov/title17/92chap1.html#107)). There are no set amounts, and quality is taken into account as well as quantity. A small quotation of high value could be considered unfair, where as a very large quotation of less value could be considered "fair use".
 
