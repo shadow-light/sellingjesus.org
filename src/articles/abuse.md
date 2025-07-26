@@ -18,7 +18,7 @@ As an analogy, what would it look like if we were to take a similar approach to 
 
 It is also rarely acknowledged that Christian works can already be misused under existing fair use laws. Parodies of works are legal, meaning any Christian resource can be turned into a satanic mockery, regardless of copyright. Even then, we are assuming that all copiers of the resource are law-abiding. Those with evil intentions will be predisposed to simply ignoring copyright law altogether, especially those living in countries that rarely enforce it.
 
-The open source software movement has already demonstrated that fears of abuse are irrational, as the benefits of freely sharing resources far outweigh any risks involved in the relinquishing of copyright restrictions.[^1] This has also been clearly demonstrated by the free publication of the public domain KJV Bible translation [in most countries](https://sellingjesus.org/articles/kjv), which has not resulted in any widespread corruption of the text.
+The open source software movement has already demonstrated that fears of abuse are irrational,[^1] as the benefits of freely sharing resources far outweigh any risks involved in the relinquishing of copyright restrictions. This has also been clearly demonstrated by the free publication of the public domain KJV Bible translation [in most countries](https://sellingjesus.org/articles/kjv), which has not resulted in any widespread corruption of the text.
 
 But abuses do occasionally happen, so how should we respond if they do?
 
