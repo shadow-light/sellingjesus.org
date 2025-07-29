@@ -72,9 +72,9 @@ If you'd like to translate or adapt the book in an editable format, there are se
 ## Why we're giving this book for free
 One of the distinctions we explain in this book is that if teaching is given freely, then [it's ok to charge for paper and ink](/articles/covering-costs). In practice, this means releasing teaching from copyright and making it freely accessible online, but we don’t expect everyone to give away printed books for free, as we are doing here.
 
-So why _are_ we giving away printed copies? The reason for the biblical ethic against selling ministry is that it undermines the sincerity of ministry (2 Cor 2:17). While charging for physical copies is not necessarily insincere (as selling biblical teaching would be), it has the potential to suggest an ulterior financial motive. Paul refused to receive any form of support from the Corinthians when there was a potential for confusion about his sincerity (1 Cor 9:18; 2 Cor 2:17; 2 Cor 11:7,12).
+So why _are_ we giving away printed copies? The reason for the biblical ethic against selling ministry is that it undermines the sincerity of ministry (2 Cor 2:17). While charging for physical copies is not necessarily insincere (as selling biblical teaching would be), it has the potential to suggest an ulterior financial motive.
 
-Likewise, we don’t want anything to cast doubt on the sincerity of the message we’re sharing. That’s why we don’t charge for printing or delivery—and we don’t ask for donations either. Again, we’re not saying everyone must do this; we wholeheartedly encourage financially supporting ministry. We’ve simply chosen this approach because of the nature of the topic we’re addressing.
+We don’t want anything to cast doubt on the sincerity of the message we’re sharing. That’s why we don’t charge for printing or delivery—and we don’t ask for donations either. Again, we’re not saying everyone must do this; we wholeheartedly encourage financially supporting ministry. We’ve simply chosen this approach because of the nature of the topic we’re addressing.
 
 While we can't afford to do this at scale, we provide everything needed to print in bulk should someone wish to, and are thankful for those who can offer such services at cost.
 
