@@ -12,7 +12,8 @@ div(v-for='(topic, i) of topics')
     div(v-if='topic.description' v-html='topic.description')
     podcast-player(v-if='topic.podcast && !book' :id='topic.podcast')
     div
-        div.msg(v-for='(message, i) of topic.messages')
+        //- NOTE even/odd classes needed for book
+        div.msg(v-for='(message, i) of topic.messages' :class="i % 2 === 0 ? 'even' : 'odd'")
             img(v-if='!book' :src='`/_assets/convos/${file_id}_${i % 2 === 0 ? "asker" : "responder"}.jpg`')
             div.txt(v-html='message')
 
