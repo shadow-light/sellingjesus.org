@@ -37,25 +37,36 @@ if [[ "$1" != "--skip" ]]; then
     perl -i -pe 's|aria-label=".*?"||gi' shared/dist_epub/book.html
     perl -i -pe 's|<section|<div|gi' shared/dist_epub/book.html
     perl -i -pe 's|</section|</div|gi' shared/dist_epub/book.html
+    perl -i -pe 's|↩︎|^|gi' shared/dist_epub/book.html
 
     # Remove unsupported attributes from SVGs for EPUB
-    find shared/dist_epub -type f -name "*.svg" -exec perl -i -pe 's|aria-label=".*?"||gi' {} \;
-    find shared/dist_epub -type f -name "*.svg" -exec perl -i -pe 's|stop-color=".*?"||gi' {} \;
+    # NOTE Now converting all SVGs to PNGs as support in ereaders is too unpredictable
+    # find shared/dist_epub -type f -name "*.svg" -exec perl -i -pe 's|aria-label=".*?"||gi' {} \;
+    # find shared/dist_epub -type f -name "*.svg" -exec perl -i -pe 's|stop-color=".*?"||gi' {} \;
 
     # Make img URLs relative to dir (--base only affects assets, not absolute image urls etc)
     perl -i -pe 's|src="/|src="./|gi' shared/dist_pdf/book.html
     perl -i -pe 's|src="/|src="./|gi' shared/dist_epub/book.html
 
-    # Convert SVGs to PNGs without alpha for print version
-    # NOTE Gets more accurate visuals and avoids transparency issues with KDP etc
-    cd shared/dist_pdf
-    grep -oP '<img[^>]+src="\K[^"]+\.svg' book.html | while read -r svg; do
-        png="${svg%.svg}.png"
-        inkscape "$svg" --export-type=png --export-filename="$png" --export-dpi=300 \
-            --export-width=1800 --export-background=white --export-png-color-mode=RGB_8
-        sed -i "s|$svg|$png|g" book.html
+    # Convert SVGs to PNGs as printers complain about transparency and ereaders have bad support
+    # Does double the size of images, but there aren't a lot of them
+    for dir in shared/dist_pdf shared/dist_epub; do
+        cd $dir
+
+        # Transparency is good for epub but not for print
+        extra_args=""
+        if [ "$dir" = "shared/dist_pdf" ]; then
+            extra_args="--export-background=white --export-png-color-mode=RGB_8"
+        fi
+
+        grep -oP '<img[^>]+src="\K[^"]+\.svg' book.html | while read -r svg; do
+            png="${svg%.svg}.png"
+            inkscape "$svg" --export-type=png --export-filename="$png" --export-dpi=300 \
+                --export-width=1800 $extra_args
+            sed -i "s|$svg|$png|g" book.html
+        done
+        cd ../..
     done
-    cd ../..
 
 fi
 
