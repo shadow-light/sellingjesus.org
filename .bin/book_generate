@@ -23,6 +23,10 @@ if [[ "$1" != "--skip" ]]; then
     perl -i -0777 -pe "s|<head>.+?</head>|$new_head|gis" shared/dist_pdf/book.html
     perl -i -0777 -pe "s|<head>.+?</head>|$new_head|gis" shared/dist_epub/book.html
 
+    # Remove <script>
+    perl -i -0777 -pe "s|<script.+?</script>||gi" shared/dist_pdf/book.html
+    perl -i -0777 -pe "s|<script.+?</script>||gi" shared/dist_epub/book.html
+
     # Remove any inline styles for consistency (VitePress also adds position:relative to wrapper)
     perl -i -pe 's|style=".*?"||gi' shared/dist_pdf/book.html
     perl -i -pe 's|style=".*?"||gi' shared/dist_epub/book.html
