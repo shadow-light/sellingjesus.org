@@ -209,12 +209,10 @@ Which is why you should start reading the BSB and comparing it to other translat
 [^jore]: See _[Letting Go](https://www.unfoldingword.org/publications/letting-go)_ by Tim Jore for more reasoning on why copyright does more harm than good. Jore argues that a ShareAlike license is a better option, however, the motivation for such a license has the same flaw that the "all rights reserved" approach has. Namely, "the fear of bad things happening to good content". Dedicating to the public domain is the logical conclusion to resisting such an irrational fear.
 
 [^knighton]: Larger quotation: "The Gospel, which Christ gave to the clergy and the doctors of the church, that they might administer it to the laity and to weaker brethren, according to the demands of the time and the needs of the individual, as a sweet food for the mind, that Master John Wyclif translated from Latin into the language not of angels but of Englishmen, so that he made that common and open to the laity, and to women who were able to read, which used to be for literate and perceptive clerks, and spread the Evangelists' pearls to be trampled by swine. And thus that which was dear to the clergy and laity alike became as it were a jest common to both, and the clerks' jewels became the playthings of laymen, that the laity might enjoy now forever what had once been the clergy's talent from on high."
-
-    G. H. Martin, trans., _[Knighton's Chronicle 1337-1396](https://archive.org/details/knightonschronic0000knig/)_ (New York: Oxford University Press, 2004), p243-245
+<br>G. H. Martin, trans., _[Knighton's Chronicle 1337-1396](https://archive.org/details/knightonschronic0000knig/)_ (New York: Oxford University Press, 2004), p243-245
 
 [^pope]: Larger quotation: "if the Holy Bible, translated into the vulgar tongue, be indiscriminately allowed to every one, the rashness of men will cause more evil than good to arise from it, it is, on this point, referred to the judgment of the bishops or inquisitors, who may, by the advice of the priest or confessor, permit the reading of the Bible translated into the vulgar tongue by Catholic authors, to those persons whose faith and piety they apprehend will be augmented and not injured by it; and this permission must be had in writing."
-
-    Philip Schaff, “Bible Reading by the Laity, Restrictions On,” _[New Schaff-Herzog Encyclopedia of Religious Knowledge, Vol. II: Basilica - Chambers](https://ccel.org/ccel/schaff/encyc02)_ (1908)
+<br>Philip Schaff, “Bible Reading by the Laity, Restrictions On,” _[New Schaff-Herzog Encyclopedia of Religious Knowledge, Vol. II: Basilica - Chambers](https://ccel.org/ccel/schaff/encyc02)_ (1908)
 
 [^copyright]: See _[Let's copy, church](https://copy.church)_ for a thorough exploration of the issue of copyright in Christian ministry and why all Christian resources should be dedicated to the public domain.
 
