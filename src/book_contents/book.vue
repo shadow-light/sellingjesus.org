@@ -14,7 +14,8 @@ div.book
         p Published by #[em Selling Jesus]
         p sellingjesus.org
         p First edition (2025)
-        //- p ISBN:
+        //- ISBN for Amazon KDP
+        //- p ISBN: 9798294591311
         p &nbsp;
         p This book is freely given to the glory of God and dedicated to the public domain. It may be copied, translated, adapted, in whole or in part, without needing to ask permission. You can also access this content online at sellingjesus.org.
         img(src='/book_contents/pd.png' alt="Public domain")
