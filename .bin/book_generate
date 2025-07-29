@@ -45,6 +45,18 @@ if [[ "$1" != "--skip" ]]; then
     # Make img URLs relative to dir (--base only affects assets, not absolute image urls etc)
     perl -i -pe 's|src="/|src="./|gi' shared/dist_pdf/book.html
     perl -i -pe 's|src="/|src="./|gi' shared/dist_epub/book.html
+
+    # Convert SVGs to PNGs for print version
+    # NOTE Gets more accurate visuals and avoids transparency issues with KDP etc
+    cd shared/dist_pdf
+    grep -oP '<img[^>]+src="\K[^"]+\.svg' book.html | while read -r svg; do
+        png="${svg%.svg}.png"
+        inkscape "$svg" --export-type=png --export-filename="$png" --export-dpi=300 \
+            --export-width=1800 --export-background=white
+        sed -i "s|$svg|$png|g" book.html
+    done
+    cd ../..
+
 fi
 
 # Build CSS for PDF
