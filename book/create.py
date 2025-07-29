@@ -11,6 +11,18 @@ def create_pdf():
     weasy_css = CSS(filename='shared/dist_pdf/book.css', font_config=font_config)
     weasy_doc = weasy_html.render(stylesheets=[weasy_css], font_config=font_config)
     weasy_doc.write_pdf('shared/book.pdf')
+    # Amazon KDP has issues with the encoding of fonts
+    # This fixes it somehow, and still seems to ensure greek fonts only for greek text, etc.
+    subprocess.run([
+        'gs',
+        '-sDEVICE=pdfwrite',
+        '-dEmbedAllFonts=true',
+        '-dPDFSETTINGS=/prepress',
+        '-dNOPAUSE',
+        '-dBATCH',
+        '-sOutputFile=shared/book_kdp_compatible.pdf',
+        'shared/book.pdf',
+    ], check=True)
 
 
 def create_epub():

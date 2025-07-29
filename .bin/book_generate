@@ -46,13 +46,13 @@ if [[ "$1" != "--skip" ]]; then
     perl -i -pe 's|src="/|src="./|gi' shared/dist_pdf/book.html
     perl -i -pe 's|src="/|src="./|gi' shared/dist_epub/book.html
 
-    # Convert SVGs to PNGs for print version
+    # Convert SVGs to PNGs without alpha for print version
     # NOTE Gets more accurate visuals and avoids transparency issues with KDP etc
     cd shared/dist_pdf
     grep -oP '<img[^>]+src="\K[^"]+\.svg' book.html | while read -r svg; do
         png="${svg%.svg}.png"
         inkscape "$svg" --export-type=png --export-filename="$png" --export-dpi=300 \
-            --export-width=1800 --export-background=white
+            --export-width=1800 --export-background=white --export-png-color-mode=RGB_8
         sed -i "s|$svg|$png|g" book.html
     done
     cd ../..
