@@ -31,6 +31,31 @@ table
     max-width: 800px
     border-spacing: 12px 8px
 
+
+// Page breaking (inconsistent support but can be useful for page-based readers)
+
+table
+    break-inside: avoid
+    page-break-inside: avoid
+
+h2, h3, h4, h5, h6
+    break-after: avoid  // Move heading to next page if was going to break after it
+    page-break-after: avoid
+    break-inside: avoid  // Don't make heading go across pages
+    page-break-inside: avoid
+
+.figcaption
+    break-inside: avoid
+    page-break-inside: avoid
+    break-before: avoid  // Don't separate from img
+    page-break-before: avoid
+
+p, blockquote, li, div
+    // Ensure at least 2 lines before/after a page break, otherwise move whole block to next page
+    orphans: 2
+    widows: 2
+
+
 // COMMON
 
 .titles
