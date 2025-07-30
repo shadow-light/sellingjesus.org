@@ -154,8 +154,11 @@ function bookify_html(html:string, also_rm:string[]=[]){
     // Remove unwanted elements
     rm_ui(dom, also_rm)
 
-    // Identify any passage references and wrap in <a> so can style
-    markup_references(dom.body)  // Takes body, not whole dom
+    // Identify any passage references and wrap in <span> so can style
+    // NOTE Caused unwanted linebreaks in some ereaders like Everand, so not enabling for epub
+    if (!EPUB){
+        markup_references(dom.body)  // Takes body, not whole dom
+    }
 
     // Make ids and footnote links unique and not conflict with other articles
     unique_ids(dom)
@@ -164,11 +167,8 @@ function bookify_html(html:string, also_rm:string[]=[]){
     // WARN Must come after unique_ids(), otherwise would add random ids to links to other articles
     internalize_urls(dom)
 
-    // These differ between PDF and EPUB
-    if (EPUB){
-        // pass
-    } else {
-        // Inline footnotes so can float to bottom for each PDF page
+    // Inline footnotes so can float to bottom for each PDF page
+    if (!EPUB){
         inline_footnotes(dom)
     }
 
