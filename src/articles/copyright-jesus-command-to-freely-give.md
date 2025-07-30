@@ -1,5 +1,5 @@
 ---
-title: Copyright & Jesus' Command to Freely Give
+title: Copyright & Jesus’ Command to Freely Give
 description: If a minister is to give freely, has he really done so if he retains exclusive rights to the content of his proclamation?
 author: Conley Owens
 date: 2024-02-22T17:20:17.294Z
