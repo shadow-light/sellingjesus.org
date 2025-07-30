@@ -10,7 +10,7 @@ def create_pdf():
     weasy_html = HTML(filename='shared/dist_pdf/book.html')
     weasy_css = CSS(filename='shared/dist_pdf/book.css', font_config=font_config)
     weasy_doc = weasy_html.render(stylesheets=[weasy_css], font_config=font_config)
-    weasy_doc.write_pdf('shared/book.pdf')
+    weasy_doc.write_pdf('shared/book_pre_gs.pdf')
     # Amazon KDP has issues with the encoding of fonts
     # This fixes it somehow, and still seems to ensure greek fonts only for greek text, etc.
     subprocess.run([
@@ -20,15 +20,15 @@ def create_pdf():
         '-dPDFSETTINGS=/prepress',
         '-dNOPAUSE',
         '-dBATCH',
-        '-sOutputFile=shared/book_kdp_compatible.pdf',
-        'shared/book.pdf',
+        '-sOutputFile=shared/Abolish-the-Jesus-Trade.pdf',
+        'shared/book_pre_gs.pdf',
     ], check=True)
 
 
 def create_epub():
     subprocess.run(
         [
-            'ebook-convert', 'book.html', '../book.epub',
+            'ebook-convert', 'book.html', '../Abolish-the-Jesus-Trade.epub',
             # Add metadata
             '--title', "Abolish the Jesus Trade",
             '--authors', "Andrew Case & Conley Owens & Jon Here",
