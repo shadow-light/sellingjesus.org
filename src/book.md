@@ -31,7 +31,7 @@ img
 
 Years ago Randy Alcorn observed, “In the Christian community today there is more blindness, rationalization, and unclear thinking about money than anything else.” Abolish the Jesus Trade aims to help reverse this assessment. The Church is currently marked by underdeveloped thinking about Scripture’s teaching on money and ministry. The sale of the sacred has been normalized, not by prosperity preachers, but by conservative evangelicals. Busy building paywalls, we have torn down the sincerity of the Body of Christ.
 
-Conley Owens, Jon Here, and Andrew Case present this collection of articles that seek to exalt the radical generosity of God’s heart, confront the commercialization of Christianity, and promote the biblical teaching that ministry should be supported but never sold. We are living in a time like the antebellum United States, where the majority of ministers regularly defended the slave trade from the pulpit, just as they defend the Jesus trade today. This calls for repentance, reform, and a return to Scripture’s primacy over economic expediency.
+Conley Owens, Jon Here, and Andrew Case present this collection of articles that seek to exalt the radical generosity of God’s heart, confront the commercialization of Christianity, and promote the biblical teaching that _ministry should be supported but never sold_. We are living in a time like the antebellum United States, where the majority of ministers regularly defended the slave trade from the pulpit, just as they defend the Jesus trade today. This calls for repentance, reform, and a return to Scripture’s primacy over economic expediency.
 
 _The articles in this book are also available on [our website](/learn)._
 
