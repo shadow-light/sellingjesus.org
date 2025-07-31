@@ -33,12 +33,13 @@ Years ago Randy Alcorn observed, “In the Christian community today there is mo
 
 Conley Owens, Jon Here, and Andrew Case present this collection of articles that seek to exalt the radical generosity of God’s heart, confront the commercialization of Christianity, and promote the biblical teaching that ministry should be supported but never sold. We are living in a time like the antebellum United States, where the majority of ministers regularly defended the slave trade from the pulpit, just as they defend the Jesus trade today. This calls for repentance, reform, and a return to Scripture’s primacy over economic expediency.
 
+_The articles in this book are also available on [our website](/learn)._
 
 ## Get the ebook
 
 <VPButton text="Download EPUB" href="/book/Abolish-the-Jesus-Trade.epub" target='_blank'></VPButton>
 
-You can read EPUB files using Apple Books (iOS), Google Play Books (Android), or [Calibre](https://calibre-ebook.com/download) (Mac, Windows, Linux). Alternatively, all the articles in the book are available [on our website](/learn).
+You can read EPUB files using Apple Books (iOS), Google Play Books (Android), or [Calibre](https://calibre-ebook.com/download) (Mac, Windows, Linux).
 
 
 ## Get a printed copy
@@ -47,7 +48,9 @@ We give away single copies for free (with free international shipping).
 <BookForm></BookForm>
 
 ### Order in bulk
-Please [contact us](mailto:info@sellingjesus.org) if you'd like to order more than one copy for free. If we can't fulfill the request, or you're happy to cover the cost yourself, a fellow brother in Christ organizes deliveries at the cost of printing + shipping.
+Please [contact us](/about#contact) if you'd like to order more than one copy for free.
+
+<!--If we can't fulfill the request, or you're happy to cover the cost yourself, this book is also available on Amazon for the minimum price they would allow.-->
 
 ### Print the book yourself
 You can supply a printing service such as [Lulu](https://www.lulu.com/) with the cover page and contents to print yourself, if you would like.
@@ -76,6 +79,6 @@ So why _are_ we giving away printed copies? The reason for the biblical ethic ag
 
 We don’t want anything to cast doubt on the sincerity of the message we’re sharing. That’s why we don’t charge for printing or delivery—and we don’t ask for donations either. Again, we’re not saying everyone must do this; we wholeheartedly encourage financially supporting ministry. We’ve simply chosen this approach because of the nature of the topic we’re addressing.
 
-While we can't afford to do this at scale, we provide everything needed to print in bulk should someone wish to, and are thankful for those who can offer such services at cost.
+While we can't afford to do this at scale, we provide everything needed to print in bulk should someone wish to, at the lowest cost possible.
 
 If you have any questions about this, please read the book, because it's exactly the kind of thing it explores in depth—and it's free!

@@ -13,6 +13,7 @@ form(v-else ref='form' :class='{attempted}')
     h3 Order free copy
 
     p Your contact information is required in case there are issues with delivery and will be passed on to our printing and shipping services. It will not be used for any other purpose than delivering the book to you.
+    p Delivery usually takes 10-15 days, depending on your country.
 
     div.contact
         label(for='form_name') Name
