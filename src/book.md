@@ -48,9 +48,10 @@ We give away single copies for free (with free international shipping).
 <BookForm></BookForm>
 
 ### Order in bulk
-Please [contact us](/about#contact) if you'd like to order more than one copy for free.
+Please [contact us](/about#contact) if you'd like to order more than one copy for free. If we can't fulfill the request, or you're happy to cover the cost yourself, the book is also available at the following online retailers for the minimum price they would allow:
 
-<!--If we can't fulfill the request, or you're happy to cover the cost yourself, this book is also available on Amazon for the minimum price they would allow.-->
+ * Amazon (coming soon)
+ * [Lulu](https://www.lulu.com/shop/andrew-case-and-conley-owens-and-jon-here/abolish-the-jesus-trade/paperback/product-w4yjnj8.html) (ships worldwide and has bulk discounts)
 
 ### Print the book yourself
 You can supply a printing service such as [Lulu](https://www.lulu.com/) with the cover page and contents to print yourself, if you would like.
