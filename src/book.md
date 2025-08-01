@@ -38,6 +38,11 @@ _The articles in this book are also available on [our website](/learn)._
 ## Get the ebook
 
 <VPButton text="Download EPUB" href="/book/Abolish-the-Jesus-Trade.epub" target='_blank'></VPButton>
+<VPButton text="Kindle" href="https://mybook.to/jUnlDm0" target='_blank'></VPButton>
+<VPButton text="Apple Books" href="https://books.apple.com/us/book/abolish-the-jesus-trade-spread-the-joy-of-freely-giving/id6749104733" target='_blank'></VPButton>
+<VPButton text="Everand" href="https://www.everand.com/book/892778812/Abolish-the-Jesus-Trade-Spread-the-Joy-of-Freely-Giving" target='_blank'></VPButton>
+<VPButton text="Kobo" href="https://www.kobo.com/mx/en/ebook/abolish-the-jesus-trade-spread-the-joy-of-freely-giving" target='_blank'></VPButton>
+<VPButton text="Barnes & Noble" href="https://www.barnesandnoble.com/w/abolish-the-jesus-trade-andrew-case/1147890065?ean=2940181980631" target='_blank'></VPButton>
 
 You can read EPUB files using Apple Books (iOS), Google Play Books (Android), or [Calibre](https://calibre-ebook.com/download) (Mac, Windows, Linux).
 
@@ -50,7 +55,7 @@ We give away single copies for free (with free international shipping).
 ### Order in bulk
 Please [contact us](/about#contact) if you'd like to order more than one copy for free. If we can't fulfill the request, or you're happy to cover the cost yourself, the book is also available at the following online retailers for the minimum price they would allow:
 
- * Amazon (coming soon)
+ * [Amazon US](https://www.amazon.com/dp/B0FKNGWMGP) / [AU](https://www.amazon.com.au/dp/B0FKNGWMGP) / [CA](https://www.amazon.ca/dp/B0FKNGWMGP) / [UK](https://www.amazon.co.uk/dp/B0FKNGWMGP) / [other](https://mybook.to/n2sVrfF)
  * [Lulu](https://www.lulu.com/shop/andrew-case-and-conley-owens-and-jon-here/abolish-the-jesus-trade/paperback/product-w4yjnj8.html) (ships worldwide and has bulk discounts)
 
 ### Print the book yourself
