@@ -62,11 +62,11 @@ form(v-else ref='form' :class='{attempted}')
         input(id='form_tax_id' type='text' v-model='input_tax_id'
             placeholder="Only if your country requires it")
 
-    div.paper
-        input(id='form_color_white' type='radio' value='white' name='color' v-model='input_color')
-        label(for='form_color_white') White paper
-        input(id='form_color_cream' type='radio' value='cream' name='color' v-model='input_color')
-        label(for='form_color_cream') Cream paper
+    //- div.paper
+    //-     input(id='form_color_white' type='radio' value='white' name='color' v-model='input_color')
+    //-     label(for='form_color_white') White paper
+    //-     input(id='form_color_cream' type='radio' value='cream' name='color' v-model='input_color')
+    //-     label(for='form_color_cream') Cream paper
 
     div.submit
         div
