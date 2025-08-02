@@ -59,7 +59,7 @@ Please [contact us](/about#contact) if you'd like to order more than one copy fo
  * [Lulu](https://www.lulu.com/shop/andrew-case-and-conley-owens-and-jon-here/abolish-the-jesus-trade/paperback/product-w4yjnj8.html) (ships worldwide and has bulk discounts)
 
 ### Print the book yourself
-You can supply a printing service such as [Lulu](https://www.lulu.com/) with the cover page and contents to print yourself, if you would like.
+You can supply a printing service such as [Lulu](https://www.lulu.com/) with the cover page and contents to print yourself, if you would like. It must be printed 6x9 inches.
 
 <VPButton text="Download PDF" href="/book/Abolish-the-Jesus-Trade.pdf" target='_blank'></VPButton>
 <VPButton text="Download cover PDF" href="/book/Abolish-the-Jesus-Trade-cover.pdf" target='_blank'></VPButton>
