@@ -103,7 +103,7 @@ const input_phone = ref('')
 const input_state = ref('')
 const input_street2 = ref('')
 const input_tax_id = ref('')
-const input_color = ref('white')
+const input_color = ref('cream')
 
 
 function reset(){
@@ -119,7 +119,7 @@ function reset(){
     input_state.value = ''
     input_street2.value = ''
     input_tax_id.value = ''
-    input_color.value = 'white'
+    input_color.value = 'cream'
 
     // Reset state
     attempted.value = false
