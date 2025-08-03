@@ -33,6 +33,14 @@ iframe
 </style>
 
 
+<template v-if='$params.id === "1VkgBKphxLjycbjvF8iYUZ"'>
+    <div style='margin-bottom: 48px'>
+        <strong>Looking for the book?</strong>
+        <VPButton text="Abolish the Jesus Trade (book)" href="/book" size="medium"></VPButton>
+    </div>
+</template>
+
+
 # Podcast episode {{ $params.number }}
 # {{ $params.title }}
 
