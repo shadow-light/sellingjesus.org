@@ -1,5 +1,5 @@
 ---
-title: Bible Publishers - Stewards or Gatekeepers?
+title: Bible Publishers — Stewards or Gatekeepers?
 title_h1: Bible Publishers
 title_h2: Stewards or Gatekeepers?
 description: The church has gradually handed God's Word over to businesses that claim it as their own.

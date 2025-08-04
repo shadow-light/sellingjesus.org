@@ -1,5 +1,5 @@
 ---
-title: Letting Go – Releasing Biblical Content
+title: Letting Go — Releasing Biblical Content
 description: This paper addresses many of the concerns that are raised by those desiring to openly license resources and describes a strategy that equips the global Church for freedom. Although it doesn’t advocate for dedicating all ministry works to the public domain (as we do), it is still an incredibly valuable read.
 license: cc-by-sa
 author: Tim Jore
