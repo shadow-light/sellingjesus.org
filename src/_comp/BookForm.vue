@@ -63,12 +63,6 @@ form(v-else ref='form' :class='{attempted}')
         input(id='form_tax_id' type='text' v-model='input_tax_id'
             placeholder="Only if your country requires it")
 
-    //- div.paper
-    //-     input(id='form_color_white' type='radio' value='white' name='color' v-model='input_color')
-    //-     label(for='form_color_white') White paper
-    //-     input(id='form_color_cream' type='radio' value='cream' name='color' v-model='input_color')
-    //-     label(for='form_color_cream') Cream paper
-
     div.submit
         div
             VPButton(@click='submit' type='button' :disabled='progress'
@@ -104,7 +98,6 @@ const input_phone = ref('')
 const input_state = ref('')
 const input_street2 = ref('')
 const input_tax_id = ref('')
-const input_color = ref('cream')
 
 
 function reset(){
@@ -120,7 +113,6 @@ function reset(){
     input_state.value = ''
     input_street2.value = ''
     input_tax_id.value = ''
-    input_color.value = 'cream'
 
     // Reset state
     attempted.value = false
@@ -171,7 +163,6 @@ const submit = async () => {
     const data = {
         name: input_name.value,
         email: input_email.value,
-        color: input_color.value,
         address_country: input_country.value,
         address_city: input_city.value,
         address_postcode: input_postcode.value,
