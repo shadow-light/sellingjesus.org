@@ -63,11 +63,15 @@ form(v-else ref='form' :class='{attempted}')
         input(id='form_tax_id' type='text' v-model='input_tax_id'
             placeholder="Only if your country requires it")
 
+    div.turnstile
+
     div.submit
         div
             VPButton(@click='submit' type='button' :disabled='progress'
                 :text='progress ? "Sending..." : "Submit order"')
-        div.error {{ error }}
+        div(v-if='error').error
+            p {{ error }}
+            p Email us at info@sellingjesus.org if you need any help
 
 
 
@@ -76,9 +80,16 @@ form(v-else ref='form' :class='{attempted}')
 
 <script lang="ts" setup>
 
-import {computed, ref} from 'vue'
+import {computed, nextTick, onMounted, ref} from 'vue'
 
 import countries from './regions.json'
+
+
+declare global {
+    interface Window {
+        turnstile:any
+    }
+}
 
 
 const form = ref<HTMLFormElement>()
@@ -98,6 +109,7 @@ const input_phone = ref('')
 const input_state = ref('')
 const input_street2 = ref('')
 const input_tax_id = ref('')
+const input_turnstile = ref('')
 
 
 function reset(){
@@ -118,6 +130,12 @@ function reset(){
     attempted.value = false
     error.value = null
     success.value = false
+
+    // Re-render turnstile (after DOM restored)
+    nextTick(() => {
+        input_turnstile.value = ''
+        render_turnstile()
+    })
 }
 
 
@@ -161,6 +179,7 @@ const submit = async () => {
 
     // Prepare data to send
     const data = {
+        turnstile: input_turnstile.value,
         name: input_name.value,
         email: input_email.value,
         address_country: input_country.value,
@@ -218,6 +237,11 @@ const submit = async () => {
     // Determine result
     if (resp_error){
         error.value = resp_error
+        // If a Turnstile error, need to reset so user can try again
+        if (resp_error.includes('human')){
+            input_turnstile.value = ''
+            self.turnstile.reset()
+        }
     } else {
         success.value = true
     }
@@ -228,6 +252,48 @@ const submit = async () => {
 const done = () => {
     reset()
 }
+
+
+// Function for ensuring turnstile has been loaded
+async function load_turnstile(){
+    return new Promise<void>((resolve, reject) => {
+
+        // Check if aleady exists
+        if (self.turnstile)
+            return resolve()
+        const existing = document.querySelector('script[src*="turnstile"]')
+        if (existing){
+            existing.addEventListener('load', () => resolve())
+            return
+        }
+
+        // Add script
+        const script = document.createElement('script')
+        script.src = 'https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit'
+        script.defer = true
+        script.onload = () => resolve()
+        script.onerror = () => reject(new Error("Failed to load Turnstile"))
+        document.head.appendChild(script)
+    })
+}
+
+
+// Render turnstile at div with class 'turnstile'
+async function render_turnstile(){
+    self.turnstile.render('.turnstile', {
+        sitekey: '0x4AAAAAABoYqRsX2W9RrFK4',
+        callback: function(token:string){
+            input_turnstile.value = token
+        },
+    })
+}
+
+
+onMounted(async () => {
+    await load_turnstile()
+    render_turnstile()
+})
+
 
 </script>
 
