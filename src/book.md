@@ -52,17 +52,39 @@ Most of the articles in the book are already available [on our podcast](/podcast
 
 
 ## Get a printed copy
-We give away single copies for free (with free international shipping).
+
+The book is available at the following online retailers for the minimum price they would allow:
+
+<div>
+<VPButton text="Amazon" href="https://mybook.to/n2sVrfF" target='_blank'></VPButton>
+<VPButton text="US" theme="alt" href="https://www.amazon.com/dp/B0FKNGWMGP" target='_blank'></VPButton>
+<VPButton text="AU" theme="alt" href="https://www.amazon.com.au/dp/B0FKNGWMGP" target='_blank'></VPButton>
+<VPButton text="CA" theme="alt" href="https://www.amazon.ca/dp/B0FKNGWMGP" target='_blank'></VPButton>
+<VPButton text="UK" theme="alt" href="https://www.amazon.co.uk/dp/B0FKNGWMGP" target='_blank'></VPButton>
+(eligible for free Prime delivery)
+</div>
+
+<div>
+<VPButton text="Lulu" href="https://www.lulu.com/shop/andrew-case-and-conley-owens-and-jon-here/abolish-the-jesus-trade/paperback/product-w4yjnj8.html" target='_blank'></VPButton> (better quality and ships worldwide, but no free delivery)
+</div>
+
 
 <BookForm></BookForm>
 
-### Order in bulk
-Please [contact us](/about#contact) if you'd like to order more than one copy for free. If we can't fulfill the request, or you're happy to cover the cost yourself, the book is also available at the following online retailers for the minimum price they would allow:
 
- * [Amazon US](https://www.amazon.com/dp/B0FKNGWMGP) / [AU](https://www.amazon.com.au/dp/B0FKNGWMGP) / [CA](https://www.amazon.ca/dp/B0FKNGWMGP) / [UK](https://www.amazon.co.uk/dp/B0FKNGWMGP) / [other](https://mybook.to/n2sVrfF)
- * [Lulu](https://www.lulu.com/shop/andrew-case-and-conley-owens-and-jon-here/abolish-the-jesus-trade/paperback/product-w4yjnj8.html) (ships worldwide and has bulk discounts)
+### Why we're giving printed copies for free
+One of the distinctions we explain in this book is that if teaching is given freely, then [it's ok to charge for paper and ink](/articles/covering-costs). In practice, this means releasing teaching from copyright and making it freely accessible online, but we don’t expect everyone to give away printed books for free, as we are doing here.
 
-### Print the book yourself
+So why _are_ we giving away printed copies? The reason for the biblical ethic against selling ministry is that it undermines the sincerity of ministry (2 Cor 2:17). While charging for physical copies is not necessarily insincere (as selling biblical teaching would be), it has the potential to suggest an ulterior financial motive.
+
+We don’t want anything to cast doubt on the sincerity of the message we’re sharing. That’s why we don’t charge for printing or delivery—and we don’t ask for donations either. Again, we’re not saying everyone must do this; we wholeheartedly encourage financially supporting ministry. We’ve simply chosen this approach because of the nature of the topic we’re addressing.
+
+While we can't afford to do this at scale, we provide everything needed to print in bulk should someone wish to, at the lowest cost possible.
+
+If you have any questions about this, please read the book, because it's exactly the kind of thing it explores in depth—and it's free!
+
+
+## Print the book yourself
 You can supply a printing service such as [Lulu](https://www.lulu.com/) with the cover page and contents to print yourself, if you would like. It must be printed 6x9 inches, and we use paperback perfect bound, standard black/white, cream paper, matte cover.
 
 <VPButton text="Download PDF" href="/book/Abolish-the-Jesus-Trade.pdf" target='_blank'></VPButton>
@@ -74,19 +96,9 @@ You can supply a printing service such as [Lulu](https://www.lulu.com/) with the
 
 If you'd like to translate or adapt the book in an editable format, there are several options:
 
- * Edit [the EPUB](/book/Abolish-the-Jesus-Trade.epub) (recommended) using software like [Sigil](https://sigil-ebook.com/sigil/)
+ * Edit [the EPUB](/book/Abolish-the-Jesus-Trade.epub) using software like [Sigil](https://sigil-ebook.com/sigil/)
  * Edit [this Word document](/book/Abolish-the-Jesus-Trade.docx) (though the formatting is not as accurate as the PDF/EPUB)
  * Copy and paste from [our website](/learn) which has all the articles
  * Software developers can also edit [the original Markdown](https://github.com/shadow-light/sellingjesus.org/tree/main/src/articles) the book is generated from
 
-
-## Why we're giving this book for free
-One of the distinctions we explain in this book is that if teaching is given freely, then [it's ok to charge for paper and ink](/articles/covering-costs). In practice, this means releasing teaching from copyright and making it freely accessible online, but we don’t expect everyone to give away printed books for free, as we are doing here.
-
-So why _are_ we giving away printed copies? The reason for the biblical ethic against selling ministry is that it undermines the sincerity of ministry (2 Cor 2:17). While charging for physical copies is not necessarily insincere (as selling biblical teaching would be), it has the potential to suggest an ulterior financial motive.
-
-We don’t want anything to cast doubt on the sincerity of the message we’re sharing. That’s why we don’t charge for printing or delivery—and we don’t ask for donations either. Again, we’re not saying everyone must do this; we wholeheartedly encourage financially supporting ministry. We’ve simply chosen this approach because of the nature of the topic we’re addressing.
-
-While we can't afford to do this at scale, we provide everything needed to print in bulk should someone wish to, at the lowest cost possible.
-
-If you have any questions about this, please read the book, because it's exactly the kind of thing it explores in depth—and it's free!
+If you plan to translate the whole book, please [contact us](/about#contact) so we can guide you in doing it in a way that will be easily publishable when complete.
