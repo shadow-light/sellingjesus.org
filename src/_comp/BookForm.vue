@@ -39,6 +39,11 @@ form(v-else ref='form' :class='{attempted}')
             option(value='NZ') New Zealand
             option(value='' disabled) ---
             option(v-for='country of countries' :value='country.code') {{ country.name }}
+
+        //- WARN Second div needed due to grid layout
+        div.estimate {{ estimate }}
+        div
+
         label(for='form_street1') Street address
         input(id='form_street1' type='text' v-model='input_street1' required)
         label(for='form_street2')
@@ -82,7 +87,7 @@ form(v-else ref='form' :class='{attempted}')
 
 <script lang="ts" setup>
 
-import {computed, nextTick, onMounted, ref} from 'vue'
+import {computed, nextTick, onMounted, ref, watch} from 'vue'
 
 import countries from './regions.json'
 
@@ -100,6 +105,7 @@ const attempted = ref(false)
 const progress = ref(false)
 const error = ref<null|string>(null)
 const success = ref(false)
+const estimate = ref('')
 
 // Input
 const input_name = ref('')
@@ -298,6 +304,50 @@ onMounted(async () => {
 })
 
 
+function weeks_until(date:Date){
+    const diff_ms = date.getTime() - new Date().getTime()
+    const days = Math.round(diff_ms / 1000 / 60 / 60 / 24)
+    console.log(`days: ${days}`)
+    return Math.round(days / 7)
+}
+
+
+watch(input_country, async () => {
+    estimate.value = ''
+    if (!input_country.value){
+        return
+    }
+
+    // Using Amazon for AU and US
+    if (input_country.value === 'US' || input_country.value === 'AU'){
+        estimate.value = "Delivery will take around 1 week"
+        return
+    }
+
+    // Determine function URL
+    const url = import.meta.env.DEV ? 'http://127.0.0.1:5001/copy-church/us-west1/estimate_delivery'
+        : 'https://estimate-delivery-eyjvbqmvpa-uw.a.run.app'
+
+    // Send request
+    try {
+        const resp = await fetch(url + '?country=' + input_country.value)
+        if (resp.ok){
+            const data:{max_delivery_date:string|null} = await resp.json()
+            if (!data.max_delivery_date){
+                return  // Ignore and let order validation catch issue if any
+            }
+            const max_delivery_date = new Date(data.max_delivery_date)
+            const weeks = weeks_until(max_delivery_date)
+            estimate.value = `Delivery will take ${weeks-1}-${weeks} weeks`
+        }
+    } catch {
+        // Non-essential function so do nothing if fail
+        console.error("Failed to estimate delivery")
+        return
+    }
+})
+
+
 </script>
 
 
@@ -398,6 +448,9 @@ select
 
 .error
     color: hsl(0, 50%, 60%)
+
+.estimate
+    color: hsl(200deg, 50%, 60%)
 
 .submit button[disabled]
     animation: 1s infinite linear progress
