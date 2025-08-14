@@ -33,7 +33,11 @@ Years ago Randy Alcorn observed, “In the Christian community today there is mo
 
 Conley Owens, Jon Here, and Andrew Case present this collection of articles that seek to exalt the radical generosity of God’s heart, confront the commercialization of Christianity, and promote the biblical teaching that _ministry should be supported but never sold_. We are living in a time like the antebellum United States, where the majority of ministers regularly defended the slave trade from the pulpit, just as they defend the Jesus trade today. This calls for repentance, reform, and a return to Scripture’s primacy over economic expediency.
 
-_The articles in this book are also available on [our website](/learn)._
+## Read a short sample
+
+This book is a collection of the articles on our website. We recommend reading some of them if you'd like to get a feel for the contents of the book.
+
+<VPButton text="View articles" href="/learn"></VPButton>
 
 ## Get the ebook
 
