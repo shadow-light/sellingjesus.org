@@ -6,8 +6,8 @@ VPButton(v-if='hidden' @click='hidden = false' text="Request a free copy")
 div.success(v-else-if='success')
     p
         strong Your order has been received and will soon be on its way.
-    p Delivery usually takes 1-2 weeks, depending on your country.
-    p If you haven't received the book within that time, please do contact us.
+    p {{ estimate }}
+    p If you haven't received the book within the expected timeframe, please do contact us.
     div.done
         VPButton(text="Done" @click='done')
 
