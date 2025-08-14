@@ -1,7 +1,9 @@
 
 <template lang="pug">
 
-div.success(v-if='success')
+VPButton(v-if='hidden' @click='hidden = false' text="Request a free copy")
+
+div.success(v-else-if='success')
     p
         strong Your order has been received and will soon be on its way.
     p Delivery usually takes 1-2 weeks, depending on your country.
@@ -12,8 +14,6 @@ div.success(v-if='success')
 form(v-else ref='form' :class='{attempted}')
 
     h3 Order free copy
-
-    p If you would like a printed copy rather than an ebook, we're happy to pay for the printing and shipping for you. This offer is open to anyone, no questions ask. If you need more than one copy, please #[a(href='/about#contact') contact us].
 
     p Your contact information is required in case there are issues with delivery and will be passed on to our printing and shipping services. It will not be used for any other purpose than delivering the book to you.
     p The book will usually arrive within 1 week for Western countries, but may take up to 3-4 weeks for others.
@@ -95,6 +95,7 @@ declare global {
 
 
 const form = ref<HTMLFormElement>()
+const hidden = ref(true)
 const attempted = ref(false)
 const progress = ref(false)
 const error = ref<null|string>(null)
