@@ -299,7 +299,6 @@ async function render_turnstile(){
 
 onMounted(async () => {
     await load_turnstile()
-    render_turnstile()
 })
 
 
@@ -309,6 +308,14 @@ function weeks_until(date:Date){
     console.log(`days: ${days}`)
     return Math.round(days / 7)
 }
+
+
+watch(hidden, () => {
+    // Can't render until form mounted
+    nextTick(() => {
+        render_turnstile()
+    })
+})
 
 
 watch(input_country, async () => {
