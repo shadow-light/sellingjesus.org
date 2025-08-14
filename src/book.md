@@ -47,6 +47,10 @@ _The articles in this book are also available on [our website](/learn)._
 You can read EPUB files using Apple Books (iOS), Google Play Books (Android), or [Calibre](https://calibre-ebook.com/download) (Mac, Windows, Linux).
 
 
+## Listen to audio
+Most of the articles in the book are already available [on our podcast](/podcast).
+
+
 ## Get a printed copy
 We give away single copies for free (with free international shipping).
 
@@ -64,9 +68,6 @@ You can supply a printing service such as [Lulu](https://www.lulu.com/) with the
 <VPButton text="Download PDF" href="/book/Abolish-the-Jesus-Trade.pdf" target='_blank'></VPButton>
 <VPButton text="Download cover (Lulu)" href="/book/Abolish-cover-lulu.pdf" target='_blank'></VPButton>
 <VPButton text="Download cover (KDP)" href="/book/Abolish-cover-kdp.pdf" target='_blank'></VPButton>
-
-## Listen to audio version
-Most of the articles in the book are already available [on our podcast](/podcast).
 
 
 ## Translations and adaptations
