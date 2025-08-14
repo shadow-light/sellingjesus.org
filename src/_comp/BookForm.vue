@@ -40,8 +40,8 @@ form(v-else ref='form' :class='{attempted}')
             option(v-for='country of countries' :value='country.code') {{ country.name }}
 
         //- WARN Second div needed due to grid layout
-        div.estimate {{ estimate }}
         div
+        div.estimate {{ estimate }}
 
         label(for='form_street1') Street address
         input(id='form_street1' type='text' v-model='input_street1' required)
