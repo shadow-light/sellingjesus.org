@@ -1,6 +1,7 @@
 
 import fs from 'node:fs'
 import path from 'node:path'
+import {Agent} from 'undici'
 
 
 // Input
@@ -21,9 +22,12 @@ async function translate_md(content) {
             'Content-Type': 'application/json'
         },
         body: JSON.stringify({
-            model: 'gpt-5',
+            model: 'gpt-5',  // GPT5 has issues but has a massively larger context window / limit
             instructions: sys_prompt,
             input: content,
+        }),
+        dispatcher: new Agent({
+            headersTimeout: 60 * 1000 * 10,  // Wait 10 minutes
         })
     })
 
@@ -37,7 +41,7 @@ async function translate_md(content) {
 
 
 // Translate dirs
-const lang_dir = language
+const lang_dir = path.join('i18n', language)
 const dirs = ['articles']
 
 
@@ -52,6 +56,12 @@ for (const dir of dirs){
         // Determine paths
         const in_file = path.join(dir, file)
         const out_file = path.join(out_dir, file)
+
+        // Skip if already exists
+        if (fs.existsSync(out_file)){
+            console.log(`Already exists: ${out_file}`)
+            continue
+        }
         console.log(`Translating: ${in_file} → ${out_file}`)
 
         // Translate file
