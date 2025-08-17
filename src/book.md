@@ -65,11 +65,11 @@ The book is available at the following online retailers for the minimum price th
 <VPButton text="AU" theme="alt" href="https://www.amazon.com.au/dp/B0FKNGWMGP" target='_blank'></VPButton>
 <VPButton text="CA" theme="alt" href="https://www.amazon.ca/dp/B0FKNGWMGP" target='_blank'></VPButton>
 <VPButton text="UK" theme="alt" href="https://www.amazon.co.uk/dp/B0FKNGWMGP" target='_blank'></VPButton>
-(eligible for free Prime delivery)
+(Prime members get free delivery)
 </div>
 
 <div>
-<VPButton text="Lulu" href="https://www.lulu.com/shop/andrew-case-and-conley-owens-and-jon-here/abolish-the-jesus-trade/paperback/product-w4yjnj8.html" target='_blank'></VPButton> (better quality and ships worldwide, but no free delivery)
+<VPButton text="Lulu" href="https://www.lulu.com/shop/andrew-case-and-conley-owens-and-jon-here/abolish-the-jesus-trade/paperback/product-w4yjnj8.html" target='_blank'></VPButton> (ships worldwide)
 </div>
 
 If you would like a free printed copy, we're happy to pay for the printing and shipping for you. This offer is open to anyone. If you need more than one copy, please [contact us](/about#contact).
