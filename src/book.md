@@ -39,7 +39,7 @@ This book is a collection of the articles on our website. We recommend reading s
 
 <VPButton text="View articles" href="/learn"></VPButton>
 
-## Get the ebook
+## Get the free ebook
 
 <VPButton text="Download EPUB" href="/book/Abolish-the-Jesus-Trade.epub" target='_blank'></VPButton>
 <VPButton text="Kindle" href="https://mybook.to/jUnlDm0" target='_blank'></VPButton>
