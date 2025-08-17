@@ -30,14 +30,8 @@ form(v-else ref='form' :class='{attempted}')
     div.street
         label(for='form_country') Country
         select(id='form_country' v-model='input_country' required)
-            option(value='' disabled) Select...
-            option(value='US') United States
-            option(value='GB') United Kingdom
-            option(value='CA') Canada
-            option(value='AU') Australia
-            option(value='NZ') New Zealand
-            option(value='' disabled) ---
-            option(v-for='country of countries' :value='country.code') {{ country.name }}
+            option(v-for='country of countries_list' :value='country.code'
+                :disabled='country.disabled') {{ country.name }}
 
         //- WARN Second div needed due to grid layout
         div
@@ -151,6 +145,20 @@ function reset(){
 const show_tax_id = computed(() => {
     // These English speaking countries are commonly sent to and do NOT require it, so hide it
     return input_country.value && !['AU', 'US', 'GB', 'CA', 'NZ'].includes(input_country.value)
+})
+
+
+const countries_list = computed<{code:string, name:string, disabled?:boolean}[]>(() => {
+    return [
+        {code: '', name: "Select...", disabled: true},
+        {code: 'US', name: "United States"},
+        {code: 'GB', name: "United Kingdom"},
+        {code: 'CA', name: "Canada"},
+        {code: 'AU', name: "Australia"},
+        {code: 'NZ', name: "New Zealand"},
+        {code: '', name: "---", disabled: true},
+        ...countries.map(({code, name}) => ({code, name})),
+    ]
 })
 
 
