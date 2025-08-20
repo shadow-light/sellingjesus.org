@@ -33,7 +33,7 @@ Vamos examinar de perto o contexto, e especialmente o que antecede o mandamento 
 <sup>9</sup>Não leveis ouro, nem prata, nem cobre em vossos cintos. <sup>10</sup>Não leveis bolsa para o caminho, nem segunda túnica, nem sandálias, nem bordão; pois o trabalhador é digno do seu sustento.
 </blockquote>
 
-Nesta passagem^[Veja também Marcos 6:7–13, Lucas 9:1–6, Lucas 10:1–17] temos Jesus realizando seu ministério, “pregando o evangelho do reino e curando toda doença e enfermidade” (9:35), e então comissionando os doze discípulos a fazer o mesmo. Ele lhes dá autoridade para realizar milagres (10:1) e lhes diz para pregar e curar tal como ele vinha fazendo (10:7-8). E, logo depois de fazê-lo, diz-lhes para “dar de graça” porque eles “de graça receberam” (10:8).
+Nesta passagem[^1] temos Jesus realizando seu ministério, “pregando o evangelho do reino e curando toda doença e enfermidade” (9:35), e então comissionando os doze discípulos a fazer o mesmo. Ele lhes dá autoridade para realizar milagres (10:1) e lhes diz para pregar e curar tal como ele vinha fazendo (10:7-8). E, logo depois de fazê-lo, diz-lhes para “dar de graça” porque eles “de graça receberam” (10:8).
 
 Podemos, portanto, concluir que, quando Jesus disse que os discípulos haviam “recebido de graça”, referia-se principalmente à mensagem do evangelho, bem como ao poder de realizar milagres. Da mesma forma, eles deveriam “dar de graça” a mensagem do evangelho e realizar milagres sem cobrar. Podemos resumir isso utilmente como “ministério”. Mas ministério pode ter um leque amplo de significados, por isso é importante refinar exatamente o que ele deve abranger no que diz respeito ao dar gratuitamente.
 
@@ -71,3 +71,5 @@ Além disso, quanto ao evangelismo:
 É, portanto, correto e apropriado aplicar esse mandamento a todas as formas de ministério capacitado pelo Espírito (para saber mais, veja nosso artigo: [_O que é ministério cristão?_](/articles/defining-ministry)). Isso inclui pregação, ensino, Escritura, música de louvor, recursos ministeriais e qualquer outra coisa que trate especificamente de questões espirituais. Notando, de forma importante, que aqueles que servem dessas maneiras devem ser sustentados financeiramente em seus ministérios oferecidos gratuitamente, assim como foram os discípulos de Jesus (Mateus 10:10).
 
 Sem esse mandamento de Jesus, nada impede que o cristianismo se torne um empreendimento comercial. Eu realmente gostaria que isso fosse um alerta para o futuro. Na verdade, é no que muitas formas de ministério já se tornaram.
+
+[^1]: Veja também Marcos 6:7–13, Lucas 9:1–6, Lucas 10:1–17.

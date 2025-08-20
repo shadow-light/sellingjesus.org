@@ -41,7 +41,7 @@ Em outras palavras, embora ele não repita o mandamento de não cobrar pelo mini
 
 Além disso, a primeira missão é uma missão prototípica. Quero dizer que ela foi concebida para estabelecer o exemplo para outras missões. Devemos esperar que, onde houver sobreposição significativa com as preocupações dos discípulos subsequentes, essa missão seja particularmente desenhada para estabelecer o padrão a ser seguido. Ao discutir evangelismo, com que frequência recorremos a esta passagem e extraímos tudo o que ela tem para nós? A ideia de sacudir o pó dos pés, o mandamento de ser prudentes como as serpentes e simples como as pombas, o mandamento de não temer o homem etc. — todos esses são comandos que dizem respeito à primeira missão, e ainda assim os reconhecemos como aplicáveis a todas as missões subsequentes. Isso porque identificamos corretamente a primeira missão como a missão prototípica. Reconhecemo-la como destinada a estabelecer padrões para todas as missões subsequentes. O que distingue o mandamento de “dar de graça” de qualquer outro aspecto que estaríamos dispostos a aplicar ao evangelismo e ao ensino bíblico hoje? Eu diria que nada.
 
-Talvez alguém argumente que os mandamentos ao redor, como “ressuscitai os mortos”, se aplicam apenas à primeira missão; mas não vejo isso como uma refutação real do fato de que a missão prototípica deve estabelecer o padrão. O Senhor é livre para especificar algumas coisas particulares à primeira missão e outras para todas. O famoso teólogo anglicano Jeremy Taylor escreveu que dizer que “dar de graça” se aplica apenas à primeira missão porque os mandamentos adjacentes são temporais é como dizer que o sábado deve ainda ser no sábado porque os outros nove mandamentos ao redor do quarto são eternos.^[Taylor, Jeremy, Ductor Dubitantium, 541-542.]
+Talvez alguém argumente que os mandamentos ao redor, como “ressuscitai os mortos”, se aplicam apenas à primeira missão; mas não vejo isso como uma refutação real do fato de que a missão prototípica deve estabelecer o padrão. O Senhor é livre para especificar algumas coisas particulares à primeira missão e outras para todas. O famoso teólogo anglicano Jeremy Taylor escreveu que dizer que “dar de graça” se aplica apenas à primeira missão porque os mandamentos adjacentes são temporais é como dizer que o sábado deve ainda ser no sábado porque os outros nove mandamentos ao redor do quarto são eternos.[^1]
 
 ## Objeção 3: “Dar de graça” se aplica apenas a missões aos perdidos, não ao ensino dos salvos
 
@@ -71,7 +71,7 @@ No fim, se dizemos que o evangelho é precioso além de preço, mas que o ensino
 
 Meu tratamento das objeções provavelmente já compôs boa parte do meu caso positivo, mas ainda há algumas coisas a dizer. Primeiro, Jesus fornece uma motivação para “dar de graça”, e é uma motivação que persiste até nossa geração.
 
-Jesus não diz apenas “dai de graça”, mas a antecede com uma razão: “de graça recebestes.” Essa motivação não se aplica apenas aos primeiros discípulos; ainda é verdade que recebemos de graça. Para citar Jeremy Taylor novamente, “há neste \[mandamento] algo que é espiritual e de uma decência, retidão e proporção eternas.”^[Taylor, Jeremy, Ductor Dubitantium, 542]
+Jesus não diz apenas “dai de graça”, mas a antecede com uma razão: “de graça recebestes.” Essa motivação não se aplica apenas aos primeiros discípulos; ainda é verdade que recebemos de graça. Para citar Jeremy Taylor novamente, “há neste \[mandamento] algo que é espiritual e de uma decência, retidão e proporção eternas.”[^2]
 
 Isso não se aplica apenas ao evangelho que nos foi dado de graça, mas a toda revelação especial que nos foi dada de graça. Alguém pode argumentar que, quando ensina, não está oferecendo o que obteve gratuitamente, mas o que aprendeu ao longo de muito estudo e muitas horas de seminário. No entanto, nenhum entendimento verdadeiro da Escritura é possível por meios meramente naturais ou seculares. Considere as palavras de 1 Coríntios 2:12-13:
 
@@ -123,3 +123,7 @@ Em Mateus 10:8, os discípulos oferecem uma mensagem de graça gratuita e, por i
 Reconhecemos isso em tantas áreas: não cobraríamos por sermões; não cobraríamos para sentar num banco, e franziríamos a testa para aquelas igrejas no passado que tinham aluguel de bancos. Por que, então, cobraríamos por qualquer ensino cristão?
 
 Não caiamos no tipo de sofisma que procuraria ver quanto podemos conseguir ou por quantas coisas podemos cobrar. Abracemos simplesmente o mandamento de Mateus 10:8 ao pé da letra. Reflitamos verdadeiramente a graça e generosidade radicais do nosso Deus. Assim como recebemos de graça, demos de graça.
+
+
+[^1]: Taylor, Jeremy, Ductor Dubitantium, 541-542.
+[^2]: Taylor, Jeremy, Ductor Dubitantium, 542.
