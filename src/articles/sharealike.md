@@ -20,7 +20,7 @@ Yet, there are several reasons why applying this feature is problematic.
 
 ## 5 Reasons Share-Alike is Problematic
 
-**1. Limited License Interoperability:** Copyleft licenses only make sense in a world where alternative licenses are limited and enjoy non-competing market share.^[While somewhat dated, [this article](https://opencontent.org/blog/archives/347) by David Wiley captures some of the concerns well.] For example, one who wants to combine several Bible references, available under CC BY-SA as well as the GNU Free Documentation License will find the problem intractable.^[Apart from having the political sway to get license authors to declare compatibility, as was the case [with the Wikimedia Foundation in 2009](https://diff.wikimedia.org/2009/05/21/wikimedia-community-approves-license-migration/).]
+**1. Limited License Interoperability:** Copyleft licenses only make sense in a world where alternative licenses are limited and enjoy non-competing market share.[^1] For example, one who wants to combine several Bible references, available under CC BY-SA as well as the GNU Free Documentation License will find the problem intractable.[^2]
 
 In recent years, there has been cooperation from the makers of copyleft licenses to add interoperability between their licenses, but this is simply not the case across the board. Moreover, there is no guarantee that it will continue to be the case as new licenses are introduced into the ecosystem.
 
@@ -32,11 +32,11 @@ The biblical ethic teaches that we should offer gospel ministry without imposing
 
 > And when I was present with you and was in need, I was not a burden on any man, for the brothers, when they came from Macedonia, supplied my need. And in everything I kept myself from being burdensome to you, and so I will remain. (2 Cor 11:9)
 
-Many are quick to read this passage as Paul simply claiming that he did not take money from the Corinthians. It is true that he took money from the Macedonians and not the Corinthians. However, if we interpret “burden” as referring simply to money, that would suggest that Paul *did* burden the Macedonians, something he asserts he would never do to any of his churches (2 Cor 12:14).^[On its face, 2 Cor­inth­ians 12:13 may suggest otherwise (“For what is there in which you were made inferior to the rest of the churches, except that I myself was not a burden to you? Forgive me this wrong.”). But the irony present in the verse more likely only indicates that his non-burdensome actions toward oth­er church­es would count as burdens if applied to the Cor­inth­ians. Besides, it would be difficult to justify the apostle’s behavior if he actually did treat his congregations with partiality (cf. James 2:1).] Furthermore, one might interpret “burden” as referring to financial hardship, but the Corinthians were well-off compared to the Macedonians.^[Some in Corinth were presumably of noble birth (1 Cor 1:26) and well off (1 Cor 11:21). On the other hand, the Macedonians gave “beyond their means” (2 Cor 8:4) and Paul goes as far as to describe it as “robbery” to take money from them (2 Cor 11:8).]
+Many are quick to read this passage as Paul simply claiming that he did not take money from the Corinthians. It is true that he took money from the Macedonians and not the Corinthians. However, if we interpret “burden” as referring simply to money, that would suggest that Paul *did* burden the Macedonians, something he asserts he would never do to any of his churches (2 Cor 12:14).[^3] Furthermore, one might interpret “burden” as referring to financial hardship, but the Corinthians were well-off compared to the Macedonians.[^4]
 
 Rather, burden should be recognized as the imposition of obligation. One who offers the gospel freely and receives support in his mission imposes no burden, but one who offers the gospel with strings attached imposes a burden even if he receives no financial compensation.
 
-**3. Illegitimate Claims of Ownership:** While a contentious topic, do ministries even have the right to claim such restrictions on derivative works? Certainly, they do by the copyright laws of most modern jurisdictions, but this has not always been the case. Copyright law and the notion of intellectual property is a relatively recent invention,^[The first copyright law [was introduced in 1710](https://en.wikipedia.org/wiki/Statute_of_Anne).] and the legitimacy of such restrictions are more assumptions than they are proven fact. They stand on pragmatism rather than principle. Justice and property should be biblically defined, yet most approach this question on the basis of pragmatic concerns.
+**3. Illegitimate Claims of Ownership:** While a contentious topic, do ministries even have the right to claim such restrictions on derivative works? Certainly, they do by the copyright laws of most modern jurisdictions, but this has not always been the case. Copyright law and the notion of intellectual property is a relatively recent invention,[^5] and the legitimacy of such restrictions are more assumptions than they are proven fact. They stand on pragmatism rather than principle. Justice and property should be biblically defined, yet most approach this question on the basis of pragmatic concerns.
 
 Property is a real thing; thus, God gave man dominion over the creatures (Gen 1:26) and instituted the eighth commandment (Exo 20:15). But nowhere are ideas called property. Nowhere is anything which cannot be lost called property. Indeed, ideas cannot be lost and are not in any biblical sense property. If this assessment is correct, then no one has the right to assert that a derivative work must conform to any copyleft licensing restrictions.
 
@@ -50,7 +50,7 @@ One may object that this is a broken understanding of how the license works, but
 
 ## An objection considered
 
-Some have asserted that Creative Commons Attribution Share-Alike actually advances biblical concerns.  Consider the following image from Unfolding Word:^[Oakes, Perry. [Equipping the Global Church to Translate the Bible into Its Own Language](https://unfolding-word.cdn.prismic.io/unfolding-word/a322c3aa-1338-42d0-a27a-01c4aac0597b_1-Equipping-the-Global-Church_Oakes.pdf)]
+Some have asserted that Creative Commons Attribution Share-Alike actually advances biblical concerns.  Consider the following image from Unfolding Word:[^6]
 
 ::: figure /media/cc-by-sa-justification.jpg
 An attempt at a biblical justification for CC BY-SA
@@ -69,3 +69,11 @@ Fourth, we should consider that it was possible to freely give long before copyr
 - - -
 
 While the ShareAlike feature of Creative Commons licenses seems to promote free access and sharing of ministry materials, it prohibits truly free access. Ministries should abandon this feature of the Creative Commons license as well as any other restriction. Instead, they should use alternatives like [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/), which dedicates the work into the public domain. It is only through waiving every claim to works of ministry that the gospel may be freely given as it was freely received.
+
+
+[^1]: While somewhat dated, [this article](https://opencontent.org/blog/archives/347) by David Wiley captures some of the concerns well.
+[^2]: Apart from having the political sway to get license authors to declare compatibility, as was the case [with the Wikimedia Foundation in 2009](https://diff.wikimedia.org/2009/05/21/wikimedia-community-approves-license-migration/).
+[^3]: On its face, 2 Cor­inth­ians 12:13 may suggest otherwise (“For what is there in which you were made inferior to the rest of the churches, except that I myself was not a burden to you? Forgive me this wrong.”). But the irony present in the verse more likely only indicates that his non-burdensome actions toward oth­er church­es would count as burdens if applied to the Cor­inth­ians. Besides, it would be difficult to justify the apostle’s behavior if he actually did treat his congregations with partiality (cf. James 2:1).
+[^4]: Some in Corinth were presumably of noble birth (1 Cor 1:26) and well off (1 Cor 11:21). On the other hand, the Macedonians gave “beyond their means” (2 Cor 8:4) and Paul goes as far as to describe it as “robbery” to take money from them (2 Cor 11:8).
+[^5]: The first copyright law [was introduced in 1710](https://en.wikipedia.org/wiki/Statute_of_Anne).
+[^6]: Oakes, Perry. [Equipping the Global Church to Translate the Bible into Its Own Language](https://unfolding-word.cdn.prismic.io/unfolding-word/a322c3aa-1338-42d0-a27a-01c4aac0597b_1-Equipping-the-Global-Church_Oakes.pdf)

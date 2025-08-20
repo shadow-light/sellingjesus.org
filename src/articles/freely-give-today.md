@@ -43,7 +43,7 @@ In other words, while he does not repeat the command not to charge for their min
 
 Additionally, the first mission is a *prototypical* mission.  What I mean is that it is designed to set the example for other missions.  We should expect that where there is meaningful overlap with the concerns of subsequent disciples, this mission is particularly designed to establish the pattern for us to follow.  When discussing evangelism, how often are we willing to go to this passage and glean all that it has for us? The notion of shaking the dust from our feet, the command to be wise as serpents and innocent as doves, the command not to fear man, etc.—these are all commands that pertain to the first mission, yet we recognize them as applying to all subsequent missions. This is because we correctly identify  the first mission as the prototypical mission.  We acknowledge it as designed to set patterns for all subsequent missions.  What distinguishes the command to “freely give” from any other aspect we would be willing to apply to evangelism and biblical teaching today?  I would argue that nothing does.
 
-Perhaps one might argue that the surrounding commands like “raise the dead” only apply to the first mission; but I see this as no real rebuttal to the fact that the prototypical mission must set the pattern.  The Lord is free to specify some things particular to the first mission, and some to all.  The famous Anglican divine Jeremy Taylor wrote that to say “freely give” only applies to the first mission because the surrounding commands are temporal, is like saying that the Sabbath must still be on Saturday because the other nine commands surrounding the fourth are eternal.^[Taylor, Jeremy, Ductor Dubitantium, 541-542.]
+Perhaps one might argue that the surrounding commands like “raise the dead” only apply to the first mission; but I see this as no real rebuttal to the fact that the prototypical mission must set the pattern.  The Lord is free to specify some things particular to the first mission, and some to all.  The famous Anglican divine Jeremy Taylor wrote that to say “freely give” only applies to the first mission because the surrounding commands are temporal, is like saying that the Sabbath must still be on Saturday because the other nine commands surrounding the fourth are eternal.[^1]
 
 ## Objection #3: “Freely give” only applies to missions to the lost, not teaching the saved
 
@@ -73,7 +73,7 @@ In the end, if we say the gospel is priceless, but further Christian teaching ca
 
 My handling of objections has probably made much of my positive case, but there are still a few things to be said.  First, Jesus provides a motivation to “freely give,” and it is one that  persists all the way to our generation.
 
-Jesus does not merely say “freely give,” but prefaces it with a rationale: “freely you received.”  This motivation does not apply only to the first disciples; it is still the case that we have freely received.  To quote Jeremy Taylor again, “there is in \[this command] something that is Spiritual, and of an eternal decency, rectitude and proportion.”^[Taylor, Jeremy, Ductor Dubitantium, 542]
+Jesus does not merely say “freely give,” but prefaces it with a rationale: “freely you received.”  This motivation does not apply only to the first disciples; it is still the case that we have freely received.  To quote Jeremy Taylor again, “there is in \[this command] something that is Spiritual, and of an eternal decency, rectitude and proportion.”[^2]
 
 This does not only apply to the gospel which has been given to us freely, but to *all special revelation* which has been given to us freely.  One might argue that when they teach, they are not offering what they obtained freely, but what they learned over much study and many hours of seminary.  However, no true understanding of Scripture is possible through merely natural or secular means.  Consider the words of 1 Corinthians 2:12-13,
 
@@ -125,3 +125,6 @@ In Matthew 10:8, the disciples offer a message of free grace, and so they offer 
 We recognize this in so many areas: we wouldn't charge for sermons; we wouldn't charge for sitting in a pew, and we would frown on those churches in the past who have had pew rents.  Why then, would we charge for any Christian teaching?
 
 Let us not fall prey to the sort of sophistry that would see how much we can get away with or how many things we can charge for.  Let us simply embrace the command of Matthew 10:8 at face value.  Let us truly reflect the radical grace and generosity of our God. Just as we have freely received, let us freely give.
+
+[^1]: Taylor, Jeremy, Ductor Dubitantium, 541-542.
+[^2]: Taylor, Jeremy, Ductor Dubitantium, 542.

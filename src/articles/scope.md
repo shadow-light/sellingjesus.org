@@ -33,7 +33,7 @@ Let's closely examine the context, and especially the lead up to Jesus' command:
 <sup>9</sup>Do not carry any gold or silver or copper in your belts. <sup>10</sup>Take no bag for the road, or second tunic, or sandals, or staff; for the worker is worthy of his provisions.
 </blockquote>
 
-In this passage^[See also Mark 6:7–13, Luke 9:1–6, Luke 10:1-17] we have Jesus doing his ministry, "preaching the gospel of the kingdom, and healing every disease and sickness" (9:35), and then commissioning the twelve disciples to do the same. He gives them the authority to perform miracles (10:1) and tells them to preach and heal just as he has been doing (10:7-8). And straight after doing so he tells them to "freely give" because they have "freely received" (10:8).
+In this passage[^1] we have Jesus doing his ministry, "preaching the gospel of the kingdom, and healing every disease and sickness" (9:35), and then commissioning the twelve disciples to do the same. He gives them the authority to perform miracles (10:1) and tells them to preach and heal just as he has been doing (10:7-8). And straight after doing so he tells them to "freely give" because they have "freely received" (10:8).
 
 We can therefore determine that when Jesus said the disciples had "freely received", he was referring primarily to the gospel message as well as the power to perform miracles. And likewise, they were to "freely give" the gospel message and perform miracles free of charge. We can helpfully sum this up as "ministry". But ministry can have a broad range of meanings, so it is important to further refine exactly what it should encompass in regard to free giving.
 
@@ -71,3 +71,5 @@ Furthermore, regarding evangelism:
 It is therefore right and appropriate to apply this command to all forms of Spirit-empowered ministry (for more on this, see our article: [_What Is Christian Ministry?_](/articles/defining-ministry)). This includes preaching, teaching, Scripture, worship music, ministry resources, and anything else that specifically deals with spiritual matters. Importantly noting that those who serve in these ways are to be financially supported in their freely given ministries, just as Jesus' disciples were (Matt 10:10).
 
 Without this command of Jesus, there is nothing to stop Christianity from becoming a commercial enterprise. I really wish that was a warning for the future. It is in fact what many forms of ministry have already become.
+
+[^1]: See also Mark 6:7–13, Luke 9:1–6, and Luke 10:1-17.
