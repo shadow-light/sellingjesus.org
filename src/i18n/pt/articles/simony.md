@@ -6,8 +6,6 @@ date: 2024-01-29T00:00:00.000Z
 image: /media/articles/simony.jpg
 ---
 
-<podcast-player id="7khsg3C4fa7TqSrT1O2QGM"></podcast-player>
-
 No passado, a igreja foi frequentemente assolada por acordos escusos em busca de poder e prestígio. Por um preço, podia-se adquirir um cargo eclesiástico, fosse uma sé episcopal ou algum título de menor hierarquia. Eram posições que vinham não apenas com poder, mas com prebenda, um estipêndio regular, substancial e seguro. Para os astutos e sem escrúpulos, o investimento inicial era pequeno em comparação com o retorno.
 
 Reformadores na igreja combateram essa prática e a rotularam de “simonia”, em referência a Simão, o mago.

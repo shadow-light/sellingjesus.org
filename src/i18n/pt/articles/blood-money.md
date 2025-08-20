@@ -6,8 +6,6 @@ author: Andrew Case
 date: 2024-10-31T00:00:00.000Z
 ---
 
-<podcast-player id="4h9rh8M1t5JjJDeahxEP3x"></podcast-player>
-
 
 Quando alguém precisa de uma transfusão de sangue, você deve vender seu sangue para essa pessoa ou dá-lo gratuitamente? Quanto vale o sangue? Qual é o preço da vida humana? Estas são perguntas sobre as quais a maioria não pensou muito, mas o livro marcante de 1970, *A Relação de Presente: Do Sangue Humano à Política Social*, as explora profundamente. O autor, o sociólogo britânico Richard Titmuss, considera cuidadosamente as implicações morais, éticas e práticas de transformar o sangue humano em mercadoria. Por meio de seu estudo comparativo dos sistemas de doação de sangue nos Estados Unidos e na Grã-Bretanha, ele expõe as consequências preocupantes da comercialização do sangue. E ele não está sozinho. Muitos outros têm lutado com a questão de se partes do corpo humano podem ser transformadas em produtos. Portanto, a principal pergunta que quero levantar neste artigo é: se até descrentes estão questionando a propriedade de vender o sagrado, por que os cristãos não estão questionando a propriedade de vender partes do corpo de Cristo (isto é, o ministério)?
 

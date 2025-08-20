@@ -6,8 +6,6 @@ date: 2025-03-19T00:00:00.000Z
 image: /media/articles/buying.jpg
 ---
 
-<podcast-player id="2zPqORbj8gw0zmbXoBqeSF"></podcast-player>
-
 Com frequência tratamos do pecado de vender Jesus. Passagens claras das Escrituras como [Mateus 10:8](/articles/freely-give-today) e [2 Coríntios 2:17](/articles/commercializing-gods-word) proíbem vender ministério e benefícios espirituais, especialmente o ensino bíblico. Isso se aplica à [mensalidade de seminário](/learn/profiles#tom-the-seminary-president), a [ingressos para conferências do evangelho](/learn/profiles#susan-the-bible-study-author), a [licenças de versões da Bíblia](/articles/bible-publishers), a [royalties de música de louvor](/articles/worship-tax), a [cobranças por e-books cristãos](/learn/profiles#joe-the-author) e mais.
 
 Contudo, surge aqui uma pergunta: se vender Jesus é pecado, comprar Jesus é pecado? Muitas vezes, as pessoas são convencidas pelos argumentos bíblicos de que o ensino cristão não deve ser vendido, mas então querem saber se o ensino cristão pode ser comprado. Como isso se aplica a um cristão que deseja ir a um seminário que cobra mensalidade, ler um e-book que custa dinheiro etc.?

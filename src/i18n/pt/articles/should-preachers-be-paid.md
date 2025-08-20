@@ -6,9 +6,6 @@ date: 2023-10-03T00:19:04.001Z
 image: /media/articles/preacher.jpg
 ---
 
-<podcast-player id="1wpCgDM5Xk97RKrNg0Tefa"></podcast-player>
-
-
 Jesus deixou claro que a Palavra pregada deve ser dada gratuitamente (Mt 10:8) e Paulo falou contra ser um comerciante da Palavra (2Co 2:17). Dadas essas proibições a trocas comerciais no ministério, quem deseja seguir uma ética bíblica pode se perguntar se um ministro — em particular, um pregador — pode sequer receber pagamento. Por essa preocupação, alguns abriram mão de uma renda estável no trabalho do evangelho para viver como fazedores de tendas,^[O termo “fazedor de tendas” vem do trabalho de Paulo em um ofício para financiar seus esforços de plantação de igrejas (At 18:1–4).] e outros chegaram a abandonar o ministério por completo, incapazes de lidar com a dificuldade.
 
 No entanto, a Bíblia é clara que os ministros devem ser sustentados financeiramente. No mesmo contexto em que Jesus ordenou aos discípulos que “dessem gratuitamente” sua mensagem, ele reconheceu que o trabalhador é “digno do seu alimento” (Mt 10:10). Paulo também argumentou pelo direito de um ministro de tirar seu sustento enquanto exerce o ministério (1Co 9:1–14).

@@ -6,8 +6,6 @@ date: 2025-01-27T00:00:00.000Z
 image: /media/articles/kjv.jpg
 ---
 
-<podcast-player id="3FiR9triviUgym7Uu79WR8"></podcast-player>
-
 Um dos equívocos comuns sobre a *King James Version* (KJV) da Bíblia é que ela seria uma obra *universalmente* em domínio público — algo que muitos alardeiam como um ponto a favor de sua superioridade sobre traduções modernas com direitos autorais. Mas a maioria não percebe que *ela ainda está sob um direito autoral perpétuo especial da Coroa no Reino Unido*.
 
 Ao contrário da KJV, algumas traduções modernas, como a *[Bíblia Padrão Bereana](https://bsb.freely.giving)*, são de domínio público *em todo o mundo*. Portanto, embora seja importante que uma tradução bíblica esteja em domínio público, há traduções modernas que cumprem esse requisito melhor do que a KJV.

@@ -8,8 +8,6 @@ date: 2023-10-30T00:00:00.000Z
 image: /media/articles/bible-publishers.jpg
 ---
 
-<podcast-player id="4AP8F95P9k9OkQ7ABBfKvF"></podcast-player>
-
 
 Vamos imaginar que o seu pastor se levante num domingo de manhã e anuncie: "Se alguém quiser compartilhar passagens da Bíblia, precisa pedir minha permissão primeiro. Tenho que fazer isso para administrar com cuidado a Palavra de Deus, porque as pessoas podem abusar dela. Dito isso, serei muito generoso em dar permissão. Eu até vou deixar você compartilhar gratuitamente se estiver usando apenas trechos pequenos. Mas se usar trechos grandes, vou esperar algum pagamento para cobrir os custos de administrar cuidadosamente a Palavra de Deus." Como você se sentiria?
 

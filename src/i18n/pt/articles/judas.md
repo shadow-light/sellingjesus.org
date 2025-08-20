@@ -6,8 +6,6 @@ date: 2024-08-05T00:00:00.000Z
 image: /media/articles/judas.jpg
 ---
 
-<podcast-player id="1qlc2qYsevGtIGE3CmkdPk"></podcast-player>
-
 Judas traiu Jesus por meras trinta moedas de prata. Isso é amplamente considerado como um dos maiores pecados já cometidos. Existe hoje um pecado análogo?
 
 Ao longo da história da igreja, todos os que estiveram dispostos a trocar as coisas de Deus por dinheiro foram chamados de “Judas”, e não sem razão. De fato, a prática comum de vender ensino cristão hoje deve ser identificada como o pecado de Judas, independentemente de quão comum ou inócuo possa parecer.

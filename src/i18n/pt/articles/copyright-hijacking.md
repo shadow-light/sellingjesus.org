@@ -6,8 +6,6 @@ date: 2024-05-28T00:00:00.000Z
 image: /media/articles/copyright-hijacking.jpg
 ---
 
-<podcast-player id="5FqR5Z4mqlSPltMXhHJSsw"></podcast-player>
-
 Aqui na _Selling Jesus_, defendemos que ministérios [liberem seu conteúdo para o domínio público](https://copy.church/licenses/).[^1] Entre outros motivos, cremos que essa é [a abordagem mais consistente](https://sellingjesus.org/articles/copyright-jesus-command-to-freely-give) com o mandamento de Jesus de “dar gratuitamente” em Mateus 10:8.
 
 Contudo, ocasionalmente surge a seguinte pergunta: **Outro grupo não poderia republicar esse conteúdo e reivindicá‑lo como se fosse seu?** Além disso, será que então não poderiam tomar medidas legais contra o criador original que não havia reivindicado direitos autorais?

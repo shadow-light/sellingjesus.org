@@ -7,9 +7,6 @@ date: 2024-04-07T00:00:00.000Z
 image: /media/articles/worship-tax.jpg
 ---
 
-<podcast-player id="0TlgKCxLPSX93JMWHOFRpD"></podcast-player>
-
-
 Você está na igreja e chega a hora de orar juntos. A pessoa designada para orar decidiu recitar um belo texto de outro autor. Ela o exibe na tela para todos lerem. Ao final da oração, você nota o seguinte:
 
 > “Quão Grande é o Nosso Deus” palavras de Tom Christie \

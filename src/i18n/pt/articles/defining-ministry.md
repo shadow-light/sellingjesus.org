@@ -6,8 +6,6 @@ author: Andrew Case
 date: 2024-08-06T00:00:00.000Z
 ---
 
-<podcast-player id="0H6tbmBGXCOypEvFDBPZ0R"></podcast-player>
-
 
 Quando as pessoas ouvem o princípio de que “o ministério deve ser sustentado, não vendido”, às vezes objetam afirmando que essencialmente qualquer coisa que um cristão faça pode ser considerada “ministério”, de modo que é impossível aplicar o princípio. Essa é a perspectiva de “[Jane, a Livre-Pensadora](https://sellingjesus.org/learn/profiles#jane-the-free-thinker)”. Jane acredita que não há princípios orientadores nas Escrituras em relação a dinheiro e ministério porque “tudo é ministério se for feito para o Senhor, certo? Contanto que amemos a Deus e ao próximo e busquemos fazer discípulos, toda a vida é ministério! Um zelador pode trabalhar para a glória de Deus, e quando ele o faz, isso é um ministério tão importante quanto pregar. Um cristão virando hambúrgueres pode ser um ministério tanto quanto orar pela cura de alguém!” Assim, Jane concluiu que, assim como um zelador pode exigir pagamento pelo trabalho que está fazendo, um cristão pode exigir pagamento por cada oração que faz por alguém.
 

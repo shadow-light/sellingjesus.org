@@ -8,9 +8,6 @@ author: Andrew Case
 date: 2023-03-22T00:00:00.000Z
 ---
 
-<podcast-player id="1HtmH71xlOF51CELJPtsJU"></podcast-player>
-
-
 “Tudo está à venda no século 21”, cantou Derek Webb em sua canção *Ballad in Plain Red* (2003). Hipérbole? Ao meu redor, vejo palestrantes cristãos cobrando taxas por conferências, pastores exigindo pagamento por downloads digitais de sermões, comentários bíblicos e livros sobre o evangelho sendo vendidos, blogueiros cristãos monetizando seus textos sobre Jesus por meio de assinaturas pagas e publicidade, e artistas de adoração vendendo os direitos de cantar suas músicas a Deus na igreja.
 
 Mas isso não é novo. A verdade já estava sendo vendida lá no século 8<sup>º</sup> a.C., no tempo do profeta Miqueias, e o que ele escreveu tem implicações para a monetização do ministério hoje. Por isso, convido você a pegar o microscópio e meditar em Miqueias 3:11. O profeta está falando da nação de Israel:

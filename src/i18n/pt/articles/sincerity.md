@@ -8,8 +8,6 @@ date: 2025-05-20T00:00:00.000Z
 image: /media/articles/sincerity.jpg
 ---
 
-<podcast-player id="2RVf3VJxy5dpqDiXYs2h5S"></podcast-player>
-
 2 Coríntios está repleto de observações sobre a sinceridade. Seria correto dizer que o tema de todo o livro é _A Sinceridade do Reino de Deus_. Essa preocupação subjacente flui desde o primeiro capítulo, onde Paulo responde a suspeitas sobre seus motivos (2 Coríntios 1:17), passando por seu apelo ao amor sincero dos coríntios (2 Coríntios 6:11), pela sua denúncia da integridade dos “superapóstolos” (2 Coríntios 11:13), até sua afirmação final de que não pode fazer nada contra a verdade (2 Coríntios 13:8).
 
 Um dos motivos que evidencia esse tema da sinceridade é a realidade da “presença de Deus”—isto é, estar diante dele. Todas as coisas estão perante Deus (Hebreus 4:13); ele é o juiz que pedirá contas a todos. Porém, _particularmente como ministro do evangelho_, Paulo fala na presença de Deus. Isto é, ele atua somente com preocupação pelo juízo do Senhor e sem motivo ulterior.

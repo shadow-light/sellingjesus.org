@@ -6,9 +6,6 @@ date: 2023-05-22T12:00:23.317Z
 image: /media/articles/sharealike.jpg
 ---
 
-<podcast-player id="7BNpzOmBycft0q2HpxmdkY"></podcast-player>
-
-
 Para aqueles interessados em disseminar materiais de ministério sem custo, as licenças Creative Commons têm fornecido uma alternativa padrão ao direito autoral pleno. Qualquer licença desse conjunto de licenças garante que o material possa ser distribuído a qualquer pessoa sem pagamento de royalties. Em particular, a [Licença Creative Commons Atribuição-CompartilhaIgual (CC BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/) tem sido a favorita de muitos. Ao contrário de muitas outras licenças Creative Commons, que exigem permissão explícita do detentor dos direitos autorais para fazer obras derivadas ou usá-las em contextos potencialmente comerciais, obras sob CC BY-SA podem ser usadas sem atrito entre o detentor dos direitos autorais e o usuário da obra protegida.
 
 As duas características da CC BY-SA são a Atribuição e o CompartilhaIgual. A Atribuição exige que qualquer redistribuição da obra, ou de qualquer derivado, inclua crédito ao detentor dos direitos autorais. O CompartilhaIgual exige que qualquer obra derivada seja licenciada sob a mesma licença. Essa propagação de licença é frequentemente conhecida como “copyleft” e impede que uma obra criativa seja reempacotada ou distribuída sob termos mais restritivos.

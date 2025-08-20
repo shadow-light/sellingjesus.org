@@ -11,8 +11,6 @@ image: /media/articles/counseling-fees.jpg
 ---
 <Badge type='warning' text="Republicado"></Badge> <small>*Isto foi publicado originalmente por [Christian Discernment Publications Ministry, Inc.](https://www.christiandiscernment.com) (© 2007) e foi republicado com permissão, devido aos seus valiosos insights. As opiniões da autora são dela própria.*</small>
 
-<podcast-player id="4XA92C0gZzNiypotmNvvMK"></podcast-player>
-
 Um ***relacionamento*** de ministério, seja no seu início ou na
 continuação, deve alguma vez ser condicionado ao pagamento de uma taxa?
 

@@ -10,8 +10,6 @@ date: 2023-11-18T00:00:00.000Z
 image: /media/articles/commercializing-gods-word.jpg
 ---
 
-<podcast-player id="7f0ve26n33gJQxi0OaHiq5"></podcast-player>
-
 Em 2 Coríntios, Paulo fala de falsos apóstolos (os “superapóstolos”) que, em comparação com Paulo, cobravam por suas pregações (2 Cor 11:7,12–13). O primeiro indício, na epístola, de que os falsos apóstolos aceitavam dinheiro de modo indevido dos coríntios está em 2:17, mas as bíblias diferem quanto à melhor forma de traduzir esse versículo. A ESV traduz assim:
 
 > Pois não somos, como tantos, mascateadores da palavra de Deus; ao contrário, como homens de sinceridade, como comissionados por Deus, na presença de Deus falamos em Cristo. (2 Cor 2:17, ESV)

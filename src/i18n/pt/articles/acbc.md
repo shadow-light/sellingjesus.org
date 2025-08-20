@@ -7,8 +7,6 @@ image: /media/articles/acbc.jpg
 ---
 [Como introdução a este artigo, leia *[O Aconselhamento Bíblico Deve Ser Gratuito](https://sellingjesus.org/articles/biblical-counseling)*.]
 
-<podcast-player id="0mlGn035cWD2X4CxCez9Vo"></podcast-player>
-
 Nosso Mestre nos ordenou que “ensinemos e admoestemos uns aos outros” (Col 3:16) e que “admoestemos os insubmissos” (1 Tess 5:14) como parte do nosso dever cristão. No entanto, em vez de falarem a verdade e a sabedoria aos outros gratuitamente, como as receberam de Deus, alguns vendem seu conselho bíblico como se tivesse se originado de si mesmos.[^1] Pela graça de Deus, esta não é a prática da maioria dos conselheiros bíblicos, mas, infelizmente, é disseminada, mesmo entre organizações de aconselhamento bíblico altamente conceituadas, como a Association of Certified Biblical Counselors (ACBC), como este artigo demonstrará.
 
 Uma das marcas do movimento de aconselhamento bíblico é a firme convicção de que as Escrituras são suficientes para todos os problemas não médicos. Nas palavras de Ed Bulkey,
