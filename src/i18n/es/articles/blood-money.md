@@ -1,0 +1,63 @@
+---
+title: Dinero de sangre y su conexión con el ministerio
+description: Si la donación de sangre puede ser apoyada, en lugar de vendida, ¿por qué no podemos hacer lo mismo con el ministerio cristiano?
+image: /media/articles/blood-money.jpg
+author: Andrew Case
+date: 2024-10-31T00:00:00.000Z
+---
+
+<podcast-player id="4h9rh8M1t5JjJDeahxEP3x"></podcast-player>
+
+
+Cuando alguien necesita una transfusión de sangre, ¿deberías venderle tu sangre o dársela gratuitamente? ¿Cuánto vale la sangre? ¿Cuál es el precio de la vida humana? Son preguntas en las que la mayoría no ha pensado mucho, pero el influyente libro de 1970 *La relación de don: de la sangre humana a la política social* las explora en profundidad. Su autor, el sociólogo británico Richard Titmuss, considera cuidadosamente las implicaciones morales, éticas y prácticas de convertir la sangre humana en mercancía. A través de su estudio comparativo de los sistemas de donación de sangre en Estados Unidos y Gran Bretaña, expone las consecuencias preocupantes de comercializar la sangre. Y no está solo. Muchos otros han estado lidiando con la cuestión de si partes del cuerpo humano pueden convertirse en productos. Así que la pregunta principal que quiero plantear en este artículo es: si incluso los incrédulos están cuestionando la conveniencia de vender lo sagrado, ¿por qué los cristianos no están cuestionando la conveniencia de vender partes del Cuerpo de Cristo (es decir, el ministerio)?
+
+A principios del siglo XX, los estadounidenses comenzaron a ofrecer pagos por donaciones de sangre/plasma, convirtiéndolas efectivamente en una mercancía que se compra y se vende. Hoy, los productos de sangre humana de Estados Unidos suman más de 24 mil millones de dólares en ventas a nivel mundial y representan casi el 3 por ciento de las exportaciones estadounidenses, un porcentaje mayor que el de la soja y varios otros cultivos que se venden al extranjero. “Tantas de las partes de sangre compradas y vendidas del mundo se originan en Estados Unidos que es comparable a un cartel petrolero global.”[^1] Estados Unidos amplió el mercado de la sangre hasta convertirlo en una industria enorme que se extiende por cientos de comunidades, prosperando allí donde las dificultades económicas han empujado a la gente al punto de vender un pedazo de sí misma.
+
+La Organización Mundial de la Salud fijó en 1997 el objetivo de que todas las donaciones de sangre provengan de donantes voluntarios *no remunerados*, pero hasta 2018 solo 64 países han alcanzado este estándar. En algunos países como Brasil, Australia y el Reino Unido, es *ilegal* recibir cualquier compensación, monetaria o de otro tipo, por la donación de sangre u otros tejidos humanos.[^2] En cambio, en Estados Unidos la mayor parte de la sangre se compra, aunque a quienes reciben compensación económica por su sangre se les siga llamando “donantes”.
+
+Entonces, ¿qué países están haciendo lo correcto?
+
+Kat Lanteigne, directora ejecutiva de la organización Blood Watch con sede en Toronto, dice: “Me opongo al plasma pagado todo el día, todos los días. [Pagar por el plasma] se aprovecha de las poblaciones vulnerables” y socava la donación voluntaria de sangre. “En cuanto vinculas a tu base de donantes con obtener dinero, se ha demostrado una y otra vez que no puedes recuperar a esos donantes para el grupo voluntario.” También sostiene que el plasma pertenece al sector público, no sea que las farmacéuticas lo controlen y fijen los precios tan altos como quieran.[^3]
+
+El Consejo Nuffield de Bioética enumera una serie de valores comúnmente invocados para abordar este dilema: altruismo, autonomía, dignidad, justicia, maximizar la salud y el bienestar, reciprocidad y solidaridad. Escriben: “El papel del Estado con respecto a la donación debe entenderse como uno de tutela, promoviendo activamente medidas que mejoren la salud general.” Y “el altruismo, difundido durante mucho tiempo como la única base ética para la donación de material corporal, debe seguir desempeñando un papel central en el pensamiento ético en este ámbito…. Rechazamos el concepto de compra de material corporal, cuando el dinero cambia de manos a cambio directo de partes del cuerpo. Distinguimos claramente dicha compra del uso de dinero u otros medios para recompensar o resarcir a los donantes.”[^4]
+
+> La donación de sangre es un gesto voluntario y gratuito y, de acuerdo con el principio de que el cuerpo humano no puede convertirse en fuente de lucro, no es remunerada. El hecho de que sea gratuita no excluye alguna forma de reembolso para el donante, pero no debe ser de tal naturaleza que distorsione la naturaleza de la acción, que debe seguir siendo una donación y un gesto de altruismo.[^5]
+
+En otras palabras, el Consejo Nuffield cree que *la donación de sangre humana debe ser apoyada, no vendida*. Italia es uno de los pocos países que ha logrado este equilibrio: la ley 584 de 1967 concede a los empleados un día de permiso retribuido por donar sangre.[^6]
+
+Concuerdo con Titmuss en que cuando algo como la sangre humana se convierte en un producto de mercado, distorsiona las relaciones sociales, disminuye la dignidad del cuerpo humano y socava valores como la generosidad, la confianza y el cuidado mutuo. La sangre/el plasma, como otras partes del cuerpo humano, nunca deben venderse, sino más bien apoyarse.
+
+Mi objetivo no es persuadirte de que vender sangre sea malo, sino invitarte a pensar en cómo las consideraciones éticas en torno a este tema son sorprendentemente relevantes para la Iglesia. Los paralelos entre la mercantilización de la sangre y la creciente comercialización del ministerio cristiano son profundos. Así como Titmuss y muchos otros critican la venta de sangre humana, la sabiduría nos llama a examinar críticamente las maneras en que se está traficando con las cosas espirituales en la Iglesia moderna.
+
+Nos enfrentamos a una realidad incómoda: mientras que un gran número de pensadores seculares sigue reflexionando profundamente sobre los peligros de comercializar la vida humana y despojar al cuerpo humano de su dignidad, *la mayoría de los evangélicos no ha pensado en qué debería mantenerse santo y no venderse*, como la adoración, la Palabra de Dios y la enseñanza cristiana. Casi nadie tiene este asunto en su radar. De nuevo, el problema no es solo que la Iglesia haya abrazado la comercialización de la fe, sino que sencillamente ni siquiera está pensando si Dios es honrado por su mentalidad y práctica mercenarias.
+
+
+## El don de la vida
+
+Hay algo inherentemente sagrado en la naturaleza de la sangre. La sangre es más que una sustancia biológica; simboliza *la vida misma*. Esto no solo es una idea bíblica (Levítico 17:10-14, Génesis 9:4, Deuteronomio 12:23), sino algo que muchas culturas han entendido por milenios. El don voluntario de la sangre representa un acto de responsabilidad comunitaria y altruismo. Cuando las personas donan sangre libremente, participan en un servicio social sacrificial, ofreciendo algo de sí mismas sin esperar nada a cambio, realizado en un espíritu de amor fraternal por el bien del prójimo.
+
+Pero cuando la sangre se convierte en algo que puede monetizarse, la dinámica cambia. La donación de sangre se vuelve *transaccional*, basada en la reciprocidad. Las personas dan sangre no por altruismo, sino por necesidad o deseo financiero. Este cambio no solo socava el altruismo y abarata el valor de la vida humana, sino que también crea preocupaciones éticas. Por ejemplo, la calidad de la sangre puede disminuir cuando personas desesperadas por dinero venden su sangre incluso cuando su salud ha sido descuidada o está comprometida.[^7]
+
+Pagar por la sangre incentiva y legitima la visión utilitarista del ser humano como unidad económica, reduciendo el valor de la vida humana a sus partes comercializables. En Estados Unidos esto ha creado disparidades, ya que los ricos pueden comprar sangre y los pobres tienen más probabilidades de vender la suya, una dinámica que muchos consideran profundamente problemática. Cuando la lógica transaccional del mercado se infiltra en algo tan fundamental como el don de la sangre, erosiona el tejido ético y relacional de la sociedad. La sangre, símbolo de vida y comunidad, debe compartirse libremente, no repartirse según la necesidad o la codicia económicas. Este principio de mantener lo sagrado fuera del poder corrosivo de la mercantilización debería resonar con la Iglesia.
+
+
+## Mercantilizar lo sagrado en el evangelicalismo
+
+Como hemos escrito extensamente, el evangelicalismo contemporáneo ha cambiado la relación de don del ministerio por una mentalidad de mercado, a pesar de que los *cristianos*, más que nadie, deberían preocuparse por la naturaleza sagrada del ministerio. Las cosas espirituales destinadas a la edificación de la Iglesia se han tratado cada vez más como bienes en un mercado. Desde vender sermones y música de adoración hasta cobrar por consejería bíblica y conferencias, muchos ministerios evangélicos han adoptado la misma mentalidad transaccional que Titmuss y otros critican en el contexto de la donación de sangre. ¿Se han convertido los evangélicos en general en vampiros del comercio, exprimiendo a la viuda hasta la última gota de dinero por acceso a la verdad, incapaces de mantener nada sagrado, denigrando la dignidad del ministerio por ganancia financiera?
+
+Considera el paralelo: así como la sangre humana es esencial para la vida física, la verdad del evangelio es esencial para la vida espiritual. Sin embargo, en lugar de ofrecer gratuitamente los dones de Dios a todos, algunos han decidido encerrarlos tras muros de pago, derechos de autor y servicios de suscripción. Las mismas cosas destinadas a traer vida —tanto espiritual como física— han sido transformadas en mercancía, privando a los más vulnerables del poder vivificante que Dios nos dio gratuitamente desde el principio.
+
+Así como la donación de sangre debe apoyarse en el desprendimiento, también el ministerio debe apoyarse en la obediencia y la entrega gratuita del Cuerpo de Cristo. Si la sangre debe darse libremente a los necesitados sin esperar pago, ¿por qué debería tratarse de manera diferente el ministerio cristiano? Si la donación de sangre puede ser apoyada, en lugar de vendida, ¿por qué no podemos hacer lo mismo con el servicio capacitado por el Espíritu para la edificación del Cuerpo?
+
+El paralelo con la sangre humana no es la única ni la principal razón por la que el ministerio cristiano nunca debe venderse; el mandato de Cristo de dar gratuitamente en el contexto del ministerio es primordial (Mateo 10:8). Mantenemos las cosas santas fuera del mercado porque Cristo, junto con el resto de la Escritura, así lo manda. Pero los paralelos con otras realidades como el cuerpo humano son instructivos y valiosos para nuestra consideración. Nos ayudan a ver que, incluso para quienes rechazan el mandato de Cristo, hay buenas razones para negarse a vender lo sagrado. La comercialización tanto de la sangre como del ministerio finalmente corrompe algo que estaba destinado a ser un don profundo y hermoso. Lo que se da para salvar vidas, tanto física como espiritualmente, no debe someterse a las fuerzas del mercado, sino ofrecerse como expresión de amor, dado de gracia como fue recibido de gracia.
+
+En lugar de ver el ministerio como un acto de amor abnegado, muchos evangélicos han adoptado un modelo de negocio. Esta adoración de la sabiduría mundana del mercado desmoraliza las relaciones espirituales dentro del Cuerpo de Cristo. Los creyentes se convierten en consumidores, y quienes ofrecen ministerio dado por el Espíritu se convierten en vendedores de servicios. La santidad del ministerio se pierde, engullida por la misma lógica comercial contra la que Titmuss advirtió con respecto a la sangre.
+
+
+[^1]: Kathleen McLaughlin, *Dinero de sangre: la historia de vida, muerte y lucro dentro de la industria de la sangre en Estados Unidos* (Atria, 2023), 42.
+[^2]: Wikipedia, [_Donación de sangre_](https://en.wikipedia.org/wiki/Blood_donation)
+[^3]: Padraig Belton, [_¿Deberíamos pagar a las personas por donar sangre?_](https://www.bbc.com/news/business-46197271), 15 de noviembre de 2018.
+[^4]: Carlo Petrini, [_Producción de medicamentos derivados del plasma: implicaciones éticas para la donación de sangre y los donantes_](https://pmc.ncbi.nlm.nih.gov/articles/PMC3934296/), 21 de febrero de 2013.
+[^5]: Íbid.
+[^6]: [_Donar sangre, los principios éticos_](https://web.archive.org/web/20250517081516/https://www.regione.toscana.it/documents/10180/23327/inglese/e7ae21b0-d0a1-4156-a15d-4d2c3527bc89)
+[^7]: Véanse ejemplos reales de esto en el capítulo 2 de McLaughlin, *Dinero de sangre.*
