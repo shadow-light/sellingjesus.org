@@ -5,4 +5,5 @@ The following articles were written for Doreancon 2025. For the associated talks
 
 <ArticlePreview id='manuscripts'></ArticlePreview>
 <ArticlePreview id='adaptation'></ArticlePreview>
+<ArticlePreview id='copyright-protect-scripture'></ArticlePreview>
 <ArticlePreview id='balaam'></ArticlePreview>
