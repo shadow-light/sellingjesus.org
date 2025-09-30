@@ -130,7 +130,7 @@ Did the early Christians understand the instruction of the New Testament to iden
 Recorded in the apocryphal _Acts of Peter_ and the _Acts of Peter and Paul_, Peter contends with Simon before Nero, sometime after the event of Acts 8.[^24] In order to demonstrate his powers, Simon flies overhead, demons carrying him. Peter prays to the Lord, and Simon falls, breaking his leg, his body being kept, Nero thinking he would arise on the third day.[^25] This legend is depicted in numerous works of Christian art throughout the centuries.
 
 
-<vueper-slides :bullets="true" :arrows="true" :slide-ratio="3 / 2">
+<vueper-slides class='no-shadow' :bullets="true" :arrows="true" :slide-ratio="3 / 2">
     <vueper-slide v-for="slide in slides" :key="slide.url" :image="slide.url" :title="slide.caption">
     </vueper-slide>
 </vueper-slides>
@@ -140,19 +140,78 @@ import {VueperSlides, VueperSlide} from 'vueperslides'
 import 'vueperslides/dist/vueperslides.css'
 
 const slides = [
-    { url: '/_assets/balaam/slideshow/Bourdon, Sébastien - La Chute de Simon le Magicien - 1657.jpg', caption: 'Bourdon, Sébastien - La Chute de Simon le Magicien - 1657' },
-    { url: '/_assets/balaam/slideshow/Fall of Simon Magus, Benozzo Gozzoli (1461-1462).jpg', caption: 'Fall of Simon Magus, Benozzo Gozzoli (1461-1462)' },
-    { url: '/_assets/balaam/slideshow/Fall of Simon Magus, Cimabue.jpg', caption: 'Fall of Simon Magus, Cimabue' },
-    { url: '/_assets/balaam/slideshow/Francesco Vanni - The Fall of Simon Magus.jpg', caption: 'Francesco Vanni - The Fall of Simon Magus' },
-    { url: '/_assets/balaam/slideshow/Giovanni da San Giovanni, Simon Magus\' fald.jpg', caption: 'Giovanni da San Giovanni, Simon Magus\' fald' },
-    { url: '/_assets/balaam/slideshow/Leonaert Bramer - The Fall of Simon Magus.jpg', caption: 'Leonaert Bramer - The Fall of Simon Magus' },
-    { url: '/_assets/balaam/slideshow/Peter prays: Simon falls down and dies afterwards.jpg', caption: 'Peter prays: Simon falls down and dies afterwards' },
-    { url: '/_assets/balaam/slideshow/SIMON MAGUS S PETRO DEBITAS POENAS PERSOLVIT.jpg', caption: 'SIMON MAGUS S PETRO DEBITAS POENAS PERSOLVIT' },
-    { url: '/_assets/balaam/slideshow/Simon Magus falls from Heaven.jpg', caption: 'Simon Magus falls from Heaven' },
-    { url: '/_assets/balaam/slideshow/Simon de tovenaar tracht te vliegen.jpg', caption: 'Simon de tovenaar tracht te vliegen' },
-    { url: '/_assets/balaam/slideshow/The Fall of Simon Magus, by Jan Rombouts, c. 1522-1530.jpg', caption: 'The Fall of Simon Magus, by Jan Rombouts, c. 1522-1530' },
-    { url: '/_assets/balaam/slideshow/The fall of Simon Magus 1170.gif', caption: 'The fall of Simon Magus 1170' },
-    { url: '/_assets/balaam/slideshow/Val van Simon de Tovenaar. Simon Magus.jpg', caption: 'Val van Simon de Tovenaar. Simon Magus' },
+    {
+        url: '/_assets/balaam/slideshow/Clevelandart_1983.217.jpg',
+        caption: 'The Fall of Simon Magus, Pompeo Batoni, 1745-1750'
+    },
+    {
+        url: '/_assets/balaam/slideshow/Death_of_simon_magus.jpg',
+        caption: 'The Death of the Antichrist, Unknown, 1493'
+    },
+    {
+        url: '/_assets/balaam/slideshow/Gozzoli_-_Saint_Peter_and_Simon_Magus,_15.106.1,_DP-19452-001.jpg',
+        caption: 'Saint Peter and Simon Magus, Benozzo Gozzoli, 1440-1497'
+    },
+    {
+        url: '/_assets/balaam/slideshow/Simon_Magus_(Autun).jpg',
+        caption: 'Simon Magus, Autun Cathedral, 1146'
+    },
+    {
+        url: '/_assets/balaam/slideshow/The_Fall_of_Simon_Magus_MET_DP803616.jpg',
+        caption: 'The Fall of Simon Magus, Anonymous, 1700s'
+    },
+    {
+        url: '/_assets/balaam/slideshow/Bourdon, Sébastien - La Chute de Simon le Magicien - 1657.jpg',
+        caption: 'Bourdon, Sébastien - La Chute de Simon le Magicien - 1657'
+    },
+    {
+        url: '/_assets/balaam/slideshow/Fall of Simon Magus, Benozzo Gozzoli (1461-1462).jpg',
+        caption: 'Fall of Simon Magus, Benozzo Gozzoli (1461-1462)'
+    },
+    {
+        url: '/_assets/balaam/slideshow/Fall of Simon Magus, Cimabue.jpg',
+        caption: 'Fall of Simon Magus, Cimabue'
+    },
+    {
+        url: '/_assets/balaam/slideshow/Francesco Vanni - The Fall of Simon Magus.jpg',
+        caption: 'Francesco Vanni - The Fall of Simon Magus'
+    },
+    {
+        url: '/_assets/balaam/slideshow/Giovanni da San Giovanni, Simon Magus\' fald.jpg',
+        caption: 'Giovanni da San Giovanni, Simon Magus\' fald'
+    },
+    {
+        url: '/_assets/balaam/slideshow/Leonaert Bramer - The Fall of Simon Magus.jpg',
+        caption: 'Leonaert Bramer - The Fall of Simon Magus'
+    },
+    {
+        url: '/_assets/balaam/slideshow/Peter prays: Simon falls down and dies afterwards.jpg',
+        caption: 'Peter prays: Simon falls down and dies afterwards'
+    },
+    {
+        url: '/_assets/balaam/slideshow/SIMON MAGUS S PETRO DEBITAS POENAS PERSOLVIT.jpg',
+        caption: 'SIMON MAGUS S PETRO DEBITAS POENAS PERSOLVIT'
+    },
+    {
+        url: '/_assets/balaam/slideshow/Simon Magus falls from Heaven.jpg',
+        caption: 'Simon Magus falls from Heaven'
+    },
+    {
+        url: '/_assets/balaam/slideshow/Simon de tovenaar tracht te vliegen.jpg',
+        caption: 'Simon de tovenaar tracht te vliegen'
+    },
+    {
+        url: '/_assets/balaam/slideshow/The Fall of Simon Magus, by Jan Rombouts, c. 1522-1530.jpg',
+        caption: 'The Fall of Simon Magus, by Jan Rombouts, c. 1522-1530'
+    },
+    {
+        url: '/_assets/balaam/slideshow/The fall of Simon Magus 1170.gif',
+        caption: 'The fall of Simon Magus 1170'
+    },
+    {
+        url: '/_assets/balaam/slideshow/Val van Simon de Tovenaar. Simon Magus.jpg',
+        caption: 'Val van Simon de Tovenaar. Simon Magus'
+    },
 ]
 </script>
 
@@ -162,9 +221,23 @@ const slides = [
     background-size: contain
     background-repeat: no-repeat
 
-:deep .vueperslide__content-wrapper
-    justify-content: flex-end !important
-    padding-bottom: 50px
+:deep(.vueperslides)
+
+    .vueperslides__bullet--active .default
+        border-color: #42b983
+
+    .vueperslides__bullet
+        margin-left: 3px
+        margin-right: 3px
+
+    .vueperslide__content-wrapper
+        justify-content: flex-end !important
+        padding-bottom: 50px
+        .vueperslide__title
+            color: white
+            background-color: #0006
+            padding: 0 6px
+            border-radius: 4px
 
 </style>
 
