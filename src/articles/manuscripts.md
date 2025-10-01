@@ -59,7 +59,7 @@ So who owns the digitizations of the manuscripts of Scripture?
 
 ### Hebrew Old Testament Digitizations
 
-When the DSS were acquired by the Israel Antiquities Authority (IAA), they maintained a policy of keeping the scrolls unreleased until research could be completed on them, including the conconstruction of whole texts from fragments. However, this research dragged on for years, until by the 90s, less than 50% of the scrolls had been published. The remaining scrolls had been photographed and kept for safekeeping in various places, including the Huntington Library in California. Herschel Shanks—the founder of a Biblical Archaeology magazine—had access and released the facsimiles. Though he was successfully sued for this, it put a dent in the monopoly on access.[^3]
+When the DSS were acquired by the Israel Antiquities Authority (IAA), they maintained a policy of keeping the scrolls unreleased until research could be completed on them, including the construction of whole texts from fragments. However, this research dragged on for years, until by the 90s, less than 50% of the scrolls had been published. The remaining scrolls had been photographed and kept for safekeeping in various places, including the Huntington Library in California. Herschel Shanks—the founder of a Biblical Archaeology magazine—had access and released the facsimiles. Though he was successfully sued for this, it put a dent in the monopoly on access.[^3]
 
 In more recent years, the DSS have become more accessible through partnerships between controlling authorities and Google. Along with the IAA, Google developed the Leon Levy Dead Sea Scrolls Digital Library.[^4] This digital archive contains a standard copyright statement:
 
