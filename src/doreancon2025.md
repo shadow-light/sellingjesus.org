@@ -5,7 +5,7 @@ image: /_assets/social_doreancon2025.jpg
 
 # Doreancon 2025
 
-For conference details, see the [Doreancon website](https://doreancon.org/).
+Find all the content presented at the conference here. For conference logistics, see the [Doreancon website](https://doreancon.org/).
 
 
 ## Sign the Sunnyvale Statement
