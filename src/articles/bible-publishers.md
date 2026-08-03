@@ -117,7 +117,7 @@ Fears of bad things happening if people have free access to Scripture is not wit
 
 > The Gospel, which __Christ gave to the clergy__ ... that they might __administer it to the laity__ ... that Master John Wyclif translated from Latin ... so that he made that __common and open to the laity__ ... and spread the Evangelists' pearls to be __trampled by swine__. [emphasis added][^knighton]
 
-Pope Pius IV in 1584 reluctantly allowed translations in the vernacular, but only if one had written permission from a bishop:
+Pope Pius IV in 1564 reluctantly allowed translations in the vernacular, but only if one had written permission from a bishop:
 
 > if the Holy Bible, translated into the vulgar tongue, be indiscriminately allowed to every one, the rashness of men will cause more evil than good to arise from it, it is, on this point, referred to the judgment of the bishops or inquisitors, who may, ... permit the reading of the Bible translated into the vulgar tongue ... and this permission must be had in writing.[^pope]
 
